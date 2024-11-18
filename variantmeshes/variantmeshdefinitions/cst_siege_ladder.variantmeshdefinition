@@ -1,5 +1,0 @@
-<VARIANT_MESH>
-	<SLOT name="base">
-		<VARIANT_MESH model="RigidModels/battle_props/cst_ladders/cst_wall_ladder_01.wsmodel" />
-	</SLOT>
-</VARIANT_MESH>
