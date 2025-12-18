@@ -2861,6 +2861,7 @@ wh3_dlc27_hef_chariots	false	-1	-1
 wh3_dlc27_hef_common_infantry	false	-1	-1	
 wh3_dlc27_hef_elite_melee_inf_r7	true	7	9	
 wh3_dlc27_hef_flying	false	-1	-1	
+wh3_dlc27_hef_inf_swordmasters_of_hoeth_ror	false	-1	-1	
 wh3_dlc27_hef_ithilmar_chariots	false	-1	-1	
 wh3_dlc27_hef_lords_horse_mounts	false	-1	-1	
 wh3_dlc27_hef_mage_archmage_beasts	false	-1	-1	
@@ -2891,6 +2892,7 @@ wh3_dlc27_hef_oceanids	false	-1	-1
 wh3_dlc27_hef_oceanids_sea_elementals	false	-1	-1	
 wh3_dlc27_hef_oceanids_sea_elementals_rank7	true	7	9	
 wh3_dlc27_hef_phoenix_guard_phoenix	false	-1	-1	
+wh3_dlc27_hef_phoenixguard_no_ror	false	-1	-1	
 wh3_dlc27_hef_rangers	false	-1	-1	
 wh3_dlc27_hef_rangers_swarriors_swalkers	false	-1	-1	
 wh3_dlc27_hef_sea_elementals	false	-1	-1	
@@ -2956,6 +2958,7 @@ wh3_dlc27_nor_monstrous_arcanum_monsters	false	-1	-1
 wh3_dlc27_nor_monstrous_arcanum_monsters_rank7	true	7	9	
 wh3_dlc27_nor_monstrous_inf_wolf	false	-1	-1	
 wh3_dlc27_nor_monstrous_inf_wolf_r7	true	7	9	
+wh3_dlc27_nor_monstrous_inf_wolf_ror	false	-1	-1	
 wh3_dlc27_nor_norscan_monsters	false	-1	-1	
 wh3_dlc27_nor_norscan_monsters_r7	true	7	9	
 wh3_dlc27_nor_regenerating	false	-1	-1	

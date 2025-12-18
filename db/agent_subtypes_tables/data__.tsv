@@ -535,10 +535,10 @@ wh_dlc07_brt_prophetess_life	true	true	ui/campaign ui/agents/wh_dlc05_lore_life.
 wh_dlc07_chs_chaos_sorcerer_shadow	true	true	ui/campaign ui/agents/wh_dlc05_lore_shadow.png	wh_dlc01_chs_cha_chaos_sorcerer_shadows_0	wh_main_vo_actor_Chaos_Sorcerer	true	-1	false	true	false	true				true	true	can_be_saved_loaded		false	true	900			false
 wh_dlc07_chs_sorcerer_lord_shadow	true	true	ui/campaign ui/agents/wh_dlc05_lore_shadow.png	wh_dlc01_chs_cha_chaos_sorcerer_lord_shadows_0	wh_dlc01_vo_actor_Chaos_SorcererLord	true	-1	false	true	false	true	chs_sorcerer_lord	wh_dlc05_lore_shadows		true	true	can_be_saved_loaded		false	true	1200			false
 wh_dlc08_bst_cygor_boss	false	false		wh_dlc08_bst_mon_cygor_boss	wh_main_vo_actor_default	true	-1	false	true	false	true				true	true	cannot_be_saved_loaded		false	true	750			false
-wh_dlc08_chs_challenger_khorne	false	false		wh_main_chs_cha_chaos_lord_0	wh_main_vo_actor_Chaos_Lord	true	-1	false	true	false	true				true	true	cannot_be_saved_loaded		false	true	900			false
-wh_dlc08_chs_challenger_nurgle	false	false		wh_main_chs_cha_chaos_lord_0	wh_main_vo_actor_Chaos_Lord	true	-1	false	true	false	true				true	true	cannot_be_saved_loaded		false	true	900			false
-wh_dlc08_chs_challenger_slaanesh	false	false		wh_main_chs_cha_chaos_lord_0	wh_main_vo_actor_Chaos_Lord	true	-1	false	true	false	true				true	true	cannot_be_saved_loaded		false	true	900			false
-wh_dlc08_chs_challenger_tzeentch	false	false		wh_main_chs_cha_chaos_lord_0	wh_main_vo_actor_Chaos_Lord	true	-1	false	true	false	true				true	true	cannot_be_saved_loaded		false	true	900			false
+wh_dlc08_chs_challenger_khorne	true	false		wh_main_chs_cha_chaos_lord_0	wh_main_vo_actor_Chaos_Lord	true	-1	false	true	false	true				true	true	cannot_be_saved_loaded		false	true	900			false
+wh_dlc08_chs_challenger_nurgle	true	false		wh_main_chs_cha_chaos_lord_0	wh_main_vo_actor_Chaos_Lord	true	-1	false	true	false	true				true	true	cannot_be_saved_loaded		false	true	900			false
+wh_dlc08_chs_challenger_slaanesh	true	false		wh_main_chs_cha_chaos_lord_0	wh_main_vo_actor_Chaos_Lord	true	-1	false	true	false	true				true	true	cannot_be_saved_loaded		false	true	900			false
+wh_dlc08_chs_challenger_tzeentch	true	false		wh_main_chs_cha_chaos_lord_0	wh_main_vo_actor_Chaos_Lord	true	-1	false	true	false	true				true	true	cannot_be_saved_loaded		false	true	900			false
 wh_dlc08_chs_dragon_ogre_shaggoth_boss	false	false		wh_dlc08_chs_mon_dragon_ogre_shaggoth_boss	wh_main_vo_actor_default	true	-1	false	true	false	true				true	true	cannot_be_saved_loaded		false	true	750			false
 wh_dlc08_grn_giant_boss	false	false		wh_dlc08_grn_mon_giant_boss	wh_main_vo_actor_default	true	-1	false	true	false	true				true	true	cannot_be_saved_loaded		false	true	750			false
 wh_dlc08_grn_venom_queen_boss	false	false		wh_dlc06_grn_mon_venom_queen_0	wh_main_vo_actor_default	true	-1	true	true	false	true				true	true	cannot_be_saved_loaded		false	true	750			false
