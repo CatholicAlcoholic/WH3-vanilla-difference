@@ -50,6 +50,7 @@ wh2_main_spell_ruin_warp_lightning	1.0000	5	wh2_main_spell_ruin_warp_lightning	8
 wh2_main_spell_ruin_warp_lightning_upgraded	2.0000	10	wh2_main_spell_ruin_warp_lightning	8.0000	3.0000	above_target	wh2_main_ruin_warp_lightning_bomb_spawn	100	wh_main_spell_ruin_warp_lightning	75	true	false
 wh2_main_unit_abilities_drop_rocks	0.7000	1	wh2_main_unit_abilities_drop_rocks	3.0000	0.1000	activaters_entities		1		1	true	false
 wh2_main_unit_abilities_wake_of_fire	0.2000	1	wh2_main_unit_abilities_wake_of_fire	1.5000	0.1000	activaters_entities		1		1	false	false
+wh3_cp1_unit_abilities_alchemist_bombs	0.2000	1	wh3_cp1_unit_abilities_alchemist_bombs	1.5000	0.1000	activaters_entities		1		1	false	false
 wh3_dlc23_army_abilities_doom_of_hashut	5.0000	1	wh3_dlc23_army_abilities_doom_of_hashut	1.0000	0.1000	above_target	wh3_dlc23_bolts_of_burning	200	wh3_dlc23_ability_doom_of_hashut	75	true	false
 wh3_dlc23_army_abilities_dreadquake_megacannon	2.0000	3	wh3_dlc23_chd_dreadquake_mortar_shell_bombardment	25.0000	0.1000	above_target		200		75	true	false
 wh3_dlc23_army_abilities_dreadquake_megacannon_upgraded_toz	2.0000	5	wh3_dlc23_chd_dreadquake_mortar_shell_bombardment	25.0000	0.1000	above_target		200		75	true	false

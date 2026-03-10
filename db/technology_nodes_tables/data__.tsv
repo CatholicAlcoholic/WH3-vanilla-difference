@@ -791,6 +791,11 @@ wh2_main_tech_skv_8_5			8	wh2_main_tech_skv_8_5	skv_mil	7	1600	0	0			0	0	0
 wh2_main_tech_skv_9_0			4	wh2_main_tech_skv_9_0	skv_mil	8	100	0	0			0	0	0
 wh2_main_tech_skv_9_1			5	wh2_main_tech_skv_9_1	skv_mil	8	1600	0	0			0	0	0
 wh2_main_tech_skv_9_2			4	wh2_main_tech_skv_9_2	skv_mil	9	1600	0	0			0	0	0
+wh3_cp1_tech_cth_10_bhashiva		wh3_cp1_cth_tiger_warriors	4	wh3_cp1_tech_cth_10_bhashiva	cth_mil	0	400	0	0			0	0	0
+wh3_cp1_tech_cth_22_bhashiva		wh3_cp1_cth_tiger_warriors	7	wh3_cp1_tech_cth_22_bhashiva	cth_mil	3	400	0	0			0	0	0
+wh3_cp1_tech_cth_2_bhashiva		wh3_cp1_cth_tiger_warriors	1	wh3_cp1_tech_cth_2_bhashiva	cth_mil	3	400	0	0			0	0	0
+wh3_cp1_tech_cth_33_bhashiva		wh3_cp1_cth_tiger_warriors	4	wh3_cp1_tech_cth_33_bhashiva	cth_mil	8	400	0	0			0	-150	0
+wh3_cp1_tech_cth_59_bhashiva		wh3_cp1_cth_tiger_warriors	4	wh3_cp1_tech_cth_59_bhashiva	cth_mil	20	600	0	0			0	-300	0
 wh3_dlc23_tech_chd_industry_1			9	wh3_dlc23_tech_chd_industry_1	chd_mil	21	300	0	0			0	-60	0
 wh3_dlc23_tech_chd_industry_10			7	wh3_dlc23_tech_chd_industry_10	chd_mil	26	300	0	0			0	-75	0
 wh3_dlc23_tech_chd_industry_11			5	wh3_dlc23_tech_chd_industry_11	chd_mil	23	300	0	0			0	0	80

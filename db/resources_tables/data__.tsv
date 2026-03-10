@@ -61,6 +61,7 @@ res_location_wef_emp_brt		0	ui\campaign ui\effect_bundles\strategic_location.png
 res_location_xef_emp_brt		0	ui\campaign ui\effect_bundles\strategic_location.png	0	false	true
 res_medicine	bundle	50	ui\campaign ui\effect_bundles\resource_medicine.png	500	false	true
 res_obsidian	chests	50	ui\campaign ui\effect_bundles\resource_obsidian.png	500	false	true
+res_relics		0	UI\skins\default\cp1_cth_relics.png	0	false	true
 res_river_trolls		0	ui\skins\default\dlc27_nor_troll_expansion\icon_nor_river_troll_den.png	0	false	true
 res_rom_furs	bundle	50	ui\campaign ui\effect_bundles\resource_furs.png	500	true	true
 res_rom_glass	kegs	50	ui\campaign ui\effect_bundles\resource_dwarf_beer.png	500	true	true
