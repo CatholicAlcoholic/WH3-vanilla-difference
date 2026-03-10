@@ -452,6 +452,7 @@ function trigger_in_daemon_prince_customisation()
 			local uic_event_feed = find_uicomponent("character_details_panel", "character_context_parent", "bottom_buttons", "button_event_feed")
 			local uic_rename = find_uicomponent("character_details_panel", "character_context_parent", "bottom_buttons", "button_rename")
 			local uic_save_character = find_uicomponent("character_details_panel", "character_context_parent", "bottom_buttons", "button_save_character")
+			local skill_tab = find_uicomponent("character_details_panel", "character_context_parent", "TabGroup", "skills")
 
 			if uic_button_info then uic_button_info:SetDisabled(true) end
 			if uic_button_ok then uic_button_ok:SetDisabled(true) end
@@ -460,6 +461,7 @@ function trigger_in_daemon_prince_customisation()
 			if uic_event_feed then uic_event_feed:SetDisabled(true) end
 			if uic_rename then uic_rename:SetDisabled(true) end
 			if uic_save_character then uic_save_character:SetDisabled(true) end
+			if skill_tab then skill_tab:SetDisabled(true) end
 
 			core:show_fullscreen_highlight_around_components(50, false, true, uic_daemon_gifts_holder)
 
@@ -479,6 +481,7 @@ function trigger_in_daemon_prince_customisation()
 					if uic_event_feed then uic_event_feed:SetDisabled(false) end
 					if uic_rename then uic_rename:SetDisabled(false) end
 					if uic_save_character then uic_save_character:SetDisabled(false) end
+					if skill_tab then skill_tab:SetDisabled(false) end
 
 					core:hide_fullscreen_highlight()
 					infotext:clear_infotext()

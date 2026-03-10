@@ -2668,6 +2668,9 @@ wh3_dlc27_special_throgg_stone_trolls_3b	wh3_dlc27_special_throgg_stone_trolls	2
 wh3_dlc27_special_throgg_stone_trolls_altar_1	wh3_dlc27_special_throgg_stone_trolls_altar	0	2	0	0		false	false			true	wh3_dlc27_special_throgg_stone_trolls	false	0.0000	0	true	1		true	0	0	wh3_dlc27_ritual_nor_throgg_troll_shelter_building	0	wh3_dlc27_nor_throgg_troll_altar_building_on_completion_scoped	-1
 wh3_dlc27_special_throgg_trolls_shelter_altar_1	wh3_dlc27_special_throgg_trolls_shelter_altar	0	1	0	0		false	false			true	wh3_dlc27_NORSCA_throgg_trolls	true	0.0000	0	true	1		true	0	0	wh3_dlc27_ritual_nor_throgg_troll_shelter_building	0	wh3_dlc27_nor_throgg_troll_shelter_building_on_completion_scoped	-1
 wh3_dlc27_special_throgg_trolls_shelter_altar_2	wh3_dlc27_special_throgg_trolls_shelter_altar	1	1	0	0		false	false			true	wh3_dlc27_NORSCA_throgg_trolls	true	0.0000	0	true	2		true	0	0	wh3_dlc27_ritual_nor_throgg_troll_shelter_building_1	0	wh3_dlc27_nor_throgg_troll_shelter_building_on_completion_scoped_2	-1
+wh3_dlc27_teb_allied_outpost_1	wh3_dlc27_teb_allied_outpost	0	3	2000	0		false	false			true		false	0.0000	0	true	1		true	0	0		0		-1
+wh3_dlc27_teb_allied_outpost_2	wh3_dlc27_teb_allied_outpost	1	4	4000	0		false	false			true		false	0.0000	0	true	2		true	0	0		0		-1
+wh3_dlc27_teb_allied_outpost_3	wh3_dlc27_teb_allied_outpost	2	5	6000	0		false	false			true		false	0.0000	0	true	3		true	0	0		0		-1
 wh3_main_DWARFS_underdeep_1	wh3_main_DWARFS_underdeep	0	1	9000	0		false	false			true	wh_main_DWARFS_underdeep	false	0.0000	2	true	1		true	0	0	wh3_main_DWARFS_underdeep_1	0		-1
 wh3_main_DWARFS_underdeep_2	wh3_main_DWARFS_underdeep	1	12	0	0		false	false			true	wh_main_DWARFS_underdeep	false	0.0000	0	true	3		true	0	0	wh3_main_DWARFS_underdeep_2	0		-1
 wh3_main_brt_allied_outpost_1	wh3_main_brt_allied_outpost	0	3	2000	0		false	false			true		false	0.0000	0	true	1		true	0	0		0		-1

@@ -58,7 +58,7 @@ nor_generic_config = {
 					effects = {
 						{
 							key = "wh3_main_effect_winds_of_magic_events",
-							scope = "region_to_force_own",
+							scope = "region_to_force_own_provincewide",
 							increment = 5,
 						}
 					}
@@ -67,7 +67,7 @@ nor_generic_config = {
 		},
 		pillage_ritual = {
 			ritual_key = "wh3_dlc27_ritual_nor_marauding_pillage",
-			increment = 500
+			increment = 1250
 		},
 		treachery_ritual = {
 			active_state = false,

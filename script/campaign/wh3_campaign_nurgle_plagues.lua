@@ -72,7 +72,7 @@ nurgle_plagues = {
 
 function nurgle_plagues:initialise()
 
-	local faction_list = cm:model():world():faction_list()
+	local faction_list = cm:get_faction_list()
 	--if its a new game select the starting plague component to be unlocked
 	if cm:is_new_game() then
 		for i = 0, faction_list:num_items() - 1 do
@@ -511,7 +511,7 @@ function nurgle_plagues:count_plagues_on_non_nurgle_targets()
 	local plague_count_settlements = 0
 	local non_nurgle_forces_plagued = {}
 	
-	local faction_list = cm:model():world():faction_list()
+	local faction_list = cm:get_faction_list()
 	for i = 0, faction_list:num_items() - 1 do
 		local force_list = faction_list:item_at(i):military_force_list()
 		local region_list = faction_list:item_at(i):region_list()

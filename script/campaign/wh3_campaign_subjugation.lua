@@ -149,14 +149,6 @@ function subjugation:trigger_confederation_dilemma(winner_fm, loser_fm)
 
 		if winner_faction:is_human() then
 			local winner_name = winner_faction:name()
-			if merc_contracts and merc_contracts.active_contracts[winner_name] then
-				for _, target_faction in pairs(merc_contracts.active_contracts[winner_name].targets) do
-					if target_faction == loser_faction_name then
-						-- don't launch subjugation dilemma if losing faction was a contract target.
-						return false
-					end
-				end
-			end
 
 			cm:trigger_dilemma_with_targets(
 				winner_faction:command_queue_index(),

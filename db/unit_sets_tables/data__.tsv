@@ -2973,6 +2973,7 @@ wh3_dlc27_nor_throgg_trolls	false	-1	-1
 wh3_dlc27_nor_throgg_trolls_monsters_beasts	false	-1	-1	
 wh3_dlc27_nor_trolls_throgg	false	-1	-1	
 wh3_dlc27_nor_wolves	false	-1	-1	
+wh3_dlc27_nur_inf_plague_ogres_rank4	true	4	9	
 wh3_dlc27_nur_mon_spawn_of_nurgle_0	false	-1	-1	
 wh3_dlc27_sla_champions_of_slaanesh	false	-1	-1	
 wh3_dlc27_sla_champions_of_slaanesh_rank7	true	7	9	
@@ -2981,6 +2982,7 @@ wh3_dlc27_sla_champions_of_slaanesh_ror	false	-1	-1
 wh3_dlc27_sla_daemonettes_all	false	-1	-1	
 wh3_dlc27_sla_daemonic_all	false	-1	-1	
 wh3_dlc27_sla_daemonic_attraction_dechala	false	-1	-1	
+wh3_dlc27_sla_daemonic_attraction_dechala_hidden	false	-1	-1	
 wh3_dlc27_sla_daemonic_cavalry	false	-1	-1	
 wh3_dlc27_sla_daemonic_cavalry_and_chariots	false	-1	-1	
 wh3_dlc27_sla_daemonic_chariots	false	-1	-1	

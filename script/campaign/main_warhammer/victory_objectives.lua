@@ -1042,17 +1042,17 @@ victory_objectives_ie = {
 					conditions = {
 						"override_text mission_text_text_tyrion_champions_of_ulthuan_short_victory",
 						"script_key champions_of_ulthuan_short",
-						"total 15",
+						"total 12",
 						"count 0",
 						"count_completion"
 					}
 				},
 				{
-					-- Beat up the primary dark elves
+					-- Beat up the start pos enemy and Count Noctilus
 					type = "DESTROY_FACTION",
 					conditions = {
 						"faction wh2_main_def_cult_of_excess",
-						"faction wh2_main_def_naggarond",
+						"faction wh2_dlc11_cst_noctilus",
 						"confederation_valid"
 					}
 				}
@@ -1064,12 +1064,44 @@ victory_objectives_ie = {
 					conditions = {
 						"override_text mission_text_text_tyrion_champions_of_ulthuan_long_victory",
 						"script_key champions_of_ulthuan_long",
-						"total 30",
+						"total 24",
 						"count 0",
 						"count_completion"
 					}
 				},
-			}
+				{
+					-- Beat up the primary dark elves
+					type = "DESTROY_FACTION",
+					conditions = {
+						"faction wh2_main_def_cult_of_pleasure",
+						"faction wh2_main_def_naggarond",
+						"confederation_valid"
+					}
+				},
+				{
+					-- High Elves & allies control Ulthuan
+					type = "CONTROL_N_PROVINCES_INCLUDING",
+					conditions = {
+						"total 15",
+						"province wh3_main_combi_province_eataine",
+						"province wh3_main_combi_province_caledor",
+						"province wh3_main_combi_province_tiranoc",
+						"province wh3_main_combi_province_ellyrion",
+						"province wh3_main_combi_province_nagarythe",
+						"province wh3_main_combi_province_avelorn",
+						"province wh3_main_combi_province_chrace",
+						"province wh3_main_combi_province_cothique",
+						"province wh3_main_combi_province_saphery",
+						"province wh3_main_combi_province_northern_yvresse",
+						"province wh3_main_combi_province_southern_yvresse",
+						"province wh3_main_combi_province_eagle_gate",
+						"province wh3_main_combi_province_griffon_gate",
+						"province wh3_main_combi_province_unicorn_gate",
+						"province wh3_main_combi_province_phoenix_gate"
+					}
+				}
+			},
+			no_subculture_objective = true
 		},
 
 		-- Teclis
@@ -1081,7 +1113,7 @@ victory_objectives_ie = {
 					conditions = {
 						"override_text mission_text_text_teclis_secrets_of_white_tower_short_victory",
 						"script_key secrets_of_white_tower_short",
-						"total 10",
+						"total 12",
 						"count 0",
 						"count_completion"
 					}
@@ -1105,7 +1137,7 @@ victory_objectives_ie = {
 					conditions = {
 						"override_text mission_text_text_teclis_secrets_of_white_tower_long_victory",
 						"script_key secrets_of_white_tower_long",
-						"total 20",
+						"total 24",
 						"count 0",
 						"count_completion"
 					}

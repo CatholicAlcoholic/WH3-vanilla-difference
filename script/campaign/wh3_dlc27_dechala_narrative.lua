@@ -14,18 +14,32 @@ dechala_narrative = {
 	saved = {
 		narrative_state = 0,
 		palace_climates = {}
-	}
+	},
+
+	-- no ocean, as it's the Galeon Graveyard.
+	settlement_climates = {
+		"climate_chaotic",
+		"climate_desert",
+		"climate_frozen",
+		"climate_island",
+		"climate_jungle",
+		"climate_magicforest",
+		"climate_mountain",
+		"climate_savannah",
+		"climate_temperate",
+		"climate_wasteland",
+	},
 };
 
 function dechala_narrative:initialise()
 	local dechala = cm:get_faction(self.faction_key)
 	if dechala and dechala:is_null_interface() == false and dechala:is_human() then
-		if cm:is_new_game() then
+		if self.saved.narrative_state == 0 then
 			core:add_listener(
 				"DechalaNarrative_StartMissions",
 				"FactionTurnStart",
-				function(context) 
-					return context:faction() == dechala and cm:turn_number() == 2 end,
+				function(context)
+					return context:faction() == dechala and cm:turn_number() >= 2 and self.saved.narrative_state == 0 end,
 				function(context)
 					cm:whitelist_event_feed_event_type("faction_event_mission_issuedevent_feed_target_mission_faction");
 					self:trigger_first_mission()
@@ -36,6 +50,13 @@ function dechala_narrative:initialise()
 			);
 		end
 		self:add_listeners();
+
+		-- mission 5 fixup if mission was aborted.
+		if self.saved.narrative_state == 5 and not self:any_cathay_factions_alive() then
+			self:trigger_sixth_mission()
+			self.saved.narrative_state = 6
+		end
+
 	end
 end
 
@@ -138,9 +159,10 @@ function dechala_narrative:trigger_eight_mission()
 end
 
 function dechala_narrative:any_cathay_factions_alive()
+	local dechala_faction = cm:get_faction(self.faction_key)
 	local cathay_factions = cm:get_factions_by_subculture("wh3_main_sc_cth_cathay")
 	for i, faction in ipairs(cathay_factions) do
-		if faction and not faction:is_dead() then
+		if faction and not faction:is_dead() and not faction:is_rebel() and not faction:is_ally_vassal_or_client_state_of(dechala_faction) then
 			return true
 		end
 	end
@@ -159,9 +181,38 @@ function dechala_narrative:add_listeners()
 			if self.saved.narrative_state == 1 then
 				self:trigger_second_mission()
 				self.saved.narrative_state = 2
+
+				local faction = context:faction()
+				local ritual_key_prefix = "wh3_dlc27_dechala_ritual_palace_"
+				local bool_all_completed = true
+				for i = 1, 6 do
+					if not faction:rituals():ritual_status(ritual_key_prefix..i):on_cooldown() then
+						bool_all_completed = false
+						break
+					end
+				end
+
+				if bool_all_completed then
+					cm:set_active_mission_status_for_faction(faction, "wh3_dlc27_mission_sla_narrative_02", "SUCCEEDED")
+					core:remove_listener("DechalaNarrative_RitualCompletedEvent")
+				end
+
 			elseif self.saved.narrative_state == 2 then
 				self:trigger_third_mission()
 				self.saved.narrative_state = 3
+
+				local all_climates_full = true
+				for _, climate in ipairs(self.settlement_climates) do 
+					if not table.contains(self.saved.palace_climates, climate) then
+						all_climates_full = false
+						break
+					end
+				end
+
+				if all_climates_full then
+					cm:set_active_mission_status_for_faction(cm:get_faction(self.faction_key), "wh3_dlc27_mission_sla_narrative_03", "SUCCEEDED")
+					core:remove_listener("DechalaNarrative_CharacterPerformsSettlementOccupationDecision")
+				end
 			elseif self.saved.narrative_state == 3 then
 				self:trigger_fourth_mission()
 				self.saved.narrative_state = 4
@@ -209,6 +260,32 @@ function dechala_narrative:add_listeners()
 				if not table.contains(self.saved.palace_climates, settlement_climate) then
 					cm:set_active_mission_status_for_faction(cm:get_faction(self.faction_key), "wh3_dlc27_mission_sla_narrative_03", "SUCCEEDED")
 					core:remove_listener("DechalaNarrative_CharacterPerformsSettlementOccupationDecision")
+					core:remove_listener("DechalaNarrative_SettlementTypeConvertedEvent")
+				end
+			end
+		end,
+		true
+	)
+
+	core:add_listener(
+		"DechalaNarrative_SettlementTypeConvertedEvent",
+		"SettlementTypeConvertedEvent",
+		function(context)
+			local settlement = context:settlement()
+			return settlement:faction():name() == self.faction_key and settlement:settlement_type_key() == "wh3_dlc27_dechala_pleasure_palace" end,
+		function(context)
+			local settlement_climate = context:settlement():get_climate()
+			if self.saved.narrative_state == 1 then
+				cm:set_active_mission_status_for_faction(cm:get_faction(self.faction_key), "wh3_dlc27_mission_sla_narrative_01", "SUCCEEDED")
+			end
+			if self.saved.narrative_state ~= 3 then
+				table.insert(self.saved.palace_climates, settlement_climate)
+			end
+			if self.saved.narrative_state == 3 then
+				if not table.contains(self.saved.palace_climates, settlement_climate) then
+					cm:set_active_mission_status_for_faction(cm:get_faction(self.faction_key), "wh3_dlc27_mission_sla_narrative_03", "SUCCEEDED")
+					core:remove_listener("DechalaNarrative_CharacterPerformsSettlementOccupationDecision")
+					core:remove_listener("DechalaNarrative_SettlementTypeConvertedEvent")
 				end
 			end
 		end,
