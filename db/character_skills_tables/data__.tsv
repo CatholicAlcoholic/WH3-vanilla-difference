@@ -2106,51 +2106,63 @@ wh2_twa03_skill_innate_def_rakarth	trait_dark_elves.png	The greatest of all Beas
 wh2_twa03_skill_supreme_sorceress_unique_1	wh2_def_shroud_of_despair.png	The ancient archives of Ghrond contain secrets that can preserve life - or annihilate it.	Student of the Dark Tower	9	false	false	false	0.0000	0
 wh3_cp1_skill_all_dummy_agent_actions_cth_clawspeaker	battle_attack.png			0	false	false	false	0.0000	0
 wh3_cp1_skill_all_dummy_agent_actions_cth_taoyan	battle_attack.png			0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_bhashiva_unique_0	0_placeholder_skill.png	Placepawder text	The White Tiger Cometh	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_bhashiva_unique_1	0_placeholder_skill.png	Placepawder text	Master of the Hunt	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_bhashiva_unique_2	0_placeholder_skill.png	Placepawder text	Justice, not Vengeance	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_bhashiva_unique_3	0_placeholder_skill.png	Placepawder text	Deadly and Graceful	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_bhashiva_unique_4	0_placeholder_skill.png	Placepawder text	Concealed Assault	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_bhashiva_unique_5	0_placeholder_skill.png	Placepawder text	Head of the Tiger Court	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_beasts_mystic_0	0_placeholder_skill.png	Placepawder text	Mysticism of Kamau	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_beasts_mystic_1	0_placeholder_skill.png	Placepawder text	Litany of the Winds	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_bhashiva_unique_0	campaign_movement.png	Placepawder text	The White Tiger Cometh	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_bhashiva_unique_1	character_general_ability.png	Placepawder text	Master of the Hunt	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_bhashiva_unique_2	battle_attack.png	Placepawder text	Justice, not Vengeance	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_bhashiva_unique_3	can_block_missiles_360.png	Placepawder text	Deadly and Graceful	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_bhashiva_unique_4	campaign_military_spending.png	Placepawder text	Concealed Assault	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_bhashiva_unique_5	campaign_army.png	Placepawder text	Head of the Tiger Court	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_beasts_mystic_0	battle_magic_kamau.png	Placepawder text	Mysticism of Kamau	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_beasts_mystic_1	character_magic.png	Placepawder text	Litany of the Winds	0	false	false	false	0.0000	0
 wh3_cp1_skill_cth_clawspeaker_beasts_mystic_2	0_placeholder_skill.png	Placepawder text	Prayer of the Arcane	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_beasts_offense_0	0_placeholder_skill.png	Placepawder text	Ferocity of Kamau	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_beasts_offense_1	0_placeholder_skill.png	Placepawder text	Divine Retribution	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_beasts_offense_0	battle_offence_kamau.png	Placepawder text	Ferocity of Kamau	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_beasts_offense_1	immune_to_psychology.png	Placepawder text	Divine Retribution	0	false	false	false	0.0000	0
 wh3_cp1_skill_cth_clawspeaker_beasts_offense_2	0_placeholder_skill.png	Placepawder text	Prayer of Righteous Might	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_beasts_protect_0	0_placeholder_skill.png	Placepawder text	Protection of Kamau	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_beasts_protect_1	0_placeholder_skill.png	Placepawder text	Guardian of the Honourable	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_beasts_protect_0	battle_protect_kamau.png	Placepawder text	Protection of Kamau	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_beasts_protect_1	campaign_disaster.png	Placepawder text	Guardian of the Honourable	0	false	false	false	0.0000	0
 wh3_cp1_skill_cth_clawspeaker_beasts_protect_2	0_placeholder_skill.png	Placepawder text	Prayer of Invigoration	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_life_mystic_0	0_placeholder_skill.png	Placepawder text	Mysticism of Kamau	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_life_mystic_1	0_placeholder_skill.png	Placepawder text	Litany of the Winds	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_life_mystic_0	battle_magic_kamau.png	Placepawder text	Mysticism of Kamau	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_life_mystic_1	character_magic.png	Placepawder text	Litany of the Winds	0	false	false	false	0.0000	0
 wh3_cp1_skill_cth_clawspeaker_life_mystic_2	0_placeholder_skill.png	Placepawder text	Prayer of the Arcane	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_life_offense_0	0_placeholder_skill.png	Placepawder text	Ferocity of Kamau	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_life_offense_1	0_placeholder_skill.png	Placepawder text	Divine Retribution	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_life_offense_0	battle_offence_kamau.png	Placepawder text	Ferocity of Kamau	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_life_offense_1	immune_to_psychology.png	Placepawder text	Divine Retribution	0	false	false	false	0.0000	0
 wh3_cp1_skill_cth_clawspeaker_life_offense_2	0_placeholder_skill.png	Placepawder text	Prayer of Righteous Might	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_life_protect_0	0_placeholder_skill.png	Placepawder text	Protection of Kamau	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_life_protect_1	0_placeholder_skill.png	Placepawder text	Guardian of the Honourable	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_life_protect_0	battle_protect_kamau.png	Placepawder text	Protection of Kamau	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_life_protect_1	campaign_disaster.png	Placepawder text	Guardian of the Honourable	0	false	false	false	0.0000	0
 wh3_cp1_skill_cth_clawspeaker_life_protect_2	0_placeholder_skill.png	Placepawder text	Prayer of Invigoration	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_shadow_mystic_0	0_placeholder_skill.png	Placepawder text	Mysticism of Kamau	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_shadow_mystic_1	0_placeholder_skill.png	Placepawder text	Litany of the Winds	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_shadow_mystic_0	battle_magic_kamau.png	Placepawder text	Mysticism of Kamau	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_shadow_mystic_1	character_magic.png	Placepawder text	Litany of the Winds	0	false	false	false	0.0000	0
 wh3_cp1_skill_cth_clawspeaker_shadow_mystic_2	0_placeholder_skill.png	Placepawder text	Prayer of the Arcane	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_shadows_offense_0	0_placeholder_skill.png	Placepawder text	Ferocity of Kamau	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_shadows_offense_1	0_placeholder_skill.png	Placepawder text	Divine Retribution	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_shadows_offense_0	battle_offence_kamau.png	Placepawder text	Ferocity of Kamau	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_shadows_offense_1	immune_to_psychology.png	Placepawder text	Divine Retribution	0	false	false	false	0.0000	0
 wh3_cp1_skill_cth_clawspeaker_shadows_offense_2	0_placeholder_skill.png	Placepawder text	Prayer of Righteous Might	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_shadows_protect_0	0_placeholder_skill.png	Placepawder text	Protection of Kamau	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_clawspeaker_shadows_protect_1	0_placeholder_skill.png	Placepawder text	Guardian of the Honourable	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_shadows_protect_0	battle_protect_kamau.png	Placepawder text	Protection of Kamau	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_clawspeaker_shadows_protect_1	campaign_disaster.png	Placepawder text	Guardian of the Honourable	0	false	false	false	0.0000	0
 wh3_cp1_skill_cth_clawspeaker_shadows_protect_2	0_placeholder_skill.png	Placepawder text	Prayer of Invigoration	0	false	false	false	0.0000	0
 wh3_cp1_skill_cth_sawai_unique_0	0_placeholder_skill.png	Placepawder text	Predatory Instincts	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_sawai_unique_1	0_placeholder_skill.png	Placepawder text	Fire Warrior	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_sawai_unique_2	0_placeholder_skill.png	Placepawder text	Iron Form: Barrier of Finesse	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_sawai_unique_3	0_placeholder_skill.png	Placepawder text	Cleaved from the Finer Cloth	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_sawai_unique_4	0_placeholder_skill.png	Placepawder text	Centuries of Tradition	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_sawai_unique_5	0_placeholder_skill.png	Placepawder text	Teachings of the Eternal Flame	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_taoyan_unique_0	0_placeholder_skill.png	The end of one's life is a slight against those who demand vengeance for the offenses against them.	Fuelled by Vengeance	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_taoyan_unique_1	0_placeholder_skill.png	Such is Taoyan's reputation that the enemy cowers before her and those that fight in her name.	Fearsome Reputation	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_taoyan_unique_2	0_placeholder_skill.png	Any remenants of the Children of Yin Quai must be put to trial, then put to the ground.	Root out the Traitors	0	false	false	false	0.0000	0
-wh3_cp1_skill_cth_taoyan_unique_3	0_placeholder_skill.png	Before being exiled Taoyan was a lord under the Jade Court. Having being reinstated brings certain benefits to her and her forces.	Reinstated Lord of Shang Yang	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_sawai_unique_1	character_general_ability.png	Placepawder text	Fire Warrior	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_sawai_unique_2	can_block_missiles_360.png	Placepawder text	Iron Form: Barrier of Finesse	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_sawai_unique_3	battle_damage.png	Placepawder text	Cleaved from the Finer Cloth	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_sawai_unique_4	campaign_technology.png	Placepawder text	Centuries of Tradition	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_sawai_unique_5	character_general_ability.png	Placepawder text	Teachings of the Eternal Flame	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_taoyan_unique_0	character_general_ability.png	The end of one's life is a slight against those who demand vengeance for the offenses against them.	Fuelled by Vengeance	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_taoyan_unique_1	causes_fear.png	Such is Taoyan's reputation that the enemy cowers before her and those that fight in her name.	Fearsome Reputation	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_taoyan_unique_2	campaign_subterfuge.png	Any remenants of the Children of Yin Quai must be put to trial, then put to the ground.	Root out the Traitors	0	false	false	false	0.0000	0
+wh3_cp1_skill_cth_taoyan_unique_3	campaign_turns.png	Before being exiled Taoyan was a lord under the Jade Court. Having being reinstated brings certain benefits to her and her forces.	Reinstated Lord of Shang Yang	0	false	false	false	0.0000	0
 wh3_cp1_skill_cth_taoyan_unique_4	0_placeholder_skill.png	No mercy for Cathay's enemies, no redemption for corruption.	Lord Executioner of Shang-Yang	0	false	false	false	0.0000	0
 wh3_cp1_skill_innate_cth_bhashiva	0_placeholder_trait.png	Description of Bhashivas innate trait	The Chosen Vanguard	0	true	false	false	5.0000	0
+wh3_cp1_skill_innate_cth_caravan_sawai_alchemy	trait_personality.png	This tiger warrior has been fascinated by the wonders of alchemy, so he keeps one of the Iron Dragon's master alchemists in his retinue.	Alchemy Enthusiast	0	true	false	false	1.0000	0
+wh3_cp1_skill_innate_cth_caravan_sawai_artillery	trait_personality.png	This tiger warrior feels great joy, watching from afar as his enemies are devastated by large cannon fire raining over their heads.	Artilllery Master	0	true	false	false	1.0000	0
+wh3_cp1_skill_innate_cth_caravan_sawai_cavalry	trait_personality.png	Whether it's a love for horses or just pure hunger, this sawai likes to keep a good number of these animals around.	Equestrian	0	true	false	false	1.0000	0
+wh3_cp1_skill_innate_cth_caravan_sawai_celestial	trait_personality.png	In a fortunate twist of fate this sawai once saved the life of a Cathayan noble, who turned out to be descended from the Dragon Emperor himself. In gratitude, the noble gifted this tiger warrior a celestial lion from his personal menagerie.	Celestial Blessed	0	true	false	false	1.0000	0
+wh3_cp1_skill_innate_cth_caravan_sawai_clawspeaker	trait_personality.png	Many sawai turn to the wisdom of the Clawspeakers before starting a long journey, but this one prefers to have a Clawspeaker close at any time.	Religious	0	true	false	false	1.0000	0
+wh3_cp1_skill_innate_cth_caravan_sawai_gunpowder	trait_personality.png	The loud bangs and smell of gunpowder on the battlefield are extremely enjoyable for this tiger warrrior.	Gunpowder Enthusiast	0	true	false	false	1.0000	0
+wh3_cp1_skill_innate_cth_caravan_sawai_jade	trait_personality.png	Impressed by the Jade Warriors' fighting style and equipment, this tiger warrior chooses to fill most of his ranks with them.	Jade	0	true	false	false	1.0000	0
+wh3_cp1_skill_innate_cth_caravan_sawai_peasants	trait_personality.png	This sawai enjoys socializing with the lower-ranking troops. He sees their value and their courage and preffers to fight alongside them.	Friend of the People	0	true	false	false	2.0000	0
+wh3_cp1_skill_innate_cth_caravan_sawai_ranged	trait_personality.png	Here's one sawai who knows the best way to protect yourself from attackers is to deal with them before they get a chance to reach you.	Ranged Tactician	0	true	false	false	1.0000	0
+wh3_cp1_skill_innate_cth_caravan_sawai_sky	trait_personality.png	This tiger warrior makes it a point to always have a high vantage point from which to scout the road ahead.	Sky Master	0	true	false	false	1.0000	0
+wh3_cp1_skill_innate_cth_caravan_sawai_tigers	trait_personality.png	Viewing humans as a weaker species, this tiger warrior preffers to fight alongside his own kind.	Traditionalist	0	true	false	false	2.0000	0
+wh3_cp1_skill_innate_cth_caravan_sawai_veteran	trait_personality.png	This sawai leads an army that has seen its fair share of combat already and they're eager to face their enemy again and again.	Veteran	0	true	false	false	2.0000	0
 wh3_cp1_skill_innate_cth_taoyan	character_agent.png	Placepawder text	Merciless	0	true	false	false	5.0000	0
 wh3_cp1_skill_magic_beasts_transformation_of_kadon_celestial_lion	0_placeholder_skill.png	Kadon, a master of forms, was able to shift his shape into anything he chose. This mastery is used to summon a Celestial Lion, as if Kadon himself fights for you.	{{tr:character_skills_localised_name_wh2_main_skill_magic_beasts_transformation_of_kadon_lord}}	0	false	false	false	0.0000	0
 wh3_dlc20_skill_all_dummy_agent_actions_chs_sorcerer_msla	battle_attack.png		Actions [HIDDEN]	0	false	false	false	0.0000	0

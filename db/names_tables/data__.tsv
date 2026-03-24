@@ -721,6 +721,7 @@ id	names_group	type	gender	frequency
 1313117736	names_ogr_ogre_kingdom	forename	m	1
 1313196899	names_ogr_ogre_kingdom	clan_name	b	0
 1313348351	names_tze_tzeentch	family_name	b	1
+131387384	names_ogr_ogre_kingdom	family_name	m	0
 1314872093	names_ksl_kislev	forename	b	0
 1314874703	names_ksl_kislev_pro	family_name	m	1
 1316132846	names_chd_chaos_dwarfs	family_name	m	0
@@ -2554,6 +2555,7 @@ id	names_group	type	gender	frequency
 2113513189	names_ksl_kislev_pro	family_name	m	1
 2113534895	names_brt_bretonnia	forename	f	1
 2113879394	names_nor_norsca	forename	m	1
+2114013159	names_ogr_ogre_kingdom	forename	m	0
 2116487168	names_cth_cathay	forename	m	1
 2116921764	names_kho_khorne	family_name	b	1
 2117828357	names_tmb_tomb_kings	forename	m	1

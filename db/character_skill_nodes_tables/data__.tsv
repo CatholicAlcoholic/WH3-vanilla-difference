@@ -9594,6 +9594,18 @@ wh2_twa03_skill_node_def_rakarth_unique_2		wh2_main_skill_def_generic_eternal_ha
 wh2_twa03_skill_node_def_rakarth_unique_3		wh2_dlc14_skill_def_lord_beast_tamer		0	6		0	0	true
 wh2_twa03_skill_node_def_rakarth_unique_4		wh2_main_skill_def_generic_ward_of_khaine		0	7		0	0	true
 wh2_twa03_skill_node_def_rakarth_unique_5		wh2_main_skill_def_generic_ward_of_hekarti		0	8		0	0	true
+wh3_cp1_skill_innate_cth_caravan_sawai_alchemy		wh3_cp1_skill_innate_cth_caravan_sawai_alchemy		6	0		0	0	false
+wh3_cp1_skill_innate_cth_caravan_sawai_artillery		wh3_cp1_skill_innate_cth_caravan_sawai_artillery		6	0		0	0	false
+wh3_cp1_skill_innate_cth_caravan_sawai_cavalry		wh3_cp1_skill_innate_cth_caravan_sawai_cavalry		6	0		0	0	false
+wh3_cp1_skill_innate_cth_caravan_sawai_celestial		wh3_cp1_skill_innate_cth_caravan_sawai_celestial		6	0		0	0	false
+wh3_cp1_skill_innate_cth_caravan_sawai_clawspeaker		wh3_cp1_skill_innate_cth_caravan_sawai_clawspeaker		6	0		0	0	false
+wh3_cp1_skill_innate_cth_caravan_sawai_gunpowder		wh3_cp1_skill_innate_cth_caravan_sawai_gunpowder		6	0		0	0	false
+wh3_cp1_skill_innate_cth_caravan_sawai_jade		wh3_cp1_skill_innate_cth_caravan_sawai_jade		6	0		0	0	false
+wh3_cp1_skill_innate_cth_caravan_sawai_peasants		wh3_cp1_skill_innate_cth_caravan_sawai_peasants		6	0		0	0	false
+wh3_cp1_skill_innate_cth_caravan_sawai_ranged		wh3_cp1_skill_innate_cth_caravan_sawai_ranged		6	0		0	0	false
+wh3_cp1_skill_innate_cth_caravan_sawai_sky		wh3_cp1_skill_innate_cth_caravan_sawai_sky		6	0		0	0	false
+wh3_cp1_skill_innate_cth_caravan_sawai_tigers		wh3_cp1_skill_innate_cth_caravan_sawai_tigers		6	0		0	0	false
+wh3_cp1_skill_innate_cth_caravan_sawai_veteran		wh3_cp1_skill_innate_cth_caravan_sawai_veteran		6	0		0	0	false
 wh3_cp1_skill_node_cth_bhashiva_army_0		wh_main_skill_all_lord_battle_inspiring_presence		4	0		0	0	true
 wh3_cp1_skill_node_cth_bhashiva_army_1_1		wh3_main_skill_cth_lord_army_buff_1_1		4	1		0	0	true
 wh3_cp1_skill_node_cth_bhashiva_army_1_2		wh3_main_skill_cth_lord_army_buff_1_2		4	2		0	0	true
@@ -9658,6 +9670,7 @@ wh3_cp1_skill_node_cth_clawspeaker_beasts_magic_3_2		wh3_cp1_skill_magic_beasts_
 wh3_cp1_skill_node_cth_clawspeaker_beasts_magic_3_3		wh_main_skill_all_magic_all_07_earthing		4	8		0	0	true
 wh3_cp1_skill_node_cth_clawspeaker_beasts_magic_3_4		wh_main_skill_all_magic_all_08_power_drain		4	9		0	0	true
 wh3_cp1_skill_node_cth_clawspeaker_beasts_magic_4		wh_main_skill_all_magic_all_11_arcane_conduit		4	10		0	4	true
+wh3_cp1_skill_node_cth_clawspeaker_beasts_magic_dummy		wh_dlc03_skill_magic_beasts_dummy_wyssans_wildform		2	11		1	0	false
 wh3_cp1_skill_node_cth_clawspeaker_beasts_mystic_0		wh3_cp1_skill_cth_clawspeaker_beasts_mystic_0		3	6		0	0	true
 wh3_cp1_skill_node_cth_clawspeaker_beasts_mystic_1		wh3_cp1_skill_cth_clawspeaker_beasts_mystic_1		3	7		0	0	true
 wh3_cp1_skill_node_cth_clawspeaker_beasts_mystic_2		wh3_cp1_skill_cth_clawspeaker_beasts_mystic_2		3	8		0	1	true
@@ -9704,6 +9717,7 @@ wh3_cp1_skill_node_cth_clawspeaker_life_magic_3_2		wh_dlc05_skill_magic_life_wiz
 wh3_cp1_skill_node_cth_clawspeaker_life_magic_3_3		wh_main_skill_all_magic_all_07_earthing		4	8		0	0	true
 wh3_cp1_skill_node_cth_clawspeaker_life_magic_3_4		wh_main_skill_all_magic_all_08_power_drain		4	9		0	0	true
 wh3_cp1_skill_node_cth_clawspeaker_life_magic_4		wh_main_skill_all_magic_all_11_arcane_conduit		4	10		0	4	true
+wh3_cp1_skill_node_cth_clawspeaker_life_magic_dummy		wh_dlc05_skill_magic_life_wizard_awakening_of_the_wood_dummy		2	11		1	0	false
 wh3_cp1_skill_node_cth_clawspeaker_life_mystic_0		wh3_cp1_skill_cth_clawspeaker_life_mystic_0		3	6		0	0	true
 wh3_cp1_skill_node_cth_clawspeaker_life_mystic_1		wh3_cp1_skill_cth_clawspeaker_beasts_mystic_1		3	7		0	0	true
 wh3_cp1_skill_node_cth_clawspeaker_life_mystic_2		wh3_cp1_skill_cth_clawspeaker_beasts_mystic_2		3	8		0	1	true
@@ -9733,6 +9747,7 @@ wh3_cp1_skill_node_cth_clawspeaker_shadows_magic_3_2		wh_dlc05_skill_magic_shado
 wh3_cp1_skill_node_cth_clawspeaker_shadows_magic_3_3		wh_main_skill_all_magic_all_07_earthing		4	8		0	0	true
 wh3_cp1_skill_node_cth_clawspeaker_shadows_magic_3_4		wh_main_skill_all_magic_all_08_power_drain		4	9		0	0	true
 wh3_cp1_skill_node_cth_clawspeaker_shadows_magic_4		wh_main_skill_all_magic_all_11_arcane_conduit		4	10		0	4	true
+wh3_cp1_skill_node_cth_clawspeaker_shadows_magic_dummy		wh_dlc05_skill_magic_shadow_mystifying_miasma_dummy		2	11		1	0	false
 wh3_cp1_skill_node_cth_clawspeaker_shadows_mystic_0		wh3_cp1_skill_cth_clawspeaker_shadow_mystic_0		3	6		0	0	true
 wh3_cp1_skill_node_cth_clawspeaker_shadows_mystic_1		wh3_cp1_skill_cth_clawspeaker_shadow_mystic_1		3	7		0	0	true
 wh3_cp1_skill_node_cth_clawspeaker_shadows_mystic_2		wh3_cp1_skill_cth_clawspeaker_shadow_mystic_2		3	8		0	1	true

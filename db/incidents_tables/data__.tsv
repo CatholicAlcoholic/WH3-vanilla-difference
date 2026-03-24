@@ -802,6 +802,8 @@ wh3_cp1_cth_caravan_completed_nuln	false	ivory_road	false	Event	event_caravan_po
 wh3_cp1_cth_caravan_completed_stone_bay	false	ivory_road	false	Event	event_caravan_positive.png	false		1.0000	false
 wh3_cp1_cth_caravan_completed_tilea	false	ivory_road	false	Event	event_caravan_positive.png	false		1.0000	false
 wh3_cp1_incident_cth_armies_shang_yang_replenishment_boost_ends	false	politics	false	Event		false		1.0000	false
+wh3_cp1_incident_cth_narrative_chain_start	false	cth/faction	true	Event		true		1.0000	false
+wh3_cp1_incident_cth_narrative_relics_show	false	cth/faction	true	Event		true		1.0000	false
 wh3_cp1_incident_cth_tiger_court_prophecy_maxed	false	faction	false	Event		false		1.0000	false
 wh3_cp1_incident_cth_tiger_court_teachings_maxed	false	faction	false	Event		false		1.0000	false
 wh3_cp1_incident_cth_tiger_court_way_maxed	false	faction	false	Event		false		1.0000	false

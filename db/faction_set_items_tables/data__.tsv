@@ -918,6 +918,7 @@ id	culture	faction	remove	set	subculture
 65439263		wh2_dlc14_grn_red_cloud	false	wh3_dlc27_all_regular_factions	
 65710152		wh2_main_hef_yvresse	false	wh3_dlc27_all_regular_factions	
 658326243			false	anc_set_exclusive_sc_kislev	wh3_main_sc_ksl_kislev
+658677093		wh3_cp1_cth_tiger_warriors	false	wh3_cp1_cth_bhashiva	
 661936274	wh_dlc08_nor_norsca		true	has_ranged_character	
 668038809		wh2_main_hef_ellyrion	false	wh3_dlc27_all_regular_factions	
 669770766		wh2_main_hef_eataine	false	wh3_dlc27_hef_aislinn_tracked_factions	

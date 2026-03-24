@@ -141,7 +141,7 @@ chs_marauders	false	-1	-1
 chs_spawns	false	-1	-1	
 chs_trolls	false	-1	-1	
 chs_trolls_rank7	true	7	9	
-chs_warhound_manticore_rank_4	true	4	9	
+chs_warhound_manticore_chimera_rank_4	true	4	9	
 chs_warmachines	false	-1	-1	
 chs_warriors	false	-1	-1	
 chs_warriors_chosen_knights_skullcrushers	false	-1	-1	
@@ -2499,13 +2499,21 @@ wh2_twa02_wef_glade_lords_glade_captains	false	-1	-1
 wh2_twa03_rakarth_monsters_in_monster_pen	false	-1	-1	rakarth_beasts
 wh2_twa03_rakarth_non_monstrous_monsters	false	-1	-1	
 wh3_all_spellcasters	false	-1	-1	
-wh3_cp1_cth_alchemist_foundry	false	-1	-1	
 wh3_cp1_cth_armies_western_all	false	-1	-1	
+wh3_cp1_cth_bhashiva_cathayan_units	false	-1	-1	
+wh3_cp1_cth_bhashiva_celestial_chain_units	false	-1	-1	
+wh3_cp1_cth_bhashiva_gun_chain_units	false	-1	-1	
+wh3_cp1_cth_bhashiva_jade_chain_units	false	-1	-1	
+wh3_cp1_cth_bhashiva_machines_chain_units	false	-1	-1	
 wh3_cp1_cth_cathay_heroes	false	-1	-1	
+wh3_cp1_cth_celestial_beasts	false	-1	-1	
+wh3_cp1_cth_celestial_machines	false	-1	-1	
 wh3_cp1_cth_cha_taoyan	false	-1	-1	
 wh3_cp1_cth_crane_gunners_special	false	-1	-1	
 wh3_cp1_cth_fire_rain_rocket_battery_special	false	-1	-1	
+wh3_cp1_cth_flying_machines	false	-1	-1	
 wh3_cp1_cth_grand_cannon_special	false	-1	-1	
+wh3_cp1_cth_gunner_infantry	false	-1	-1	
 wh3_cp1_cth_inf_tiger_warriors_dual_axe	false	-1	-1	
 wh3_cp1_cth_inf_tiger_warriors_dual_axe_r1	true	1	9	
 wh3_cp1_cth_inf_tiger_warriors_dual_axe_r2	true	2	9	
@@ -2538,7 +2546,10 @@ wh3_cp1_cth_inf_tiger_warriors_stalkers_r8	true	8	9
 wh3_cp1_cth_inf_tiger_warriors_stalkers_r9	true	9	9	
 wh3_cp1_cth_jade_lancers_special	false	-1	-1	
 wh3_cp1_cth_jade_longma_riders_special	false	-1	-1	
+wh3_cp1_cth_jade_warrior_crossbows	false	-1	-1	
+wh3_cp1_cth_jade_warrior_melee	false	-1	-1	
 wh3_cp1_cth_living_forge	false	-1	-1	
+wh3_cp1_cth_mon_infantry_monsters	false	-1	-1	
 wh3_cp1_cth_nan_gau_grenadiers_special	false	-1	-1	
 wh3_cp1_cth_sky_junk_special	false	-1	-1	
 wh3_cp1_cth_terracotta_sentinel_special	false	-1	-1	
@@ -3092,6 +3103,8 @@ wh3_dlc27_throgg_mon_chs_trolls_1	false	-1	-1
 wh3_dlc27_throgg_mon_river_trolls_0	false	-1	-1	
 wh3_dlc27_throgg_mon_stone_trolls_0	false	-1	-1	
 wh3_dlc27_tze_mon_spawn_of_tzeentch_0	false	-1	-1	
+wh3_dlc27_woc_mon_chimera	false	-1	-1	
+wh3_dlc27_woc_mon_chimera_rank7	true	7	9	
 wh3_main_cth_art_fire_rain_rocket_battery_0	false	-1	-1	
 wh3_main_cth_art_grand_cannon_0	false	-1	-1	
 wh3_main_cth_cav_jade_lancers_0	false	-1	-1	

@@ -1006,6 +1006,7 @@ wh3_cp1_anc_talisman_cth_tzeentchbane_teeth	wh_main_anc_talisman	.	true	false	fa
 wh3_cp1_anc_weapon_blades_of_shang_yang	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	false	anc_set_exclusive_cathay
 wh3_cp1_anc_weapon_cth_desert_sun_claw	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	1	50	75	true			200	0		false	false	false	anc_set_exclusive_cathay
 wh3_cp1_anc_weapon_tyrants_talon	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	false	anc_set_exclusive_cathay
+wh3_cp1_enchanted_item_heavens_gate	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	false	anc_set_exclusive_cathay
 wh3_dlc20_anc_arcane_item_rod_of_torment	wh_main_anc_arcane_item	.	true	false	false	1	0	9999			false	false	false	arcane_item	16	30	30	50	true			90	0		true	true	true	anc_set_exclusive_chaos
 wh3_dlc20_anc_arcane_item_vessel_of_chaos	wh_main_anc_arcane_item	.	false	false	false	1	0	9999			false	false	false	arcane_item	16	30	30	50	true			200	0		false	false	false	anc_set_exclusive_chaos
 wh3_dlc20_anc_armour_bronze_armour_of_zhrakk	wh_main_anc_armour	.	true	false	false	1	0	9999			false	false	false	armour	16	30	30	50	true			80	0		true	true	true	anc_set_exclusive_chaos

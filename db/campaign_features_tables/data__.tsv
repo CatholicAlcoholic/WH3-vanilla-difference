@@ -2,6 +2,7 @@ feature	group	available
 #campaign_features_tables;0;db/campaign_features_tables/data__		
 additional_army_upkeep	wh2_dlc09_feature_tomb_kings	false
 additional_army_upkeep	wh2_dlc13_lzd_spirits_of_the_jungle	false
+additional_army_upkeep	wh3_cp1_cth_bhashiva	false
 additional_army_upkeep	wh3_dlc23_feature_chaos_dwarfs	false
 additional_army_upkeep	wh3_main_feature_khorne	false
 additional_army_upkeep	wh3_main_prologue_campaign	false

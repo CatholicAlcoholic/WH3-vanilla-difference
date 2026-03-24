@@ -203,6 +203,8 @@ wh3_dlc27_lore_of_mists_walk_between_worlds	wh3_dlc27_lore_of_mists_walk_between
 wh3_dlc27_spell_chain_lightning	wh3_dlc27_spell_chain_lightning	400.0000			true		true	Battle_IND_Magic_Heavens_Chain_Lightning_Impact_RW		0.0000
 wh3_dlc27_unit_passive_cursed_savage		350.0000	Play_IND_Magic_Nor_Cursed_Etting_Savage		true		true			0.0000
 wh3_dlc27_unit_passive_enfeebling_cold	wh3_dlc27_unit_passive_Enfeebling_Cold	150.0000			true		true			0.0000
+wh3_dlc28_ability_cth_predatory_instincts	wh_ability_positive_group	500.0000	Battle_Individual_Magic_Special_Abilities_Predatory_Instincts_Start_Oneshot		true		true			0.0000
+wh3_dlc28_ability_cth_steed_of_shadows	wh3_dlc28_lord_ability_steed_of_shadow	500.0000	Battle_Individual_Magic_Special_Abilities_Steed_of_Shadows_Start_Oneshot		true		true			0.0000
 wh3_dlc_25_hurricane_of_death		0.0000	Battle_Individual_Projectile_Explosive_Fart_Explosion_Start		true		false			0.0000
 wh3_main_ability_hellblade_one_shot		500.0000	IND_Magic_Kho_Hellblade_Oneshot		true		false			0.0000
 wh3_main_ability_ogr_flame_incarnate		550.0000	IND_Magic_Ogre_Flame_Incarnate_Swirls_Start	IND_Magic_Ogre_Flame_Incarnate_Swirls_Stop	true		true			0.0000
@@ -333,8 +335,8 @@ wh_ability_positive_aoe_army_wide	wh_ability_positive_aoe_army_wide_group	1000.0
 wh_ability_positive_banner	wh3_dlc27_positive_banner	300.0000	Battle_IND_Magic_Generic_Buff_One_Shot		true	Battle_Magic_Faction_Owner	true			0.0000
 wh_ability_positive_one_shot	wh2_dlc13_ability_summon_unbinding_generic_large_phase_01	300.0000	Battle_IND_Magic_Generic_Buff_One_Shot		true	Battle_Magic_Faction_Owner	false			0.0000
 wh_dlc03_spell_beasts_curse_of_anraheir	wh_dlc03_spell_beasts_curse_of_anraheir	0.0000			true		true			0.0000
-wh_dlc03_spell_beasts_flock_of_doom	wh_dlc03_spell_beasts_flock_of_doom	0.0000			true		true			0.0000
-wh_dlc03_spell_beasts_flock_of_doom_upgraded	wh_dlc03_spell_beasts_flock_of_doom_upgraded	0.0000			true		true			0.0000
+wh_dlc03_spell_beasts_flock_of_doom	wh_dlc03_spell_beasts_flock_of_doom	500.0000			true		true			0.0000
+wh_dlc03_spell_beasts_flock_of_doom_upgraded	wh_dlc03_spell_beasts_flock_of_doom_upgraded	500.0000			true		true			0.0000
 wh_dlc03_spell_beasts_panns_impenetrable_pelt	wh_dlc03_spell_beasts_panns_impenetrable_pelt	0.0000			true		true			0.0000
 wh_dlc03_spell_beasts_wyssans_wildform	wh_dlc03_spell_beasts_wyssans_wildform	0.0000			true		true			0.0000
 wh_dlc03_spell_wild_devolve	wh_dlc03_spell_wild_devolve	0.0000			true		true			0.0000

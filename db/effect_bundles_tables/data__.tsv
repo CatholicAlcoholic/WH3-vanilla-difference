@@ -1902,50 +1902,77 @@ wh3_cp1_anc_banner_cth_oathbound_pride		{{tr:ancillaries_onscreen_name_wh3_cp1_a
 wh3_cp1_bundle_cth_ritual_court_bhashiva_payload	Placeholder descriptive text	Bhashiva payload	faction	1		true	false	true
 wh3_cp1_bundle_cth_ritual_court_military_payload	Placeholder descriptive text	Military Payload	force	1		false	false	true
 wh3_cp1_bundle_cth_ritual_court_spiritual_payload	Placeholder descriptive text	Spiritual payload	region	1		false	false	true
-wh3_cp1_bundle_shang_yang_stage_1_reward		Stage 1: Armies of Shan-Yang	faction	1	confederation.png	false	false	true
-wh3_cp1_bundle_shang_yang_stage_2_reward		Stage 2: Armies of Shan-Yang	faction	1	confederation.png	true	false	true
-wh3_cp1_bundle_shang_yang_stage_3_reward		Stage 3: Armies of Shan-Yang	faction	1	confederation.png	true	false	true
-wh3_cp1_bundle_shang_yang_stage_4_reward		Stage 4: Armies of Shan-Yang	faction	1	confederation.png	true	false	true
-wh3_cp1_bundle_shang_yang_stage_5_reward		Stage 5: Armies of Shan-Yang	faction	1	confederation.png	true	false	true
-wh3_cp1_bundle_shang_yang_stage_6_reward		Stage 6: Armies of Shan-Yang	faction	1	confederation.png	true	false	true
-wh3_cp1_bundle_to_delete	This bundle is not completed yet.	Not Fully Setup	faction	1	0_placeholder_effect_bundle.png	false	false	true
-wh3_cp1_cth_bundle_court_lord_bhashiva	Placeholder descriptive text	Lord Bhashiva	character	1		true	false	true
-wh3_cp1_cth_bundle_court_lord_military_celestial_general	Placeholder descriptive text	Lord Celestial General Military	character	1		true	false	true
-wh3_cp1_cth_bundle_court_lord_military_dragon_blooded_shugengan	Placeholder descriptive text	Lord Dragon Blooded Shugengan Military	character	1		true	false	true
-wh3_cp1_cth_bundle_court_lord_military_lord_magistrate	Placeholder descriptive text	Lord Magistrate Military	character	1		true	false	true
-wh3_cp1_cth_bundle_court_lord_military_sawai	Placeholder descriptive text	Lord Sawai Military	character	1		true	false	true
-wh3_cp1_cth_bundle_court_lord_spiritual_celestial_general	Placeholder descriptive text	Lord Celestial General Spiritual	character	1		true	false	true
-wh3_cp1_cth_bundle_court_lord_spiritual_dragon_blooded_shugengan	Placeholder descriptive text	Lord Dragon Blooded Shugengan Spiritual	character	1		true	false	true
-wh3_cp1_cth_bundle_court_lord_spiritual_lord_magistrate	Placeholder descriptive text	Lord Magistrate Spiritual	character	1		true	false	true
-wh3_cp1_cth_bundle_court_lord_spiritual_sawai	Placeholder descriptive text	Lord Sawai Spiritual	character	1		true	false	true
-wh3_cp1_cth_bundle_court_position_bhashiva_level_1		Position Bhashiva 1	faction	1	character.png	true	false	true
-wh3_cp1_cth_bundle_court_position_bhashiva_level_2		Position Bhashiva 2	faction	1	character.png	true	false	true
-wh3_cp1_cth_bundle_court_position_bhashiva_level_3		Position Bhashiva 3	faction	1	character.png	true	false	true
-wh3_cp1_cth_bundle_court_position_bhashiva_level_4		Position Bhashiva 4	faction	1	character.png	true	false	true
-wh3_cp1_cth_bundle_court_position_bhashiva_level_5		Position Bhashiva 5	faction	1	character.png	true	false	true
-wh3_cp1_cth_bundle_court_position_military_level_1		Position Military 1	faction	1	morale.png	true	false	true
-wh3_cp1_cth_bundle_court_position_military_level_2		Position Military 2	faction	1	morale.png	true	false	true
-wh3_cp1_cth_bundle_court_position_military_level_3		Position Military 3	faction	1	morale.png	true	false	true
-wh3_cp1_cth_bundle_court_position_military_level_4		Position Military 4	faction	1	morale.png	true	false	true
-wh3_cp1_cth_bundle_court_position_military_level_5		Position Military 5	faction	1	morale.png	true	false	true
-wh3_cp1_cth_bundle_court_position_spiritual_level_1		Position Spirits 1	faction	1	confederation.png	true	false	true
-wh3_cp1_cth_bundle_court_position_spiritual_level_2		Position Spirits 2	faction	1	confederation.png	true	false	true
-wh3_cp1_cth_bundle_court_position_spiritual_level_3		Position Spirits 3	faction	1	confederation.png	true	false	true
-wh3_cp1_cth_bundle_court_position_spiritual_level_4		Position Spirits 4	faction	1	confederation.png	true	false	true
-wh3_cp1_cth_bundle_court_position_spiritual_level_5		Position Spirits 5	faction	1	confederation.png	true	false	true
-wh3_cp1_cth_bundle_court_selected_bhashiva_1	Placeholder descriptive text	Selected Bhashiva 1	faction	1	character.png	true	false	true
-wh3_cp1_cth_bundle_court_selected_bhashiva_2	Placeholder descriptive text	Selected Bhashiva 2	faction	1	character.png	true	false	true
-wh3_cp1_cth_bundle_court_selected_bhashiva_3	Placeholder descriptive text	Selected Bhashiva 3	faction	1	character.png	true	false	true
-wh3_cp1_cth_bundle_court_selected_bhashiva_4	Placeholder descriptive text	Selected Bhashiva 4	faction	1	character.png	true	false	true
-wh3_cp1_cth_bundle_court_selected_military_1	Placeholder descriptive text	Selected Military 1	faction	1	morale.png	true	false	true
-wh3_cp1_cth_bundle_court_selected_military_2	Placeholder descriptive text	Selected Military 2	faction	1	morale.png	true	false	true
-wh3_cp1_cth_bundle_court_selected_military_3	Placeholder descriptive text	Selected Military 3	faction	1	morale.png	true	false	true
-wh3_cp1_cth_bundle_court_selected_military_4	Placeholder descriptive text	Selected Military 4	faction	1	morale.png	true	false	true
-wh3_cp1_cth_bundle_court_selected_spiritual_1	Placeholder descriptive text	Selected Spirits 1	faction	1	confederation.png	true	false	true
-wh3_cp1_cth_bundle_court_selected_spiritual_2	Placeholder descriptive text	Selected Spirits 2	faction	1	confederation.png	true	false	true
-wh3_cp1_cth_bundle_court_selected_spiritual_3	Placeholder descriptive text	Selected Spirits 3	faction	1	confederation.png	true	false	true
-wh3_cp1_cth_bundle_court_selected_spiritual_4	Placeholder descriptive text	Selected Spirits 4	faction	1	confederation.png	true	false	true
+wh3_cp1_bundle_shang_yang_stage_1_reward		Stage 1: Armies of Shang-Yang	faction	1	confederation.png	false	false	true
+wh3_cp1_bundle_shang_yang_stage_2_reward		Stage 2: Armies of Shang-Yang	faction	1	confederation.png	true	false	true
+wh3_cp1_bundle_shang_yang_stage_3_reward		Stage 3: Armies of Shang-Yang	faction	1	confederation.png	true	false	true
+wh3_cp1_bundle_shang_yang_stage_4_reward		Stage 4: Armies of Shang-Yang	faction	1	confederation.png	true	false	true
+wh3_cp1_bundle_shang_yang_stage_5_reward		Stage 5: Armies of Shang-Yang	faction	1	confederation.png	true	false	true
+wh3_cp1_bundle_shang_yang_stage_6_reward		Stage 6: Armies of Shang-Yang	faction	1	confederation.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_0			faction	1	bhashiva_kamau.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_0_base			faction	1	bhashiva_kamau.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_1			faction	1		true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_1_base		Kamau building chain base effects	faction	1	bhashiva_kamau.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_1_yang		Kamau building chain Yang effects	faction	1	bhashiva_kamau_yang.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_2			faction	1		true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_2_base		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_kamau_base_1}}	faction	1	bhashiva_kamau.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_2_yang		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_kamau_yang_1}}	faction	1	bhashiva_kamau_yang.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_2_yin		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_kamau_yin_1}}	faction	1	bhashiva_kamau_yin.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_3			faction	1		true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_3_base		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_kamau_base_1}}	faction	1	bhashiva_kamau.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_3_yang		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_kamau_yang_1}}	faction	1	bhashiva_kamau_yang.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_3_yin		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_kamau_yin_1}}	faction	1	bhashiva_kamau_yin.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_4			faction	1		true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_4_base		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_kamau_base_1}}	faction	1	bhashiva_kamau.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_4_yang		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_kamau_yang_1}}	faction	1	bhashiva_kamau_yang.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_4_yin		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_kamau_yin_1}}	faction	1	bhashiva_kamau_yin.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_5			faction	1		true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_5_base		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_kamau_base_1}}	faction	1	bhashiva_kamau.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_5_yang		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_kamau_yang_1}}	faction	1	bhashiva_kamau_yang.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_kamau_5_yin		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_kamau_yin_1}}	faction	1	bhashiva_kamau_yin.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_0			faction	1	bhashiva_thousand_gods.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_0_base			faction	1	bhashiva_thousand_gods.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_1			faction	1		true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_1_base		Thousand Gods building chain base effects	faction	1	bhashiva_thousand_gods.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_1_yang		Thousand Gods building chain Yang effects	faction	1	bhashiva_thousand_gods_yang.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_2			faction	1		true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_2_base		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_thousand_gods_base_1}}	faction	1	bhashiva_thousand_gods.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_2_yang		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_thousand_gods_yang_1}}	faction	1	bhashiva_thousand_gods_yang.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_2_yin		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_thousand_gods_yin_1}}	faction	1	bhashiva_thousand_gods_yin.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_3			faction	1		true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_3_base		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_thousand_gods_base_1}}	faction	1	bhashiva_thousand_gods.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_3_yang		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_thousand_gods_yang_1}}	faction	1	bhashiva_thousand_gods_yang.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_3_yin		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_thousand_gods_yin_1}}	faction	1	bhashiva_thousand_gods_yin.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_4			faction	1		true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_4_base		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_thousand_gods_base_1}}	faction	1	bhashiva_thousand_gods.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_4_yang		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_thousand_gods_yang_1}}	faction	1	bhashiva_thousand_gods_yang.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_4_yin		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_thousand_gods_yin_1}}	faction	1	bhashiva_thousand_gods_yin.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_5			faction	1		true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_5_base		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_thousand_gods_base_1}}	faction	1	bhashiva_thousand_gods.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_5_yang		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_thousand_gods_yang_1}}	faction	1	bhashiva_thousand_gods_yang.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_thousand_gods_5_yin		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_thousand_gods_yin_1}}	faction	1	bhashiva_thousand_gods_yin.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_0			faction	1	bhashiva_white_tiger.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_0_base			faction	1	bhashiva_white_tiger.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_1			faction	1		true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_1_base		White Tiger building chain base effects	faction	1	bhashiva_white_tiger.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_1_yang		White Tiger building chain Yang effects	faction	1	bhashiva_white_tiger_yang.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_2			faction	1		true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_2_base		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_white_tiger_base_1}}	faction	1	bhashiva_white_tiger.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_2_yang		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_white_tiger_yang_1}}	faction	1	bhashiva_white_tiger_yang.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_2_yin		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_white_tiger_yin_1}}	faction	1	bhashiva_white_tiger_yin.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_3			faction	1		true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_3_base		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_white_tiger_base_1}}	faction	1	bhashiva_white_tiger.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_3_yang		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_white_tiger_yang_1}}	faction	1	bhashiva_white_tiger_yang.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_3_yin		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_white_tiger_yin_1}}	faction	1	bhashiva_white_tiger_yin.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_4			faction	1		true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_4_base		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_white_tiger_base_1}}	faction	1	bhashiva_white_tiger.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_4_yang		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_white_tiger_yang_1}}	faction	1	bhashiva_white_tiger_yang.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_4_yin		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_white_tiger_yin_1}}	faction	1	bhashiva_white_tiger_yin.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_5			faction	1		true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_5_base		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_white_tiger_base_1}}	faction	1	bhashiva_white_tiger.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_5_yang		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_white_tiger_yang_1}}	faction	1	bhashiva_white_tiger_yang.png	true	false	true
+wh3_cp1_cth_bundle_tiger_court_white_tiger_5_yin		{{tr:effect_bundles_localised_title_wh3_cp1_cth_bundle_tiger_court_white_tiger_yin_1}}	faction	1	bhashiva_white_tiger_yin.png	true	false	true
 wh3_cp1_lord_trait_cth_bhashiva	Placeholder descriptive text	Lord of Shang-Yang	faction	1	character.png	false	false	true
+wh3_cp1_payload_cth_relics_reveal_incident	Description for bundle	Path of the Tiger Warrior	faction	1	melee.png	true	false	true
 wh3_cp1_ritual_cth_ancient_knowledge_2_1_bundle	Bundle description	Tiger Speed	faction	1		false	false	true
 wh3_cp1_ritual_cth_ancient_knowledge_2_2_bundle	Bundle description	Tiger Ingenuity	faction	1		false	false	true
 wh3_cp1_ritual_cth_ancient_knowledge_2_3_bundle	Bundle description	Tiger Relentlessness	faction	1		false	false	true
@@ -1955,67 +1982,46 @@ wh3_cp1_ritual_cth_ancient_knowledge_4_3_bundle	Bundle description	Tiger Relentl
 wh3_cp1_ritual_cth_ancient_knowledge_6_1_bundle	Bundle description	Tiger Speed III	faction	1		false	false	true
 wh3_cp1_ritual_cth_ancient_knowledge_6_2_bundle	Bundle description	Tiger Ingenuity III	faction	1		false	false	true
 wh3_cp1_ritual_cth_ancient_knowledge_6_3_bundle	Bundle description	Tiger Relentlessness III	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_crane_gunners_upgrade_1a	Placeholder descriptive text	Upgrade 1a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_crane_gunners_upgrade_1b	Placeholder descriptive text	Upgrade 1b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_crane_gunners_upgrade_2	Placeholder descriptive text	Upgrade 2	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_crane_gunners_upgrade_3a	Placeholder descriptive text	Upgrade 3a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_crane_gunners_upgrade_3b	Placeholder descriptive text	Upgrade 3b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_crane_gunners_upgrade_4	Placeholder descriptive text	Upgrade 4	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_great_longma_riders_upgrade_1a	Placeholder descriptive text	Upgrade 1a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_great_longma_riders_upgrade_1b	Placeholder descriptive text	Upgrade 1b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_great_longma_riders_upgrade_2	Placeholder descriptive text	Upgrade 2	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_great_longma_riders_upgrade_3a	Placeholder descriptive text	Upgrade 3a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_great_longma_riders_upgrade_3b	Placeholder descriptive text	Upgrade 3b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_great_longma_riders_upgrade_4	Placeholder descriptive text	Upgrade 4	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_jade_lancers_upgrade_1a	Placeholder descriptive text	Upgrade 1a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_jade_lancers_upgrade_1b	Placeholder descriptive text	Upgrade 1b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_jade_lancers_upgrade_2	Placeholder descriptive text	Upgrade 2	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_jade_lancers_upgrade_3a	Placeholder descriptive text	Upgrade 3a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_jade_lancers_upgrade_3b	Placeholder descriptive text	Upgrade 3b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_jade_lancers_upgrade_4	Placeholder descriptive text	Upgrade 4	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_nan_gau_grenadiers_upgrade_1a	Placeholder descriptive text	Upgrade 1a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_nan_gau_grenadiers_upgrade_1b	Placeholder descriptive text	Upgrade 1b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_nan_gau_grenadiers_upgrade_2	Placeholder descriptive text	Upgrade 2	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_nan_gau_grenadiers_upgrade_3a	Placeholder descriptive text	Upgrade 3a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_nan_gau_grenadiers_upgrade_3b	Placeholder descriptive text	Upgrade 3b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_1_nan_gau_grenadiers_upgrade_4	Placeholder descriptive text	Upgrade 4	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_grand_cannons_upgrade_1a	Placeholder descriptive text	Upgrade 1a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_grand_cannons_upgrade_1b	Placeholder descriptive text	Upgrade 1b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_grand_cannons_upgrade_2	Placeholder descriptive text	Upgrade 2	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_grand_cannons_upgrade_3a	Placeholder descriptive text	Upgrade 3a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_grand_cannons_upgrade_3b	Placeholder descriptive text	Upgrade 3b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_grand_cannons_upgrade_4	Placeholder descriptive text	Upgrade 4	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_rocket_battery_upgrade_1a	Placeholder descriptive text	Upgrade 1a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_rocket_battery_upgrade_1b	Placeholder descriptive text	Upgrade 1b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_rocket_battery_upgrade_2	Placeholder descriptive text	Upgrade 2	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_rocket_battery_upgrade_3a	Placeholder descriptive text	Upgrade 3a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_rocket_battery_upgrade_3b	Placeholder descriptive text	Upgrade 3b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_rocket_battery_upgrade_4	Placeholder descriptive text	Upgrade 4	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_sky_lantern_upgrade_1a	Placeholder descriptive text	Upgrade 1a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_sky_lantern_upgrade_1b	Placeholder descriptive text	Upgrade 1b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_sky_lantern_upgrade_2	Placeholder descriptive text	Upgrade 2	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_sky_lantern_upgrade_3a	Placeholder descriptive text	Upgrade 3a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_sky_lantern_upgrade_3b	Placeholder descriptive text	Upgrade 3b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_2_sky_lantern_upgrade_4	Placeholder descriptive text	Upgrade 4	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_celestial_lion_upgrade_1a	Placeholder descriptive text	Upgrade 1a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_celestial_lion_upgrade_1b	Placeholder descriptive text	Upgrade 1b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_celestial_lion_upgrade_2	Placeholder descriptive text	Upgrade 2	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_celestial_lion_upgrade_3a	Placeholder descriptive text	Upgrade 3a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_celestial_lion_upgrade_3b	Placeholder descriptive text	Upgrade 3b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_celestial_lion_upgrade_4	Placeholder descriptive text	Upgrade 4	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_great_moon_bird_upgrade_1a	Placeholder descriptive text	Upgrade 1a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_great_moon_bird_upgrade_1b	Placeholder descriptive text	Upgrade 1b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_great_moon_bird_upgrade_2	Placeholder descriptive text	Upgrade 2	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_great_moon_bird_upgrade_3a	Placeholder descriptive text	Upgrade 3a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_great_moon_bird_upgrade_3b	Placeholder descriptive text	Upgrade 3b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_great_moon_bird_upgrade_4	Placeholder descriptive text	Upgrade 4	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_jade_lancers_replenish_1	Placeholder descriptive text	Jade Lancers Replenish	faction	1		true	false	true
-wh3_cp1_ritual_cth_group_3_terracotta_sentinel_upgrade_1a	Placeholder descriptive text	Upgrade 1a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_terracotta_sentinel_upgrade_1b	Placeholder descriptive text	Upgrade 1b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_terracotta_sentinel_upgrade_2	Placeholder descriptive text	Upgrade 2	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_terracotta_sentinel_upgrade_3a	Placeholder descriptive text	Upgrade 3a	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_terracotta_sentinel_upgrade_3b	Placeholder descriptive text	Upgrade 3b	faction	1		false	false	true
-wh3_cp1_ritual_cth_group_3_terracotta_sentinel_upgrade_4	Placeholder descriptive text	Upgrade 4	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_crane_gunners_upgrade_2		Upgrade 2	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_crane_gunners_upgrade_3a		Upgrade 3a	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_crane_gunners_upgrade_3b		Upgrade 3b	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_crane_gunners_upgrade_4		Upgrade 4	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_great_longma_riders_upgrade_2		Upgrade 2	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_great_longma_riders_upgrade_3a		Upgrade 3a	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_great_longma_riders_upgrade_3b		Upgrade 3b	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_great_longma_riders_upgrade_4		Upgrade 4	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_jade_lancers_upgrade_2		Upgrade 2	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_jade_lancers_upgrade_3a		Upgrade 3a	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_jade_lancers_upgrade_3b		Upgrade 3b	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_jade_lancers_upgrade_4		Upgrade 4	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_nan_gau_grenadiers_upgrade_2		Upgrade 2	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_nan_gau_grenadiers_upgrade_3a		Upgrade 3a	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_nan_gau_grenadiers_upgrade_3b		Upgrade 3b	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_nan_gau_grenadiers_upgrade_4		Upgrade 4	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_tiger_warriors_upgrade_2		Upgrade 2	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_tiger_warriors_upgrade_3a		Upgrade 3a	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_tiger_warriors_upgrade_3b		Upgrade 3b	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_1_tiger_warriors_upgrade_4		Upgrade 4	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_2_grand_cannons_upgrade_2		Upgrade 2	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_2_grand_cannons_upgrade_3a		Upgrade 3a	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_2_grand_cannons_upgrade_3b		Upgrade 3b	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_2_grand_cannons_upgrade_4		Upgrade 4	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_2_rocket_battery_upgrade_2		Upgrade 2	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_2_rocket_battery_upgrade_3a		Upgrade 3a	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_2_rocket_battery_upgrade_3b		Upgrade 3b	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_2_rocket_battery_upgrade_4		Upgrade 4	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_2_sky_lantern_upgrade_2		Upgrade 2	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_2_sky_lantern_upgrade_3a		Upgrade 3a	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_2_sky_lantern_upgrade_3b		Upgrade 3b	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_2_sky_lantern_upgrade_4		Upgrade 4	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_3_celestial_lion_upgrade_2		Upgrade 2	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_3_celestial_lion_upgrade_3a		Upgrade 3a	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_3_celestial_lion_upgrade_3b		Upgrade 3b	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_3_celestial_lion_upgrade_4		Upgrade 4	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_3_terracotta_sentinel_upgrade_2		Upgrade 2	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_3_terracotta_sentinel_upgrade_3a		Upgrade 3a	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_3_terracotta_sentinel_upgrade_3b		Upgrade 3b	faction	1		false	false	true
+wh3_cp1_ritual_cth_group_3_terracotta_sentinel_upgrade_4		Upgrade 4	faction	1		false	false	true
 wh3_dl27_hef_white_tower_ritual_light_force_wom_fill	{{tr:rituals_description_wh3_dlc27_secrets_of_the_white_tower_brilliance_ritual_2}}	{{tr:rituals_display_name_wh3_dlc27_secrets_of_the_white_tower_brilliance_ritual_2}}	force	1	magic_campaign.png	false	false	true
 wh3_dlc20_bundle_agent_action_dignitary_hinder_settlement_success_actor_cult_khorne	This [[img:icon_hero]][[/img]]Hero must rest following the establishment of a Khorne Cult.	Exhaustion	character	1	cult.png	true	true	true
 wh3_dlc20_bundle_chs_authority_khorne_-1	Khorne’s devoted question this force’s esteem in the eyes of the Blood God!	Khorne Authority -1	force	1	corruption_khorne.png	true	true	true
@@ -3354,7 +3360,7 @@ wh3_dlc27_asur_domination_dilemma_tyrion_option_1	By his authority as the Defend
 wh3_dlc27_asur_domination_dilemma_tyrion_option_3	The word of the Defender of Ulthuan carries far in noble circles, driving up support for your military endeavours.	Martial Privilege	faction	1	wh3_dlc27_hef_dilemma_lothern.png	true	false	true
 wh3_dlc27_asur_domination_dilemma_tyrion_option_4	The elite of your heavy infantry and cavalry ranks receive the mentorship of Eataine's best.	Tyrion's Champions	faction	1	wh3_dlc27_hef_dilemma_lothern.png	true	false	true
 wh3_dlc27_block_last_razed_occupy_bundle	This settlement cannot be occupied by your faction.	Last Razed Block	region	1	blocked_ruins.png	false	true	true
-wh3_dlc27_block_occupation_norsca	This settlement has been pillaged and burned by Norscan marauders.	{{tr:effect_bundles_localised_title_wh3_dlc26_block_occupation_khorne}}	region	1	blocked_ruins.png	false	true	true
+wh3_dlc27_block_occupation_norsca	The aftermath of the Marauders' pillaging still afflicts this region.	{{tr:effect_bundles_localised_title_wh3_dlc26_block_occupation_khorne}}	region	1	blocked_ruins.png	false	true	true
 wh3_dlc27_bundle_captives_sacrificed_norsca	{{tr:effect_bundles_localised_description_wh_main_bundle_captives_kill_chaos}}	{{tr:effect_bundles_localised_title_wh3_main_bundle_captives_sacrificed_kislev}}	force	1	experience.png	true	false	true
 wh3_dlc27_bundle_confederation_nor	The sudden expansion of territory has caused instability throughout the land.	Confederation	faction	1	confederation.png	true	false	true
 wh3_dlc27_bundle_force_converted_lord_nkari	N’Kari’s persuasive words and alluring promises of riches and glory could sway even the most strong-willed.	Followers of Slaanesh	force	1	slaanesh_points.png	true	true	false
@@ -4699,6 +4705,7 @@ wh3_main_effect_gain_lord_kroak_dummy		Unlock Hero: Lord Kroak	faction	1	slann_m
 wh3_main_effect_minor_cult_chaos_portal_corruption	The spread of corruption from the Unstable Chaos Portal in your lands continues to create condemnation from others.	The Portal Wakes	faction	1	diplomacy.png	true	false	true
 wh3_main_effect_tol_bonus_victory_points	This region will generate Victory Points for the faction that controls it.	Critical Location	region	1	general_ability_throt_vortex.png	true	true	false
 wh3_main_faction_trait_cathay			faction	1	food.png	false	false	true
+wh3_main_faction_trait_cathay_bhashiva			faction	1	food.png	false	false	true
 wh3_main_faction_trait_daemons			faction	1	food.png	false	false	true
 wh3_main_faction_trait_khorne			faction	1	food.png	false	false	true
 wh3_main_faction_trait_kislev			faction	1	food.png	false	false	true

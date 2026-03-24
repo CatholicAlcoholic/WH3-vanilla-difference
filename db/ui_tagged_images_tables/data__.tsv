@@ -125,6 +125,7 @@ climate_chaotic_wasteland	ui/campaign ui/climate_types/chaotic_wasteland.png
 climate_mountain	ui/campaign ui/climate_types/mountain.png
 climate_wasteland	ui/campaign ui/climate_types/wasteland.png
 cst_infamy	ui/campaign ui/effect_bundles/cst_infamy.png
+cth_the_western_provinces	UI/Flags/wh3_main_cth_the_western_provinces/mon_24.png
 death_night	ui/skins/default/text_icon_death_night.png
 def_malus_possession_potion	ui/skins/warhammer2/icon_flask.png
 def_malus_tzarkan_whispers	ui/skins/warhammer2/icon_whispers.png
@@ -324,6 +325,7 @@ icon_infamy	ui/skins/warhammer2/icon_infamy.png
 icon_infections	ui/skins/warhammer3/icon_infections.png
 icon_influence	ui/skins/default/icon_intrigue.png
 icon_instability	UI/Campaign UI/Effect_bundles/instability.png
+icon_iron_favour	ui/skins/default/cp1_cth_iron_favour.png
 icon_ishas_rain	ui/Battle UI/ability_icons/wh2_dlc13_character_ability_ishas_rain_contact.png
 icon_jars	ui/skins/warhammer2/icon_tk_canopic_jar.png
 icon_jungle_swarm	UI/Battle UI/ability_icons/wh2_dlc12_army_abilities_jungle_swarm.png

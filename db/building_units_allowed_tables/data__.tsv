@@ -220,7 +220,6 @@ key	building	unit	XP	conditions	faction	enabled
 1064322837	wh2_main_horde_rogue_settlement_1	wh_main_vmp_inf_crypt_ghouls	0	0		false
 1064528046	wh3_main_tze_settlement_major_3	wh3_main_tze_inf_chaos_furies_0	0	0		false
 106479778	wh_main_vmp_settlement_major_5	wh_main_vmp_inf_skeleton_warriors_0	0	0		false
-1065132111	wh3_cp1_cth_peasants_tigers_1	wh3_main_cth_inf_peasant_spearmen_1	0	0		false
 1065383618	wh3_dlc27_hef_colony_port_2	wh2_main_hef_inf_lothern_sea_guard_0	0	0		false
 1065403412	wh3_main_kho_settlement_minor_1	wh3_main_kho_inf_bloodletters_0	0	0		false
 1066344746	wh2_main_rogue_settlement_minor_3	wh3_main_tze_cav_chaos_knights_0	0	0		false
@@ -389,7 +388,7 @@ key	building	unit	XP	conditions	faction	enabled
 1121429917	wh_main_emp_forges_4	wh2_dlc13_emp_veh_war_wagon_0	0	0		false
 1123038530	wh_main_dwf_workshop_3	wh_main_dwf_art_grudge_thrower	0	0		false
 1123827329	wh2_main_horde_rogue_settlement_1	wh3_main_sla_inf_marauders_1	0	0		false
-1123842378	wh3_cp1_cth_living_forge_tigers_2	wh3_main_cth_mon_terracotta_sentinel_0	0	0		false
+1123842378	wh3_cp1_cth_living_forge_tigers_3	wh3_main_cth_mon_terracotta_sentinel_0	0	0		false
 1124078903	wh_dlc03_horde_beastmen_herd_3	wh_dlc03_bst_inf_ungor_spearmen_0	0	0		false
 1124678372	wh2_main_rogue_settlement_minor_1	wh2_main_def_cav_cold_one_knights_1	0	0		false
 1124746869	wh2_main_special_settlement_sartosa_def_2	wh2_main_def_inf_dreadspears_0	0	0		false
@@ -404,7 +403,7 @@ key	building	unit	XP	conditions	faction	enabled
 1128156053	wh2_main_rogue_settlement_minor_2	wh_dlc06_grn_inf_squig_herd_0	0	0		false
 1128270204	wh3_main_tze_settlement_major_5_a	wh3_dlc20_chs_inf_chaos_marauders_mtze_spears	0	0		false
 1128429692	wh2_main_hef_settlement_major_1	wh2_main_hef_inf_spearmen_0	0	0		false
-1129307709	wh3_cp1_cth_bhashiva_settlement_minor_1	wh3_cp1_cth_inf_tiger_warriors_dual_axe	0	0		false
+1129307709	wh3_cp1_cth_bhashiva_settlement_minor_1	wh3_main_cth_inf_peasant_spearmen_1	0	0		false
 113017759	wh2_dlc17_bst_special_settlement_naggarond_1	wh_dlc03_bst_inf_ungor_herd_1	0	0		false
 1130623373	wh_main_vmp_bindingcircle_2	wh_main_vmp_mon_crypt_horrors	0	0		false
 113124814	wh2_main_rogue_settlement_major_3	wh_main_grn_art_goblin_rock_lobber	0	0		false
@@ -1842,6 +1841,7 @@ key	building	unit	XP	conditions	faction	enabled
 1572157786	wh3_main_dae_advanced_kho_3	wh3_dlc26_kho_inf_khorngors	0	0		false
 1572192615	wh2_main_special_fortress_gate_phoenix_skaven_3	wh2_main_skv_inf_skavenslave_spearmen_0	0	0		false
 1572228416	wh_main_grn_military_2	wh_main_grn_inf_orc_boyz	0	0		false
+1572446612	wh3_cp1_cth_living_forge_tigers_1	wh3_main_cth_veh_war_compass_0	0	0		false
 1572448846	wh2_main_lzd_terradons_2_tiktakto	wh2_main_lzd_cav_terradon_riders_0	0	0		false
 1572646621	wh2_dlc15_hef_field_hq_3	wh2_dlc15_hef_inf_mistwalkers_spireguard_0	0	0		false
 157304608	wh3_dlc23_special_drazhoath_great_drill_of_hashut_2	wh3_dlc23_chd_inf_chaos_dwarf_warriors	0	0		false
@@ -1854,7 +1854,7 @@ key	building	unit	XP	conditions	faction	enabled
 1575783336	wh3_main_ogr_resource_iron_2	wh3_main_ogr_inf_leadbelchers_0	0	0		false
 1575852439	wh3_main_dae_advanced_2_nur_2	wh3_main_nur_mon_rot_flies_0	0	0		false
 1576249560	wh2_dlc17_bst_special_settlement_oak_of_ages_4	wh_dlc03_bst_mon_chaos_spawn_0	0	0		false
-1576356320	wh3_cp1_cth_bhashiva_settlement_major_4	wh3_cp1_cth_inf_tiger_warriors_dual_axe	0	0		false
+1576356320	wh3_cp1_cth_bhashiva_settlement_major_4	wh3_main_cth_inf_peasant_spearmen_1	0	0		false
 1576430759	wh3_main_dae_advanced_sla_5	wh3_dlc20_chs_cav_marauder_horsemen_msla_javelins	0	0		false
 1576557958	wh_main_emp_settlement_minor_3	wh2_dlc13_emp_inf_archers_0	0	0		false
 1576688828	wh_main_special_settlement_karaz_a_karak_5_dwf	wh_main_dwf_inf_miners_0	0	0		false
@@ -1875,6 +1875,7 @@ key	building	unit	XP	conditions	faction	enabled
 1583886077	wh_main_special_settlement_castle_drakenhof_3_emp	wh2_dlc13_emp_inf_archers_0	0	0		false
 1584012735	wh2_main_horde_rogue_settlement_2	wh3_main_sla_mon_spawn_of_slaanesh_0	0	0		false
 1584363838	wh_main_dwf_settlement_major_1	wh_main_dwf_inf_miners_0	0	0		false
+158450699	wh3_cp1_cth_living_forge_tigers_2	wh3_main_cth_veh_war_compass_0	0	0		false
 1584720502	wh2_main_rogue_settlement_minor_2	wh3_main_nur_inf_plaguebearers_1	0	0		false
 1584889282	wh2_main_rogue_settlement_minor_2	wh_dlc06_chs_cav_marauder_horsemasters_0	0	0		false
 1585056407	wh2_main_rogue_settlement_major_1	wh3_main_nur_mon_plague_toads_0	0	0		false
@@ -2437,7 +2438,7 @@ key	building	unit	XP	conditions	faction	enabled
 176106078	wh2_dlc13_horde_lizardmen_great_beasts_3	wh2_dlc13_lzd_mon_dread_saurian_0	0	0		false
 1761609424	wh3_main_ksl_erengrad_city_5	wh3_dlc24_ksl_inf_kislevite_warriors	0	0		false
 1761814906	wh2_main_lzd_settlement_major_4	wh2_main_lzd_inf_skink_cohort_0	0	0		false
-1762264556	wh3_cp1_cth_bhashiva_settlement_minor_3	wh3_cp1_cth_inf_tiger_warriors_dual_axe	0	0		false
+1762264556	wh3_cp1_cth_bhashiva_settlement_minor_3	wh3_main_cth_inf_peasant_spearmen_1	0	0		false
 1762827052	wh2_twa03_special_ogham_stones_2	wh2_pro06_tmb_mon_bone_giant_0	0	0		false
 1764153698	wh2_main_horde_rogue_settlement_1	wh3_main_kho_cav_bloodcrushers_0	0	0		false
 1765086490	wh2_dlc11_vampirecoast_ship_cannons_3	wh2_dlc11_cst_art_carronade	0	0		false
@@ -2745,7 +2746,7 @@ key	building	unit	XP	conditions	faction	enabled
 1863853350	wh3_dlc27_nor_offerings_2b_throgg	wh_dlc08_nor_mon_norscan_giant_0	0	0		false
 1864199571	wh2_main_def_riders_2	wh2_main_def_cav_dark_riders_2	0	0		false
 1864316998	wh2_main_special_settlement_sartosa_emp_2	wh2_dlc13_emp_inf_archers_0	0	0		false
-186442652	wh3_cp1_cth_bhashiva_settlement_major_3	wh3_cp1_cth_inf_tiger_warriors_dual_axe	0	0		false
+186442652	wh3_cp1_cth_bhashiva_settlement_major_3	wh3_main_cth_inf_peasant_spearmen_1	0	0		false
 1865293485	wh3_main_horde_def_lokhir_military_3	wh2_dlc10_def_inf_sisters_of_slaughter	0	0		false
 1865788834	wh3_main_horde_def_lokhir_military_2	wh2_main_def_inf_darkshards_0	0	0		false
 186579784	wh2_dlc17_bst_special_settlement_kislev_5	wh_dlc03_bst_inf_centigors_0	0	0		false
@@ -2756,6 +2757,7 @@ key	building	unit	XP	conditions	faction	enabled
 1868248461	wh2_dlc15_special_massif_orcal_quarry	wh2_dlc15_grn_mon_stone_trolls_0	0	0		false
 1868549741	wh2_main_rogue_settlement_major_1	wh_dlc03_bst_inf_ungor_herd_1	0	0		false
 1868673930	wh3_dlc27_sla_dec_palace_warrior_halls_2	wh3_dlc20_chs_inf_chaos_warriors_msla_hellscourges	0	0		false
+1870540676	wh3_cp1_cth_living_forge_tigers_3	wh3_dlc24_cth_mon_celestial_lion	0	0		false
 1871018200	wh2_dlc17_bst_special_settlement_altdorf_3	wh_dlc03_bst_inf_ungor_spearmen_1	0	0		false
 1871135433	wh3_dlc27_sla_riders_2_tormentors	wh3_dlc20_chs_cav_chaos_knights_msla	0	0		false
 1871181616	wh_dlc03_horde_beastmen_centigors_1	wh2_dlc17_bst_cav_tuskgor_chariot_0	0	0		false
@@ -2871,6 +2873,7 @@ key	building	unit	XP	conditions	faction	enabled
 1906399270	wh2_main_rogue_settlement_major_2	wh2_main_hef_inf_lothern_sea_guard_1	0	0		false
 1907708998	wh2_main_rogue_settlement_major_3	wh_main_chs_inf_chosen_1	0	0		false
 1908388652	wh3_main_kho_resource_animals_3	wh3_main_kho_inf_chaos_warhounds_0	0	0		false
+1908589483	wh3_cp1_cth_living_forge_tigers_3	wh3_dlc24_cth_mon_great_moon_bird	0	0		false
 1909212169	wh2_main_def_settlement_major_3	wh2_main_def_inf_dreadspears_0	0	0		false
 1909349152	wh3_main_cth_celestial_2	wh3_main_cth_inf_dragon_guard_crossbowmen_0	0	0		false
 1909584155	wh2_main_rogue_settlement_minor_1	wh3_main_tze_inf_forsaken_0	0	0		false
@@ -3463,7 +3466,6 @@ key	building	unit	XP	conditions	faction	enabled
 2106914748	wh2_main_rogue_settlement_minor_3	wh_main_dwf_inf_thunderers_0	0	0		false
 2107111247	wh2_dlc17_bst_settlement_major_5	wh_dlc03_bst_mon_chaos_spawn_0	0	0		false
 2107477813	wh2_main_def_beasts_2	wh2_main_def_mon_war_hydra	0	0		false
-2107543525	wh3_cp1_cth_alchemist_tigers_1	wh3_main_cth_veh_sky_lantern_0	0	0		false
 2107560808	wh2_main_hef_smith_1	wh3_dlc27_hef_veh_skycutter_bows	0	0		false
 2107837684	wh2_dlc13_horde_lizardmen_saurus_3	wh2_main_lzd_inf_saurus_warriors_1	0	0		false
 2108531698	wh2_main_rogue_settlement_major_3	wh_main_chs_cav_chaos_knights_1	0	0		false
@@ -3519,7 +3521,7 @@ key	building	unit	XP	conditions	faction	enabled
 2127645553	wh_main_grn_boars_2	wh_main_grn_cav_goblin_wolf_riders_0	0	0		false
 2127847098	wh3_main_dae_settlement_major_5	wh3_main_dae_inf_chaos_furies_0	0	0		false
 2127943742	wh2_main_rogue_settlement_major_2	wh_dlc04_emp_inf_flagellants_0	0	0		false
-2128868901	wh3_cp1_cth_den_tigers_2	wh3_cp1_cth_inf_iron_claw_guandao	0	0		false
+2128868901	wh3_cp1_cth_den_tigers_2	wh3_cp1_cth_inf_stalkers_throwing_disc	0	0		false
 2129146645	wh2_dlc17_bst_special_settlement_kislev_2	wh_dlc03_bst_inf_gor_herd_0	0	0		false
 2130712449	wh3_main_dae_advanced_tze_5	wh3_main_tze_veh_burning_chariot_0	0	0		false
 2130850230	wh2_main_rogue_settlement_major_2	wh3_main_sla_veh_exalted_seeker_chariot_0	0	0		false
@@ -3691,6 +3693,7 @@ key	building	unit	XP	conditions	faction	enabled
 247188328	wh2_main_rogue_settlement_minor_2	wh2_main_skv_inf_gutter_runners_1	0	0		false
 247211063	wh2_main_def_pleasure_cult_2	wh3_main_sla_inf_daemonette_0	0	0		false
 247925077	wh3_main_ogr_camp_town_centre_1	wh3_main_ogr_inf_ogres_0	0	0		false
+248249302	wh3_cp1_cth_living_forge_tigers_3	wh3_main_cth_cav_jade_longma_riders_0	0	0		false
 248654765	wh2_main_horde_def_beasts_3	wh2_main_def_mon_black_dragon	0	0		false
 248725090	wh3_dlc23_special_zhatan_great_drill_of_hashut_1	wh3_dlc23_chd_inf_chaos_dwarf_warriors	0	0		false
 248799636	wh2_main_rogue_settlement_major_1	wh_main_chs_mon_trolls	0	0		false
@@ -4073,7 +4076,6 @@ key	building	unit	XP	conditions	faction	enabled
 369279404	wh2_main_rogue_settlement_major_1	wh2_main_skv_mon_hell_pit_abomination	0	0		false
 369645493	wh2_main_rogue_settlement_major_3	wh3_main_tze_mon_lord_of_change_0	0	0		false
 37021764	wh2_main_special_skeggi_hall	wh_dlc08_nor_inf_marauder_hunters_1	0	0		false
-371652785	wh3_cp1_cth_peasants_tigers_2	wh3_main_cth_inf_peasant_spearmen_1	0	0		false
 37183473	wh2_main_rogue_settlement_major_1	wh_main_dwf_inf_dwarf_warrior_1	0	0		false
 37213755	wh3_main_dae_kho_settlement_minor_1	wh3_dlc20_chs_inf_chaos_marauders_mkho_dualweapons	0	0		false
 372215378	wh2_main_rogue_settlement_major_3	wh_main_emp_art_mortar	0	0		false
@@ -4310,7 +4312,7 @@ key	building	unit	XP	conditions	faction	enabled
 440909740	wh3_dlc27_nor_offerings_2b_throgg	wh3_dlc27_nor_mon_cursd_ettin	0	0		false
 441417709	wh3_dlc27_sla_followers_3	wh3_dlc20_chs_inf_forsaken_msla	0	0		false
 441647182	wh3_main_dae_tze_settlement_minor_2	wh3_main_tze_inf_blue_horrors_0	0	0		false
-441650261	wh3_cp1_cth_bhashiva_settlement_minor_2	wh3_cp1_cth_inf_tiger_warriors_dual_axe	0	0		false
+441650261	wh3_cp1_cth_bhashiva_settlement_minor_2	wh3_main_cth_inf_peasant_spearmen_1	0	0		false
 441829831	wh_main_grn_forest_beasts_3	wh_main_grn_mon_arachnarok_spider_0	0	0		false
 442127905	wh2_main_rogue_settlement_major_3	wh_main_grn_cav_savage_orc_boar_boy_big_uns	0	0		false
 442316093	wh2_main_horde_rogue_settlement_1	wh2_main_hef_inf_archers_1	0	0		false
@@ -4440,7 +4442,6 @@ key	building	unit	XP	conditions	faction	enabled
 484468103	wh2_main_horde_rogue_settlement_1	wh3_main_tze_veh_burning_chariot_0	0	0		false
 484697144	wh2_dlc17_bst_special_settlement_lothern_5	wh_dlc03_bst_feral_manticore	0	0		false
 484728879	wh3_dlc25_special_ancestors_hall_1	wh_main_dwf_inf_longbeards_1	0	0		false
-48474003	wh3_cp1_cth_alchemist_tigers_2	wh3_dlc24_cth_veh_zhangu_war_drum	0	0		false
 484969369	wh3_dlc27_sla_dec_war_pit_mortal_barracks_3	wh3_dlc20_chs_inf_chaos_warriors_msla_hellscourges	0	0		false
 485528605	wh3_dlc27_sla_seekers_3_tormentors	wh3_main_sla_mon_soul_grinder_0	0	0		false
 485653178	wh3_main_ogr_camp_cav_3	wh3_main_ogr_mon_gorgers_0	0	0		false
@@ -4568,7 +4569,6 @@ key	building	unit	XP	conditions	faction	enabled
 524728186	wh3_main_ogr_camp_cav_2	wh3_dlc26_ogr_mon_yhetees	0	0		false
 525070489	wh2_main_special_fortress_gate_griffon_skaven_3	wh2_main_skv_inf_skavenslave_slingers_0	0	0		false
 525467677	wh2_main_rogue_settlement_minor_3	wh2_main_hef_inf_phoenix_guard	0	0		false
-525767936	wh3_cp1_cth_living_forge_tigers_1	wh3_main_cth_cav_jade_longma_riders_0	0	0		false
 526080805	wh_dlc16_wef_tree_spirits_drycha_3	wh2_dlc16_wef_inf_malicious_dryads_0	0	0		false
 526886945	wh3_dlc27_hef_colony_settlement_minor_3	wh3_dlc27_hef_inf_ships_company	0	0		false
 527046112	wh3_main_foreign_slot_discovery_cth_1	wh3_dlc24_cth_inf_onyx_crowmen	0	0		false
@@ -4842,7 +4842,7 @@ key	building	unit	XP	conditions	faction	enabled
 604206700	wh2_main_special_ancestors_hall	wh_main_dwf_inf_longbeards_1	0	0		false
 60426655	wh2_main_rogue_settlement_minor_2	wh2_main_lzd_inf_saurus_warriors_1	0	0		false
 604306418	wh2_dlc11_vampirecoast_support_artillery_2	wh2_dlc11_cst_art_carronade	0	0		false
-604413690	wh3_cp1_cth_bhashiva_settlement_major_2	wh3_cp1_cth_inf_tiger_warriors_dual_axe	0	0		false
+604413690	wh3_cp1_cth_bhashiva_settlement_major_2	wh3_main_cth_inf_peasant_spearmen_1	0	0		false
 604802551	wh3_dlc27_sla_riders_2	wh3_dlc20_chs_cav_chaos_chariot_msla	0	0		false
 605883077	wh3_dlc26_ogr_camp_gnoblars_3	wh3_main_ogr_inf_gnoblars_1	0	0		false
 606273610	wh_dlc05_wef_tree_spirits_1	wh_dlc05_wef_inf_dryads_0	0	0		false
@@ -5566,7 +5566,7 @@ key	building	unit	XP	conditions	faction	enabled
 714916347	wh2_main_rogue_settlement_minor_2	wh_main_chs_cav_chaos_chariot	0	0		false
 715233351	wh2_main_rogue_settlement_major_3	wh2_main_hef_inf_lothern_sea_guard_0	0	0		false
 715402931	wh2_main_rogue_settlement_major_3	wh3_main_sla_veh_seeker_chariot_0	0	0		false
-715677791	wh3_cp1_cth_bhashiva_settlement_major_5	wh3_cp1_cth_inf_tiger_warriors_dual_axe	0	0		false
+715677791	wh3_cp1_cth_bhashiva_settlement_major_5	wh3_main_cth_inf_peasant_spearmen_1	0	0		false
 71577637	wh3_dlc25_dwf_workshop_infantry_2	wh_main_dwf_inf_thunderers_0	0	0		false
 716211445	wh2_main_rogue_settlement_major_1	wh_main_grn_inf_savage_orc_big_uns	0	0		false
 71628175	wh3_main_special_ksl_erengrad_2_2	wh3_main_ksl_veh_heavy_war_sled_0	0	0		false
@@ -5681,7 +5681,7 @@ key	building	unit	XP	conditions	faction	enabled
 75231263	wh3_dlc26_ogr_camp_gnoblars_1	wh3_main_ogr_inf_gnoblars_0	0	0		false
 752460038	wh3_main_tze_mounted_2	wh3_dlc20_chs_mon_warshrine_mtze	0	0		false
 752594981	wh3_dlc26_grn_goblins_2	wh_main_grn_inf_night_goblin_archers	0	0		false
-752616136	wh3_cp1_cth_bhashiva_settlement_major_1	wh3_cp1_cth_inf_tiger_warriors_dual_axe	0	0		false
+752616136	wh3_cp1_cth_bhashiva_settlement_major_1	wh3_main_cth_inf_peasant_spearmen_1	0	0		false
 752670095	wh2_main_skv_clanrats_2	wh2_main_skv_inf_clanrat_spearmen_0	0	0		false
 7527145	wh2_dlc17_bst_special_settlement_naggarond_3	wh_dlc03_bst_inf_ungor_herd_1	0	0		false
 752937214	wh3_dlc26_grn_goblins_2	wh_main_grn_inf_goblin_spearmen	0	0		false
@@ -6248,6 +6248,7 @@ key	building	unit	XP	conditions	faction	enabled
 948246738	wh2_main_horde_rogue_settlement_2	wh_main_emp_cav_outriders_1	0	0		false
 948554430	wh_dlc06_dwf_ranger_hub_1_all	wh_dlc06_dwf_inf_rangers_0	0	0		false
 948813579	wh3_main_cth_bastion_primary_5	wh3_main_cth_mon_terracotta_sentinel_0	0	0		false
+949278408	wh3_cp1_cth_living_forge_tigers_3	wh3_main_cth_veh_war_compass_0	0	0		false
 949951198	wh2_main_def_barracks_3	wh2_dlc10_def_inf_sisters_of_slaughter	0	0		false
 950122706	wh2_main_rogue_settlement_major_2	wh3_main_kho_inf_chaos_warhounds_0	0	0		false
 951212893	wh2_dlc11_vampirecoast_military_barracks_3	wh2_dlc11_cst_mon_scurvy_dogs	0	0		false
@@ -6362,7 +6363,6 @@ key	building	unit	XP	conditions	faction	enabled
 989268253	wh3_main_dae_nur_settlement_minor_2	wh3_main_nur_inf_chaos_furies_0	0	0		false
 99008293	wh_main_emp_forges_3	wh_main_emp_art_helblaster_volley_gun	0	0		false
 990333579	wh2_main_rogue_settlement_minor_1	wh3_main_kho_inf_chaos_warriors_2	0	0		false
-990733533	wh3_cp1_cth_alchemist_tigers_3	wh3_dlc24_cth_veh_zhangu_war_drum	0	0		false
 990786117	wh2_main_rogue_settlement_major_1	wh2_main_def_cav_cold_one_knights_1	0	0		false
 991764215	wh2_dlc13_horde_lizardmen_beasts_3	wh2_main_lzd_mon_bastiladon_2	0	0		false
 99186266	wh2_dlc17_bst_special_settlement_castle_drakenhof_4	wh_dlc03_bst_feral_manticore	0	0		false
