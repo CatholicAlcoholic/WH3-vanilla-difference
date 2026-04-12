@@ -662,7 +662,7 @@ wh3_cp1_cth_den_tigers_bhashiva			military	false	wh2_main_sch_military3_warmachi
 wh3_cp1_cth_foreign_slot_discovery_tigers			money	false	wh2_main_sch_foreign_slot_discovery		9		true	false
 wh3_cp1_cth_gunpowder_tigers			military	false	wh2_main_sch_support4_other		2		true	false
 wh3_cp1_cth_living_forge_tigers			military	false	wh2_main_sch_support3_wizards		3		true	false
-wh3_cp1_cth_peasants_tigers			military	false	wh2_main_sch_military1_barracks		2		true	false
+wh3_cp1_cth_peasants_tigers			military	false	wh2_main_sch_military1_barracks		1		true	false
 wh3_cp1_cth_tiger_court_kamau			money	false	wh2_main_sch_infrastructure1_farm		1		true	false
 wh3_cp1_cth_tiger_court_thousand_gods			money	false	wh2_main_sch_infrastructure2_industry		3		true	false
 wh3_cp1_cth_tiger_court_white_tiger			money	false	wh2_main_sch_infrastructure3_order		2		true	false

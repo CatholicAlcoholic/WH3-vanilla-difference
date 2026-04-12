@@ -386,7 +386,7 @@ wh3_cp1_cth_bhashiva_katara_dual	0	20	140	360	3.0000	sword	sword	medium	8	1.0000
 wh3_cp1_cth_clawspeaker_staff	0	0	200	125	3.0000	spear	staff	medium	5	1.0000	0.7500	0.0000	true		0	10	3.8000		false
 wh3_cp1_cth_iron_claw_guandao	20	0	12	38	2.0000	spear	halberd	small	1	1.0000	0.7500	0.0000	false		0	10	3.8000		false
 wh3_cp1_cth_sawai_glaive	30	0	170	280	3.0000	spear	spear	large	6	2.0000	0.7500	0.0000	false		0	10	3.5000		false
-wh3_cp1_cth_stalker_katara	0	0	9	16	1.0000	sword	sword	small	1	1.0000	0.7500	0.0000	false		0	10	3.8000		false
+wh3_cp1_cth_stalker_katara	0	0	14	18	1.0000	sword	sword	small	1	1.0000	0.7500	0.0000	false		0	10	3.8000		false
 wh3_cp1_cth_taoyan_trident	35	0	215	245	3.0000	spear	halberd	large	8	1.5000	0.7500	0.0000	true		0	10	3.0000		false
 wh3_cp1_cth_tiger_warrior_axe_dual	0	5	38	12	1.0000	axe	axe	small	1	1.0000	0.7500	0.0000	false		0	10	3.8000		false
 wh3_dlc20_chaos_knight_mkho_lance	0	0	36	17	2.0000	lance	spear		1	1.0000	0.5000	1.0000	false		0	10	5.0000		false

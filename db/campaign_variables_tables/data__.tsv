@@ -1015,7 +1015,7 @@ tunnel_interception_chance_base	40.0000
 tunnel_interception_chance_tunnelled_last_turn	10.0000
 tunnel_interception_range	10.0000
 ui_adventures_feature_unlock_turn	5.0000
-ui_armies_of_shang_yang_required_resource_gained_to_unlock	250.0000
+ui_armies_of_shang_yang_required_resource_gained_to_unlock	200.0000
 ui_circle_of_betrayal_unlock_turn	4.0000
 ui_convoys_feature_unlock_turn	5.0000
 ui_gom_feature_unlock_turn	5.0000

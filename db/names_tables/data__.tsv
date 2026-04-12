@@ -5199,6 +5199,7 @@ id	names_group	type	gender	frequency
 280710581	names_chd_bull_centaurs	family_name	b	1
 280742539	names_skv_skaven	family_name	b	1
 281092834	names_nor_norsca	family_name	m	1
+2811903	names_tze_tzeentch	forename	b	0
 281290559	names_chd_chaos_dwarfs	family_name	b	1
 281825148	names_ogr_ogre_kingdom	family_name	m	1
 28191196	names_hef_high_elves	forename	f	1
@@ -6638,6 +6639,7 @@ id	names_group	type	gender	frequency
 899808332	names_sla_slaanesh	forename	b	1
 900380766	names_nur_nurgle	forename	b	1
 900870956	names_ksl_kislev	family_name	b	1
+901119261	names_tze_tzeentch	family_name	b	0
 901311574	names_bst_beastmen	forename	b	0
 901372571	names_ksl_kislev_pro	family_name	m	1
 901835743	names_lzd_lizardmen	forename	b	1

@@ -1720,9 +1720,9 @@ wh2_twa03_special_settlement_konquata_lzd_ruin	wh2_twa03_special_settlement_konq
 wh3_cp1_cth_alchemist_tigers_1	wh3_cp1_cth_alchemist_tigers	0	4	3000	0		false	false			true	wh3_cp1_cth_alchemist_tigers	false	0.0000	0	true	3		true	0	0		0		-1
 wh3_cp1_cth_alchemist_tigers_2	wh3_cp1_cth_alchemist_tigers	1	5	6000	0		false	false			true	wh3_cp1_cth_alchemist_tigers	false	0.0000	0	true	4		true	0	0		0		-1
 wh3_cp1_cth_alchemist_tigers_3	wh3_cp1_cth_alchemist_tigers	2	6	10000	0		false	false			true	wh3_cp1_cth_alchemist_tigers	false	0.0000	0	true	5		true	0	0		0		-1
-wh3_cp1_cth_armoury_tigers_0	wh3_cp1_cth_armoury_tigers	0	2	1500	0		false	false			true	wh3_cp1_cth_armoury_tigers	false	0.0000	0	true	1		true	0	0		0		-1
-wh3_cp1_cth_armoury_tigers_1	wh3_cp1_cth_armoury_tigers	1	4	3000	0		false	false			true	wh3_cp1_cth_armoury_tigers	false	0.0000	0	true	2		true	0	0		0		-1
-wh3_cp1_cth_armoury_tigers_2	wh3_cp1_cth_armoury_tigers	2	6	6000	0		false	false			true	wh3_cp1_cth_armoury_tigers	false	0.0000	0	true	3		true	0	0		0		-1
+wh3_cp1_cth_armoury_tigers_0	wh3_cp1_cth_armoury_tigers	0	1	1500	0		false	false			true	wh3_cp1_cth_armoury_tigers	false	0.0000	0	true	1		true	0	0		0		-1
+wh3_cp1_cth_armoury_tigers_1	wh3_cp1_cth_armoury_tigers	1	2	3000	0		false	false			true	wh3_cp1_cth_armoury_tigers	false	0.0000	0	true	2		true	0	0		0		-1
+wh3_cp1_cth_armoury_tigers_2	wh3_cp1_cth_armoury_tigers	2	4	6000	0		false	false			true	wh3_cp1_cth_armoury_tigers	false	0.0000	0	true	3		true	0	0		0		-1
 wh3_cp1_cth_bhashiva_settlement_major_1	wh3_cp1_cth_bhashiva_settlement_major	1	3	1000	0		false	false			true	wh_main_HUMAN_settlement_major	false	0.0000	0	true	0	wh3_cam_settlement_major_cathay	true	0	0		0		-1
 wh3_cp1_cth_bhashiva_settlement_major_2	wh3_cp1_cth_bhashiva_settlement_major	2	4	2000	0		false	false			true	wh_main_HUMAN_settlement_major	false	0.0000	1	true	0	wh3_cam_settlement_major_cathay	true	0	0		0		-1
 wh3_cp1_cth_bhashiva_settlement_major_3	wh3_cp1_cth_bhashiva_settlement_major	3	5	4000	0		false	false			true	wh_main_HUMAN_settlement_major	false	0.0000	2	true	0	wh3_cam_settlement_major_cathay	true	0	0		0		-1

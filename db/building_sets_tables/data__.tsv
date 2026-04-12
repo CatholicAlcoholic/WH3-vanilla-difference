@@ -94,6 +94,7 @@ wh2_main_set_skaven_military_recruitment	UI/Buildings/Icons/skaven_cat_recruitme
 wh2_main_set_skaven_military_support	UI/Buildings/Icons/skaven_cat_support.png	5	true	Advanced_Military	4B4158
 wh2_main_set_skaven_plague	placeholder	0	false		FFFFFF
 wh2_main_set_skaven_port	placeholder	1	true	Resource	354551
+wh3_cp1_set_cth_military_recruitment_bhashiva	UI/Buildings/Icons/cathay_cat_military.png	4	true	Military_Recruitment	781414
 wh3_cp1_set_cth_military_support	UI/Buildings/Icons/cathay_cat_support.png	5	true	Advanced_Military	4B4158
 wh3_cp1_set_cth_tiger_court	UI/Buildings/Icons/cathay_cat_tiger_court.png	8	true	Infrastructure	366E70
 wh3_cp1_set_cth_tiger_court_bhashiva	placeholder	0	false		FFFFFF

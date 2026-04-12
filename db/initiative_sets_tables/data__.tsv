@@ -1,29 +1,10 @@
 key	active_initiative_limit	activation_cooldown	category	points_limit	allows_multiple_activation	base_cost	use_force_pooled_resources
 #initiative_sets_tables;7;db/initiative_sets_tables/data__							
-wh3_cp1_cth_initiative_set_armies_supplies_tier_1_upgrade_1	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_1_upgrade_2	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_1_upgrade_3	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_1_upgrade_4	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_2_upgrade_1	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_2_upgrade_2	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_2_upgrade_3	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_2_upgrade_4	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_3_upgrade_1	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_3_upgrade_2	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_3_upgrade_3	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_3_upgrade_4	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_4_upgrade_1	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_4_upgrade_2	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_4_upgrade_3	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_4_upgrade_4	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_5_upgrade_1	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_5_upgrade_2	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_5_upgrade_3	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
-wh3_cp1_cth_initiative_set_armies_supplies_tier_5_upgrade_4	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
+wh3_cp1_cth_initiative_set_aosy_ancillaries	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
+wh3_cp1_cth_initiative_set_aosy_military_buildings	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
 wh3_cp1_cth_initiative_set_court_position_bhashiva	0	1	CP1_CTH_COURT_INITATIVES	0	false		false
 wh3_cp1_cth_initiative_set_court_position_military	0	1	CP1_CTH_COURT_INITATIVES	0	false		false
 wh3_cp1_cth_initiative_set_court_position_spiritual	0	1	CP1_CTH_COURT_INITATIVES	0	false		false
-wh3_cp1_cth_initiative_set_military_buildings	-1	0	CP1_CTH_TIGER_BUILDINGS	0	false		false
 wh3_dlc20_character_initiative_set_boons_chaos_lord_khorne	-1	0	PATH_TO_GLORY_BOON	0	false		false
 wh3_dlc20_character_initiative_set_boons_chaos_lord_slaanesh	-1	0	PATH_TO_GLORY_BOON	0	false		false
 wh3_dlc20_character_initiative_set_boons_chaos_lord_undivided	-1	0	PATH_TO_GLORY_BOON	0	false		false

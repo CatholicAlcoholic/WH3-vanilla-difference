@@ -1841,7 +1841,6 @@ key	building	unit	XP	conditions	faction	enabled
 1572157786	wh3_main_dae_advanced_kho_3	wh3_dlc26_kho_inf_khorngors	0	0		false
 1572192615	wh2_main_special_fortress_gate_phoenix_skaven_3	wh2_main_skv_inf_skavenslave_spearmen_0	0	0		false
 1572228416	wh_main_grn_military_2	wh_main_grn_inf_orc_boyz	0	0		false
-1572446612	wh3_cp1_cth_living_forge_tigers_1	wh3_main_cth_veh_war_compass_0	0	0		false
 1572448846	wh2_main_lzd_terradons_2_tiktakto	wh2_main_lzd_cav_terradon_riders_0	0	0		false
 1572646621	wh2_dlc15_hef_field_hq_3	wh2_dlc15_hef_inf_mistwalkers_spireguard_0	0	0		false
 157304608	wh3_dlc23_special_drazhoath_great_drill_of_hashut_2	wh3_dlc23_chd_inf_chaos_dwarf_warriors	0	0		false
@@ -1875,7 +1874,6 @@ key	building	unit	XP	conditions	faction	enabled
 1583886077	wh_main_special_settlement_castle_drakenhof_3_emp	wh2_dlc13_emp_inf_archers_0	0	0		false
 1584012735	wh2_main_horde_rogue_settlement_2	wh3_main_sla_mon_spawn_of_slaanesh_0	0	0		false
 1584363838	wh_main_dwf_settlement_major_1	wh_main_dwf_inf_miners_0	0	0		false
-158450699	wh3_cp1_cth_living_forge_tigers_2	wh3_main_cth_veh_war_compass_0	0	0		false
 1584720502	wh2_main_rogue_settlement_minor_2	wh3_main_nur_inf_plaguebearers_1	0	0		false
 1584889282	wh2_main_rogue_settlement_minor_2	wh_dlc06_chs_cav_marauder_horsemasters_0	0	0		false
 1585056407	wh2_main_rogue_settlement_major_1	wh3_main_nur_mon_plague_toads_0	0	0		false
@@ -6248,7 +6246,6 @@ key	building	unit	XP	conditions	faction	enabled
 948246738	wh2_main_horde_rogue_settlement_2	wh_main_emp_cav_outriders_1	0	0		false
 948554430	wh_dlc06_dwf_ranger_hub_1_all	wh_dlc06_dwf_inf_rangers_0	0	0		false
 948813579	wh3_main_cth_bastion_primary_5	wh3_main_cth_mon_terracotta_sentinel_0	0	0		false
-949278408	wh3_cp1_cth_living_forge_tigers_3	wh3_main_cth_veh_war_compass_0	0	0		false
 949951198	wh2_main_def_barracks_3	wh2_dlc10_def_inf_sisters_of_slaughter	0	0		false
 950122706	wh2_main_rogue_settlement_major_2	wh3_main_kho_inf_chaos_warhounds_0	0	0		false
 951212893	wh2_dlc11_vampirecoast_military_barracks_3	wh2_dlc11_cst_mon_scurvy_dogs	0	0		false
