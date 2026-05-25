@@ -559,7 +559,6 @@ wh2_main_tech_skv_8_5	wh_main_chs_port_ruin	1	wh2_skv_tech_rule_through_fear	fal
 wh2_main_tech_skv_9_0	wh_main_chs_port_ruin	1	wh2_skv_tech_swarming	false	false		8429	false	false	true	false
 wh2_main_tech_skv_9_1	wh_main_chs_port_ruin	1	wh2_skv_tech_new_warpstone_uses	false	false		8435	false	false	true	false
 wh2_main_tech_skv_9_2	wh_main_chs_port_ruin	1	wh2_skv_tech_ultimate_experiments	false	false		8442	false	false	true	false
-wh3_cp1_tech_cth_10_bhashiva	wh_main_chs_port_ruin	1	0_placeholder_tech_icon	false	false	"placeholder.tga"	775784484	false	false	true	false
 wh3_cp1_tech_cth_19_bhashiva	wh_main_chs_port_ruin	1	wh3_main_tech_cth_19	false	false	"placeholder.tga"	2111382081	false	false	true	false
 wh3_cp1_tech_cth_22_bhashiva	wh_main_chs_port_ruin	1	wh3_main_tech_cth_22	false	false	"placeholder.tga"	1805220469	false	false	true	false
 wh3_cp1_tech_cth_2_bhashiva	wh_main_chs_port_ruin	1	wh3_main_tech_cth_2	false	false	"placeholder.tga"	990835089	false	false	true	false

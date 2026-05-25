@@ -18,6 +18,8 @@ aversion	false
 base_amount	false
 base_fealty	false
 battles	false
+battles_against	false
+battles_against_cathay	false
 battles_against_chaos	false
 battles_against_ice_court_enemies	false
 battles_against_orthodoxy_enemies	false
@@ -66,7 +68,6 @@ cth_compass	false
 cults	false
 da_plan_tactic_equipped	false
 daemonic_glory	false
-decay	false
 declared_war_on_bretonnia	false
 declared_war_on_elector_counts	false
 declared_war_on_kislev	false
@@ -135,6 +136,7 @@ inactivity	false
 incubated_captives	false
 invocation_of_hoeth	false
 invoking_the_motherland	false
+ivory_road	false
 key_settlements	false
 khornes_presence	false
 kills	false
@@ -227,7 +229,6 @@ temple_rewards	false
 the_dominating_scheme	false
 the_menace_below	false
 the_skull_throne	false
-tiger_court	false
 traits_bad	false
 traits_good	false
 travel	false
@@ -325,8 +326,6 @@ wh3_cp1_court_resource_military_permanent	false
 wh3_cp1_court_resource_military_temp	false
 wh3_cp1_court_resource_spiritual_permanent	false
 wh3_cp1_court_resource_spiritual_temp	false
-wh3_cp1_factor_enemy_force_settled	false
-wh3_cp1_factor_enemy_settlement_settled	false
 wh3_cp1_ivory_road	false
 wh3_cp1_tiger_court	false
 wh3_dlc20_souls_other	false

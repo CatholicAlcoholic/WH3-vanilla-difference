@@ -997,15 +997,9 @@ wh2_twa03_anc_weapon_whip_of_agony	wh_main_anc_weapon	.	false	false	false	1	0	99
 wh3_cp1_anc_armour_cth_ascendant_tiger	wh_main_anc_armour	.	true	false	false	1	0	9999			false	false	false	armour	16	1	50	75	true			130	0		false	false	false	anc_set_exclusive_cathay
 wh3_cp1_anc_armour_cth_claw_plate	wh_main_anc_armour	.	true	false	false	1	0	9999			false	false	false	armour	16	1	50	75	true			200	0		false	false	false	anc_set_exclusive_cathay
 wh3_cp1_anc_armour_cth_serpent_scales	wh_main_anc_armour	.	true	false	false	1	0	9999			false	false	false	armour	16	1	50	75	true			130	0		false	false	false	anc_set_exclusive_cathay
-wh3_cp1_anc_banner_cth_celestial_tracker	wh3_cp1_anc_banner_cth_celestial_tracker	.	true	false	false	1	0	9999			false	false	false	general	16	1	50	75	true		wh3_cp1_anc_banner_cth_ancestral_hunt	130	0	banner	false	false	false	anc_set_exclusive_cathay
-wh3_cp1_anc_banner_cth_dragons_standart	wh3_cp1_anc_banner_cth_dragons_standart	.	true	false	false	1	0	9999			false	false	false	general	16	1	50	75	true		wh3_cp1_anc_banner_cth_dragons_standart	130	0	banner	false	false	false	anc_set_exclusive_cathay
-wh3_cp1_anc_banner_cth_trappers_flag	wh3_cp1_anc_banner_cth_trappers_flag	.	true	false	false	1	0	9999			false	false	false	general	16	1	50	75	true		wh3_cp1_anc_banner_cth_claw_sun_tiger	130	0	banner	false	false	false	anc_set_exclusive_cathay
 wh3_cp1_anc_enchanted_item_heavens_gate	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	false	anc_set_exclusive_cathay
 wh3_cp1_anc_enchanted_item_hidden	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			80	0		false	false	true	anc_set_exclusive_cathay
 wh3_cp1_anc_enchanted_item_hidden_ogr	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			80	0		false	false	true	anc_set_exclusive_ogre_kingdoms
-wh3_cp1_anc_follower_cth_beast_slayer	wh3_cp1_anc_follower_cth_beast_slayer	.	true	false	false	1	0	9999			false	false	false	general	16	1	50	75	true			130	0	follower	false	false	false	anc_set_exclusive_cathay
-wh3_cp1_anc_follower_cth_desert_scout	wh3_cp1_anc_follower_cth_desert_scout	.	true	false	false	1	0	9999			false	false	false	general	16	1	50	75	true			130	0	follower	false	false	false	anc_set_exclusive_cathay
-wh3_cp1_anc_follower_cth_moon_stalker	wh3_cp1_anc_follower_cth_moon_stalker	.	true	false	false	1	0	9999			false	false	false	general	16	1	50	75	true			130	0	follower	false	false	false	anc_set_exclusive_cathay
 wh3_cp1_anc_talisman_cth_arcane_trinket	wh_main_anc_talisman	.	true	false	false	1	0	9999			false	false	false	talisman	16	1	50	75	true			130	0		false	false	false	anc_set_exclusive_cathay
 wh3_cp1_anc_talisman_cth_celestial_spirit_snare	wh_main_anc_talisman	.	true	false	false	1	0	9999			false	false	false	talisman	16	1	50	75	true			130	0		false	false	false	anc_set_exclusive_cathay
 wh3_cp1_anc_talisman_cth_tzeentchbane_teeth	wh_main_anc_talisman	.	true	false	false	1	0	9999			false	false	false	talisman	16	1	50	75	true			200	0		false	false	false	anc_set_exclusive_cathay

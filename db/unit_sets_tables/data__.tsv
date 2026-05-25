@@ -155,6 +155,7 @@ cth_cavalry	false	-1	-1
 cth_cavalry_rank7	true	7	9	
 cth_cavalry_rank7_ror	false	-1	-1	renown
 cth_celestial_dragon_guard	false	-1	-1	
+cth_celestial_dragon_guard_ror	false	-1	-1	renown
 cth_compass_terracotta_sentinel	false	-1	-1	
 cth_flyers	false	-1	-1	
 cth_flyers_rank7	true	7	9	
@@ -169,6 +170,7 @@ cth_lion_statues	false	-1	-1
 cth_melee	false	-1	-1	
 cth_melee_ogr	false	-1	-1	
 cth_missile_units	false	-1	-1	
+cth_missile_units_ror	false	-1	-1	renown
 cth_ranged_rank7	true	7	9	
 cth_ranged_rank7_ror	false	-1	-1	
 cth_yuan_bo_focus_units	false	-1	-1	
@@ -1004,7 +1006,6 @@ mp_cap_unit_cth_inf_dragon_guard_crossbowmen_ror	false	-1	-1
 mp_cap_unit_cth_inf_dragon_guard_ror_0	false	-1	-1	
 mp_cap_unit_cth_inf_grenadiers	false	-1	-1	
 mp_cap_unit_cth_inf_iron_claw_guandao	false	-1	-1	
-mp_cap_unit_cth_inf_iron_claw_shield_axe	false	-1	-1	
 mp_cap_unit_cth_inf_iron_hail_gunners_0	false	-1	-1	
 mp_cap_unit_cth_inf_jade_warrior_crossbowmen_0	false	-1	-1	
 mp_cap_unit_cth_inf_jade_warrior_crossbowmen_1	false	-1	-1	
@@ -1015,12 +1016,10 @@ mp_cap_unit_cth_inf_onyx_crowmen_ror	false	-1	-1
 mp_cap_unit_cth_inf_peasant_archers_0	false	-1	-1	
 mp_cap_unit_cth_inf_peasant_archers_ror	false	-1	-1	
 mp_cap_unit_cth_inf_peasant_spearmen_1	false	-1	-1	
-mp_cap_unit_cth_inf_stalkers_dual_katara	false	-1	-1	
-mp_cap_unit_cth_inf_stalkers_ror	false	-1	-1	
 mp_cap_unit_cth_inf_stalkers_throwing_disc	false	-1	-1	
 mp_cap_unit_cth_inf_tiger_warriors_dual_axe	false	-1	-1	
-mp_cap_unit_cth_inf_tiger_warriors_guandao	false	-1	-1	
-mp_cap_unit_cth_inf_tiger_warriors_shield_axe	false	-1	-1	
+mp_cap_unit_cth_mon_jade_lion	false	-1	-1	
+mp_cap_unit_cth_mon_jet_lion	false	-1	-1	
 mp_cap_unit_cth_mon_terracotta_sentinel_0	false	-1	-1	
 mp_cap_unit_cth_mon_terracotta_sentinel_0_ror	false	-1	-1	
 mp_cap_unit_cth_veh_sky_junk_0	false	-1	-1	
@@ -2509,12 +2508,15 @@ wh3_cp1_cth_bhashiva_machines_chain_units	false	-1	-1
 wh3_cp1_cth_cathay_heroes	false	-1	-1	
 wh3_cp1_cth_cavalry_rank7	true	7	9	
 wh3_cp1_cth_celestial_beasts	false	-1	-1	
-wh3_cp1_cth_celestial_dragon_guard_rank_7	true	7	-1	
+wh3_cp1_cth_celestial_dragon_guard_rank_7	true	7	9	
+wh3_cp1_cth_celestial_dragon_guard_rank_7_ror	false	-1	-1	renown
 wh3_cp1_cth_celestial_machines	false	-1	-1	
 wh3_cp1_cth_cha_taoyan	false	-1	-1	
 wh3_cp1_cth_constructs_rank7	true	7	9	
-wh3_cp1_cth_crane_gunners_rank_7	true	7	-1	
+wh3_cp1_cth_constructs_rank7_ror	false	-1	-1	renown
+wh3_cp1_cth_crane_gunners_rank_7	true	7	9	
 wh3_cp1_cth_crane_gunners_special	false	-1	-1	
+wh3_cp1_cth_crossbows	false	-1	-1	
 wh3_cp1_cth_fire_rain_rocket_battery_special	false	-1	-1	
 wh3_cp1_cth_flying_machines	false	-1	-1	
 wh3_cp1_cth_flying_melee	false	-1	-1	
@@ -2544,6 +2546,7 @@ wh3_cp1_cth_inf_tiger_warriors_iron_claw_r6	true	6	9
 wh3_cp1_cth_inf_tiger_warriors_iron_claw_r7	true	7	9	
 wh3_cp1_cth_inf_tiger_warriors_iron_claw_r8	true	8	9	
 wh3_cp1_cth_inf_tiger_warriors_iron_claw_r9	true	9	9	
+wh3_cp1_cth_inf_tiger_warriors_iron_claw_sawai	false	-1	-1	
 wh3_cp1_cth_inf_tiger_warriors_stalkers	false	-1	-1	
 wh3_cp1_cth_inf_tiger_warriors_stalkers_r1	true	1	9	
 wh3_cp1_cth_inf_tiger_warriors_stalkers_r2	true	2	9	
@@ -2578,6 +2581,9 @@ wh3_cp1_cth_tiger_warriors_r8	true	8	9
 wh3_cp1_cth_tiger_warriors_r9	true	9	9	
 wh3_cp1_cth_veh_sky_junk_rank7	true	7	9	
 wh3_cp1_cth_veh_sky_lantern_special	false	-1	-1	
+wh3_cp1_cth_veh_war_compass_rank7	true	7	9	
+wh3_cp1_cth_veh_zhangu_war_drum_rank7	true	7	9	
+wh3_cp1_cth_veh_zhangu_war_drum_rank7_ror	false	-1	-1	renown
 wh3_dlc20_chs_aspiring_champions_only	false	-1	-1	
 wh3_dlc20_chs_aspiring_champions_only_rank7	true	7	9	
 wh3_dlc20_chs_cav_marauder_horsemen_mkho_throwing_axes	false	-1	-1	

@@ -733,20 +733,24 @@ campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	wh3_cp1_skill_cth_alchemist_army_alchemical_hardening		x	4
 		1	wh3_cp1_skill_cth_alchemist_army_metallurgic_refining		x	4
 		1	wh3_cp1_skill_cth_alchemist_mount_sky_lantern		x	14
+		1	wh3_cp1_skill_cth_alchemist_unique_student_of_the_house_of_secrets		x	11
 		1	wh3_cp1_skill_cth_astromancer_astromantic_ward		x	13
 		1	wh3_cp1_skill_cth_astromancer_attuned_to_the_elements		x	11
 		1	wh3_cp1_skill_cth_astromancer_heavenly_bonds		x	13
 		1	wh3_cp1_skill_cth_astromancer_peerless_astromancy		x	13
 		1	wh3_cp1_skill_cth_bhashiva_unique_0		x	11
-		1	wh3_cp1_skill_cth_clawspeaker_beasts_mystic_0		x	12
-		1	wh3_cp1_skill_cth_clawspeaker_beasts_offense_0		x	12
-		1	wh3_cp1_skill_cth_clawspeaker_beasts_protect_0		x	12
-		1	wh3_cp1_skill_cth_clawspeaker_life_mystic_0		x	12
-		1	wh3_cp1_skill_cth_clawspeaker_life_offense_0		x	12
-		1	wh3_cp1_skill_cth_clawspeaker_life_protect_0		x	12
-		1	wh3_cp1_skill_cth_clawspeaker_shadows_mystic_0		x	12
-		1	wh3_cp1_skill_cth_clawspeaker_shadows_offense_0		x	12
-		1	wh3_cp1_skill_cth_clawspeaker_shadows_protect_0		x	12
+		1	wh3_cp1_skill_cth_clawspeaker_beasts_mystic_0		x	7
+		1	wh3_cp1_skill_cth_clawspeaker_beasts_offense_0		x	7
+		1	wh3_cp1_skill_cth_clawspeaker_beasts_protect_0		x	7
+		1	wh3_cp1_skill_cth_clawspeaker_beasts_unique_0		x	11
+		1	wh3_cp1_skill_cth_clawspeaker_life_mystic_0		x	7
+		1	wh3_cp1_skill_cth_clawspeaker_life_offense_0		x	7
+		1	wh3_cp1_skill_cth_clawspeaker_life_protect_0		x	7
+		1	wh3_cp1_skill_cth_clawspeaker_life_unique_0		x	11
+		1	wh3_cp1_skill_cth_clawspeaker_shadows_mystic_0		x	7
+		1	wh3_cp1_skill_cth_clawspeaker_shadows_offense_0		x	7
+		1	wh3_cp1_skill_cth_clawspeaker_shadows_protect_0		x	7
+		1	wh3_cp1_skill_cth_clawspeaker_shadows_unique_0		x	11
 		1	wh3_cp1_skill_cth_gate_master_unique_celestial_hunter		x	11
 		1	wh3_cp1_skill_cth_gate_master_unique_gifted_logistician		x	4
 		1	wh3_cp1_skill_cth_gate_master_unique_preparedness_drills		x	4
@@ -932,7 +936,7 @@ campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	wh3_dlc24_skill_cth_celestial_general_unique_1		x	7
 		1	wh3_dlc24_skill_cth_celestial_general_unique_6		x	9
 		1	wh3_dlc24_skill_cth_gate_master_mount_warhorse		x	6
-		1	wh3_dlc24_skill_cth_gate_master_unique_bulwark_of_the_gate		x	11
+		1	wh3_dlc24_skill_cth_gate_master_unique_bulwark_of_the_gate		x	9
 		1	wh3_dlc24_skill_cth_lord_magistrate_tactical_prowess		x	7
 		1	wh3_dlc24_skill_cth_saytang_character_0		x	11
 		1	wh3_dlc24_skill_cth_saytang_special_0		x	8

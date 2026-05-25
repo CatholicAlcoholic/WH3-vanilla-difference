@@ -142,8 +142,8 @@ wh2_main_spell_upgraded_poison	1	magic
 wh2_main_spell_upgraded_reloading	1	magic
 wh2_main_spell_upgraded_speed	1	magic
 wh3_cp1_ability_intensity_wom_spent	1	positive
-wh3_cp1_all_summon_celestial_dragon_guards	105	positive
 wh3_cp1_all_summon_celestial_lion	100	positive
+wh3_cp1_all_summon_iron_claw_tiger_warriors	105	positive
 wh3_cp1_heavens_gate	0	positive
 wh3_cp1_heavens_gate_vortex	1	positive
 wh3_cp1_on_fire	0	positive

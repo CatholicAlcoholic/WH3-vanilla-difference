@@ -173,6 +173,7 @@ UI_CAM_HUD_Building_Abandon	UI_CLICK_Building_Destroy		UI_MSO_Generic_Small			UI
 UI_CAM_HUD_Building_Convert	UI_CLICK_Building_Destroy		UI_MSO_Generic_Small			UI_CLICK_Building_Destroy	UI_CLICK_Building_Destroy				true	true
 UI_CAM_HUD_Building_Raze	UI_CLICK_Building_Destroy		UI_MSO_Generic_Small			UI_CLICK_Building_Destroy	UI_CLICK_Building_Destroy				true	true
 UI_CAM_HUD_Building_Repair	UI_CLICK_Building_Repair		UI_MSO_Generic_Small			UI_CLICK_Building_Repair	UI_CLICK_Building_Repair				true	true
+UI_CAM_HUD_CP1_CTH_Shang_Yang_Panel								UI_CAM_Fullscreen_CTH_Shang_Yang_Panel_Open	UI_CAM_Fullscreen_CTH_Shang_Yang_Panel_Close		true	true
 UI_CAM_HUD_CP1_CTH_Tiger_Court_Devote_Button	UI_CAM_Click_CTH_Tiger_Court_Devote_Button		UI_MSO_Generic_Medium				UI_CAM_Click_CTH_Tiger_Court_Devote_Button				true	true
 UI_CAM_HUD_CP1_CTH_Tiger_Court_Oath_Purchase_Button	UI_CAM_Click_CTH_Tiger_Court_Oath_Purchase		UI_MSO_Generic_Medium			UI_CLICK_Generic_Small	UI_CAM_Click_CTH_Tiger_Court_Oath_Purchase				true	true
 UI_CAM_HUD_CP1_CTH_Tiger_Court_Oath_Show_Button			UI_MSO_Generic_Medium			UI_CLICK_Generic_Small					true	true

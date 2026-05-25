@@ -409,6 +409,7 @@ wh3_main_ritual_belakor_gg_3_upgraded	wh3_ritual_belakor_great_game	our_faction	
 	wh3_ritual_chd_unit_caps	our_faction		
 	wh3_ritual_cst_rites	our_faction		
 wh3_main_ritual_profile_rites_cst_sea_mist	wh3_ritual_cst_rites	our_faction_if_enemy_armies_present		
+	wh3_ritual_cth_army_capacity	our_faction		
 	wh3_ritual_cth_court	our_faction		
 	wh3_ritual_cth_matters_of_state	our_faction		
 wh3_dlc24_ritual_cth_mos_balance_army_harmony_supremacy	wh3_ritual_cth_matters_of_state	our_faction	our_armies	

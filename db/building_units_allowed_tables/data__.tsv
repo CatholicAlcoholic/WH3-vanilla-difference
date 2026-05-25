@@ -4041,6 +4041,7 @@ key	building	unit	XP	conditions	faction	enabled
 361657613	wh2_dlc17_bst_special_settlement_oak_of_ages_5	wh_dlc03_bst_mon_chaos_spawn_0	0	0		false
 361689726	wh2_dlc16_special_sacred_pools_wef	wh2_dlc16_wef_mon_malicious_treeman_0	0	0		false
 362082349	wh2_main_def_beasts_2	wh2_main_def_inf_harpies	0	0		false
+362390657	wh3_main_cth_resource_gems_3	wh3_cp1_cth_inf_stalkers_throwing_disc	0	0		false
 362861661	wh2_main_rogue_settlement_major_1	wh_main_grn_mon_trolls	0	0		false
 362988848	wh3_main_ksl_settlement_minor_2	wh3_dlc24_ksl_inf_kislevite_warriors	0	0		false
 363334432	wh3_dlc27_special_throgg_chaos_trolls_1	wh3_dlc27_throgg_mon_chs_trolls_1	0	0		false
@@ -4131,6 +4132,7 @@ key	building	unit	XP	conditions	faction	enabled
 387776961	wh2_main_rogue_settlement_major_1	wh2_main_def_cav_cold_one_chariot	0	0		false
 388229127	wh_main_grn_settlement_major_1_wurrzag	wh3_main_grn_inf_goblins_sword_shield	0	0		false
 388378656	wh2_main_special_settlement_hellpit_1	wh2_main_skv_inf_skavenslave_spearmen_0	0	0		false
+390254805	wh3_main_cth_resource_gems_3	wh3_cp1_cth_inf_tiger_warriors_dual_axe	0	0		false
 390893264	wh_main_dwf_barracks_2	wh_main_dwf_inf_dwarf_warrior_1	0	0		false
 390962649	wh2_dlc17_bst_special_settlement_oak_of_ages_5	wh_dlc03_bst_inf_centigors_0	0	0		false
 391006580	wh_main_vmp_cemetary_3	wh3_main_vmp_inf_grave_guard_2	0	0		false
@@ -5187,6 +5189,7 @@ key	building	unit	XP	conditions	faction	enabled
 645984714	wh2_dlc17_bst_special_settlement_naggarond_5	wh_dlc03_bst_inf_gor_herd_0	0	0		false
 646147845	wh_main_vmp_vampires_2	wh3_main_vmp_blood_knights_sword_shield	0	0		false
 646279638	wh2_main_rogue_settlement_minor_2	wh2_dlc15_grn_mon_stone_trolls_0	0	0		false
+646322625	wh3_main_cth_resource_gems_2	wh3_cp1_cth_inf_tiger_warriors_dual_axe	0	0		false
 646420086	wh2_dlc17_bst_special_settlement_hexoatl_5	wh_dlc03_bst_inf_minotaurs_0	0	0		false
 64645	wh2_main_horde_rogue_settlement_2	wh_dlc04_vmp_veh_corpse_cart_0	0	0		false
 64651	wh2_main_horde_rogue_settlement_2	wh_dlc05_wef_cav_glade_riders_1	0	0		false
