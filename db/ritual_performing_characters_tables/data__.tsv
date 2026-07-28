@@ -16,6 +16,12 @@ eshin_contracts_tier_2			5	5
 eshin_contracts_tier_3			5	10	
 golgfag_character	wh3_dlc26_ogr_golgfag_maneater		0	0	
 hef_court_performing_lord			0	0	
+nagash_teleport	wh3_dlc29_nag_nagash		0	0	
+neferata_actions_tier_1	wh3_dlc29_vmp_lahmian_vampire		0	1	
+neferata_actions_tier_2	wh3_dlc29_vmp_lahmian_vampire		0	5	
+neferata_actions_tier_3	wh3_dlc29_vmp_lahmian_vampire		0	10	
+neferata_actions_tier_4	wh3_dlc29_vmp_lahmian_vampire		0	15	
+neferata_actions_tier_5	wh3_dlc29_vmp_lahmian_vampire		0	20	
 oxyotl_teleport	wh2_dlc17_lzd_oxyotl		0	0	
 skulltaker_teleport	wh3_dlc26_kho_skulltaker		0	0	
 wh3_cp1_bhashiva	wh3_cp1_cth_bhashiva		0	0	

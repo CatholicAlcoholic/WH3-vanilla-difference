@@ -1,5 +1,6 @@
 key	advice_thread	advice_thread_level	points_needed	game_area	category	sub_category	max_repeat_count	repeat_interval	pause_battle	advice_item_title	priority_level	high_verbosity_only	parameter	on_display_script	on_click_script	suppressible	uninhibitable	audio_clip	advisor_name	for_loading_screen	movie_link	force_2d_portrait	is_hidden_in_ui
 #advice_levels_tables;5;db/advice_levels_tables/data__																							
+1001541218	wh3_dlc29_ie_camp_vmp_neferata_intro_01	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	faction_leader	false		false	false
 1001682303	wh2_dlc13.camp.advice.lzd.warmblood_invaders.001	1	1	Campaign	Advice	Scripted	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
 1001950543	wh3_main_camp_narrative_shared_increase_control_02	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
 1002513161	wh2.camp.kroqgar.intro.004	1	1	Campaign	Advice	Camera Fly-bys	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
@@ -304,6 +305,7 @@ key	advice_thread	advice_thread_level	points_needed	game_area	category	sub_categ
 1222823947	wh2_dlc10.battle.speech.nor.battle_phoenix.001	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
 1223628519	wh3_dlc21_ie_camp_wef_sisters_of_twilight_intro_01	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	faction_leader	false		false	false
 122464715	wh2.camp.prelude.ft.002.def	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
+1225843523	wh3_dlc29_ie_camp_wh_main_emp_middenland_intro_01	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	faction_leader	false		false	false
 1228966554	wh3_main_camp_narrative_nurgle_plaguelords_blessings_01	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
 1230618316	wh2.camp.prelude.ft.022.def	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
 1232195696	wh2_dlc14.camp.advice.def.tzarkans_whispers.001	1	1	Campaign	Advice	Scripted	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
@@ -686,6 +688,7 @@ key	advice_thread	advice_thread_level	points_needed	game_area	category	sub_categ
 1551866217	wh3_main_battle_survival_khorne_04	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
 1552141405	wh3_prologue_narrative_17_8_1	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	prologue_yuri_1	false		true	false
 1552717249	wh3_camp_realm_of_chaos_azazel_intro_003	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	faction_leader	false		false	false
+1553380992	wh3_dlc29_nagash_cam_quest_mission_001	1	1	Campaign	Advice	Camera Fly-bys	0	0	false		0	false	none			false	false	n	faction_leader	false		false	false
 1556789231	wh3_prologue_battle_advice_enemy_visibility	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	prologue_advisor	false		true	false
 1557976401	wh3_dlc26_camp_quest_golgfag_bugmans_xxxxxx_001	1	1	Campaign	Advice	Camera Fly-bys	0	0	false		0	false	none			false	false	n	faction_leader	false		false	false
 1558506276	dlc09.camp.vortex.khalida.book_of_nagash.004	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	faction_leader	false		false	false
@@ -1367,6 +1370,7 @@ key	advice_thread	advice_thread_level	points_needed	game_area	category	sub_categ
 2123925857	wh3_main_camp_narrative_nurgle_summon_cyclical_unit_01	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
 2124256839	wh3_prologue_narrative_story_panel_10_1	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	faction_leader	false		false	false
 2124706041	wh3_main_camp_chaos_nur_poxmakers_nurgle_intro_03	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
+2124937505	wh3_dlc29_ie_camp_nur_host_of_the_triplets_intro_01	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	faction_leader	false		false	false
 2126633623	wh2_dlc15.camp.vortex.imrik.intro.002	1	1	Campaign	Advice	Camera Fly-bys	0	0	false		0	false	none			false	false	n	faction_leader	false		false	false
 2126845656	wh3_main_battle_survival_final_02	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
 2127886688	wh2.camp.vortex.advice.early_game.ritual_settlements_lokhir.0111	1	1	Campaign	Advice	Camera Fly-bys	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
@@ -2168,6 +2172,7 @@ key	advice_thread	advice_thread_level	points_needed	game_area	category	sub_categ
 416593766	wh3_main_camp_narrative_shared_corruption_trespasser_01	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
 417041286	wh3_main_camp_chaos_tze_oracles_tzeentch_intro_03	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
 417880118	wh3_prologue_narrative_32_1_1	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	prologue_yuri_3	false		true	false
+41867144	wh3_dlc29_ie_camp_und_host_of_nagash_intro_01	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	faction_leader	false		false	false
 420722037	wh3_main_camp_narrative_shared_military_alliance_01	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
 42304108	dlc09.camp.khalida.intro.003	1	1	Scripted	Advice	Scripted	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
 423166166	wh2_dlc11.camp.noctilus.intro.001	1	1	Campaign	Advice	Camera Fly-bys	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
@@ -2241,6 +2246,7 @@ key	advice_thread	advice_thread_level	points_needed	game_area	category	sub_categ
 469296764	wh2_dlc13_camp_me_flyby_markus_wulfhart_001	1	1	Campaign	Advice	Camera Fly-bys	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
 470324677	wh3_prologue_narrative_12_5_1	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	prologue_advisor	false		true	false
 470497323	wh2_dlc11.camp.vortex.Luthor_Harkon.intro.004	1	1	Campaign	Advice	Camera Fly-bys	0	0	false		0	false	none			false	false	n	faction_leader	false		false	false
+47052368	wh3_dlc29_ie_camp_skv_clan_scruten_intro_01	1	1	Scripted	Scripted	Scripted	0	0	false		0	false	none			false	false	n	faction_leader	false		false	false
 471137289	wh2_dlc14.camp.advice.def.malus_vortex_mission.005	1	1	Campaign	Advice	Scripted	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false
 47146559	wh3_dlc20_azazel_cam_final_battle_mission_001	1	1	Campaign	Advice	Camera Fly-bys	0	0	false		0	false	none			false	false	n	faction_leader	false		false	false
 472410082	wh2.camp.vortex.advice.early_game.ritual_settlements.041	1	1	Campaign	Advice	Camera Fly-bys	0	0	false		0	false	none			false	false	n	standard_advisor	false		false	false

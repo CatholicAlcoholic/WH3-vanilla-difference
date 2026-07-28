@@ -37,6 +37,7 @@ can_attack_gates	positive	16
 can_attack_walls	positive	14	
 can_fly	positive	82	
 cant_attack_air	negative	153	
+celestial_hurricanum	positive	1	
 chameleon	positive	20	
 chaos_warshrine	positive	1	
 charge_reflector	positive	42	
@@ -163,6 +164,7 @@ river_troll	positive	0
 runes_of_binding	negative	1	
 runic_magic	positive	0	
 scaling_damage	positive	0	
+scaling_damage_kills	positive	0	
 scaly_skin	positive	22	
 sea_dragon_cloak	positive	1	
 shapeshifter	positive	1	
@@ -219,6 +221,8 @@ wh3_dlc27_masque_dance	positive	1
 wh3_dlc27_militia_qb	negative	1	
 wh3_dlc27_momentum	positive	100	
 wh3_dlc27_multi_arm	positive	2	
+wh3_dlc29_boneripper_braziers	positive	1	
+wh3_dlc29_boneripper_projectors	positive	1	
 whirling_axes	positive	63	
 yang	positive	1	ui/battle ui/ability_icons/yang.png
 yin	positive	1	ui/battle ui/ability_icons/yin.png

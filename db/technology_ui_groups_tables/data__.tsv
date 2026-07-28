@@ -10,6 +10,7 @@ cst_1		AF4B7D
 cst_2		AF4B7D
 cst_3		AF4B7D
 cst_5		AF4B7D
+emp_Imperial_college_boris		2850AF
 emp_aca		AF96FA
 emp_aca_wulfhart		AF96FA
 emp_art		AF6464
@@ -27,9 +28,12 @@ emp_mil		AF6464
 emp_mil_wulfhart		AF6464
 emp_missile_wulfhart		AF6464
 emp_missiles		AF6464
+emp_state_troops_boris		AF6464
 emp_state_troops_elspeth		AF6464
 emp_state_troops_gelt		AF6464
+emp_state_troops_volkmar		AF6464
 emp_unique		AF5028
+emp_unique_boris		2850AF
 emp_unique_elspeth		AF6464
 emp_unique_gelt		AF6464
 emp_unique_volkmar		AF5028
@@ -128,3 +132,12 @@ wh3_dlc27_bundle_sla_decadence_2		AF00AF
 wh3_dlc27_bundle_sla_decadence_3		AF00AF
 wh3_dlc27_bundle_sla_decadence_4		AF00AF
 wh3_dlc27_bundle_sla_decadence_5		AF00AF
+wh3_dlc29_books		40E0D0
+wh3_dlc29_nef_covens		FF0000
+wh3_dlc29_nef_handmaidens		FF0000
+wh3_dlc29_nef_high_mistress		FF0000
+wh3_main_vmp_corpses		00FF00
+wh3_main_vmp_dead_rise		FF9696
+wh3_main_vmp_units_1		7EA07A
+wh3_main_vmp_units_2		A020F0
+wh3_main_vmp_vampire		FF0000

@@ -128,7 +128,7 @@ wh2_main_skv_clan_pestilens	1	150
 wh2_main_skv_clan_septik	12	150
 wh2_main_skv_clan_skryre	3	150
 wh2_main_skv_clan_spittel	14	150
-wh2_main_skv_grey_seer_clan	15	150
+wh2_main_skv_grey_seer_clan	6	150
 wh2_main_skv_skaven	0	150
 wh2_main_vmp_necrarch_brotherhood	7	200
 wh2_main_vmp_strygos_empire	8	200
@@ -180,6 +180,10 @@ wh3_dlc27_nor_sayl	28	120
 wh3_dlc27_sla_masque_of_slaanesh	220	160
 wh3_dlc27_sla_the_tormentors	219	160
 wh3_dlc27_the_narj	22	120
+wh3_dlc29_chs_host_of_the_triplets	24	210
+wh3_dlc29_nag_host_of_nagash	1	230
+wh3_dlc29_skv_clan_scruten	10	150
+wh3_dlc29_vmp_neferata	15	200
 wh3_main_brt_aquitaine	4	10
 wh3_main_chs_dreaded_wo	19	210
 wh3_main_chs_gharhar	20	210
@@ -318,12 +322,12 @@ wh_main_dwf_karak_norn	9	50
 wh_main_dwf_karak_ziflin	10	50
 wh_main_dwf_kraka_drak	11	50
 wh_main_dwf_zhufbar	12	50
-wh_main_emp_averland	5	60
+wh_main_emp_averland	6	60
 wh_main_emp_empire	0	60
-wh_main_emp_hochland	6	60
+wh_main_emp_hochland	7	60
 wh_main_emp_marienburg	13	60
-wh_main_emp_middenland	8	60
-wh_main_emp_nordland	7	60
+wh_main_emp_middenland	5	60
+wh_main_emp_nordland	8	60
 wh_main_emp_ostermark	9	60
 wh_main_emp_ostland	10	60
 wh_main_emp_stirland	11	60

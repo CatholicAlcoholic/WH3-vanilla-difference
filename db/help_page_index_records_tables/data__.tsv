@@ -122,6 +122,7 @@ campaign_chaos_cults	183	1	false	true
 campaign_chaos_dwarfs	380	1	false	true
 campaign_chaos_gifts	781	2	false	true
 campaign_chaos_rifts	153	1	false	true
+campaign_chaotic_plans	578	2	false	true
 campaign_character_details	1510	1	false	true
 campaign_character_details_panel	1511	1	false	true
 campaign_character_info_panel	1513	1	false	true
@@ -196,6 +197,7 @@ campaign_gifts_of_slaanesh	283	2	false	true
 campaign_gods	862	2	false	true
 campaign_gotrek_and_felix	950	1	false	true
 campaign_great_bastion	343	2	false	true
+campaign_great_temple_of_ulric	710	2	false	true
 campaign_green_knight	803	2	false	true
 campaign_greenskins	740	1	false	true
 campaign_grimoires	301	2	false	true
@@ -232,6 +234,7 @@ campaign_magic_items	1512	1	false	true
 campaign_malakais_adventures	727	2	false	true
 campaign_marauding	864	2	false	true
 campaign_marked_for_death	507	2	false	true
+campaign_marks_of_nurgle	789	2	false	true
 campaign_marks_of_ruination	845	2	false	true
 campaign_marks_of_vindictiveness	287	2	false	true
 campaign_matters_of_state	345	2	false	true
@@ -246,11 +249,14 @@ campaign_monsters	863	2	false	true
 campaign_mortal_worlds_torment	506	2	false	true
 campaign_mortuary_cult	582	2	false	true
 campaign_motherland	322	2	false	true
-campaign_nemesis_crown	45	1	false	true
+campaign_nemesis_crown	46	1	false	true
 campaign_non_aggression_pacts	1241	1	false	true
 campaign_norsca	860	1	false	true
 campaign_norscan_homelands	784	2	false	true
 campaign_nurgle	260	1	false	true
+campaign_nurgle_blessings	788	2	false	true
+campaign_nurgle_gardens	790	2	false	true
+campaign_nurgle_rains	791	2	false	true
 campaign_oak_of_ages	823	2	false	true
 campaign_oathgold	724	2	false	true
 campaign_ogre_camps	362	2	false	true
@@ -353,6 +359,7 @@ campaign_treasury_panel	1004	2	false	true
 campaign_tribal_confederation	1245	1	false	true
 campaign_trickster_cults	306	2	false	true
 campaign_turns	41	1	false	true
+campaign_twitch_integration	44	1	false	true
 campaign_tyrants_demands	365	2	false	true
 campaign_tzeentch	300	1	false	true
 campaign_underway	1632	2	false	true
@@ -381,7 +388,7 @@ campaign_war_coordination	1222	2	false	true
 campaign_warbands	787	2	false	true
 campaign_warmblood_invaders	558	2	false	false
 campaign_warriors_of_chaos	780	1	false	true
-campaign_winds_of_magic	44	1	false	true
+campaign_winds_of_magic	45	1	false	true
 campaign_winds_of_magic_manipulation	304	2	false	true
 campaign_witchs_hut	325	2	false	true
 campaign_wood_elves	820	1	false	true

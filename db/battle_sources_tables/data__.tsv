@@ -380,6 +380,8 @@ wh3_chs_wastes_01_06	false
 wh3_chs_wastes_01_07	false
 wh3_chs_wastes_01_09	false
 wh3_chs_wastes_01_ogr_camps	false
+wh3_cp1_bhashiva_final_battle	false
+wh3_cp1_bhashiva_qb1	false
 wh3_cth_desert_01_01	false
 wh3_cth_desert_01_02	false
 wh3_cth_desert_01_03	false
@@ -476,6 +478,8 @@ wh3_dlc27_qb_nor_sayl_final_battle	false
 wh3_dlc27_qb_sla_dechala_final_battle	false
 wh3_dlc27_qb_sla_masque_pantomime_of_seduction	false
 wh3_dlc27_tower_of_ashshair	false
+wh3_dlc29_qb_chs_glottkin_final_battle	false
+wh3_dlc29_qb_chs_glottkin_war_in_the_darkwald	false
 wh3_domination_lzd_01	false
 wh3_domination_tmb_01	false
 wh3_emp_forest_01_01	false

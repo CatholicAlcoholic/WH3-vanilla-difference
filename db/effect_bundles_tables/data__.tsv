@@ -1,17 +1,17 @@
 key	localised_description	localised_title	bundle_target	priority	ui_icon	is_global_effect	show_in_3d_space	owner_only
 #effect_bundles_tables;4;db/effect_bundles_tables/data__								
-wh2_dlc09_books_of_nagash_reward_1		First Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh2_dlc09_books_of_nagash_reward_2		Second Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh2_dlc09_books_of_nagash_reward_3		Third Book of Nagash	faction	1	books_of_nagash.png	false	false	true
+wh2_dlc09_books_of_nagash_reward_1		First Book of Nagash	force	1	books_of_nagash.png	false	false	true
+wh2_dlc09_books_of_nagash_reward_2		Second Book of Nagash	force	1	books_of_nagash.png	false	false	true
+wh2_dlc09_books_of_nagash_reward_3		Third Book of Nagash	force	1	books_of_nagash.png	false	false	true
 wh2_dlc09_books_of_nagash_reward_3_army		Third Book of Nagash	force	1	books_of_nagash.png	false	false	true
 wh2_dlc09_books_of_nagash_reward_3_region_occupy		Third Book of Nagash	region	1	books_of_nagash.png	false	false	true
 wh2_dlc09_books_of_nagash_reward_3_region_sack		Third Book of Nagash	region	1	books_of_nagash.png	false	false	true
-wh2_dlc09_books_of_nagash_reward_4		Fourth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh2_dlc09_books_of_nagash_reward_5		Fifth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh2_dlc09_books_of_nagash_reward_6		Sixth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh2_dlc09_books_of_nagash_reward_7		Seventh Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh2_dlc09_books_of_nagash_reward_8		Eighth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh2_dlc09_books_of_nagash_reward_9		Ninth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
+wh2_dlc09_books_of_nagash_reward_4		Fourth Book of Nagash	force	1	books_of_nagash.png	false	false	true
+wh2_dlc09_books_of_nagash_reward_5		Fifth Book of Nagash	force	1	books_of_nagash.png	false	false	true
+wh2_dlc09_books_of_nagash_reward_6		Sixth Book of Nagash	force	1	books_of_nagash.png	false	false	true
+wh2_dlc09_books_of_nagash_reward_7		Seventh Book of Nagash	force	1	books_of_nagash.png	false	false	true
+wh2_dlc09_books_of_nagash_reward_8		Eighth Book of Nagash	force	1	books_of_nagash.png	false	false	true
+wh2_dlc09_books_of_nagash_reward_9		Ninth Book of Nagash	force	1	books_of_nagash.png	false	false	true
 wh2_dlc09_bundle_anc_magic_standard_banner_of_the_hidden_dead		Banner of the Hidden Dead	character	1	public_order.png	true	false	true
 wh2_dlc09_bundle_anc_magic_standard_standard_of_the_undying_legion		Standard of the Undying Legion	character	1	public_order.png	true	false	true
 wh2_dlc09_bundle_book_rogue_army			force	0		true	false	true
@@ -332,22 +332,21 @@ wh2_dlc11_ror_reward_5	A mysterious glob of Athel Loren amber, enchanted to ensu
 wh2_dlc11_ror_reward_6	Only this final gold bar can manifest the trigger-happy apparitions that serve the Shadewraith’s ghostly turncoat captain.	Von Zeich’s Last Ingot	faction	1	cst_piece_of_eight.png	true	false	true
 wh2_dlc11_ror_reward_7	The great warriors’ souls trapped within wait to be returned to this plain as terrifying sentries in service to the admirals of the night.	The Stone of Schwartzhafen	faction	1	cst_piece_of_eight.png	true	false	true
 wh2_dlc11_ror_reward_8	The wrath of Vanhel is harnessed within these golden ingots, primed for release in monstrous proportions.	The Cursed Bullion of Bogenhafen	faction	1	cst_piece_of_eight.png	true	false	true
-wh2_dlc11_vmp_ritual_bloodline_awaken			faction	0		true	false	true
-wh2_dlc11_vmp_ritual_bloodline_awaken_blood_dragon_bundle_01	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_blood_dragon_description}}\n\n(Awoken 1 [[img:icon_general]][[/img]]Lord from this Bloodline)	Blood Dragon Gifts	faction	1	bloodline_blood_dragon.png	true	false	true
-wh2_dlc11_vmp_ritual_bloodline_awaken_blood_dragon_bundle_02	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_blood_dragon_description}}\n\n(Awoken 2 [[img:icon_general]][[/img]]Lords from this Bloodline)	Blood Dragon Dark Arts	faction	1	bloodline_blood_dragon.png	true	false	true
-wh2_dlc11_vmp_ritual_bloodline_awaken_blood_dragon_bundle_03	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_blood_dragon_description}}\n\n(Awoken 3 [[img:icon_general]][[/img]]Lords from this Bloodline)	Blood Dragon Forbidden Dark Arts	faction	1	bloodline_blood_dragon.png	true	false	true
-wh2_dlc11_vmp_ritual_bloodline_awaken_lahmian_bundle_01	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_lahmian_description}}\n\n(Awoken 1 [[img:icon_general]][[/img]]Lord from this Bloodline)	Lahmian Gifts	faction	1	bloodline_lahmian.png	true	false	true
-wh2_dlc11_vmp_ritual_bloodline_awaken_lahmian_bundle_02	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_lahmian_description}}\n\n(Awoken 2 [[img:icon_general]][[/img]]Lords from this Bloodline)	Lahmian Dark Arts	faction	1	bloodline_lahmian.png	true	false	true
-wh2_dlc11_vmp_ritual_bloodline_awaken_lahmian_bundle_03	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_lahmian_description}}\n\n(Awoken 3 [[img:icon_general]][[/img]]Lords from this Bloodline)	Lahmian Forbidden Dark Arts	faction	1	bloodline_lahmian.png	true	false	true
-wh2_dlc11_vmp_ritual_bloodline_awaken_necrarch_bundle_01	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_necrarch_description}}\n\n(Awoken 1 [[img:icon_general]][[/img]]Lord from this Bloodline)	Necrarch Gifts	faction	1	bloodline_necrarch.png	true	false	true
-wh2_dlc11_vmp_ritual_bloodline_awaken_necrarch_bundle_02	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_necrarch_description}}\n\n(Awoken 2 [[img:icon_general]][[/img]]Lords from this Bloodline)	Necrarch Dark Arts	faction	1	bloodline_necrarch.png	true	false	true
-wh2_dlc11_vmp_ritual_bloodline_awaken_necrarch_bundle_03	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_necrarch_description}}\n\n(Awoken 3 [[img:icon_general]][[/img]]Lords from this Bloodline)	Necrarch Forbidden Dark Arts	faction	1	bloodline_necrarch.png	true	false	true
-wh2_dlc11_vmp_ritual_bloodline_awaken_strigoi_bundle_01	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_strigoi_description}}\n\n(Awoken 1 [[img:icon_general]][[/img]]Lord from this Bloodline)	Strigoi Gifts	faction	1	bloodline_strigoi.png	true	false	true
-wh2_dlc11_vmp_ritual_bloodline_awaken_strigoi_bundle_02	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_strigoi_description}}\n\n(Awoken 2 [[img:icon_general]][[/img]]Lords from this Bloodline)	Strigoi Dark Arts	faction	1	bloodline_strigoi.png	true	false	true
-wh2_dlc11_vmp_ritual_bloodline_awaken_strigoi_bundle_03	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_strigoi_description}}\n\n(Awoken 3 [[img:icon_general]][[/img]]Lords from this Bloodline)	Strigoi Forbidden Dark Arts	faction	1	bloodline_strigoi.png	true	false	true
-wh2_dlc11_vmp_ritual_bloodline_awaken_von_carstein_bundle_01	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_von_carstein_description}}\n\n(Awoken 1 [[img:icon_general]][[/img]]Lord from this Bloodline)	Von Carstein Gifts	faction	1	bloodline_von_carstein.png	true	false	true
-wh2_dlc11_vmp_ritual_bloodline_awaken_von_carstein_bundle_02	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_von_carstein_description}}\n\n(Awoken 2 [[img:icon_general]][[/img]]Lords from this Bloodline)	Von Carstein Dark Arts	faction	1	bloodline_von_carstein.png	true	false	true
-wh2_dlc11_vmp_ritual_bloodline_awaken_von_carstein_bundle_03	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_von_carstein_description}}\n\n(Awoken 3 [[img:icon_general]][[/img]]Lords from this Bloodline)	Von Carstein Forbidden Dark Arts	faction	1	bloodline_von_carstein.png	true	false	true
+wh2_dlc11_vmp_ritual_bloodline_awaken_blood_dragon_bundle_01	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_blood_dragon_description}}\n\n(Awoken 1 [[img:icon_general]][[/img]]Lord from this Bloodline)	Blood Dragon Gifts	faction	1	bloodline_blood_dragon.png	false	false	true
+wh2_dlc11_vmp_ritual_bloodline_awaken_blood_dragon_bundle_02	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_blood_dragon_description}}\n\n(Awoken 2 [[img:icon_general]][[/img]]Lords from this Bloodline)	Blood Dragon Dark Arts	faction	1	bloodline_blood_dragon.png	false	false	true
+wh2_dlc11_vmp_ritual_bloodline_awaken_blood_dragon_bundle_03	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_blood_dragon_description}}\n\n(Awoken 3 [[img:icon_general]][[/img]]Lords from this Bloodline)	Blood Dragon Forbidden Dark Arts	faction	1	bloodline_blood_dragon.png	false	false	true
+wh2_dlc11_vmp_ritual_bloodline_awaken_lahmian_bundle_01	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_lahmian_description}}\n\n(Awoken 1 [[img:icon_general]][[/img]]Lord from this Bloodline)	Lahmian Gifts	faction	1	bloodline_lahmian.png	false	false	true
+wh2_dlc11_vmp_ritual_bloodline_awaken_lahmian_bundle_02	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_lahmian_description}}\n\n(Awoken 2 [[img:icon_general]][[/img]]Lords from this Bloodline)	Lahmian Dark Arts	faction	1	bloodline_lahmian.png	false	false	true
+wh2_dlc11_vmp_ritual_bloodline_awaken_lahmian_bundle_03	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_lahmian_description}}\n\n(Awoken 3 [[img:icon_general]][[/img]]Lords from this Bloodline)	Lahmian Forbidden Dark Arts	faction	1	bloodline_lahmian.png	false	false	true
+wh2_dlc11_vmp_ritual_bloodline_awaken_necrarch_bundle_01	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_necrarch_description}}\n\n(Awoken 1 [[img:icon_general]][[/img]]Lord from this Bloodline)	Necrarch Gifts	faction	1	bloodline_necrarch.png	false	false	true
+wh2_dlc11_vmp_ritual_bloodline_awaken_necrarch_bundle_02	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_necrarch_description}}\n\n(Awoken 2 [[img:icon_general]][[/img]]Lords from this Bloodline)	Necrarch Dark Arts	faction	1	bloodline_necrarch.png	false	false	true
+wh2_dlc11_vmp_ritual_bloodline_awaken_necrarch_bundle_03	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_necrarch_description}}\n\n(Awoken 3 [[img:icon_general]][[/img]]Lords from this Bloodline)	Necrarch Forbidden Dark Arts	faction	1	bloodline_necrarch.png	false	false	true
+wh2_dlc11_vmp_ritual_bloodline_awaken_strigoi_bundle_01	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_strigoi_description}}\n\n(Awoken 1 [[img:icon_general]][[/img]]Lord from this Bloodline)	Strigoi Gifts	faction	1	bloodline_strigoi.png	false	false	true
+wh2_dlc11_vmp_ritual_bloodline_awaken_strigoi_bundle_02	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_strigoi_description}}\n\n(Awoken 2 [[img:icon_general]][[/img]]Lords from this Bloodline)	Strigoi Dark Arts	faction	1	bloodline_strigoi.png	false	false	true
+wh2_dlc11_vmp_ritual_bloodline_awaken_strigoi_bundle_03	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_strigoi_description}}\n\n(Awoken 3 [[img:icon_general]][[/img]]Lords from this Bloodline)	Strigoi Forbidden Dark Arts	faction	1	bloodline_strigoi.png	false	false	true
+wh2_dlc11_vmp_ritual_bloodline_awaken_von_carstein_bundle_01	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_von_carstein_description}}\n\n(Awoken 1 [[img:icon_general]][[/img]]Lord from this Bloodline)	Von Carstein Gifts	faction	1	bloodline_von_carstein.png	false	false	true
+wh2_dlc11_vmp_ritual_bloodline_awaken_von_carstein_bundle_02	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_von_carstein_description}}\n\n(Awoken 2 [[img:icon_general]][[/img]]Lords from this Bloodline)	Von Carstein Dark Arts	faction	1	bloodline_von_carstein.png	false	false	true
+wh2_dlc11_vmp_ritual_bloodline_awaken_von_carstein_bundle_03	{{tr:wh2_dlc11_vmp_ritual_bloodline_awaken_von_carstein_description}}\n\n(Awoken 3 [[img:icon_general]][[/img]]Lords from this Bloodline)	Von Carstein Forbidden Dark Arts	faction	1	bloodline_von_carstein.png	false	false	true
 wh2_dlc12_bundle_agent_action_engineer_hinder_settlement_success_actor	This [[img:icon_hero]][[/img]]Hero must rest after working to expand the Under-Empire.	Exhaustion	character	1	dlc12_under_empire.png	true	true	true
 wh2_dlc12_bundle_agent_action_kroak_hinder_settlement_success_lord_kroak_settlement	This [[img:icon_hero]][[/img]]Hero must rest following the use of Ultimate Deliverance on a target settlement.	Meditative State	character	1	agent.png	true	false	true
 wh2_dlc12_bundle_agent_action_kroak_hinder_settlement_success_lord_kroak_walls	This [[img:icon_hero]][[/img]]Hero must rest following the use of Colossal Deliverance on a target settlement.	Meditative State	character	1	agent.png	true	false	true
@@ -1957,6 +1956,7 @@ wh3_cp1_dilemma_cth_caravan_1_c	Decaying corpses litter the path. The stench of 
 wh3_cp1_lord_trait_cth_bhashiva	In the Iron Dragon’s domain, the brightest and best invariably find their way into his service. Bhashiva, leader of the legendary Tiger Warriors and their Court, serves as one of the eight Lords of Shang-Yang.	Tiger Lord of Shang-Yang	faction	1	character.png	false	false	true
 wh3_cp1_payload_cth_relics_reveal_incident	Where there are Relics, there will be danger. As the White Tiger, you must walk this path.	Path of the Tiger Warrior	faction	1	campaign_movement.png	true	false	true
 wh3_cp1_ritual_cth_army_capacity_bundle		Army Capacity	faction	1		false	false	true
+wh3_dcl29_bundle_stance_army_channelling_nag	Increases the favourability of the Winds of Magic when fighting battles and allows for a small amount of replenishment.	Stance: Channelling	force	1	wizard.png	true	false	true
 wh3_dl27_hef_white_tower_ritual_light_force_wom_fill	{{tr:rituals_description_wh3_dlc27_secrets_of_the_white_tower_brilliance_ritual_2}}	{{tr:rituals_display_name_wh3_dlc27_secrets_of_the_white_tower_brilliance_ritual_2}}	force	1	magic_campaign.png	false	false	true
 wh3_dlc20_bundle_agent_action_dignitary_hinder_settlement_success_actor_cult_khorne	This [[img:icon_hero]][[/img]]Hero must rest following the establishment of a Khorne Cult.	Exhaustion	character	1	cult.png	true	true	true
 wh3_dlc20_bundle_chs_authority_khorne_-1	Khorne’s devoted question this force’s esteem in the eyes of the Blood God!	Khorne Authority -1	force	1	corruption_khorne.png	true	true	true
@@ -2042,9 +2042,11 @@ wh3_dlc20_bundle_stance_army_ambush_valkia	Conceals this army, allowing surprise
 wh3_dlc20_bundle_stance_army_channeling_valkia	Grants experience to the units and characters in this army through trials of vicious bloodshed.	Stance: Combat Trials	force	1	resistance_magic.png	true	false	true
 wh3_dlc20_bundle_stance_army_encampment_chs	Sets up a defensive camp, enabling replenishment regardless of territory.	Stance: Encamp	force	1	icon_effects_fortify.png	true	false	true
 wh3_dlc20_bundle_stance_army_encampment_festus	Sets up a defensive camp, enabling replenishment regardless of territory.	Stance: Encamp	force	1	icon_effects_fortify.png	true	false	true
+wh3_dlc20_bundle_stance_army_encampment_glottkin	{{tr:effect_bundles_localised_description_wh3_dlc20_bundle_stance_army_encampment_festus}}	{{tr:effect_bundles_localised_title_wh3_dlc20_bundle_stance_army_encampment_festus}}	force	1	icon_effects_fortify.png	true	false	true
 wh3_dlc20_bundle_stance_army_forced_march_valkia	Increases this army's campaign map marching range.	Stance: March	force	1	icon_effects_forced_march.png	true	false	true
 wh3_dlc20_bundle_stance_army_raiding_azazel	Raids wealth from the local region.	Stance: Raiding	force	1	icon_effects_raiding.png	true	false	true
 wh3_dlc20_bundle_stance_army_raiding_festus	Raids wealth from the local region.	Stance: Raiding	force	1	icon_effects_raiding.png	true	false	true
+wh3_dlc20_bundle_stance_army_raiding_glottkin	{{tr:effect_bundles_localised_description_wh3_dlc20_bundle_stance_army_raiding_festus}}	{{tr:effect_bundles_localised_title_wh3_dlc20_bundle_stance_army_raiding_festus}}	force	1	icon_effects_raiding.png	true	false	true
 wh3_dlc20_bundle_stance_army_raiding_valkia	Raids wealth from the local region.	Stance: Raiding	force	1	icon_effects_raiding.png	true	false	true
 wh3_dlc20_bundle_stance_army_raiding_vilitch	Raids wealth from the local region.	Stance: Raiding	force	1	icon_effects_raiding.png	true	false	true
 wh3_dlc20_bundle_stance_army_raiding_warriors_of_chaos	Raids wealth from the local region.	Stance: Raiding	force	1	icon_effects_raiding.png	true	false	true
@@ -2058,6 +2060,7 @@ wh3_dlc20_climate_suitable_mountain	The climate in this region is suitable for y
 wh3_dlc20_climate_suitable_ocean	The climate in this region is suitable for your faction. There are no penalties for occupying this settlement.	Suitable Climate	region	0		true	false	true
 wh3_dlc20_climate_suitable_savannah	The climate in this region is suitable for your faction. There are no penalties for occupying this settlement.	Suitable Climate	region	0		true	false	true
 wh3_dlc20_climate_suitable_temperate	The climate in this region is suitable for your faction. There are no penalties for occupying this settlement.	Suitable Climate	region	0		true	false	true
+wh3_dlc20_climate_suitable_vampiric	The climate in this region is suitable for your faction. There are no penalties for occupying this settlement.	Suitable Climate	region	0		true	false	true
 wh3_dlc20_climate_suitable_wasteland	The climate in this region is suitable for your faction. There are no penalties for occupying this settlement.	Suitable Climate	region	0		true	false	true
 wh3_dlc20_climate_uninhabitable_chaotic	The climate in this region is uninhabitable for your faction. All construction and recruitment times are increased and income, replenishment, growth and control are reduced severely.	Uninhabitable Climate	region	1	climate_uninhabitable.png	true	false	true
 wh3_dlc20_climate_uninhabitable_desert	The climate in this region is uninhabitable for your faction. All construction and recruitment times are increased and income, replenishment, growth and control are reduced severely.	Uninhabitable Climate	region	1	climate_uninhabitable.png	true	false	true
@@ -2069,6 +2072,7 @@ wh3_dlc20_climate_uninhabitable_mountain	The climate in this region is uninhabit
 wh3_dlc20_climate_uninhabitable_ocean	The climate in this region is uninhabitable for your faction. All construction and recruitment times are increased and income, replenishment, growth and control are reduced severely.	Uninhabitable Climate	region	1	climate_uninhabitable.png	true	false	true
 wh3_dlc20_climate_uninhabitable_savannah	The climate in this region is uninhabitable for your faction. All construction and recruitment times are increased and income, replenishment, growth and control are reduced severely.	Uninhabitable Climate	region	1	climate_uninhabitable.png	true	false	true
 wh3_dlc20_climate_uninhabitable_temperate	The climate in this region is uninhabitable for your faction. All construction and recruitment times are increased and income, replenishment, growth and control are reduced severely.	Uninhabitable Climate	region	1	climate_uninhabitable.png	true	false	true
+wh3_dlc20_climate_uninhabitable_vampiric	The climate in this region is uninhabitable for your faction. All construction and recruitment times are increased and income, replenishment, growth and control are reduced severely.	Uninhabitable Climate	region	1	climate_uninhabitable.png	true	false	true
 wh3_dlc20_climate_uninhabitable_wasteland	The climate in this region is uninhabitable for your faction. All construction and recruitment times are increased and income, replenishment, growth and control are reduced severely.	Uninhabitable Climate	region	1	climate_uninhabitable.png	true	false	true
 wh3_dlc20_climate_unsuitable_chaotic	The climate in this region is harsh and unpleasant for your faction. Construction times of settlements are increased and income, replenishment and control are lowered.	Unpleasant Climate	region	1	climate_unpleasant.png	true	false	true
 wh3_dlc20_climate_unsuitable_chaotic_boris	The climate in this region is harsh and unpleasant for your faction. Construction times of settlements are increased and income, replenishment and control are lowered.	Unpleasant Climate	region	1	climate_unpleasant.png	true	false	true
@@ -3690,6 +3694,883 @@ wh3_dlc27_sla_dechala_caress_of_slaanesh_3	{{tr:rituals_description_wh3_dlc27_sl
 wh3_dlc27_sla_enthusiastic_devotees		Enthusiastic Devotees	faction	0		true	false	true
 wh3_dlc27_sla_masque_background_ai_extra_tempo_hidden			faction	0		true	false	true
 wh3_dlc27_victory_aislinn	A substantial old cache of Starwood was found following our victory over the Dark Elf invasion force	Starwood Cache	faction	1	wh3_dlc27_hef_dragonships.png	true	false	true
+wh3_dlc29_action_economy_vampire_pay_for_reward		Lose the selected Designs to receive:	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_action_military_pay_tokens_to_reduce_alarm		Lose the selected Designs to reduce Alarm by 1	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_anc_nag_magic_standard_banner_of_eternal_servitude_bundle		Banner of Eternal Servitude	character	1		true	false	true
+wh3_dlc29_anc_nag_magic_standard_impaled_traitor_bundle		Impaled Traitor	character	1		true	false	true
+wh3_dlc29_anc_nag_magic_standard_oriflamme_of_the_dead_man_charge_bundle		Oriflamme of the Dead Man	character	1		true	false	true
+wh3_dlc29_any_red_alarm_action_cost_1	Masterplans - Expensive Actions 1	Masterplans - Expensive Actions 1	faction	1	wh3_dlc29_skv_thanquol_cp.png	true	false	true
+wh3_dlc29_any_red_alarm_action_cost_2	Masterplans - Expensive Actions 2	Masterplans - Expensive Actions 2	faction	1	wh3_dlc29_skv_thanquol_cp.png	true	false	true
+wh3_dlc29_archaon_destroyer_effect_bundle	Gain Ward Save for each devastated province	Destroyer's path	character	1	resistance_ward_save.png	false	false	true
+wh3_dlc29_bind_to_lesser_undead	 Enforce your control other lesser servent 	Bind to lesser undead	faction	1	morale.png	true	false	true
+wh3_dlc29_black_pyramid_sigils_cheat_bundle	black pyramid sigils cheat [STATUS: HIDDEN]	black pyramid sigils cheat	faction	1		false	false	true
+wh3_dlc29_books_of_nagash_nagash_reward_1		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_1}}	force	1	books_of_nagash.png	false	false	true
+wh3_dlc29_books_of_nagash_nagash_reward_2		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_2}}	force	1	books_of_nagash.png	false	false	true
+wh3_dlc29_books_of_nagash_nagash_reward_3		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_3}}	force	1	books_of_nagash.png	false	false	true
+wh3_dlc29_books_of_nagash_nagash_reward_3_army		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_3}}	force	1	books_of_nagash.png	false	false	true
+wh3_dlc29_books_of_nagash_nagash_reward_4		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_4}}	force	1	books_of_nagash.png	false	false	true
+wh3_dlc29_books_of_nagash_nagash_reward_5		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_5}}	force	1	books_of_nagash.png	false	false	true
+wh3_dlc29_books_of_nagash_nagash_reward_6		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_6}}	force	1	books_of_nagash.png	false	false	true
+wh3_dlc29_books_of_nagash_nagash_reward_7		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_7}}	force	1	books_of_nagash.png	false	false	true
+wh3_dlc29_books_of_nagash_nagash_reward_8		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_8}}	force	1	books_of_nagash.png	false	false	true
+wh3_dlc29_books_of_nagash_nagash_reward_9		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_9}}	force	1	books_of_nagash.png	false	false	true
+wh3_dlc29_books_of_nagash_owner_non_participant_1		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_1}}	region	1	books_of_nagash.png	true	false	true
+wh3_dlc29_books_of_nagash_owner_non_participant_2		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_2}}	region	1	books_of_nagash.png	true	false	true
+wh3_dlc29_books_of_nagash_owner_non_participant_3		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_3}}	region	1	books_of_nagash.png	true	false	true
+wh3_dlc29_books_of_nagash_owner_non_participant_4		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_4}}	region	1	books_of_nagash.png	true	false	true
+wh3_dlc29_books_of_nagash_owner_non_participant_5		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_5}}	region	1	books_of_nagash.png	true	false	true
+wh3_dlc29_books_of_nagash_owner_non_participant_6		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_6}}	region	1	books_of_nagash.png	true	false	true
+wh3_dlc29_books_of_nagash_owner_non_participant_7		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_7}}	region	1	books_of_nagash.png	true	false	true
+wh3_dlc29_books_of_nagash_owner_non_participant_8		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_8}}	region	1	books_of_nagash.png	true	false	true
+wh3_dlc29_books_of_nagash_owner_non_participant_9		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_9}}	region	1	books_of_nagash.png	true	false	true
+wh3_dlc29_bring_undead_factions_militarily	Destroy the undead, they will be subserviant after they are crushed.	Crush them	faction	1	morale.png	true	false	true
+wh3_dlc29_bundle_action_bounty		This Hero is a target of an Eshin assassination contract – you can fulfill it for a reward!	faction	1	wh3_dlc29_skv_thanquol_cp.png	true	false	true
+wh3_dlc29_bundle_action_draw_assassin		Instantly add 1 Design to this plan (with a chance of a positive Coincidence)	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_action_increase_drawn_tokens		Increases Designs drawn per turn by 1	character	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_action_military_pay_to_reduce_alarm		Reduce Alarm by 1	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_action_military_token_1_recruit		Gain a powerful Skaven unit	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_action_remove_green_token		Remove the selected Design(s) from the plan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_action_remove_green_token_chance_attention		Remove the selected Design(s) from the plan (chance of drawing negative Attention)	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_action_remove_red_token		Remove the selected Complication from the plan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_action_skill_lose_tokens_spawn_cauldron_poxes		Lose selected Design to gain a Cauldron of 1000 Poxes (with risk of Plague Complication)	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_action_skill_spawn_death_globe_bombadiers		Gain a unit of {{tr:land_units_onscreen_name_wh2_main_skv_inf_death_globe_bombardiers}}	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_action_skill_spawn_poisoned_wind_mortars_dlc		Gain a unit of {{tr:land_units_onscreen_name_wh2_dlc14_skv_inf_poison_wind_mortar_0}}	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_action_skill_spawn_warp_doom_magma_cannon		Gain a {{tr:land_units_onscreen_name_wh3_dlc29_skv_art_warp_doom_magma_cannon}}	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_agent_action_all_hinder_character_success_convert_to_nurgle_actor	{{tr:effect_bundles_localised_description_wh_main_bundle_agent_action_champion_hinder_character_success_actor}}	{{tr:effect_bundles_localised_title_wh_main_bundle_agent_action_champion_hinder_character_success_actor}}	character	1	agent.png	true	false	true
+wh3_dlc29_bundle_agent_action_all_hinder_character_success_convert_to_nurgle_target			character	0		true	false	true
+wh3_dlc29_bundle_agent_action_all_hinder_settlement_success_wound_garrison_unit_actor	{{tr:effect_bundles_localised_description_wh_main_bundle_agent_action_champion_hinder_character_success_actor}}	{{tr:effect_bundles_localised_title_wh_main_bundle_agent_action_champion_hinder_character_success_actor}}	character	0	agent.png	true	false	true
+wh3_dlc29_bundle_agent_action_all_hinder_settlement_success_wound_garrison_unit_target			region	0		true	false	true
+wh3_dlc29_bundle_agent_action_assist_army_cannot_fail_battle_healing	{{tr:effect_bundles_localised_description_wh2_dlc17_bundle_agent_action_assist_army_cannot_fail_harden_armour_target}}	{{tr:agent_actions_localised_action_name_wh3_dlc29_agent_action_necromancer_assist_army_improve_healing}}	force	1	health_character.png	true	false	true
+wh3_dlc29_bundle_agent_action_assist_army_cannot_fail_dead_raise_again_chance	{{tr:effect_bundles_localised_description_wh2_dlc17_bundle_agent_action_assist_army_cannot_fail_harden_armour_target}}	{{tr:agent_actions_localised_action_name_wh3_dlc29_agent_action_necromancer_assist_army_improve_dead_raise_again_chance}}	force	1	replenishment.png	true	false	true
+wh3_dlc29_bundle_agent_action_dignitary_spy_champion_runesmith_hinder_settlement_success_actor			character	1		true	false	true
+wh3_dlc29_bundle_agent_action_dignitary_spy_champion_runesmith_hinder_settlement_success_target			region	1		true	false	true
+wh3_dlc29_bundle_agent_action_wight_king_assist_army_melee_attack	{{tr:effect_bundles_localised_description_wh3_cp1_bundle_agent_action_assist_army_cannot_fail_preparedness_drills_target}}	{{tr:agent_actions_localised_action_name_wh3_dlc29_agent_action_wight_king_assist_army_melee_attack}}	force	1	melee.png	true	false	true
+wh3_dlc29_bundle_agent_action_wight_king_assist_army_melee_defence	{{tr:effect_bundles_localised_description_wh3_cp1_bundle_agent_action_assist_army_cannot_fail_preparedness_drills_target}}	{{tr:agent_actions_localised_action_name_wh3_dlc29_agent_action_wight_king_assist_army_melee_defence}}	force	1	defence.png	true	false	true
+wh3_dlc29_bundle_any_mod_pool_grey_seer_winds		Unlocks the ability to discover Empowering Winds, which increase the amount of Designs drawn per turn (in any Masterplan)	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_any_red_attention_generated		Risk has increased in this Masterplan, increasing the chance of a Complication occuring!	faction	1	wh3_dlc20_contact_effect_euphoria.png	false	false	true
+wh3_dlc29_bundle_brood_horror_dlc		Adds {{tr:land_units_onscreen_name_wh2_dlc16_skv_mon_brood_horror_0}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_captives_kill_nagash	Thousands of corpses rest upon the battlefield, ready to serve.	{{tr:campaign_post_battle_captive_options_onscreen_name_847728266}}	force	1	treasury.png	true	false	true
+wh3_dlc29_bundle_corruption_vampiric_nagash_1-10			province	1	corruption_vampiric.png	true	false	true
+wh3_dlc29_bundle_corruption_vampiric_nagash_11-20			province	1	corruption_vampiric.png	true	false	true
+wh3_dlc29_bundle_corruption_vampiric_nagash_21-30			province	1	corruption_vampiric.png	true	false	true
+wh3_dlc29_bundle_corruption_vampiric_nagash_31-40			province	1	corruption_vampiric.png	true	false	true
+wh3_dlc29_bundle_corruption_vampiric_nagash_41-50			province	1	corruption_vampiric.png	true	false	true
+wh3_dlc29_bundle_corruption_vampiric_nagash_51-60			province	1	corruption_vampiric.png	true	false	true
+wh3_dlc29_bundle_corruption_vampiric_nagash_61-70			province	1	corruption_vampiric.png	true	false	true
+wh3_dlc29_bundle_corruption_vampiric_nagash_71-80			province	1	corruption_vampiric.png	true	false	true
+wh3_dlc29_bundle_corruption_vampiric_nagash_81-90			province	1	corruption_vampiric.png	true	false	true
+wh3_dlc29_bundle_corruption_vampiric_nagash_91-100			province	1	corruption_vampiric.png	true	false	true
+wh3_dlc29_bundle_def_black_arks_growth		Black Ark Builder	faction	1	icon_effects_patrol.png	true	false	true
+wh3_dlc29_bundle_def_hellebron_death_night_cost		Cauldron of Blood	faction	1	dlc10_death_night.png	true	false	true
+wh3_dlc29_bundle_def_malus_warmaster_ritual_unlock		Warmaster	faction	1	trait_dark_elves.png	true	false	true
+wh3_dlc29_bundle_def_rakarth_beast_tamer		Beast Tamer	faction	1	unit_capacity.png	true	false	true
+wh3_dlc29_bundle_economic_action_draw_warlock		Immediately add between 1 and 5 Designs to the current Masterplan (with chance of Complication)	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_economic_action_spawn_food_1		Gain 4 Food	faction	1	skaven_food.png	false	false	true
+wh3_dlc29_bundle_economic_action_spawn_food_2		Gain 6 Food	faction	1	skaven_food.png	false	false	true
+wh3_dlc29_bundle_economic_action_spawn_food_3		Gain 8 Food	faction	1	skaven_food.png	false	false	true
+wh3_dlc29_bundle_economic_green_skryre_treasury_1		Adds Design to gain Treasury to Economic Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_economic_green_skryre_warpstone_1		Adds Design to gain Warpstone to Economic Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_economic_mod_pool_eshin_all_1		Add {{tr:chaotic_plan_tokens_name_wh3_dlc29_economic_green_eshin_all_1}} who gather both Treasury and Warpstone to Economic Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_economic_mod_pool_grey_seer_treasury_large_1		"Magical" Items will now appear in Economic Masterplans – very valuable for Clan Scruten's Treasury!	faction	1	treasury.png	false	false	true
+wh3_dlc29_bundle_economic_mod_pool_rictus_warpstone_1		Adds Miners to Economic Masterplans, who increase all Warpstone gathered	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_economic_more_resources		Increases resources gained from this Design	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_economic_upgrade_grey_seer_treasury_large_2		Increases the amount for which "Magical" Items can be profited from	faction	1	treasury.png	false	false	true
+wh3_dlc29_bundle_economic_upgrade_rictus_warpstone_2		Improves Miners in Economic Masterplans, who increase all Warpstone gathered	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_economic_warlock_experience		Spend any Design to gain Experience	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_economic_warlock_experience_gained		Additional Experience will be received by this Underling at the end of the Masterplan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_economy_action_select_resource		Lose selected token to choose a strategy for this Economic Masterplan:\n[[img:bullet_point_white]][[/img]]Draw only Designs for Treasury\n[[img:bullet_point_white]][[/img]]Draw only Designs for Warpstone\nDraw more Designs per turn (with additional Risk)	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_ie_victory_objective_brt_dedicated_characters_dummy		Dedicated Knights and Prophetesses	faction	1	magic_campaign.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_brt_repanse_speed_of_virtue		Speed of Virtue	faction	1	army.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_brt_town_crier	Tells of chivalrous exploits gains additional chivalry from winning battles	Town Crier	faction	1	chivalry_positive.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_cth_greater_protection		Greater Protection	faction	1	magic_campaign.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_def_long		Master	faction	1	income.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_dwf_age_of_reckoning_progress_after_reset		New Age of Reckoning	faction	1	grudges.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_dwf_dwarf_forge_assistant		Forge Assistant	faction	1	magic_campaign.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_dwf_dwarf_stonemason		Dwarf Stonemason	faction	1	construction.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_dwf_oathgold_trader		Oathgold Trader	faction	1	income.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_dwf_rightful_home		Rightful Home	faction	1	variable_upkeep.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_dwf_workshop_assistant		Workshop Assistant	faction	1	construction.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_emp_elector_count_recruitment		Elector Count Recruitment Drive	faction	1	merc_replen.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_hef_athel_tamarha_short		Warden’s Supplier	faction	1	wardens_cage.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_hef_dragon_princes_short		Dragon Trainer	faction	1	army.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_hef_dragonship_building_construction_short		Ship Carpenter	faction	1	wh3_dlc27_hef_dragonships.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_hef_mistwalker_unit_cap_short		Mistwalker Recruiter	faction	1	merc_replen.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_hero_recruitment_rank		Hero recruitment improvements	faction	1	experience.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_nor_throgg_troll_builder		Troll Builder	faction	1	nor_troll_expansion.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_nur_epidemius_short		Permanent Symptoms	faction	1	plague.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_nur_units_recruit_health		Unit recruit health increased	faction	1	replenishment.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_skv_busy_rats		Busy Rats	faction	1	dlc12_under_empire.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_skv_cloak_of_rats		Cloak of Rats	faction	1	plague.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_skv_doomrocket_cap		More Doomrockets	faction	1	dlc12_doomrocket.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_skv_faster_scheming		Faster Scheming	faction	1	schemes_bundle.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_skv_feast		A Feast	faction	1	skaven_food.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_skv_queek_new_empire_dummy	Karak Eight Peaks now provides the following:	A New Empire	faction	1	dlc12_under_empire.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_sla_dechala_thralls_multiplier		Thrall Camp Leader	faction	1	icon_thralls_cost.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_tze_logistics_expert		Logistics Expert	region	1	tze_cultist.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_tze_logistics_expert_dummy		Logistics Expert	faction	1	tze_cultist.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_tze_well_stocked_library		Well-Stocked Library	faction	1	schemes_bundle.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_vmp_empowering_the_bloodline	Empowering the Von Castein Bloodline	Empowering the Bloodline	faction	10	army.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_vmp_lair_builder	Lair Builder	Lair Builder	faction	10	army.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_vmp_long_victory	Vampire long victory	Vampire long victory	faction	10	army.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_vmp_misstress_of_silence	Mistress of Silence	Mistress of Silence	faction	10	army.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_vmp_raise_the_dead	Raise the Dead	Raise the Dead	faction	10	army.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_vmp_vengeful_spirits	Vengeful Spirits	Vengeful Spirits	faction	10	army.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_wef_forest_builder		Forest Builder	faction	1	construction.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_wef_forest_health_boost		Gardener	faction	1	worldroots_health.png	true	false	true
+wh3_dlc29_bundle_ie_victory_objective_wef_forest_wild_spirits_rank		The Best Spirits	faction	1	experience.png	true	false	true
+wh3_dlc29_bundle_kho_skull_throne_ritual_cooldown_reduction_reward		Too Hot to Cooldown	faction	1	khorne_skull_throne.png	true	false	true
+wh3_dlc29_bundle_ksl_animal_den_construction_time		Earthen Hollow	faction	1	construction.png	true	false	true
+wh3_dlc29_bundle_ksl_ice_court_trainer		Ice Court Trainer	faction	1	kislev_acolyte.png	true	false	true
+wh3_dlc29_bundle_ksl_orthodoxy_support		Orthodoxy Support	faction	1	kislev_acolyte.png	true	false	true
+wh3_dlc29_bundle_ksl_stolen_from_the_woods		Stolen from the woods	faction	1	spirit_essence_bundle.png	true	false	true
+wh3_dlc29_bundle_magic_draw_combo_piece		Add a Design that contributes to finishing the Masterplan (with risk of Complication)	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_magic_upgrade_verminlord		Improves the Verminlord's starting army	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_magic_upgrade_verminlord_1		Unlocks the Scruten Masterplan "Summon Verminlord"	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_action_assassin		Add a {{tr:land_units_onscreen_name_wh2_main_skv_cha_assassin}} to a Military Masterplan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_action_chieftain_0		Add a {{tr:land_units_onscreen_name_wh2_dlc16_skv_cha_chieftain_0}} to a Military Masterplan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_action_chieftain_1		Add a {{tr:land_units_onscreen_name_wh2_dlc16_skv_cha_chieftain_0}} (Bonebreaker) to a Military Masterplan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_action_eshin_sorcerer		Add a {{tr:land_units_onscreen_name_wh2_dlc14_skv_cha_eshin_sorcerer_0}} to a Military Masterplan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_action_packmaster_0		Add a {{tr:land_units_onscreen_name_wh2_dlc16_skv_cha_packmaster_0}} to a Military Masterplan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_action_packmaster_2		Add a {{tr:land_units_onscreen_name_wh2_dlc16_skv_cha_packmaster_0}} (Brood Horror) to a Military Masterplan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_action_plague_priest_0		Add a {{tr:land_units_onscreen_name_wh2_main_skv_cha_plague_priest_0}} to a Military Masterplan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_action_plague_priest_2		Add a {{tr:land_units_onscreen_name_wh2_main_skv_cha_plague_priest_0}} (Plague Furnace) to a Military Masterplan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_action_plague_priest_cauldron		Add a {{tr:land_units_onscreen_name_wh2_main_skv_cha_plague_priest_0}} (Cauldron of 1000 Poxes) to a Military Masterplan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_action_skill_grey_seer_draw_units_1		Turn the selected Design into one of the following units:\n[[img:bullet_point_white]][[/img]]{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_basic_infantry_2}}\n[[img:bullet_point_white]][[/img]]{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_basic_missile_infantry_1}}\n[[img:bullet_point_white]][[/img]]{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_basic_monsters_1}}	faction	1	army.png	false	false	true
+wh3_dlc29_bundle_military_action_skill_grey_seer_draw_units_2		Turn the selected Design into one of the following units:\n[[img:bullet_point_white]][[/img]]{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_basic_infantry_2}}\n[[img:bullet_point_white]][[/img]]{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_gutter_runners_1}}\n[[img:bullet_point_white]][[/img]]{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_basic_monsters_1}}\n[[img:bullet_point_white]][[/img]]{{tr:land_units_onscreen_name_wh2_main_skv_inf_plague_monks}}	faction	1	army.png	false	false	true
+wh3_dlc29_bundle_military_action_skill_grey_seer_draw_units_3		Turn the selected Design into one of the following units:\n[[img:bullet_point_white]][[/img]]{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_basic_infantry_2}}\n[[img:bullet_point_white]][[/img]]{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_gutter_runners_1}}\n[[img:bullet_point_white]][[/img]]{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_basic_monsters_1}}\n[[img:bullet_point_white]][[/img]]{{tr:land_units_onscreen_name_wh2_main_skv_inf_plague_monks}}\n[[img:bullet_point_white]][[/img]]{{tr:land_units_onscreen_name_wh2_main_skv_art_plagueclaw_catapult}}	faction	1	army.png	false	false	true
+wh3_dlc29_bundle_military_action_skill_grey_seer_draw_units_4		Turn the selected Design into one of the following units:\n[[img:bullet_point_white]][[/img]]{{tr:land_units_onscreen_name_wh2_main_skv_inf_stormvermin_1}}\n[[img:bullet_point_white]][[/img]]{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_gutter_runners_1}}\n[[img:bullet_point_white]][[/img]]{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_basic_monsters_1}}\n[[img:bullet_point_white]][[/img]]{{tr:land_units_onscreen_name_wh2_main_skv_inf_plague_monks}}\n[[img:bullet_point_white]][[/img]]{{tr:land_units_onscreen_name_wh2_main_skv_art_plagueclaw_catapult}}\n[[img:bullet_point_white]][[/img]]{{tr:land_units_onscreen_name_wh2_main_skv_art_warp_lightning_cannon}}	faction	1	army.png	false	false	true
+wh3_dlc29_bundle_military_action_skill_grey_seer_draw_units_5		Turn the selected Design into one of the following units:\n[[img:bullet_point_white]][[/img]]{{tr:land_units_onscreen_name_wh2_main_skv_inf_stormvermin_1}}\n[[img:bullet_point_white]][[/img]]{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_gutter_runners_1}}\n[[img:bullet_point_white]][[/img]]{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_basic_monsters_1}}\n[[img:bullet_point_white]][[/img]]{{tr:land_units_onscreen_name_wh2_main_skv_inf_plague_monk_censer_bearer}}\n[[img:bullet_point_white]][[/img]]{{tr:land_units_onscreen_name_wh2_main_skv_art_plagueclaw_catapult}}\n[[img:bullet_point_white]][[/img]]{{tr:land_units_onscreen_name_wh2_main_skv_art_warp_lightning_cannon}}\n[[img:bullet_point_white]][[/img]]{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_action_skill_spawn_warp_doom_magma_cannon_generated}}	faction	1	army.png	false	false	true
+wh3_dlc29_bundle_military_action_skirmish_1		Reduces Guards by 2	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_action_skirmish_2		Reduces Guards by 3	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_action_skirmish_3		Reduces Guards by 4	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_action_warlock_engineer		Add a {{tr:land_units_onscreen_name_wh2_main_skv_cha_warlock_engineer}} to a Military Masterplan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_green_basic_infantry_grey_seer_3		An additional unit of Clanrats (Shielded) will accompany this Design	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_green_death_runners		Add {{tr:land_units_onscreen_name_wh2_main_skv_inf_death_runners_0}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_green_moulder_wolf_rats_dlc_1		{{tr:land_units_onscreen_name_wh2_dlc16_skv_mon_wolf_rats_0}} will be added to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_green_moulder_wolf_rats_dlc_2		{{tr:land_units_onscreen_name_wh2_dlc16_skv_mon_wolf_rats_1}} will be added to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_green_moulder_wolf_rats_dlc_3		Doubles the amount of {{tr:land_units_onscreen_name_wh2_dlc16_skv_mon_wolf_rats_1}} provided in Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_clanrats_grey_seer_2		Equips Clanrats with Shields	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_clanrats_grey_seer_3		Doubles the amount of Clanrats that will appear and reduces their Risk	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_clanrats_grey_seer_4		Adds Stormvermin to this Underling's Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_clanrats_grey_seer_5		Infantry re-organised: Each unit of Stormvermin will be supported by a unit of Clanrats (Shields)\nNo other units of Clanrats will appear in Military Masterplans for this Underling	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_clanrats_spears		Replace {{tr:land_units_onscreen_name_wh2_main_skv_inf_clanrats_0}} with {{tr:land_units_onscreen_name_wh2_main_skv_inf_clanrat_spearmen_0}} in Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_clanrats_spears_shields		Equips {{tr:land_units_onscreen_name_wh2_main_skv_inf_clanrat_spearmen_0}} with Shields	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_doom_flayers		Add {{tr:land_units_onscreen_name_wh2_dlc12_skv_veh_doom_flayer_0}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_doomwheel_1		Add {{tr:land_units_onscreen_name_wh2_main_skv_veh_doomwheel}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_eshin_triads		Add {{tr:land_units_onscreen_name_wh2_dlc14_skv_inf_eshin_triads_0}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_gutter_runners		Replace {{tr:land_units_onscreen_name_wh2_main_skv_inf_night_runners_0}} with {{tr:land_units_onscreen_name_wh2_main_skv_inf_gutter_runners_0}} in Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_gutter_runners_poison		Add Poison attacks to {{tr:land_units_onscreen_name_wh2_main_skv_inf_gutter_runners_0}} in Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_lower_chance_skavenslaves		Skavenslaves are less likely to appear in Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_night_runners_slingers		Add {{tr:land_units_onscreen_name_wh2_main_skv_inf_night_runners_1}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_poison_wind_globadiers		Add {{tr:land_units_onscreen_name_wh2_main_skv_inf_poison_wind_globadiers}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_poison_wind_mortars		Add {{tr:land_units_onscreen_name_wh2_dlc14_skv_inf_poison_wind_mortar_0}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_ratling_guns		Add {{tr:land_units_onscreen_name_wh2_dlc12_skv_inf_ratling_gun_0}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_remove_night_runners		Night Runners are removed from Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_remove_rat_ogres		Rat Ogres are removed from Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_remove_skavenslaves		Skavenslaves are removed from Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_rictus_stormvermin_1		{{tr:land_units_onscreen_name_wh2_main_skv_inf_stormvermin_1}} will be added to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_rictus_stormvermin_3		Stormvermin replace Clanrats in Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_rictus_stormvermin_halberds_1		{{tr:land_units_onscreen_name_wh2_main_skv_inf_stormvermin_0}} will be added to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_stormfiends_warlock_1		Add {{tr:land_units_onscreen_name_wh3_dlc29_skv_mon_stormfiend_ratling_cannons}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_stormfiends_warlock_2		Add {{tr:land_units_onscreen_name_wh3_dlc29_skv_mon_stormfiend_warpfire_projectors}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_stormfiends_warlock_3		Add {{tr:land_units_onscreen_name_wh3_dlc29_skv_mon_stormfiend_windlaunchers}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_stormfiends_warlord_1		Add {{tr:land_units_onscreen_name_wh3_dlc29_skv_mon_stormfiend_grinderfists}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_stormfiends_warlord_2		Add {{tr:land_units_onscreen_name_wh3_dlc29_skv_mon_stormfiend_doomflayer_gauntlets}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_stormfiends_warlord_3		Add {{tr:land_units_onscreen_name_wh3_dlc29_skv_mon_stormfiend_shock_gauntlets}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_warp_grinders		Add {{tr:land_units_onscreen_name_wh2_dlc14_skv_inf_warp_grinder_0}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_warpfire_throwers		Add {{tr:land_units_onscreen_name_wh2_main_skv_inf_warpfire_thrower}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_military_mod_pool_warplock_jezzails		Add {{tr:land_units_onscreen_name_wh2_dlc12_skv_inf_warplock_jezzails_0}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_mutant_rat_ogre_dlc		Adds {{tr:land_units_onscreen_name_wh2_dlc16_skv_mon_rat_ogre_mutant}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_plague_censer_bearers		Add {{tr:land_units_onscreen_name_wh2_main_skv_inf_plague_monk_censer_bearer}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_ruthless_expansion		Ruthless Expansion	faction	1	construction.png	true	false	true
+wh3_dlc29_bundle_skv_thanquol_mission_7	Effect Bundle – Leadership for all Skaven units, Diplomacy with all Skaven;	Bonusss	faction	1	melee_character.png	true	false	true
+wh3_dlc29_bundle_stance_army_encampment_nag	Every soil are soaked with the blood of past battle and full of the corpse of ancient soldiers	Stance: Death is everywhere	force	1	icon_effects_fortify.png	true	false	true
+wh3_dlc29_bundle_stance_army_raiding_camp_glottkin_mark	Corrupts the land of the local province	Stance: Gate of Rot	force	1	icon_effects_fortify.png	true	false	true
+wh3_dlc29_bundle_stance_army_raiding_camp_glottkin_mark_upgraded	Corrupts the land of the local province	Stance: Greater Gate of Rot	force	1	icon_effects_fortify.png	true	false	true
+wh3_dlc29_bundle_stance_chs_dark_fortress	This Dark Fortress is channeling power from the Chaos Gods towards Archaon, boosting his power immensely as a result!	Chaos Invasion Fortress	force	1	reign_of_chaos.png	true	false	true
+wh3_dlc29_bundle_stance_raiding_mark_of_nurgle	Corrupts the land of the local province	{{tr:effect_bundles_localised_title_wh3_dlc20_bundle_stance_army_raiding_festus}}	force	1	icon_effects_raiding.png	true	false	true
+wh3_dlc29_bundle_token_upgrade_increase_amount		Increase the number of times this Design can appear in a Plan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_token_upgrade_increase_odds		Increase the likelyhood of this Design appearing in a Plan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_token_upgrade_reduce_risk		Reduce this Design's Risk	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_warp_lightning_cannons		Add {{tr:land_units_onscreen_name_wh2_main_skv_art_warp_lightning_cannon}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_bundle_yellow_stop_drawing_treasury		Designs for Treasury will no longer be drawn in this Economic Masterplan	faction	1	treasury.png	false	false	true
+wh3_dlc29_bundle_yellow_stop_drawing_warpstone		Designs for Warpstone will no longer be drawn in this Economic Masterplan	faction	1	wh3_dlc29_skv_warpstone.png	false	false	true
+wh3_dlc29_chaotic_plans_dummy_payload_hell_pit_abomination	Lose any 3 Designs to add a Hell-Pit Abomination to the Plan	Lose selected Designs to add a Hell-Pit Abomination to the Plan	force	1	army.png	false	false	true
+wh3_dlc29_chaotic_plans_enable_economic	Enables Economic Plans	Unlock Economic Masterplans	faction	1	treasury.png	false	false	true
+wh3_dlc29_chaotic_plans_enable_magic	Enables Magic Plans	Unlock Magic Plans	faction	1	magic_character.png	false	false	true
+wh3_dlc29_chaotic_plans_schemer_limit_buff	Purchase this to have more Underlings available to do Plans	Increase Underling Limit	faction	1	army.png	false	false	true
+wh3_dlc29_character_focus	We can lose the weaker part to reinforce ourself by subtraction	leader of the dead	faction	1	vampire.png	true	false	true
+wh3_dlc29_chs_archaon_block_occupation	Archaon devastated this settlement completely and it can't be colonised anymore	Cannot Colonise	region	1	blocked_ruins.png	false	true	true
+wh3_dlc29_climate_suitable_vampiric	{{tr:effect_bundles_localised_description_wh3_dlc20_climate_suitable_vampiric}}	{{tr:effect_bundles_localised_title_wh3_dlc20_climate_suitable_vampiric}}	region	0		true	false	true
+wh3_dlc29_convince_undead_to_join_us	All of the undead shall be confederate.	Bring them home	faction	1	diplomacy.png	true	false	true
+wh3_dlc29_dead_rise_again	We perform attrition war and every loss can be lacking in future battle	Scrap every corpse	faction	1	vampire.png	true	false	true
+wh3_dlc29_death_is_everywhere	Our legions are everywhere and attacks from all sides	Death is everywhere	faction	1	character.png	true	false	true
+wh3_dlc29_dilemma_increase_cap_gunnery_wight			faction	1		true	false	true
+wh3_dlc29_dilemma_increase_cap_liche_priest			faction	1		true	false	true
+wh3_dlc29_dilemma_increase_cap_tomb_herald			faction	1		true	false	true
+wh3_dlc29_dilemma_increase_cap_vampires			faction	1		true	false	true
+wh3_dlc29_eat_soul_to_enforce_rule	You enforce your rule by eating the souls of a dissident. 	Rule enforced	faction	1	public_order.png	true	false	true
+wh3_dlc29_economy_effect_bundle_food_large_1		{{tr:chaotic_plan_tokens_name_wh3_dlc29_economic_green_basic_food_large_1}} will be added to all Economy Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_economy_effect_bundle_food_large_2		{{tr:chaotic_plan_tokens_name_wh3_dlc29_economic_green_basic_food_large_2}} will replace {{tr:chaotic_plan_tokens_name_wh3_dlc29_economic_green_basic_food_large_1}} in all Economy Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_economy_effect_bundle_food_large_3		{{tr:chaotic_plan_tokens_name_wh3_dlc29_economic_green_basic_food_large_3}} will replace {{tr:chaotic_plan_tokens_name_wh3_dlc29_economic_green_basic_food_large_2}} in all Economy Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_economy_effect_bundle_food_mid_1		{{tr:chaotic_plan_tokens_name_wh3_dlc29_economic_green_basic_food_mid_1}} will replace Food - Small in all Economy Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_economy_effect_bundle_food_mid_2		{{tr:chaotic_plan_tokens_name_wh3_dlc29_economic_green_basic_food_mid_2}} will replace {{tr:chaotic_plan_tokens_name_wh3_dlc29_economic_green_basic_food_mid_1}} in all Economy Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_economy_effect_bundle_food_mid_3		{{tr:chaotic_plan_tokens_name_wh3_dlc29_economic_green_basic_food_mid_3}} will replace {{tr:chaotic_plan_tokens_name_wh3_dlc29_economic_green_basic_food_mid_2}} in all Economy Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_economy_effect_bundle_food_small_1		Unlocks the ability to gain Food in Economic Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_economy_effect_bundle_food_small_2		Increases the amount of Food gained in Economic Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_economy_effect_bundle_treasury_mid_1		Treasury from Looting: +300	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_economy_effect_bundle_treasury_mid_2		Treasury from Looting: +400	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_economy_effect_bundle_treasury_mid_3		Treasury from Looting: +500	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_economy_effect_bundle_treasury_very_large_1		Unlocks the ability to gain Treasury by tunneling into coffers: +1000	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_economy_effect_bundle_treasury_very_large_2		Treasury from Tunneling: +1250	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_economy_effect_bundle_treasury_very_large_3		Treasury from Tunneling: +1500	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_economy_effect_bundle_warpstone_mid_1		[[col:green]]Warpstone from Mining during Economic Masterplans: +50[[/col]]	faction	1	wh3_dlc29_skv_warpstone.png	false	false	true
+wh3_dlc29_economy_effect_bundle_warpstone_mid_2		[[col:green]]Warpstone from Mining during Economic Masterplans: +60[[/col]]	faction	1	wh3_dlc29_skv_warpstone.png	false	false	true
+wh3_dlc29_economy_effect_bundle_warpstone_mid_3		[[col:green]]Warpstone from Mining during Economic Masterplans: +70[[/col]]	faction	1	wh3_dlc29_skv_warpstone.png	false	false	true
+wh3_dlc29_economy_effect_bundle_warpstone_very_large_1		Unlocks the ability to find Warpstone Meteors during Economic Masterplans	faction	1	wh3_dlc29_skv_warpstone.png	false	false	true
+wh3_dlc29_economy_effect_bundle_warpstone_very_large_2		[[col:green]]Warpstone from Meteors during Economic Masterplans: +200[[/col]]	faction	1	wh3_dlc29_skv_warpstone.png	false	false	true
+wh3_dlc29_economy_effect_bundle_warpstone_very_large_3		[[col:green]]Warpstone from Meteors during Economic Masterplans: +250[[/col]]	faction	1	wh3_dlc29_skv_warpstone.png	false	false	true
+wh3_dlc29_edict_chs_glottkin_exploit_vassals		Exploit Vassals	province	1	edict_coc_exploit_vassals.png	true	false	true
+wh3_dlc29_edict_chs_glottkin_foster_cults		{{tr:effect_bundles_localised_title_wh3_main_edict_nur_foster_cults}}	province	1	edict_nur_foster_cults.png	true	false	true
+wh3_dlc29_edict_chs_glottkin_nurgle_bidding		Nurgle's Bidding	province	1	edict_nur_plague_gods_pasture.png	true	false	true
+wh3_dlc29_edict_nag_cst		{{tr:effect_bundles_localised_title_wh2_dlc11_edict_cst_bat_swarms}}	province	1	edict_cst_bat_swarms.png	true	false	true
+wh3_dlc29_edict_nag_land_of_the_dead		Lands of the Dead	province	1	edict_land_of_the_dead.png	true	false	true
+wh3_dlc29_edict_nag_tmb		Monuments of Nagash	province	1	edict_evocation_of_nagash.png	true	false	true
+wh3_dlc29_edict_nag_vmp		{{tr:effect_bundles_localised_title_wh_main_edict_vmp_evocation_of_nagash}}	province	1	edict_repress_mortals.png	true	false	true
+wh3_dlc29_edict_vmp_neferata_hidden_designs		Hidden Designs	province	1	0_placeholder_effect_bundle.png	true	false	true
+wh3_dlc29_effect_bundle_woc_dilemma_assert_dominance_ethrac	Assert Dominance Ethrac	Assert Dominance Ethrac	faction	1	0_placeholder_effect_bundle.png	true	false	true
+wh3_dlc29_effect_bundle_woc_mark_of_blight_squire_item_level_0	Blight squire item level 0 [STATUS: HIDDEN]		faction	1		true	false	true
+wh3_dlc29_effect_bundle_woc_mark_of_blight_squire_item_level_1	Blight squire item level 1 [STATUS: HIDDEN]		faction	1		true	false	true
+wh3_dlc29_effect_bundle_woc_mark_of_nugle	Mark of Nurgle effect bundle	Mark of Nurgle effect bundle	faction	1	0_placeholder_effect_bundle.png	true	false	true
+wh3_dlc29_emp_boris_todbringer_background_ai_extra_resources_hidden			faction	1		true	false	true
+wh3_dlc29_emp_middenland_effect_bundle_dilemma_horns_in_the_forest	Diplomacy with Wood Elves	United against the Beastmen	faction	1	diplomacy.png	true	false	true
+wh3_dlc29_emp_middenland_effect_bundle_dilemma_horns_in_the_forest_second_choise	Global Control	Factionwide Stability	faction	1	0_placeholder_effect_bundle.png	true	false	true
+wh3_dlc29_emp_middenland_effect_bundle_dilemma_narrative_investigation_completed	Defensive Preparations	Defensive Preparations	faction	1	defence.png	true	false	true
+wh3_dlc29_emp_middenland_host_of_the_wolf_temporary_army	{{tr:effect_bundles_localised_description_wh3_dlc24_ritual_cth_mos_steel_settlement_generate_temporary_army}}	Reserve Army	force	1	siege_defence.png	true	true	false
+wh3_dlc29_emp_middenland_narrative_act_1_dilemma_1_penalty_bundle	Leadership and control penalty	Succour will be given	faction	1	public_order.png	true	false	true
+wh3_dlc29_emp_middenland_narrative_act_1_dilemma_2_penalty_bundle	Movement range penalty	Unfinished job	faction	1	campaign_movement.png	true	false	true
+wh3_dlc29_emp_middenland_narrative_act_1_incident_1_penalty_bundle	Control and growth penalty	Hunt Wrongly Abandoned	faction	1	public_order.png	true	false	true
+wh3_dlc29_emp_middenland_narrative_act_1_mission_1_bundle	Control and growth	Raided Hamlet Marker Resolved	faction	1	public_order.png	true	false	true
+wh3_dlc29_emp_middenland_narrative_act_1_mission_2_bundle	Reduce corruption and increase income	Herd's Idols Marker Resolved	faction	1	income.png	true	false	true
+wh3_dlc29_emp_middenland_narrative_act_1_mission_3_bundle	Movement range and replenishment	Strange Tracks Marker Resolved	faction	1	replenishment.png	true	false	true
+wh3_dlc29_emp_middenland_narrative_act_2_mission_1_bundle	Leadership and Melee attack	Brayherd Assault Repelled	faction	1	melee.png	true	false	true
+wh3_dlc29_emp_middenland_signs_of_beastmen_2		Better Prepared	faction	1	experience.png	false	false	true
+wh3_dlc29_emp_middenland_town_besieged_1		Send a Lord	faction	1	treasure_map.png	false	false	true
+wh3_dlc29_emp_middenland_town_besieged_2		Local Safety	faction	1	public_order.png	false	false	false
+wh3_dlc29_emp_middenland_town_besieged_3		Matters of State	faction	1	income.png	true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_01_lord_hidden		Grey Seer Clan	character	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_01_main_hidden		Grey Seer Clan	force	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_02_lord_hidden		Clan Skryre	character	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_02_main_hidden		Clan Skryre	force	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_03_lord_hidden		Clan Moulder	character	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_03_main_hidden		Clan Moulder	force	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_04_lord_hidden		Clan Pestilens	character	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_04_main_hidden		Clan Pestilens	force	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_05_lord_hidden		Clan Eshin	character	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_05_main_hidden		Clan Eshin	force	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_06_lord_hidden		Clan Skab	character	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_06_main_hidden		Clan Skab	force	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_07_lord_hidden		Clan Morbidus	character	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_07_main_hidden		Clan Morbidus	force	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_08_lord_hidden		Clan Krizzor	character	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_08_main_hidden		Clan Krizzor	force	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_09_lord_hidden		Clan Skurvy	character	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_09_main_hidden		Clan Skurvy	force	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_10_lord_hidden		Paskrit the Vast	character	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_10_main_hidden		Paskrit the Vast	force	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_11_lord_hidden		Clan Rictus	character	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_11_main_hidden		Clan Rictus	force	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_12_lord_hidden		Clan Mors	character	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_12_main_hidden		Clan Mors	force	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_13_lord_hidden		Clan Scruten	character	0		true	false	true
+wh3_dlc29_endgame_crisis_the_vermintide_enemy_wave_13_main_hidden		Clan Scruten	force	0		true	false	true
+wh3_dlc29_enforce_will_on_mortarchs	free will or not they need to follow my lead and the plan	Mortarchs scolded	faction	1	character.png	true	false	true
+wh3_dlc29_episodes_chaos_invasion_archaon	The Everchosen, in earning the highest regard of all four of the Chaos Gods, is being given power beyond all imagining - at least while the forces of Chaos remain.	The Everchosen	force	1	trait_chaos.png	true	true	false
+wh3_dlc29_episodes_chaos_invasion_devastated_province	This entire province has been [[b]]Devastated[[/b]] by the ongoing Chaos Invasion due to half or more of its regions being razed.	Devastation (Chaos Invasion)	region	1	corruption_chaos.png	true	true	false
+wh3_dlc29_episodes_chaos_invasion_devastated_region	[STATUS: HIDDEN]	[HIDDEN]	region	0		true	false	true
+wh3_dlc29_episodes_chaos_invasion_event_alone_2	Alone amongst the ending of all things, we fight.	Alone We Fight	faction	1	belakor_daemon_prince.png	true	false	true
+wh3_dlc29_episodes_chaos_invasion_event_bad_1	It is the people that will see us through this - from young to old, we all must do our part.	Our People	faction	1	belakor_daemon_prince.png	true	false	true
+wh3_dlc29_episodes_chaos_invasion_event_bad_2	We must withstand any burden, endure any cost, for in such dire times it is our leader who shall see us through.	Our Leader	faction	1	belakor_daemon_prince.png	true	false	true
+wh3_dlc29_episodes_chaos_invasion_event_end_2	If this is the end, then let even the Dark Gods remember our stand.	The Last Stand	faction	1	belakor_daemon_prince.png	true	false	true
+wh3_dlc29_episodes_chaos_invasion_event_good_1	We have long prepared for this day, all that is left is to fight.	Sufficient Preparation	faction	1	belakor_daemon_prince.png	true	false	true
+wh3_dlc29_episodes_chaos_invasion_event_good_2	We must commit everything to this fight. Our economy will suffer, but our nation shall survive.	Fully Commited	faction	1	belakor_daemon_prince.png	true	false	true
+wh3_dlc29_episodes_chaos_invasion_force_bst	this is a force belonging to the chaos invasion endgame	Chaos Invasion	force	1	trait_beastmen.png	true	true	false
+wh3_dlc29_episodes_chaos_invasion_force_chs	this is a force belonging to the chaos invasion endgame	{{tr:effect_bundles_localised_title_wh3_dlc29_episodes_chaos_invasion_force_bst}}	force	1	trait_chaos.png	true	true	false
+wh3_dlc29_episodes_chaos_invasion_force_kho	this is a force belonging to the chaos invasion endgame	{{tr:effect_bundles_localised_title_wh3_dlc29_episodes_chaos_invasion_force_bst}}	force	1	trait_khorne.png	true	true	false
+wh3_dlc29_episodes_chaos_invasion_force_nor	this is a force belonging to the chaos invasion endgame	{{tr:effect_bundles_localised_title_wh3_dlc29_episodes_chaos_invasion_force_bst}}	force	1	trait_norsca.png	true	true	false
+wh3_dlc29_episodes_chaos_invasion_force_nur	this is a force belonging to the chaos invasion endgame	{{tr:effect_bundles_localised_title_wh3_dlc29_episodes_chaos_invasion_force_bst}}	force	1	trait_nurgle.png	true	true	false
+wh3_dlc29_episodes_chaos_invasion_force_sla	this is a force belonging to the chaos invasion endgame	{{tr:effect_bundles_localised_title_wh3_dlc29_episodes_chaos_invasion_force_bst}}	force	1	trait_slaanesh.png	true	true	false
+wh3_dlc29_episodes_chaos_invasion_force_tze	this is a force belonging to the chaos invasion endgame	{{tr:effect_bundles_localised_title_wh3_dlc29_episodes_chaos_invasion_force_bst}}	force	1	trait_tzeentch.png	true	true	false
+wh3_dlc29_episodes_chaos_invasion_fortress_chs	this is a portal fortress belonging to the chaos invasion endgame	Fortress of Chaos	force	1	trait_chaos.png	true	true	false
+wh3_dlc29_episodes_chaos_invasion_fortress_kho	this is a portal fortress belonging to the chaos invasion endgame	Fortress of Khorne	force	1	trait_khorne.png	true	true	false
+wh3_dlc29_episodes_chaos_invasion_fortress_nur	this is a portal fortress belonging to the chaos invasion endgame	Fortress of Nurgle	force	1	trait_nurgle.png	true	true	false
+wh3_dlc29_episodes_chaos_invasion_fortress_sla	this is a portal fortress belonging to the chaos invasion endgame	Fortress of Slaanesh	force	1	trait_slaanesh.png	true	true	false
+wh3_dlc29_episodes_chaos_invasion_fortress_tze	this is a portal fortress belonging to the chaos invasion endgame	Fortress of Tzeentch	force	1	trait_tzeentch.png	true	true	false
+wh3_dlc29_episodes_endgame_shield_of_civilization_chaos	All who stand against Chaos must be willing to set aside hostilities in order to defeat this existential threat.	Shield of Civilisation	faction	1	corruption.png	true	false	true
+wh3_dlc29_episodes_endgame_shield_of_civilization_nagash	All who stand against Nagash must be willing to set aside hostilities in order to defeat this existential threat.	{{tr:effect_bundles_localised_title_wh3_dlc29_episodes_endgame_shield_of_civilization_chaos}}	faction	1	corruption.png	true	false	true
+wh3_dlc29_episodes_endgame_shield_of_civilization_skaven	All who stand against the Skaven must be willing to set aside hostilities in order to defeat this existential threat.	{{tr:effect_bundles_localised_title_wh3_dlc29_episodes_endgame_shield_of_civilization_chaos}}	faction	1	corruption.png	true	false	true
+wh3_dlc29_episodes_skaven_devastated_province	This entire province has been [[b]]Devastated[[/b]] by the Skaven Vermintide due to them owning half or more of its regions.	Devastation (Vermintide)	region	1	corruption_skaven.png	true	true	false
+wh3_dlc29_episodes_skaven_devastated_region	[STATUS: HIDDEN]	[HIDDEN]	region	0		true	false	true
+wh3_dlc29_episodes_skaven_invasion_force	this is a force belonging to the vermintide endgame	Vermintide Army	force	1	trait_skaven.png	true	true	false
+wh3_dlc29_faction_trait_chaos_invasion	[HIDDEN] [STATUS: HIDDEN]	[HIDDEN]	faction	0	food.png	false	false	true
+wh3_dlc29_faction_trait_skaven_vermintide	[HIDDEN] [STATUS: HIDDEN]	[HIDDEN]	faction	0	food.png	true	false	true
+wh3_dlc29_faction_trait_undead_legions			faction	1	food.png	false	false	true
+wh3_dlc29_frenzy_fevour_scripted_hidden			force	0		true	false	true
+wh3_dlc29_glottkin_mark_of_crawling_garden_tier_2		Crawling Garden of Nurgle	region	1	settlement.png	true	false	true
+wh3_dlc29_glottkin_mark_of_nurgle_7_tier_2	The duration of this bundles is equal to the Level of the main building of the casting settlement.	Mark of the Crawling Garden Tier 2	region	1	0_placeholder_effect_bundle.png	true	true	true
+wh3_dlc29_glottkin_narrative_invasion_no_withdraw	Glottkin narrative invasion no withdraw [STATUS: HIDDEN]	Glottkin narrative invasion no withdraw	force	1		false	false	true
+wh3_dlc29_glottkin_scripted_marks_cap			faction	1		true	false	true
+wh3_dlc29_glottkin_souls_progression_1	Very short description showcasing the growth of favour from nurgle	{{tr:ui_text_replacements_localised_text_wh3_dlc29_woc_glottkin_claimed_souls}}	faction	1		true	false	true
+wh3_dlc29_glottkin_souls_progression_2	Very short description showcasing the growth of favour from nurgle	{{tr:ui_text_replacements_localised_text_wh3_dlc29_woc_glottkin_claimed_souls}}	faction	1		true	false	true
+wh3_dlc29_glottkin_souls_progression_3	Very short description showcasing the growth of favour from nurgle	{{tr:ui_text_replacements_localised_text_wh3_dlc29_woc_glottkin_claimed_souls}}	faction	1		true	false	true
+wh3_dlc29_glottkin_souls_progression_4	Very short description showcasing the growth of favour from nurgle	{{tr:ui_text_replacements_localised_text_wh3_dlc29_woc_glottkin_claimed_souls}}	faction	1		true	false	true
+wh3_dlc29_glottkin_souls_progression_5	Very short description showcasing the growth of favour from nurgle	{{tr:ui_text_replacements_localised_text_wh3_dlc29_woc_glottkin_claimed_souls}}	faction	1		true	false	true
+wh3_dlc29_glottkin_souls_progression_6	Very short description showcasing the growth of favour from nurgle	{{tr:ui_text_replacements_localised_text_wh3_dlc29_woc_glottkin_claimed_souls}}	faction	1		true	false	true
+wh3_dlc29_glottkin_souls_progression_7	Very short description showcasing the growth of favour from nurgle	{{tr:ui_text_replacements_localised_text_wh3_dlc29_woc_glottkin_claimed_souls}}	faction	1		true	false	true
+wh3_dlc29_high_corruption_nag_dummy	[HIDDEN] [STATUS: HIDDEN]	[HIDDEN]	region	0		true	false	true
+wh3_dlc29_ie_victory_conditions_blessed_spawning_kroxigor_capacity_bundle		Improved Spawning Pools	faction	1	merc_replen.png	true	false	true
+wh3_dlc29_ie_victory_conditions_blessed_spawning_ripperdactyl_terradon_capacity_bundle		Improved Spawning Pools	faction	1	merc_replen.png	true	false	true
+wh3_dlc29_ie_victory_conditions_blessed_spawning_saurus_warriors_capacity_bundle		Improved Spawning Pools	faction	1	merc_replen.png	true	false	true
+wh3_dlc29_ie_victory_conditions_blessed_spawning_skink_capacity_bundle		Improved Spawning Pools	faction	1	merc_replen.png	true	false	true
+wh3_dlc29_ie_victory_conditions_blessed_spawning_temple_guard_capacity_bundle		Improved Spawning Pools	faction	1	merc_replen.png	true	false	true
+wh3_dlc29_ie_victory_conditions_caravan_capacity	All the trade!	Caravan Capacity Increased	faction	1	army.png	true	false	true
+wh3_dlc29_ie_victory_conditions_champions_essence_bonus		Soul extractor	faction	1	khorne_skull_throne.png	true	false	true
+wh3_dlc29_ie_victory_conditions_characters_recruit_rank_bundle		Character Recruit Rank Increased	faction	1	army.png	true	false	true
+wh3_dlc29_ie_victory_conditions_chs_archaon_unit_cap	Unit cap	Short victory unit cap	faction	1	army.png	false	false	true
+wh3_dlc29_ie_victory_conditions_chs_belakor	Short Victory Be'lakor	Short Victory Be'lakor	faction	1	icon_ritual_currency_favour.png	true	false	true
+wh3_dlc29_ie_victory_conditions_chs_devolting_a_lord	Long Victory	Long Victory	faction	1	army.png	true	false	true
+wh3_dlc29_ie_victory_conditions_chs_kholek_unit_cap	Unit cap	Short victory unit cap	faction	1	army.png	false	false	true
+wh3_dlc29_ie_victory_conditions_cst_long_victory		Long Victory Vampire Coast	faction	1	army.png	true	false	true
+wh3_dlc29_ie_victory_conditions_cst_lucky		Lucky	faction	1	pirate_cove.png	true	false	true
+wh3_dlc29_ie_victory_conditions_cst_pirate_flag		Pirate Flag	faction	1	pirate_cove.png	true	false	true
+wh3_dlc29_ie_victory_conditions_geomantic_buildings_bundle		Pylon Builder	faction	1	construction.png	true	false	true
+wh3_dlc29_ie_victory_conditions_global_recruitement_reward_bundle		Global Recruitment Improvements	faction	1	army.png	true	false	true
+wh3_dlc29_ie_victory_conditions_grn_new_home		New Home	faction	1	army.png	true	false	true
+wh3_dlc29_ie_victory_conditions_grn_old_knives		Old Knives	faction	1	army.png	true	false	true
+wh3_dlc29_ie_victory_conditions_grn_trophy_cabinet		Trophy Cabinet	faction	1	army.png	true	false	true
+wh3_dlc29_ie_victory_conditions_lord_capacity		Lord Capacity Increased	faction	1	army.png	true	false	true
+wh3_dlc29_ie_victory_conditions_lord_capacity_one		Army Capacity Increased	faction	1	army.png	true	false	true
+wh3_dlc29_ie_victory_conditions_lord_recruit_rank_bundle	{{tr:effect_bundles_localised_description_wh3_main_ie_victory_objective_chaos_long}}	Lord Recruit Rank Increased	faction	1	army.png	true	false	true
+wh3_dlc29_ie_victory_conditions_ogr_bountiful_contracts		Bountiful Contracts	faction	1	income.png	true	false	true
+wh3_dlc29_ie_victory_conditions_ogr_camp_capacity		Long victory bundle	faction	1	army.png	true	false	true
+wh3_dlc29_ie_victory_conditions_post_battle_captives_add_bundle		Hunter	faction	1	dlc12_sotek_sacrifice_captives.png	true	false	true
+wh3_dlc29_ie_victory_conditions_temple_of_the_old_ones_favour_production_mult_bundle		Talisman of the Old Ones	faction	1	icon_ritual_currency_favour.png	true	false	true
+wh3_dlc29_ie_victory_conditions_tmb_deal_between_the_dead		Deal Between the Dead	faction	1	army.png	true	false	true
+wh3_dlc29_ie_victory_conditions_tmb_equipped_traveller		Equipped Traveller	faction	1	trait_climate_all.png	true	false	true
+wh3_dlc29_ie_victory_conditions_tmb_gather_the_dead		Gather the Dead	faction	1	army.png	true	false	true
+wh3_dlc29_ie_victory_conditions_tmb_rightful_home		Rightful Home	region	1	army.png	true	false	true
+wh3_dlc29_ie_victory_conditions_tmb_rightful_home_dummy		Rightful Home	faction	1	army.png	true	false	true
+wh3_dlc29_ie_victory_objective_chaos_dwarfs_short	The major victories of tomorrow begin with the smaller victories of today.	Better Materials	faction	1	magic_campaign.png	true	false	true
+wh3_dlc29_ie_victory_objective_dae_dedicate_to_khorne		Dedicated to Khorne	faction	1	edict_dae_khorne.png	true	false	true
+wh3_dlc29_ie_victory_objective_dae_dedicate_to_nurgle		Dedicated to Nurgle	faction	1	edict_dae_nurgle.png	true	false	true
+wh3_dlc29_ie_victory_objective_dae_dedicate_to_slaanesh		Dedicated to Slaanesh	faction	1	edict_dae_slaanesh.png	true	false	true
+wh3_dlc29_ie_victory_objective_dae_dedicate_to_tzeentch		Dedicated to Tzeentch	faction	1	edict_dae_tzeentch.png	true	false	true
+wh3_dlc29_ie_victory_objective_dae_dedicate_to_undivided		Dedicated to Undivided	faction	1	edict_dae_foster_cults.png	true	false	true
+wh3_dlc29_ie_victory_objective_hef_alith_banner_short		Shadow Banner	character	1	army.png	true	false	true
+wh3_dlc29_ie_victory_objective_hef_teclis_short	The major victories of tomorrow begin with the smaller victories of today.	White Tower Librarian	faction	1	magic_campaign.png	true	false	true
+wh3_dlc29_ikit_workshop_stormfiend_melee_type_0		Melee Stormfiends I	faction	1		true	false	true
+wh3_dlc29_ikit_workshop_stormfiend_melee_type_1		Melee Stormfiends II	faction	1		true	false	true
+wh3_dlc29_ikit_workshop_stormfiend_melee_type_2		Melee Stormfiends III	faction	1		true	false	true
+wh3_dlc29_ikit_workshop_stormfiend_ranged_type_0		Ranged Stormfiends I	faction	1		true	false	true
+wh3_dlc29_ikit_workshop_stormfiend_ranged_type_1		Ranged Stormfiends II	faction	1		true	false	true
+wh3_dlc29_ikit_workshop_stormfiend_ranged_type_2		Ranged Stormfiends III	faction	1		true	false	true
+wh3_dlc29_land_of_the_dead	Nagash has constructed a towering Necropolis near this region, marking all life within it's shadow as his for the taking.	Land of the Dead	region	1	icon_land_of_the_dead_2.png	true	true	false
+wh3_dlc29_land_of_the_dead_devastated	This region has had all life stripped away, what remains is a necromantic hellscape where the dead roam, awaiting 'his' command.	Land of the Dead (Devastated)	region	1	icon_land_of_the_dead_3.png	true	true	false
+wh3_dlc29_lord_trait_chs_host_of_the_triplets	PH description	Glottkin's Faction Trait	faction	1	character.png	false	false	true
+wh3_dlc29_lord_trait_emp_boris	Middenland’s political standing, combined with the martial nature of the Ulrican warrior cult, affords it tremendous military power. By harnessing religious Fervour, it can draw upon its followers' strength and quickly muster powerful hosts.	Followers of the White Wolf	faction	1	character.png	false	false	true
+wh3_dlc29_lord_trait_nag_nagash	PH description	Nagash's faction trait	faction	1	character.png	false	false	true
+wh3_dlc29_lord_trait_nef_neferata	Sitting upon her luxurious throne within the former Dwarf fortress-city of the Silver Pinnacle, Neferata has, since the time of her exile from the lands of Nehekhara, been plotting and weaving a web of intrigue and preparing for her return.	Mistress of the Silver Pinnacle	faction	1	character.png	false	false	true
+wh3_dlc29_lord_trait_skv_thanquol	Shrewd and constantly re-evaluates his plans, always probing for different angles or new benefits to be gained.	Arguably the Greatest Grey Seer	faction	1	character.png	false	false	true
+wh3_dlc29_mark_of_nurgle_enemy_force_debuff	The Filth-Seer unveils the hidden rot within the province, hastening its decay and sapping the strength of its defenders.	The Seer’s Corruption	force	1	campaign_movement.png	true	false	true
+wh3_dlc29_max_corruption_nag_dummy	[HIDDEN] [STATUS: HIDDEN]	[HIDDEN]	region	0		true	false	true
+wh3_dlc29_mid_corruption_nag_dummy	[HIDDEN] [STATUS: HIDDEN]	[HIDDEN]	region	0		true	false	true
+wh3_dlc29_middenland_bundle_stance_army_winter_march	Upgraded camp stance for Ulric Lords	Stance: Winter March	force	1	beastpaths.png	true	false	true
+wh3_dlc29_middenland_effect_bundle_lessons_of_the_hunt	{{tr:rituals_description_wh3_dlc29_middenland_lessons_of_the_hunt_1}}	{{tr:rituals_display_name_wh3_dlc29_middenland_lessons_of_the_hunt_1}}	force	1	wh3_dlc29_edict_ulrican_dogma_bundle.png	false	false	true
+wh3_dlc29_middenland_narrative_hunting_stance_effects_bundle	Solve Scour the Forest Mission by hunting at the Empire locations.	Stance: Hunting	force	1	icon_effects_fortify.png	true	false	true
+wh3_dlc29_middenland_narrative_hunting_stance_provider_bundle	[HIDDEN] [STATUS: HIDDEN]	[HIDDEN]	faction	1		true	false	true
+wh3_dlc29_middenland_priest_foreign_replenishment	Priest Replenishment	Priest Replenishment	force	1	replenishment.png	true	false	true
+wh3_dlc29_middenland_ritual_army_buff	{{tr:rituals_description_wh3_dlc29_middenland_army_buff_1}}	{{tr:rituals_display_name_wh3_dlc29_middenland_army_buff_1}}	force	1	wh3_dlc29_edict_ulrican_dogma_bundle.png	true	false	true
+wh3_dlc29_middenland_sacred_flame_tier_1_effect_bundle	Ulric's faithful grow in strength and number – stalwart Middenlanders taking to the Wolf's hard lessons, and warriors-for-hire awakened to their feral nature.	Sacred Flame (Kindled)	faction	1	0_placeholder_effect_bundle.png	true	false	true
+wh3_dlc29_middenland_sacred_flame_tier_2_effect_bundle	Across the Empire, the Wolf calls upon those whom it considers his own. The Drakwald – Ulric's domain – rejects all but the stubbornly fearless. But them, it embraces.	Sacred Flame (Surging)	faction	1	placeholder.png	true	false	true
+wh3_dlc29_middenland_sacred_flame_tier_3_effect_bundle	Even nobility has taken note of Ulric's rousing howl. They have begun to recall the battle cries which founded their Empire and the tenets of their elite forces.	Sacred Flame (Roaring)	faction	1	placeholder.png	true	false	true
+wh3_dlc29_middenland_sacred_flame_tier_4_effect_bundle	Far and wide, a wildfire spreads born of Ulric's Great Flame, burning without pause. Those terrifying in discipline, wild skill, or raging barrel-flame unite in duty to the God of Battle.	Sacred Flame (Towering)	faction	1	placeholder.png	true	false	true
+wh3_dlc29_middenland_sacred_flame_tier_5_effect_bundle	Even nobility has taken note of Ulric's rousing howl. They have begun to recall the battle cries which founded their Empire and the tenets of their elite forces.	Sacred Flame (Roaring)	faction	1	placeholder.png	true	false	true
+wh3_dlc29_middenland_sacred_flame_tier_6_effect_bundle	Far and wide, a wildfire spreads born of Ulric's Great Flame, burning without pause. Those terrifying in discipline, wild skill, or raging barrel-flame unite in duty to the God of Battle.	Sacred Flame (Towering)	faction	1	placeholder.png	true	false	true
+wh3_dlc29_middenland_the_great_temple_of_ulric_call_of_the_teutogen_effect_bundle	{{tr:rituals_description_wh3_dlc29_middenland_call_of_the_teutogen_1}}	{{tr:rituals_display_name_wh3_dlc29_middenland_call_of_the_teutogen_1}}	force	1	wh3_dlc29_edict_ulrican_dogma_bundle.png	true	false	true
+wh3_dlc29_middenland_the_great_temple_of_ulric_call_of_the_teutogen_effect_bundle_2	{{tr:rituals_description_wh3_dlc29_middenland_call_of_the_teutogen_2}}	{{tr:rituals_display_name_wh3_dlc29_middenland_call_of_the_teutogen_2}}	force	1	wh3_dlc29_edict_ulrican_dogma_bundle.png	true	false	true
+wh3_dlc29_middenland_the_great_temple_of_ulric_stride_of_the_white_wolf_effect_bundle	Stride of the White Wolf [STATUS: HIDDEN]	Stride of the White Wolf	force	0	0_placeholder_effect_bundle.png	true	false	true
+wh3_dlc29_middenland_the_great_temple_of_ulric_stride_of_the_white_wolf_effect_bundle_2	Stride of the White Wolf [STATUS: HIDDEN]	Stride of the White Wolf	force	0	0_placeholder_effect_bundle.png	true	false	true
+wh3_dlc29_middenland_unknown_reward_bundle		An event will trigger after interacting with the Marker...	faction	1	treasure_map.png	false	false	true
+wh3_dlc29_military_green_death_globe_bombadiers_1		Add {{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_death_globe_bombadiers_1}} to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_military_green_effect_bundle_artillery_1		Plagueclaw Catapults will be added to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_military_green_effect_bundle_infantry_2		{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_basic_infantry_2}} will replace {{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_basic_infantry_1}} in all Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_military_green_effect_bundle_pusbags_1		Skavenslaves are removed from Military Masterplans\n{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_basic_pusbags_1}} are added to Military Masterplans (with a lower chance of appearance)	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_military_green_effect_bundle_pusbags_2		Amount of {{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_basic_pusbags_1}} in Designs are increased from 2 to 3	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_military_green_plague_monks_1		{{tr:chaotic_plan_tokens_name_wh3_dlc29_military_green_plague_monks_1}} will be added to Military Masterplans	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_mortal_qualified_labourers	A suprising influx of mortal qualified labourer flocks to our land to create monuments	Mortal labourers	faction	1	construction.png	true	false	true
+wh3_dlc29_mortarchs_healthy_competition	Mortarch are infighting letting their skill sharp and talent to increase	Mortarch in competition 	faction	1	character.png	true	false	true
+wh3_dlc29_nag_control_relic_trade	By putting our hands in the trafic of relic allow us to gain power	Control the relic trade	faction	1	income.png	true	false	true
+wh3_dlc29_nag_kill_smugglers	Ate the souls of the relic smugglers	Exectuted the smuggler	faction	1	income.png	true	false	true
+wh3_dlc29_nag_mortarch_mis_bundle_arkhan	Enable ritual for mortarch: Arkhan	Enable ritual for mortarch: Arkhan	faction	0	character.png	false	false	true
+wh3_dlc29_nag_mortarch_mis_bundle_dieter	Enable ritual for mortarch: Dieter	Enable ritual for mortarch: Dieter	faction	0	character.png	false	false	true
+wh3_dlc29_nag_mortarch_mis_bundle_krell	Enable ritual for mortarch: Krell	Enable ritual for mortarch: Krell	faction	0	character.png	false	false	true
+wh3_dlc29_nag_mortarch_mis_bundle_luthor	Enable ritual for mortarch: Luthor	Enable ritual for mortarch: Luthor	faction	0	character.png	false	false	true
+wh3_dlc29_nag_mortarch_mis_bundle_mannfred	Enable ritual for mortarch: Mannfred	Enable ritual for mortarch: Mannfred	faction	0	character.png	false	false	true
+wh3_dlc29_nag_mortarch_mis_bundle_nameless	Enable ritual for mortarch: Nameless	Enable ritual for mortarch: Nameless	faction	0	character.png	false	false	true
+wh3_dlc29_nag_mortarch_mis_bundle_neferata	Enable ritual for mortarch: Neferata	Enable ritual for mortarch: Neferata	faction	0	character.png	false	false	true
+wh3_dlc29_nag_mortarch_mis_bundle_vlad	Enable ritual for mortarch: Vlad	Enable ritual for mortarch: Vlad	faction	0	character.png	false	false	true
+wh3_dlc29_nag_mortarch_mis_bundle_walach	Enable ritual for mortarch: Walach	Enable ritual for mortarch: Walach	faction	0	character.png	false	false	true
+wh3_dlc29_nag_ritual_payload_mortarch_arkhan			faction	1		false	false	true
+wh3_dlc29_nag_ritual_payload_mortarch_dieter			faction	1		false	false	true
+wh3_dlc29_nag_ritual_payload_mortarch_krell			faction	1		false	false	true
+wh3_dlc29_nag_ritual_payload_mortarch_luthor			faction	1		false	false	true
+wh3_dlc29_nag_ritual_payload_mortarch_mannfred			faction	1		false	false	true
+wh3_dlc29_nag_ritual_payload_mortarch_nameless			faction	1		false	false	true
+wh3_dlc29_nag_ritual_payload_mortarch_neferata			faction	1		false	false	true
+wh3_dlc29_nag_ritual_payload_mortarch_vlad			faction	1		false	false	true
+wh3_dlc29_nag_ritual_payload_mortarch_walach			faction	1		false	false	true
+wh3_dlc29_nagash_endgame_nagashizzar_effect_bundle	Black Pyramid effects	Black Pyramid effects	region	1		true	true	false
+wh3_dlc29_nagash_endgame_vassals_boost		We serve Nagash	faction	1	books_of_nagash.png	true	true	false
+wh3_dlc29_nagash_final_battle_endless_power	[STATUS: HIDDEN]	Endless Power	character	0		false	false	true
+wh3_dlc29_necropolis_over_cap	We can't maintain that many necropolises	Too Many Necropolises	faction	1	icon_land_of_the_dead_2.png	false	false	true
+wh3_dlc29_neferata_actions_block_movement		Block movement	force	1		true	false	true
+wh3_dlc29_neferata_actions_handmaiden_recruitment		Handmaiden Recruitment	faction	1		true	false	true
+wh3_dlc29_payload_all_souls	All souls are mine	All souls are mine	faction	1	cult.png	true	false	true
+wh3_dlc29_payload_blessed_graves	Blessed graves	Blessed graves	faction	1	cult.png	true	false	true
+wh3_dlc29_payload_complete_domination	Complete domination	Complete domination	faction	1	cult.png	true	false	true
+wh3_dlc29_payload_disreagard_for_unlife	Disregard for unlife	Disregard for unlife	faction	1	cult.png	true	false	true
+wh3_dlc29_payload_great_mausoleum_discovered	Great mausoleum is discovered	Great mausoleum is discovered	faction	1	cult.png	true	false	true
+wh3_dlc29_payload_herald_of_death	Heralds of Death	Heralds of Death	faction	1	cult.png	true	false	true
+wh3_dlc29_payload_shyish_blowing	Benifit of Shyish	Benifit of Shyish	faction	1	cult.png	true	false	true
+wh3_dlc29_payload_sorceres_underbelly	Infiltrated sorceres	Infiltrated sorceres	faction	1	cult.png	true	false	true
+wh3_dlc29_payload_under_the_cover_night	Cover of the night	Cover of the night	faction	1	cult.png	true	false	true
+wh3_dlc29_payload_under_the_gaze_of_a_god	Gaze of Nagash	Gaze of Nagash	faction	1	cult.png	true	false	true
+wh3_dlc29_pooled_resource_concealment_tier_1	ph	Concealment (0-4)	faction	1	attribute_unbreakable.png	true	false	true
+wh3_dlc29_pooled_resource_concealment_tier_2	ph	Concealment (5-29)	faction	1	attribute_unbreakable.png	true	false	true
+wh3_dlc29_pooled_resource_concealment_tier_3	ph	Concealment (30-59)	faction	1	attribute_unbreakable.png	true	false	true
+wh3_dlc29_pooled_resource_concealment_tier_4	ph	Concealment (60-84)	faction	1	attribute_unbreakable.png	true	false	true
+wh3_dlc29_pooled_resource_concealment_tier_5	ph	Concealment (85-100)	faction	1	attribute_unbreakable.png	true	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_1			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_10	Unlocks Gate Node I in the Black Pyramid	Gate Node - Tier I	faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_11			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_12			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_13			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_14			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_15			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_16			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_17			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_18			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_19			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_2			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_20			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_21			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_22			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_23			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_24			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_25	Unlocks Gate Node II in the Black Pyramid	Gate Node - Tier II	faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_26			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_27			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_28			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_29			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_3			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_30			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_31			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_32			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_33			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_34			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_35			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_36			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_37			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_38			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_39			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_4			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_40			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_41			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_42			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_43			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_44			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_45			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_46			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_47			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_48			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_49			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_5			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_50	Unlocks Gate Node III in the Black Pyramid	Gate Node - Tier III	faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_6			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_7			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_8			faction	1		false	false	true
+wh3_dlc29_pooled_resource_pyramid_progression_9			faction	1		false	false	true
+wh3_dlc29_purple_military_ogre_kingdoms_mercenaries_pay_dummy_description		Receive a Design that adds Ogre units to the Underling's army	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_qb_chs_glottkin_final_battle_karl_franz_emperor	[STATUS: HIDDEN]	The Emperor	force	1	public_order_troubled.png	false	false	true
+wh3_dlc29_qb_chs_war_in_the_darkwald_beastmen	[STATUS: HIDDEN]	Beastmen	force	1	public_order_troubled.png	false	false	true
+wh3_dlc29_qb_chs_war_in_the_darkwald_great_shaman	[STATUS: HIDDEN]	Forest Goblin Great Shaman	force	1	public_order_troubled.png	false	false	true
+wh3_dlc29_qb_chs_war_in_the_darkwald_savage_orcs	[STATUS: HIDDEN]	Savage Orcs	force	1	public_order_troubled.png	false	false	true
+wh3_dlc29_qb_thanquol_scruten_clanstone	{{tr:wh2_main_ritual_skv_thirteen_description}}	Scruten Clanstone	faction	1	effect_rite.png	true	false	true
+wh3_dlc29_rain_glottkin_tier_1_global	This is the description of the Level 1 Rain of Nurgle.	Rain Level 1 Effects	region	1	0_placeholder_effect_bundle.png	false	false	false
+wh3_dlc29_rain_glottkin_tier_1_positive	This is the description of the Level 1 Rain of Nurgle.	Rain Level 1 Effects	region	1	0_placeholder_effect_bundle.png	false	false	false
+wh3_dlc29_rain_glottkin_tier_1_region	Nurgle's corruption is growing strong in the area. The thick, milky-white, infectious rain pouring down is a sure sign The Realm of Nurgle is getting closer.	Nurgle Rain	region	0	wh3_dlc29_chs_nurgle_rain_tier_1.png	false	false	false
+wh3_dlc29_rain_glottkin_tier_2_global	This is the description of the Level 2 Rain of Nurgle.	Rain Level 2 Effects	region	1	0_placeholder_effect_bundle.png	false	false	false
+wh3_dlc29_rain_glottkin_tier_2_negative	This is the description of the Level 2 Rain of Nurgle.	Rain Level 2 Effects	region	1	0_placeholder_effect_bundle.png	false	false	false
+wh3_dlc29_rain_glottkin_tier_2_region	Nurgle's corruption is taking over the area. The nurgle rain intensifies, pouring stronger than ever, infecting everything it touches. Nurgle's presence can be felt in the stormy clouds.	Greater Nurgle Rain	region	0	wh3_dlc29_chs_nurgle_rain_tier_2.png	false	false	false
+wh3_dlc29_red_any_ogre_kingdoms_hungry_elite_pay_dummy_description		Will reduce Alarm by 1 by feeding the Ogres	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_red_any_ogre_kingdoms_hungry_pay_dummy_description		Will reduce Alarm by 1 by feeding the Ogres	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_ritual_bundle_glottkin_garden_cycle_upgrade_1_dummy			faction	1		true	false	true
+wh3_dlc29_ritual_bundle_glottkin_garden_cycle_upgrade_2_dummy			faction	1		true	false	true
+wh3_dlc29_ritual_bundle_glottkin_garden_cycle_upgrade_3_dummy			faction	1		true	false	true
+wh3_dlc29_ritual_bundle_glottkin_gifted_unit_upgrade_1_dummy			faction	1		true	false	true
+wh3_dlc29_ritual_bundle_glottkin_gifted_unit_upgrade_2_dummy			faction	1		true	false	true
+wh3_dlc29_ritual_bundle_glottkin_gifted_unit_upgrade_3_dummy			faction	1		true	false	true
+wh3_dlc29_ritual_bundle_glottkin_rains_upgrade_1_dummy			faction	1		true	false	true
+wh3_dlc29_ritual_bundle_glottkin_rains_upgrade_2_dummy			faction	1		true	false	true
+wh3_dlc29_ritual_bundle_glottkin_rains_upgrade_3_dummy			faction	1		true	false	true
+wh3_dlc29_ritual_bundle_glottkin_transported_army_upgrade_1_dummy			faction	1		true	false	true
+wh3_dlc29_ritual_bundle_glottkin_transported_army_upgrade_2_dummy			faction	1		true	false	true
+wh3_dlc29_ritual_bundle_glottkin_transported_army_upgrade_3_dummy			faction	1		true	false	true
+wh3_dlc29_ritual_bundle_glottkin_xp_upgrade_1_dummy			faction	1		true	false	true
+wh3_dlc29_ritual_bundle_glottkin_xp_upgrade_2_dummy			faction	1		true	false	true
+wh3_dlc29_ritual_bundle_glottkin_xp_upgrade_3_dummy			faction	1		true	false	true
+wh3_dlc29_ritual_glottkin_garden_cycle_no_upgrade		Rites of the Cycle of Decay	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_garden_cycle_upgrade_1		Rites of the Cycle of Decay	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_garden_cycle_upgrade_2		Rites of the Cycle of Decay	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_garden_cycle_upgrade_3		Rites of the Cycle of Decay	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_gifted_unit_no_upgrade		Rites of blighted warriors	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_gifted_unit_upgrade_1		Rites of blighted warriors	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_gifted_unit_upgrade_2		Rites of blighted warriors	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_gifted_unit_upgrade_3		Rites of blighted warriors	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_gifted_units_base		Rites of blighted warriors	province	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_gifted_units_upgraded		Rites of blighted warriors	province	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_rains_no_upgrade		Rites of foul tempest	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_rains_upgrade_1		Rites of foul tempest	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_rains_upgrade_2		Rites of foul tempest	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_rains_upgrade_3		Rites of foul tempest	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_transported_army_no_upgrade		Rites of the call to war	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_transported_army_upgrade_1		Rites of the call to war	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_transported_army_upgrade_2		Rites of the call to war	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_transported_army_upgrade_3		Rites of the call to war	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_transported_army_upgrade_3_replenishment		Rites of foul tempest	force	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	true	false
+wh3_dlc29_ritual_glottkin_xp_no_upgrade		Rites of Nurgles Heralds	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_xp_upgrade_1		Rites of Nurgles Heralds	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_xp_upgrade_2		Rites of Nurgles Heralds	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_xp_upgrade_3		Rites of Nurgles Heralds	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_glottkin_xp_upgrade_3_non_scripted_bundle		Rites of Nurgles Heralds	force	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_ritual_nag_devaste_province	{{tr:rituals_description_wh3_dlc29_ritual_nag_devaste_province}}	{{tr:rituals_display_name_wh3_dlc29_ritual_nag_devaste_province}}	province	1		false	false	true
+wh3_dlc29_ritual_skv_thirteen_scruten	{{tr:wh2_main_ritual_skv_thirteen_description}}	{{tr:effect_bundles_localised_title_wh2_dlc09_ritual_skv_thirteen_rictus}}	faction	1	effect_rite.png	true	false	true
+wh3_dlc29_skv_any_effect_bundle_chance_all_tokens		25% chance for all Skryre unit Designs to be doubled in a Military Masterplan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_any_effect_bundle_chance_any_token		25% chance for this Design to be doubled in a Masterplan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_any_effect_bundle_chance_to_double_skryre_units		25% chance all Clan Skryre unit Designs to be doubled in a Masterplan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_any_effect_bundle_increased_amount		This Design can appear more times in a Masterplan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_any_effect_bundle_increased_chance		This Design has a higher chance of appearing in a Masterplan	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_any_effect_bundle_reduced_risk		Removes the Risk from this Design	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_bundle_cauldron_action_draw_1		Adds Designs for units from Clan Pestilens (1-2)	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_bundle_cauldron_action_draw_2		Adds more Designs for units from Clan Pestilens (1-4)	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_bundle_draw_treasury_tokens_1		Turn any Design into Treasury	faction	1	treasury.png	false	false	true
+wh3_dlc29_skv_bundle_draw_treasury_tokens_2		Turn any Design into 2 of Treasury	faction	1	treasury.png	false	false	true
+wh3_dlc29_skv_bundle_draw_treasury_tokens_3		Turn any Design into 3 of Treasury	faction	1	treasury.png	false	false	true
+wh3_dlc29_skv_bundle_draw_warpstone_tokens_1		Turn any Design into Warpstone	faction	1	wh3_dlc29_skv_warpstone.png	false	false	true
+wh3_dlc29_skv_bundle_draw_warpstone_tokens_2		Turn any Design into 2 of Warpstone	faction	1	wh3_dlc29_skv_warpstone.png	false	false	true
+wh3_dlc29_skv_bundle_draw_warpstone_tokens_3		Turn any Design into 3 of Warpstone	faction	1	wh3_dlc29_skv_warpstone.png	false	false	true
+wh3_dlc29_skv_bundle_dummy_final_battle_support_eshin		You will be able to call reinforcements of Eshin units in the Final Battle	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_bundle_dummy_final_battle_support_mors		You will be able to call reinforcements of Mors units in the Final Battle	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_bundle_dummy_final_battle_support_moulder		You will be able to call reinforcements of Moulder units in the Final Battle	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_bundle_dummy_final_battle_support_pestilens		You will be able to call reinforcements of Pestilens units in the Final Battle	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_bundle_dummy_final_battle_support_rictus		You will be able to call reinforcements of Rictus units in the Final Battle	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_bundle_dummy_final_battle_support_skryre		You will be able to call reinforcements of Skryre units in the Final Battle	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_bundle_final_battle_support_eshin	{{tr:chaotic_plan_tokens_description_wh3_dlc29_skv_final_battle_support_eshin}}	Skaven Support - Eshin	faction	1	wh3_dlc29_skv_thanquol_cp.png	true	false	true
+wh3_dlc29_skv_bundle_final_battle_support_mors	{{tr:chaotic_plan_tokens_description_wh3_dlc29_skv_final_battle_support_mors}}	Skaven Support - Mors	faction	1	wh3_dlc29_skv_thanquol_cp.png	true	false	true
+wh3_dlc29_skv_bundle_final_battle_support_moulder	{{tr:chaotic_plan_tokens_description_wh3_dlc29_skv_final_battle_support_moulder}}	Skaven Support - Moulder	faction	1	wh3_dlc29_skv_thanquol_cp.png	true	false	true
+wh3_dlc29_skv_bundle_final_battle_support_pestilens	{{tr:chaotic_plan_tokens_description_wh3_dlc29_skv_final_battle_support_pestilens}}	Skaven Support - Pestilens	faction	1	wh3_dlc29_skv_thanquol_cp.png	true	false	true
+wh3_dlc29_skv_bundle_final_battle_support_rictus	{{tr:chaotic_plan_tokens_description_wh3_dlc29_skv_final_battle_support_rictus}}	Skaven Support - Rictus	faction	1	wh3_dlc29_skv_thanquol_cp.png	true	false	true
+wh3_dlc29_skv_bundle_final_battle_support_skryre	{{tr:chaotic_plan_tokens_description_wh3_dlc29_skv_final_battle_support_skryre}}	Skaven Support - Skryre	faction	1	wh3_dlc29_skv_thanquol_cp.png	true	false	true
+wh3_dlc29_skv_bundle_reduce_risk		Reduces Risk	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_bundle_remove_complication		Remove a Complication	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_bundle_vault_draw_tokens		Open the Vault to receive Treasury & Warpstone (with risk of Complication)	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_chaotic_plans_rank_up_stormvermin	{{tr:unit_description_short_texts_text_wh2_main_unit_short_text_skv_inf_stormvermin_1}}	Training: Stormvermin	character	1	experience.png	false	false	true
+wh3_dlc29_skv_dummy_bundle_rank_up_artillery_2		[[col:green]]Rank of all Artillery units in Military Masterplans: +6[[/col]]	faction	1	experience.png	false	false	true
+wh3_dlc29_skv_dummy_bundle_rank_up_artillery_3		[[col:green]]Rank of all Artillery units in Military Masterplans: +9[[/col]]	faction	1	experience.png	false	false	true
+wh3_dlc29_skv_dummy_bundle_rank_up_melee_infantry_2		[[col:green]]Rank of all Infantry units in Military Masterplans: +6[[/col]]	faction	1	experience.png	false	false	true
+wh3_dlc29_skv_dummy_bundle_rank_up_melee_infantry_3		[[col:green]]Rank of all Infantry units in Military Masterplans: +9[[/col]]	faction	1	experience.png	false	false	true
+wh3_dlc29_skv_dummy_bundle_rank_up_missile_infantry_2		[[col:green]]Rank of Night Runners and Gutter Runners units in Military Masterplans: +6[[/col]]	faction	1	experience.png	false	false	true
+wh3_dlc29_skv_dummy_bundle_rank_up_missile_infantry_3		[[col:green]]Rank of Night Runners and Gutter Runners units in Military Masterplans: +9[[/col]]	faction	1	experience.png	false	false	true
+wh3_dlc29_skv_dummy_bundle_rank_up_monsters_2		[[col:green]]Rank of all Monsters units in Military Masterplans: +6[[/col]]	faction	1	experience.png	false	false	true
+wh3_dlc29_skv_dummy_bundle_rank_up_monsters_3		[[col:green]]Rank of all Monsters units in Military Masterplans: +9[[/col]]	faction	1	experience.png	false	false	true
+wh3_dlc29_skv_dummy_bundle_rank_up_weapon_teams_2		[[col:green]]Rank of all Weapon Teams units in Military Masterplans: +6[[/col]]	faction	1	experience.png	false	false	true
+wh3_dlc29_skv_dummy_bundle_rank_up_weapon_teams_3		[[col:green]]Rank of all Weapon Teams units in Military Masterplans: +9[[/col]]	faction	1	experience.png	false	false	true
+wh3_dlc29_skv_magic_create_undercity_filler_token_assassins		Adds a chance for {{tr:building_culture_variants_name_wh2_dlc12_under_empire_discovery_assassins_1wh2_main_skv_skavenwh2_main_sc_skv_skaven}} to be created in the Undercity	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_magic_create_undercity_filler_token_crafting		Adds a chance for {{tr:building_culture_variants_name_wh2_dlc12_under_empire_money_crafting_1wh2_main_skv_skavenwh2_main_sc_skv_skaven}} to be created in the Undercity	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_magic_create_undercity_filler_token_kidnappers		Adds a chance for {{tr:building_culture_variants_name_wh2_dlc12_under_empire_food_kidnappers_1wh2_main_skv_skavenwh2_main_sc_skv_skaven}} to be created in the Undercity	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_magic_create_undercity_filler_token_mine		Adds a chance for {{tr:building_culture_variants_name_wh2_dlc12_under_empire_warpstone_mine_1wh2_main_skv_skavenwh2_main_sc_skv_skaven}} to be created in the Undercity	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_magic_create_undercity_filler_token_refinery		Adds a chance for {{tr:building_culture_variants_name_wh2_dlc12_under_empire_warpstone_refinery_1wh2_main_skv_skavenwh2_main_sc_skv_skaven}} to be created in the Undercity	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_magic_create_undercity_filler_token_strip_mine		Adds a chance for {{tr:building_culture_variants_name_wh2_dlc12_under_empire_warpstone_strip_mine_1wh2_main_skv_skavenwh2_main_sc_skv_skaven}} to be created in the Undercity	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_magic_create_undercity_filler_token_thieves		Adds a chance for {{tr:building_culture_variants_name_wh2_dlc12_under_empire_money_thieves_1wh2_main_skv_skavenwh2_main_sc_skv_skaven}} to be created in the Undercity	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_magic_pull_moon_filler_token_campaign_movement	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_pull_moon_filler_token_campaign_movement}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_pull_moon_filler_token_campaign_movement}}	faction	1	campaign_movement.png	true	false	true
+wh3_dlc29_skv_magic_pull_moon_filler_token_food	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_pull_moon_filler_token_food}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_pull_moon_filler_token_food}}	faction	1	skaven_food.png	true	false	true
+wh3_dlc29_skv_magic_pull_moon_filler_token_growth	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_pull_moon_filler_token_growth}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_pull_moon_filler_token_growth}}	faction	1	growth.png	true	false	true
+wh3_dlc29_skv_magic_pull_moon_filler_token_loyalty	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_pull_moon_filler_token_loyalty}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_pull_moon_filler_token_loyalty}}	faction	1	loyalty.png	true	false	true
+wh3_dlc29_skv_magic_pull_moon_filler_token_recruitment_slots	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_pull_moon_filler_token_recruitment_slots}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_pull_moon_filler_token_recruitment_slots}}	faction	1	army.png	true	false	true
+wh3_dlc29_skv_magic_pull_moon_filler_token_skaven_corruption	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_pull_moon_filler_token_skaven_corruption}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_pull_moon_filler_token_skaven_corruption}}	faction	1	corruption_skaven.png	true	false	true
+wh3_dlc29_skv_magic_pull_moon_filler_token_upkeep	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_pull_moon_filler_token_upkeep}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_pull_moon_filler_token_upkeep}}	faction	1	variable_upkeep.png	true	false	true
+wh3_dlc29_skv_magic_pull_moon_filler_token_xp_characters	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_pull_moon_filler_token_xp_characters}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_pull_moon_filler_token_xp_characters}}	faction	1	experience.png	true	false	true
+wh3_dlc29_skv_magic_red_chaos_corruption_1	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_red_chaos_corruption_1}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_red_chaos_corruption_1}}	faction	1	corruption_chaos.png	true	false	true
+wh3_dlc29_skv_magic_red_chaos_corruption_2	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_red_chaos_corruption_2}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_red_chaos_corruption_2}}	faction	1	corruption_chaos.png	true	false	true
+wh3_dlc29_skv_magic_red_chaos_corruption_3	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_red_chaos_corruption_3}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_red_chaos_corruption_3}}	faction	1	corruption_chaos.png	true	false	true
+wh3_dlc29_skv_magic_red_elite_chaos_corruption_1	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_red_elite_chaos_corruption_1}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_red_elite_chaos_corruption_1}}	faction	1	corruption_chaos.png	true	false	true
+wh3_dlc29_skv_magic_red_elite_khorne_corruption_1	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_red_elite_khorne_corruption_1}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_red_elite_khorne_corruption_1}}	faction	1	corruption_khorne.png	true	false	true
+wh3_dlc29_skv_magic_red_elite_nurgle_corruption_1	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_red_elite_nurgle_corruption_1}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_red_elite_nurgle_corruption_1}}	faction	1	corruption_nurgle.png	true	false	true
+wh3_dlc29_skv_magic_red_elite_slaanesh_corruption_1	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_red_elite_slaanesh_corruption_1}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_red_elite_slaanesh_corruption_1}}	faction	1	corruption_slaanesh.png	true	false	true
+wh3_dlc29_skv_magic_red_elite_tzeentch_corruption_1	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_red_elite_tzeentch_corruption_1}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_red_elite_tzeentch_corruption_1}}	faction	1	corruption_tzeentch.png	true	false	true
+wh3_dlc29_skv_magic_red_enemy_verminlord_corruptor_1		A Verminlord Corruptor will spawn with an army to attack you!	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_magic_red_enemy_verminlord_deceiver_1		A Verminlord Deceiver will spawn with an army to attack you!	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_magic_red_enemy_verminlord_warbringer_1		A Verminlord Warbringer will spawn with an army to attack you!	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_magic_red_enemy_verminlord_warpseer_1		A Verminlord Warpseer will spawn with an army to attack you!	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_magic_red_khorne_corruption_1	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_red_khorne_corruption_1}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_red_khorne_corruption_1}}	faction	1	corruption_khorne.png	true	false	true
+wh3_dlc29_skv_magic_red_nurgle_corruption_1	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_red_nurgle_corruption_1}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_red_nurgle_corruption_1}}	faction	1	corruption_nurgle.png	true	false	true
+wh3_dlc29_skv_magic_red_slaanesh_corruption_1	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_red_slaanesh_corruption_1}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_red_slaanesh_corruption_1}}	faction	1	corruption_slaanesh.png	true	false	true
+wh3_dlc29_skv_magic_red_tzeentch_corruption_1	{{tr:chaotic_plan_tokens_description_wh3_dlc29_magic_red_tzeentch_corruption_1}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_magic_red_tzeentch_corruption_1}}	faction	1	corruption_tzeentch.png	true	false	true
+wh3_dlc29_skv_magic_summon_verminlord_1_rank_bundle		{{tr:ui_text_replacements_localised_text_wh3_dlc29_rank_verminlord_for_bundles}} 1	faction	1	experience.png	false	false	true
+wh3_dlc29_skv_magic_summon_verminlord_2_rank_bundle		{{tr:ui_text_replacements_localised_text_wh3_dlc29_rank_verminlord_for_bundles}} +3	faction	1	experience.png	false	false	true
+wh3_dlc29_skv_magic_summon_verminlord_3_rank_bundle		{{tr:ui_text_replacements_localised_text_wh3_dlc29_rank_verminlord_for_bundles}} +5	faction	1	experience.png	false	false	true
+wh3_dlc29_skv_magic_summon_verminlord_4_rank_bundle		{{tr:ui_text_replacements_localised_text_wh3_dlc29_rank_verminlord_for_bundles}} +7	faction	1	experience.png	false	false	true
+wh3_dlc29_skv_magic_summon_verminlord_5_rank_bundle		{{tr:ui_text_replacements_localised_text_wh3_dlc29_rank_verminlord_for_bundles}} +10	faction	1	experience.png	false	false	true
+wh3_dlc29_skv_magic_verminlord_rank_up		{{tr:ui_text_replacements_localised_text_wh3_dlc29_rank_verminlord_for_bundles}} +1	faction	1	experience.png	false	false	true
+wh3_dlc29_skv_military_action_skill_spawn_clanrats_shields		Gain 2 units of Clanrats (Shielded)	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_military_action_skill_spawn_clanrats_shields_rank_9		Gain 2 units of Clanrats (Shielded) Rank 9	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_military_action_skill_spawn_stormvermin_rank_9		Gain 2 units of Stormvermin (Swords & Shields)	faction	1	wh3_dlc29_skv_thanquol_cp.png	false	false	true
+wh3_dlc29_skv_schemer_no_stances	Ready to attack the region and fulfill the Masterplan!	Underling Army	force	1	icon_effects_army.png	false	false	true
+wh3_dlc29_skv_thanquol_narrative_dilemma_2_diplomacy_big	For exposing a traitor to the Council of 13, all Skaven clans view Thanquol in high regard!	Traitor Exposed	faction	1	diplomacy.png	true	false	true
+wh3_dlc29_skv_thanquol_narrative_dilemma_2_diplomacy_small	{{tr:effect_bundles_localised_description_wh3_dlc29_skv_thanquol_narrative_dilemma_2_diplomacy_big}}	{{tr:effect_bundles_localised_title_wh3_dlc29_skv_thanquol_narrative_dilemma_2_diplomacy_big}}	faction	1	diplomacy.png	true	false	true
+wh3_dlc29_skv_thanquol_narrative_mission_reward_6_1	After completing a project as massive as the Morskittar Engine, amplifying the power of other cannons seems trivial!	Warp-Cannon Knowledge	faction	1	army.png	true	false	true
+wh3_dlc29_skv_thanquol_narrative_mission_reward_6_2	Although Skryre devices are crucial to the Under-Empire, kidnapping dens and mining operations are not to be underestimated!	Under-Empire Tunneling	faction	1	construction.png	true	false	true
+wh3_dlc29_skv_underlings_rank_up_artillery_1	{{tr:chaotic_plan_tokens_description_wh3_dlc29_dummy_rank_up_artillery_1}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_dummy_rank_up_artillery_1}}	character	1	experience.png	false	false	true
+wh3_dlc29_skv_underlings_rank_up_artillery_2	{{tr:chaotic_plan_tokens_description_wh3_dlc29_dummy_rank_up_artillery_2}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_dummy_rank_up_artillery_2}}	character	1	experience.png	false	false	true
+wh3_dlc29_skv_underlings_rank_up_artillery_3	{{tr:chaotic_plan_tokens_description_wh3_dlc29_dummy_rank_up_artillery_3}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_dummy_rank_up_artillery_3}}	character	1	experience.png	false	false	true
+wh3_dlc29_skv_underlings_rank_up_melee_infantry_1	{{tr:chaotic_plan_tokens_description_wh3_dlc29_dummy_rank_up_melee_infantry_1}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_dummy_rank_up_melee_infantry_1}}	character	1	experience.png	false	false	true
+wh3_dlc29_skv_underlings_rank_up_melee_infantry_2	{{tr:chaotic_plan_tokens_description_wh3_dlc29_dummy_rank_up_melee_infantry_2}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_dummy_rank_up_melee_infantry_2}}	character	1	experience.png	false	false	true
+wh3_dlc29_skv_underlings_rank_up_melee_infantry_3	{{tr:chaotic_plan_tokens_description_wh3_dlc29_dummy_rank_up_melee_infantry_3}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_dummy_rank_up_melee_infantry_3}}	character	1	experience.png	false	false	true
+wh3_dlc29_skv_underlings_rank_up_missile_infantry_1	{{tr:chaotic_plan_tokens_description_wh3_dlc29_dummy_rank_up_missile_infantry_1}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_dummy_rank_up_missile_infantry_1}}	character	1	experience.png	false	false	true
+wh3_dlc29_skv_underlings_rank_up_missile_infantry_2	{{tr:chaotic_plan_tokens_description_wh3_dlc29_dummy_rank_up_missile_infantry_2}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_dummy_rank_up_missile_infantry_2}}	character	1	experience.png	false	false	true
+wh3_dlc29_skv_underlings_rank_up_missile_infantry_3	{{tr:chaotic_plan_tokens_description_wh3_dlc29_dummy_rank_up_missile_infantry_3}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_dummy_rank_up_missile_infantry_3}}	character	1	experience.png	false	false	true
+wh3_dlc29_skv_underlings_rank_up_monsters_1	{{tr:chaotic_plan_tokens_description_wh3_dlc29_dummy_rank_up_monsters_1}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_dummy_rank_up_monsters_1}}	character	1	experience.png	false	false	true
+wh3_dlc29_skv_underlings_rank_up_monsters_2	{{tr:chaotic_plan_tokens_description_wh3_dlc29_dummy_rank_up_monsters_2}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_dummy_rank_up_monsters_2}}	character	1	experience.png	false	false	true
+wh3_dlc29_skv_underlings_rank_up_monsters_3	{{tr:chaotic_plan_tokens_description_wh3_dlc29_dummy_rank_up_monsters_3}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_dummy_rank_up_monsters_3}}	character	1	experience.png	false	false	true
+wh3_dlc29_skv_underlings_rank_up_weapon_teams_1	{{tr:chaotic_plan_tokens_description_wh3_dlc29_dummy_rank_up_weapon_teams_1}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_dummy_rank_up_weapon_teams_1}}	character	1	experience.png	false	false	true
+wh3_dlc29_skv_underlings_rank_up_weapon_teams_2	{{tr:chaotic_plan_tokens_description_wh3_dlc29_dummy_rank_up_weapon_teams_2}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_dummy_rank_up_weapon_teams_2}}	character	1	experience.png	false	false	true
+wh3_dlc29_skv_underlings_rank_up_weapon_teams_3	{{tr:chaotic_plan_tokens_description_wh3_dlc29_dummy_rank_up_weapon_teams_3}}	{{tr:chaotic_plan_tokens_name_wh3_dlc29_dummy_rank_up_weapon_teams_3}}	character	1	experience.png	false	false	true
+wh3_dlc29_uncrushable_legions	our legion are the largest	Uncrushable legions	faction	1	character.png	true	false	true
+wh3_dlc29_undead_labourers	Rellying on dead labourers so you don't have to reward them	Undead labourers 	faction	1	construction.png	true	false	true
+wh3_dlc29_vmp_effect_bundle_neferata_narrative_diplomacy_mod_vampires_negative	Negative diplomacy with Vampire factions	Negative diplomacy with Vampire factions	faction	1	diplomacy.png	true	false	true
+wh3_dlc29_vmp_effect_bundle_neferata_narrative_diplomacy_mod_vampires_positive	Positive diplomacy with Vampire factions	Positive diplomacy with Vampire factions	faction	1	diplomacy.png	true	false	true
+wh3_dlc29_vmp_neferata_narrative_no_withdraw	Vampire rebels no withdraw [STATUS: HIDDEN]	Vampire rebels no withdraw	faction	1		true	false	true
+wh3_dlc29_vmp_ritual_confederate_lord_ghorst	Ghorst’s faction will be confederated!	Unlock Ghorst	faction	1	confederation.png	false	false	true
+wh3_dlc29_vmp_ritual_confederate_lord_kemmler	Kemmler’s faction will be confederated!	Unlock Kemmler	faction	1	confederation.png	false	false	true
+wh3_dlc29_vmp_ritual_confederate_lord_mannfred	Mannfred’s faction will be confederated!	Unlock Mannfred	faction	1	confederation.png	false	false	true
+wh3_dlc29_vmp_ritual_confederate_lord_neferata	Neferata’s faction will be confederated!	Unlock Neferata	faction	1	confederation.png	false	false	true
+wh3_dlc29_vmp_ritual_confederate_lord_vlad_isabella	Vlad & Isabella’s faction will be confederated!	Unlock Vlad & Isabella	faction	1	confederation.png	false	false	true
+wh3_dlc29_woc_bundle_marks_of_nurgle_garden_boost		Sprawling Growth	province	1		true	false	true
+wh3_dlc29_woc_garden_cyclical_add_random_symptom_A	[STATUS: HIDDEN]	Adds a random Symptom	faction	1		true	false	true
+wh3_dlc29_woc_garden_cyclical_add_random_symptom_B	[STATUS: HIDDEN]	Adds a random Campaign Symptom	faction	1		true	false	true
+wh3_dlc29_woc_garden_cyclical_add_random_symptom_C	[STATUS: HIDDEN]	Adds a random Economy Symptom	faction	1		true	false	true
+wh3_dlc29_woc_garden_cyclical_add_random_symptom_D	[STATUS: HIDDEN]	Adds a random Blessed Symptom	faction	1		true	false	true
+wh3_dlc29_woc_garden_cyclical_add_random_symptom_E	[STATUS: HIDDEN]	Adds a random Blessed battle Symptom	faction	1		true	false	true
+wh3_dlc29_woc_garden_cyclical_create_new_plague	[STATUS: HIDDEN]	Creates a new plague	faction	1		true	false	true
+wh3_dlc29_woc_garden_of_nurgle_research_rate	Prolific Garden	Prolific Garden	province	100	0_placeholder_effect_bundle.png	true	false	true
+wh3_dlc29_woc_gardens_of_nugle_increased_movement_range	Stable Ground	Stable Ground	force	1	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_glottkin_blessings_of_the_marked_scripted			faction	1		true	false	true
+wh3_dlc29_woc_glottkin_rotten_relics_scripted			faction	1		true	false	true
+wh3_dlc29_woc_glottkon_narrative_norsca_diplomacy_mod	Norsca diplomacy 	Norsca diplomacy 	faction	1	diplomacy.png	true	false	true
+wh3_dlc29_woc_glottkon_narrative_nurgle_diplomacy_mod	Diplomacy with Nurgle	Diplomacy with Nurgle	faction	1	diplomacy.png	true	false	true
+wh3_dlc29_woc_marks_of_nurgle_plague_0_bundle_force_negative		Plague: Bile Father’s Mercy	force	1	plague.png	true	false	true
+wh3_dlc29_woc_marks_of_nurgle_plague_0_bundle_force_positive		Plague: Bile Father’s Mercy	force	1	plague.png	true	false	true
+wh3_dlc29_woc_marks_of_nurgle_plague_1_bundle_force_negative		{{tr:effect_bundles_localised_title_wh3_dlc29_woc_marks_of_nurgle_plague_0_bundle_force_negative}}	force	1	plague.png	true	false	true
+wh3_dlc29_woc_marks_of_nurgle_plague_1_bundle_force_positive		{{tr:effect_bundles_localised_title_wh3_dlc29_woc_marks_of_nurgle_plague_0_bundle_force_positive}}	force	1	plague.png	true	false	true
+wh3_dlc29_woc_marks_of_nurgle_plague_2_bundle_force_negative		{{tr:effect_bundles_localised_title_wh3_dlc29_woc_marks_of_nurgle_plague_0_bundle_force_negative}}	force	1	plague.png	true	false	true
+wh3_dlc29_woc_marks_of_nurgle_plague_2_bundle_force_positive		{{tr:effect_bundles_localised_title_wh3_dlc29_woc_marks_of_nurgle_plague_0_bundle_force_positive}}	force	1	plague.png	true	false	true
+wh3_dlc29_woc_marks_of_nurgle_plague_bundle_force_negative_blessed		Plague: Bile Father’s Mercy (Blessed)	force	1	plague.png	true	false	true
+wh3_dlc29_woc_marks_of_nurgle_plague_bundle_force_positive_blessed		Plague: Bile Father’s Mercy (Blessed)	force	1	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_a_1_bundle_settlement_negative		Plague: Pox of Tarnished Riches	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_a_1_bundle_settlement_positive		Plague: Pox of Tarnished Riches	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_a_2_bundle_force_negative		Plague: Mycelial Shell	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_a_2_bundle_force_positive		Plague: Mycelial Shell	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_a_3_bundle_settlement_negative		Plague: Fleshgarden Affliction	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_a_3_bundle_settlement_positive		Plague: Fleshgarden Affliction	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_a_4_bundle_settlement_negative		Plague: Skin-slough scabies	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_a_4_bundle_settlement_positive		Plague: Skin-slough scabies	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_a_5_bundle_force_negative		Plague: Necrotizing Fever	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_a_5_bundle_force_positive		Plague: Necrotizing Fever	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_a_6_bundle_settlement_negative		Plague: Luxuriant Decay	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_a_6_bundle_settlement_positive		Plague: Luxuriant Decay	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_a_7_bundle_force_negative		Plague: Splinterbone Fever	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_a_7_bundle_force_positive		Plague: Splinterbone Fever	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_10_bundle_force_negative	Flavor text for Plague: Tri-Boil Typhoid (AA 10)	Plague: Tri-Boil Typhoid	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_10_bundle_force_positive	Flavor text for Plague: Tri-Boil Typhoid (AA 10)	Plague: Tri-Boil Typhoid	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_1_bundle_force_negative	Flavor text for Plague: Stench-sore Blight (AA 1)	Plague: Stench-sore Blight	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_1_bundle_force_positive	Flavor text for Plague: Stench-sore Blight (AA 1)	Plague: Stench-sore Blight	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_2_bundle_force_negative	Flavor text for Plague: Skin-slough scabies (AA 2)	Plague: Skin-slough scabies	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_2_bundle_force_positive	Flavor text for Plague: Skin-slough scabies (AA 2)	Plague: Skin-slough scabies	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_2_bundle_settlement_negative	Flavor text for Plague: Skin-slough scabies (AA 2)	Plague: Skin-slough scabies	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_2_bundle_settlement_positive	Flavor text for Plague: Skin-slough scabies (AA 2)	Plague: Skin-slough scabies	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_3_bundle_force_negative	Flavor text for Plague: Soft-bone Pox (AA 3)	Plague: Soft-bone Pox	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_3_bundle_force_positive	Flavor text for Plague: Soft-bone Pox (AA 3)	Plague: Soft-bone Pox	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_4_bundle_force_negative	Flavor text for Plague: Malady of Waking Nightmares (AA 4)	Plague: Malady of Waking Nightmares	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_4_bundle_force_positive	Flavor text for Plague: Malady of Waking Nightmares (AA 4)	Plague: Malady of Waking Nightmares	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_4_bundle_settlement_negative	Flavor text for Plague: Malady of Waking Nightmares (AA 4)	Plague: Malady of Waking Nightmares	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_4_bundle_settlement_positive	Flavor text for Plague: Malady of Waking Nightmares (AA 4)	Plague: Malady of Waking Nightmares	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_5_bundle_force_negative	Flavor text for Plague: Pale Seeper (AA 5)	Plague: Pale Seeper	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_5_bundle_force_positive	Flavor text for Plague: Pale Seeper (AA 5)	Plague: Pale Seeper	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_5_bundle_settlement_negative	Flavor text for Plague: Pale Seeper (AA 5)	Plague: Pale Seeper	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_5_bundle_settlement_positive	Flavor text for Plague: Pale Seeper (AA 5)	Plague: Pale Seeper	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_6_bundle_force_negative	Flavor text for Plague: Wheezing Lung (AA 6)	Plague: Wheezing Lung	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_6_bundle_force_positive	Flavor text for Plague: Wheezing Lung (AA 6)	Plague: Wheezing Lung	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_6_bundle_settlement_negative	Flavor text for Plague: Wheezing Lung (AA 6)	Plague: Wheezing Lung	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_6_bundle_settlement_positive	Flavor text for Plague: Wheezing Lung (AA 6)	Plague: Wheezing Lung	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_7_bundle_force_negative	Flavor text for Plague: Blight Drone Flux (AA 7)	Plague: Blight Drone Flux	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_7_bundle_force_positive	Flavor text for Plague: Blight Drone Flux (AA 7)	Plague: Blight Drone Flux	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_8_bundle_force_negative	Flavor text for Plague: Necrotizing Fever (AA 8)	Plague: Necrotizing Fever	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_8_bundle_force_positive	Flavor text for Plague: Necrotizing Fever (AA 8)	Plague: Necrotizing Fever	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_9_bundle_force_negative	Flavor text for Plague: Eye-rot Entropy (AA 9)	Plague: Eye-rot Entropy	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aa_9_bundle_force_positive	Flavor text for Plague: Eye-rot Entropy (AA 9)	Plague: Eye-rot Entropy	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_10_bundle_force_negative	Flavor text for Plague: Tri-Boil Typhoid (AAB 10)	Plague: Tri-Boil Typhoid	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_10_bundle_force_positive	Flavor text for Plague: Tri-Boil Typhoid (AAB 10)	Plague: Tri-Boil Typhoid	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_10_bundle_settlement_negative	Flavor text for Plague: Tri-Boil Typhoid (AAB 10)	Plague: Tri-Boil Typhoid	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_10_bundle_settlement_positive	Flavor text for Plague: Tri-Boil Typhoid (AAB 10)	Plague: Tri-Boil Typhoid	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_1_bundle_force_negative	Flavor text for Plague: Stench-sore Affliction (AAB 1)	Plague: Stench-sore Affliction	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_1_bundle_force_positive	Flavor text for Plague: Stench-sore Affliction (AAB 1)	Plague: Stench-sore Affliction	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_2_bundle_force_negative	Flavor text for Plague: Skin-slough scabies (AAB 2)	Plague: Skin-slough scabies	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_2_bundle_force_positive	Flavor text for Plague: Skin-slough scabies (AAB 2)	Plague: Skin-slough scabies	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_2_bundle_settlement_negative	Flavor text for Plague: Skin-slough scabies (AAB 2)	Plague: Skin-slough scabies	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_2_bundle_settlement_positive	Flavor text for Plague: Skin-slough scabies (AAB 2)	Plague: Skin-slough scabies	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_3_bundle_force_negative	Flavor text for Plague: Soft-bone Curse (AAB 3)	Plague: Soft-bone Curse	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_3_bundle_force_positive	Flavor text for Plague: Soft-bone Curse (AAB 3)	Plague: Soft-bone Curse	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_3_bundle_settlement_negative	Flavor text for Plague: Soft-bone Curse (AAB 3)	Plague: Soft-bone Curse	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_3_bundle_settlement_positive	Flavor text for Plague: Soft-bone Curse (AAB 3)	Plague: Soft-bone Curse	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_4_bundle_force_negative	Flavor text for Plague: Ailment of Waking Terrors (AAB 4)	Plague: Ailment of Waking Terrors	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_4_bundle_force_positive	Flavor text for Plague: Ailment of Waking Terrors (AAB 4)	Plague: Ailment of Waking Terrors	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_4_bundle_settlement_negative	Flavor text for Plague: Ailment of Waking Terrors (AAB 4)	Plague: Ailment of Waking Terrors	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_4_bundle_settlement_positive	Flavor text for Plague: Ailment of Waking Terrors (AAB 4)	Plague: Ailment of Waking Terrors	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_5_bundle_force_negative	Flavor text for Plague: Rotblood Fever (AAB 5)	Plague: Rotblood Fever	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_5_bundle_force_positive	Flavor text for Plague: Rotblood Fever (AAB 5)	Plague: Rotblood Fever	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_5_bundle_settlement_negative	Flavor text for Plague: Rotblood Fever (AAB 5)	Plague: Rotblood Fever	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_5_bundle_settlement_positive	Flavor text for Plague: Rotblood Fever (AAB 5)	Plague: Rotblood Fever	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_6_bundle_force_negative	Flavor text for Plague: Huffing Lung Pox (AAB 6)	Plague: Huffing Lung Pox	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_6_bundle_force_positive	Flavor text for Plague: Huffing Lung Pox (AAB 6)	Plague: Huffing Lung Pox	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_6_bundle_settlement_negative	Flavor text for Plague: Huffing Lung Pox (AAB 6)	Plague: Huffing Lung Pox	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_6_bundle_settlement_positive	Flavor text for Plague: Huffing Lung Pox (AAB 6)	Plague: Huffing Lung Pox	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_7_bundle_force_negative	Flavor text for Plague: Red-wake Disease (AAB 7)	Plague: Red-wake Disease	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_7_bundle_force_positive	Flavor text for Plague: Red-wake Disease (AAB 7)	Plague: Red-wake Disease	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_8_bundle_force_negative	Flavor text for Plague: Necrotizing Fungus (AAB 8)	Plague: Necrotizing Fungus	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_8_bundle_force_positive	Flavor text for Plague: Necrotizing Fungus (AAB 8)	Plague: Necrotizing Fungus	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_9_bundle_force_negative	Flavor text for Plague: Crustworm Cankers (AAB 9)	Plague: Crustworm Cankers	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_aab_9_bundle_force_positive	Flavor text for Plague: Crustworm Cankers (AAB 9)	Plague: Crustworm Cankers	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_10_bundle_force_negative	Flavor text for Plague: Rheumatic Fever (BAC 10)	Plague: Rheumatic Fever	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_10_bundle_force_positive	Flavor text for Plague: Rheumatic Fever (BAC 10)	Plague: Rheumatic Fever	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_1_bundle_force_negative	Flavor text for Plague: The Green Spot (BAC 1)	Plague: The Green Spot	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_1_bundle_force_positive	Flavor text for Plague: The Green Spot (BAC 1)	Plague: The Green Spot	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_1_bundle_settlement_negative	Flavor text for Plague: The Green Spot (BAC 1)	Plague: The Green Spot	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_1_bundle_settlement_positive	Flavor text for Plague: The Green Spot (BAC 1)	Plague: The Green Spot	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_2_bundle_settlement_negative	Flavor text for Plague: Bubonic Benediction (BAC 2)	Plague: Bubonic Benediction	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_2_bundle_settlement_positive	Flavor text for Plague: Bubonic Benediction (BAC 2)	Plague: Bubonic Benediction	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_3_bundle_settlement_negative	Flavor text for Plague: Curse of the Purple Hand (BAC 3)	Plague: Curse of the Purple Hand	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_3_bundle_settlement_positive	Flavor text for Plague: Curse of the Purple Hand (BAC 3)	Plague: Curse of the Purple Hand	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_4_bundle_force_negative	Flavor text for Plague: Plaguebearer's Pyrosis (BAC 4)	Plague: Plaguebearer's Pyrosis	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_4_bundle_force_positive	Flavor text for Plague: Plaguebearer's Pyrosis (BAC 4)	Plague: Plaguebearer's Pyrosis	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_4_bundle_settlement_negative	Flavor text for Plague: Plaguebearer's Pyrosis (BAC 4)	Plague: Plaguebearer's Pyrosis	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_4_bundle_settlement_positive	Flavor text for Plague: Plaguebearer's Pyrosis (BAC 4)	Plague: Plaguebearer's Pyrosis	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_5_bundle_force_negative	Flavor text for Plague: The Leech-lords Mark (BAC 5)	Plague: The Leech-lords Mark	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_5_bundle_force_positive	Flavor text for Plague: The Leech-lords Mark (BAC 5)	Plague: The Leech-lords Mark	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_6_bundle_force_negative	Flavor text for Plague: Wrack-bile Cough (BAC 6)	Plague: Wrack-bile Cough	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_6_bundle_force_positive	Flavor text for Plague: Wrack-bile Cough (BAC 6)	Plague: Wrack-bile Cough	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_7_bundle_force_negative	Flavor text for Plague: Bloodshot phage (BAC 7)	Plague: Bloodshot phage	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_7_bundle_force_positive	Flavor text for Plague: Bloodshot phage (BAC 7)	Plague: Bloodshot phage	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_7_bundle_settlement_negative	Flavor text for Plague: Bloodshot phage (BAC 7)	Plague: Bloodshot phage	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_7_bundle_settlement_positive	Flavor text for Plague: Bloodshot phage (BAC 7)	Plague: Bloodshot phage	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_8_bundle_force_negative	Flavor text for Plague: Maw-drop Mites (BAC 8)	Plague: Maw-drop Mites	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_8_bundle_force_positive	Flavor text for Plague: Maw-drop Mites (BAC 8)	Plague: Maw-drop Mites	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_9_bundle_settlement_negative	Flavor text for Plague: Viridian Pox (BAC 9)	Plague: Viridian Pox	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bac_9_bundle_settlement_positive	Flavor text for Plague: Viridian Pox (BAC 9)	Plague: Viridian Pox	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_10_bundle_force_negative	Flavor text for Plague: Rheumatic Pox (BACD 10)	Plague: Rheumatic Pox	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_10_bundle_force_positive	Flavor text for Plague: Rheumatic Pox (BACD 10)	Plague: Rheumatic Pox	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_1_bundle_force_negative	Flavor text for Plague: Gutblossom Fever (BACD 1)	Plague: Gutblossom Fever	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_1_bundle_force_positive	Flavor text for Plague: Gutblossom Fever (BACD 1)	Plague: Gutblossom Fever	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_1_bundle_settlement_negative	Flavor text for Plague: Gutblossom Fever (BACD 1)	Plague: Gutblossom Fever	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_1_bundle_settlement_positive	Flavor text for Plague: Gutblossom Fever (BACD 1)	Plague: Gutblossom Fever	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_2_bundle_force_negative	Flavor text for Plague: Pox of the Tenfold Fly (BACD 2)	Plague: Pox of the Tenfold Fly	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_2_bundle_force_positive	Flavor text for Plague: Pox of the Tenfold Fly (BACD 2)	Plague: Pox of the Tenfold Fly	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_2_bundle_settlement_negative	Flavor text for Plague: Pox of the Tenfold Fly (BACD 2)	Plague: Pox of the Tenfold Fly	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_2_bundle_settlement_positive	Flavor text for Plague: Pox of the Tenfold Fly (BACD 2)	Plague: Pox of the Tenfold Fly	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_3_bundle_force_negative	Flavor text for Plague: Maggot-boil Ague (BACD 3)	Plague: Maggot-boil Ague	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_3_bundle_force_positive	Flavor text for Plague: Maggot-boil Ague (BACD 3)	Plague: Maggot-boil Ague	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_3_bundle_settlement_negative	Flavor text for Plague: Maggot-boil Ague (BACD 3)	Plague: Maggot-boil Ague	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_3_bundle_settlement_positive	Flavor text for Plague: Maggot-boil Ague (BACD 3)	Plague: Maggot-boil Ague	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_4_bundle_force_negative	Flavor text for Plague: Slime-Lung Ague (BACD 4)	Plague: Slime-Lung Ague	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_4_bundle_force_positive	Flavor text for Plague: Slime-Lung Ague (BACD 4)	Plague: Slime-Lung Ague	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_4_bundle_settlement_negative	Flavor text for Plague: Slime-Lung Ague (BACD 4)	Plague: Slime-Lung Ague	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_4_bundle_settlement_positive	Flavor text for Plague: Slime-Lung Ague (BACD 4)	Plague: Slime-Lung Ague	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_5_bundle_force_negative	Flavor text for Plague: Fly-Tickled Doom (BACD 5)	Plague: Fly-Tickled Doom	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_5_bundle_force_positive	Flavor text for Plague: Fly-Tickled Doom (BACD 5)	Plague: Fly-Tickled Doom	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_6_bundle_force_negative	Flavor text for Plague: Gutblossom Fever (BACD 6)	Plague: Gutblossom Fever	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_6_bundle_force_positive	Flavor text for Plague: Gutblossom Fever (BACD 6)	Plague: Gutblossom Fever	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_7_bundle_force_negative	Flavor text for Plague: Softening of Mortal Clay (BACD 7)	Plague: Softening of Mortal Clay	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_7_bundle_force_positive	Flavor text for Plague: Softening of Mortal Clay (BACD 7)	Plague: Softening of Mortal Clay	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_7_bundle_settlement_negative	Flavor text for Plague: Softening of Mortal Clay (BACD 7)	Plague: Softening of Mortal Clay	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_7_bundle_settlement_positive	Flavor text for Plague: Softening of Mortal Clay (BACD 7)	Plague: Softening of Mortal Clay	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_8_bundle_force_negative	Flavor text for Plague: Bloom of Final Breath (BACD 8)	Plague: Bloom of Final Breath	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_8_bundle_force_positive	Flavor text for Plague: Bloom of Final Breath (BACD 8)	Plague: Bloom of Final Breath	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_9_bundle_force_negative	Flavor text for Plague: Gangrenous Growths (BACD 9)	Plague: Gangrenous Growths	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_9_bundle_force_positive	Flavor text for Plague: Gangrenous Growths (BACD 9)	Plague: Gangrenous Growths	force	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_9_bundle_settlement_negative	Flavor text for Plague: Gangrenous Growths (BACD 9)	Plague: Gangrenous Growths	region	150	plague.png	true	false	true
+wh3_dlc29_woc_nurgle_garden_plague_bacd_9_bundle_settlement_positive	Flavor text for Plague: Gangrenous Growths (BACD 9)	Plague: Gangrenous Growths	region	150	plague.png	true	false	true
+wh3_dlc29_woc_rite_of_the_creeping_blight_growth_tier_1		Rite of the Creeping Blight Tier 1 	region	50	0_placeholder_effect_bundle.png	true	false	true
+wh3_dlc29_woc_rite_of_the_creeping_blight_growth_tier_2		Rite of the Creeping Blight Tier 2	region	60	0_placeholder_effect_bundle.png	true	false	true
+wh3_dlc29_woc_rite_of_the_rotborne_host_reserve_army	Reserve Army	Reserve Army	force	1	0_placeholder_effect_bundle.png	true	true	false
+wh3_dlc29_woc_rite_of_unstoppable_decay_tier_1_movement	Rite of Unstoppable Decay tier 1 faction leader movement	Rite of Unstoppable Decay tier 1 movement	force	65	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_rite_of_unstoppable_decay_tier_1_replenishment	Rite of Unstoppable Decay tier 1 replenishment	Rite of Unstoppable Decay tier 1 replenishment	force	55	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_rite_of_unstoppable_decay_tier_2_movement	Rite of Unstoppable Decay tier 2 faction leader movement	Rite of Unstoppable Decay tier 2 movement	force	65	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_rite_of_unstoppable_decay_tier_2_replenishment	Rite of Unstoppable Decay tier 2 replenishment	Rite of Unstoppable Decay tier 2 replenishment	force	55	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_1_tier_1	Rite of Putrid Ascension I description	Rite of Putrid Ascension I	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_1_tier_2	Rite of Putrid Ascension II description	Rite of Putrid Ascension II	faction	400	wh3_dlc29_chs_rotborne_ritual_1.png	true	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_1_upgrade_1			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_1_upgrade_2			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_1_upgrade_3			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_2_tier_1	Rite of the Creeping Blight I description	Rite of the Creeping Blight I	faction	400	wh3_dlc29_chs_rotborne_ritual_2.png	true	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_2_tier_2	Rite of the Creeping Blight II description	Rite of the Creeping Blight II	faction	400	wh3_dlc29_chs_rotborne_ritual_2.png	true	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_2_upgrade_1			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_2_upgrade_2			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_2_upgrade_3			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_3_tier_1	Rite of Unstoppable Decay I description	Rite of Unstoppable Decay I	faction	400	wh3_dlc29_chs_rotborne_ritual_3.png	true	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_3_tier_2	Rite of Unstoppable Decay II description	Rite of Unstoppable Decay II	faction	400	wh3_dlc29_chs_rotborne_ritual_3.png	true	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_3_upgrade_1			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_3_upgrade_2			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_3_upgrade_3			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_4_tier_1	Rite of Rot-Renewed Flesh I description	Rite of Rot-Renewed Flesh I	faction	400	wh3_dlc29_chs_rotborne_ritual_4.png	true	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_4_tier_2	Rite of Rot-Renewed Flesh II description	Rite of Rot-Renewed Flesh II	faction	400	wh3_dlc29_chs_rotborne_ritual_4.png	true	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_4_upgrade_1			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_4_upgrade_2			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_4_upgrade_3			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_5_tier_1	Rite of the Blooming Pox I description	Rite of the Blooming Pox I	faction	400	wh3_dlc29_chs_rotborne_ritual_5.png	true	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_5_tier_2	Rite of the Blooming Pox II description	Rite of the Blooming Pox II	faction	400	wh3_dlc29_chs_rotborne_ritual_5.png	true	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_5_upgrade_1			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_5_upgrade_2			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_5_upgrade_3			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_6_tier_1	Rite of the Rotborne Host I description	Rite of the Rotborne Host I	faction	400	wh3_dlc29_chs_rotborne_ritual_6.png	true	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_6_tier_2	Rite of the Rotborne Host II description	Rite of the Rotborne Host II	faction	400	wh3_dlc29_chs_rotborne_ritual_6.png	true	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_6_upgrade_1			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_6_upgrade_2			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_6_upgrade_3			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_7_tier_1	Rite of the Fecund Garden I description	Rite of the Fecund Garden I	faction	400	wh3_dlc29_chs_rotborne_ritual_7.png	true	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_7_tier_2	Rite of the Fecund Garden II description	Rite of the Fecund Garden II	faction	400	wh3_dlc29_chs_rotborne_ritual_7.png	true	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_7_upgrade_1			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_7_upgrade_2			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_ritual_bundle_rotborne_rituals_7_upgrade_3			faction	400	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_woc_rotborne_rituals_plague_bundle_force_negative		{{tr:effect_bundles_localised_title_wh3_dlc29_woc_rotborne_rituals_plague_bundle_force_positive}}	force	150	plague.png	true	false	true
+wh3_dlc29_woc_rotborne_rituals_plague_bundle_force_negative_blessed		{{tr:effect_bundles_localised_title_wh3_dlc29_woc_rotborne_rituals_plague_bundle_force_positive_blessed}}	force	150	plague.png	true	false	true
+wh3_dlc29_woc_rotborne_rituals_plague_bundle_force_positive		Plague: Blooming Pox	force	150	plague.png	true	false	true
+wh3_dlc29_woc_rotborne_rituals_plague_bundle_force_positive_blessed		Plague: Blooming Pox (Blessed)	force	150	plague.png	true	false	true
+wh3_dlc29_woc_rotborne_rituals_plague_bundle_settlement_negative		{{tr:effect_bundles_localised_title_wh3_dlc29_woc_rotborne_rituals_plague_bundle_force_positive}}	region	150	plague.png	true	false	true
+wh3_dlc29_woc_rotborne_rituals_plague_bundle_settlement_negative_blessed		{{tr:effect_bundles_localised_title_wh3_dlc29_woc_rotborne_rituals_plague_bundle_force_positive_blessed}}	region	150	plague.png	true	false	true
+wh3_dlc29_woc_rotborne_rituals_plague_bundle_settlement_positive		{{tr:effect_bundles_localised_title_wh3_dlc29_woc_rotborne_rituals_plague_bundle_force_positive}}	region	150	plague.png	true	false	true
+wh3_dlc29_woc_rotborne_rituals_plague_bundle_settlement_positive_blessed		{{tr:effect_bundles_localised_title_wh3_dlc29_woc_rotborne_rituals_plague_bundle_force_positive_blessed}}	region	150	plague.png	true	false	true
+wh3_dlc29_woc_ruinous_reik_first_option_effect_bundle	Increase unit replenishment in area	Increase unit replenishment in area	region	1	0_placeholder_effect_bundle.png	false	false	true
+wh3_dlc29_xp_gain_all_character	Knowledgeable minions are more useful minions	Spreading Knowledge	faction	1	experience.png	true	false	true
+wh3_episodes_bundle_give_enemy_faction_increased_loot	[HIDDEN] Gives increased loot to enemies that defeat it	[HIDDEN]	faction	1		true	false	true
 wh3_main_adjacent_dwarf_dummy	[HIDDEN]	[HIDDEN]	region	0		true	false	true
 wh3_main_agent_action_wizard_hinder_army_sucess_actor			character	0		true	false	true
 wh3_main_agent_action_wizard_hinder_army_sucess_target			force	0		true	false	true
@@ -3703,33 +4584,25 @@ wh3_main_anc_tmb_liche_priest_visiers_kanopi	{{tr:unit_abilities_tooltip_text_wh
 wh3_main_background_income_mod_1000			faction	1		true	false	true
 wh3_main_background_income_mod_50			faction	1		true	false	true
 wh3_main_book_of_khorne_block_occupation	The power of the Book of Khorne has rendered these ruins utterly desolated.	Cannot Colonise	region	1	blocked_ruins.png	false	true	true
-wh3_main_books_of_nagash_mannfred_reward_1		First Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_mannfred_reward_2		Second Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_mannfred_reward_3		Third Book of Nagash	faction	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_mannfred_reward_1		First Book of Nagash	force	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_mannfred_reward_2		Second Book of Nagash	force	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_mannfred_reward_3		Third Book of Nagash	force	1	books_of_nagash.png	false	false	true
 wh3_main_books_of_nagash_mannfred_reward_3_army		Third Book of Nagash	force	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_mannfred_reward_4		Fourth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_mannfred_reward_5		Fifth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_mannfred_reward_6		Sixth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_mannfred_reward_7		Seventh Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_mannfred_reward_8		Eighth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_mannfred_studied_reward_1		First Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_mannfred_studied_reward_2		Second Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_mannfred_studied_reward_3		Third Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_mannfred_studied_reward_3_army		Third Book of Nagash	force	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_mannfred_studied_reward_4		Fourth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_mannfred_studied_reward_5		Fifth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_mannfred_studied_reward_6		Sixth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_mannfred_studied_reward_7		Seventh Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_mannfred_studied_reward_8		Eighth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_volkmar_reward_1		First Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_volkmar_reward_2		Second Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_volkmar_reward_3		Third Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_volkmar_reward_3_army		Third Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_volkmar_reward_4		Fourth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_volkmar_reward_5		Fifth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_volkmar_reward_6		Sixth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_volkmar_reward_7		Seventh Book of Nagash	faction	1	books_of_nagash.png	false	false	true
-wh3_main_books_of_nagash_volkmar_reward_8		Eighth Book of Nagash	faction	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_mannfred_reward_4		Fourth Book of Nagash	force	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_mannfred_reward_5		Fifth Book of Nagash	force	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_mannfred_reward_6		Sixth Book of Nagash	force	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_mannfred_reward_7		Seventh Book of Nagash	force	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_mannfred_reward_8		Eighth Book of Nagash	force	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_mannfred_reward_9		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_9}}	force	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_volkmar_reward_1		First Book of Nagash	region	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_volkmar_reward_2		Second Book of Nagash	region	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_volkmar_reward_3		Third Book of Nagash	region	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_volkmar_reward_4		Fourth Book of Nagash	region	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_volkmar_reward_5		Fifth Book of Nagash	region	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_volkmar_reward_6		Sixth Book of Nagash	region	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_volkmar_reward_7		Seventh Book of Nagash	region	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_volkmar_reward_8		Eighth Book of Nagash	region	1	books_of_nagash.png	false	false	true
+wh3_main_books_of_nagash_volkmar_reward_9		{{tr:effect_bundles_localised_title_wh2_dlc09_books_of_nagash_reward_9}}	region	1	books_of_nagash.png	true	false	true
 wh3_main_bundle_agent_action_dignitary_hinder_settlement_success_actor	This [[img:icon_hero]][[/img]]Hero must rest following the establishment of a Cult.	Exhaustion	character	1	cult.png	true	true	true
 wh3_main_bundle_anc_magic_standard_banner_of_change		Banner of Change	character	1	public_order.png	true	false	true
 wh3_main_bundle_anc_magic_standard_banner_of_ecstacy		Banner of Ecstacy	character	1	public_order.png	true	false	true
@@ -4159,14 +5032,15 @@ wh3_main_bundle_daemon_prince_soul_sla	The Tome of Fates is sated.	The Realm of 
 wh3_main_bundle_daemon_prince_soul_tze	The Tome of Fates is sated.	The Realm of Chaos	faction	1	public_order.png	true	false	true
 wh3_main_bundle_dwarf_low_settlement_count_dummy	[HIDDEN]	[HIDDEN]	faction	0		true	false	true
 wh3_main_bundle_dwarf_low_settlement_count_income	The Guild Foundries in this region have begun operation.	Guild Foundries	region	1	underdeep.png	true	false	true
-wh3_main_bundle_emp_volkmar_books_destroyed_1	The higher the number of Books of Nagash that Volkmar successfully claims and seals, the greater his Righteous Zeal and the more powerful he becomes.	1/8 Books Sealed	faction	1		true	false	true
-wh3_main_bundle_emp_volkmar_books_destroyed_2	The higher the number of Books of Nagash that Volkmar successfully claims and seals, the greater his Righteous Zeal and the more powerful he becomes.	2/8 Books Sealed	faction	1		true	false	true
-wh3_main_bundle_emp_volkmar_books_destroyed_3	The higher the number of Books of Nagash that Volkmar successfully claims and seals, the greater his Righteous Zeal and the more powerful he becomes.	3/8 Books Sealed	faction	1		true	false	true
-wh3_main_bundle_emp_volkmar_books_destroyed_4	The higher the number of Books of Nagash that Volkmar successfully claims and seals, the greater his Righteous Zeal and the more powerful he becomes.	4/8 Books Sealed	faction	1		true	false	true
-wh3_main_bundle_emp_volkmar_books_destroyed_5	The higher the number of Books of Nagash that Volkmar successfully claims and seals, the greater his Righteous Zeal and the more powerful he becomes.	5/8 Books Sealed	faction	1		true	false	true
-wh3_main_bundle_emp_volkmar_books_destroyed_6	The higher the number of Books of Nagash that Volkmar successfully claims and seals, the greater his Righteous Zeal and the more powerful he becomes.	6/8 Books Sealed	faction	1		true	false	true
-wh3_main_bundle_emp_volkmar_books_destroyed_7	The higher the number of Books of Nagash that Volkmar successfully claims and seals, the greater his Righteous Zeal and the more powerful he becomes.	7/8 Books Sealed	faction	1		true	false	true
-wh3_main_bundle_emp_volkmar_books_destroyed_8	The higher the number of Books of Nagash that Volkmar successfully claims and seals, the greater his Righteous Zeal and the more powerful he becomes.	8/8 Books Sealed	faction	1		true	false	true
+wh3_main_bundle_emp_volkmar_books_destroyed_1	The higher the number of Books of Nagash that Volkmar successfully claims and seals, the greater his Righteous Zeal and the more powerful he becomes.	1/9 Books Sealed	faction	1		true	false	true
+wh3_main_bundle_emp_volkmar_books_destroyed_2	The higher the number of Books of Nagash that Volkmar successfully claims and seals, the greater his Righteous Zeal and the more powerful he becomes.	2/9 Books Sealed	faction	1		true	false	true
+wh3_main_bundle_emp_volkmar_books_destroyed_3	The higher the number of Books of Nagash that Volkmar successfully claims and seals, the greater his Righteous Zeal and the more powerful he becomes.	3/9 Books Sealed	faction	1		true	false	true
+wh3_main_bundle_emp_volkmar_books_destroyed_4	The higher the number of Books of Nagash that Volkmar successfully claims and seals, the greater his Righteous Zeal and the more powerful he becomes.	4/9 Books Sealed	faction	1		true	false	true
+wh3_main_bundle_emp_volkmar_books_destroyed_5	The higher the number of Books of Nagash that Volkmar successfully claims and seals, the greater his Righteous Zeal and the more powerful he becomes.	5/9 Books Sealed	faction	1		true	false	true
+wh3_main_bundle_emp_volkmar_books_destroyed_6	The higher the number of Books of Nagash that Volkmar successfully claims and seals, the greater his Righteous Zeal and the more powerful he becomes.	6/9 Books Sealed	faction	1		true	false	true
+wh3_main_bundle_emp_volkmar_books_destroyed_7	The higher the number of Books of Nagash that Volkmar successfully claims and seals, the greater his Righteous Zeal and the more powerful he becomes.	7/9 Books Sealed	faction	1		true	false	true
+wh3_main_bundle_emp_volkmar_books_destroyed_8	The higher the number of Books of Nagash that Volkmar successfully claims and seals, the greater his Righteous Zeal and the more powerful he becomes.	8/9 Books Sealed	faction	1		true	false	true
+wh3_main_bundle_emp_volkmar_books_destroyed_9	{{tr:effect_bundles_localised_description_wh3_main_bundle_emp_volkmar_books_destroyed_8}}	9/9 Books Sealed	faction	1		true	false	true
 wh3_main_bundle_factions_global_strength_should_be_ignored_in_strategic_evaluations			faction	0		false	false	true
 wh3_main_bundle_force_additional_army_upkeep			force	0		true	false	true
 wh3_main_bundle_force_crackdown_corruption			force	0		true	false	true
@@ -4351,6 +5225,7 @@ wh3_main_bundle_pre_battle_purchase_menace_below_7		The Menace Below	force	1		tr
 wh3_main_bundle_pre_battle_purchase_menace_below_8		The Menace Below	force	1		true	false	true
 wh3_main_bundle_pre_battle_purchase_menace_below_9		The Menace Below	force	1		true	false	true
 wh3_main_bundle_realm_factions			faction	0		false	false	true
+wh3_main_bundle_region_vampiric_climate	The climate in this region has been converted to {{tr:settlement_climate_types_ui_name_climate_vampiric}}. If a non-Vampiric force occupies this region or the region is razed, then the climate will revert to its original state.	Vampiric Climate	region	1	trait_climate_all.png	true	true	true
 wh3_main_bundle_rift_factions			faction	0		false	false	true
 wh3_main_bundle_rift_hero	Weakened by the maelstrom, this [[img:icon_hero]][[/img]]Hero is more susceptible to attack.	Emerged from the Rift	character	1	agent.png	true	false	true
 wh3_main_bundle_ruin_spread_chance_modifier	Fell forces are being attracted to this ruin. If it remains unsettled, it will automatically be claimed by a faction in this province.	Drawn to Destruction	region	1	ruin_spread.png	true	true	false
@@ -4376,6 +5251,7 @@ wh3_main_bundle_slaanesh_realm_left_second		The Circle of Gluttony 	faction	1	co
 wh3_main_bundle_slaanesh_realm_left_third		The Circle of Carnality 	faction	1	corruption_slaanesh.png	true	false	true
 wh3_main_bundle_stance_army_channelling_kho	The warriors and daemons of Khorne are testing and trialling each other in vicious bloodshed.	Stance: Combat Trials	force	1	resistance_magic.png	true	false	true
 wh3_main_bundle_stance_army_encampment_daemon	Opens a portal to the Realm of Chaos, allowing for recruitment and replenishment, regardless of territory.	Stance: Daemonic Portal	force	1	icon_effects_fortify.png	true	false	true
+wh3_main_bundle_stance_army_forced_march_nag	Increases this army's campaign map marching range.	Stance: March	force	1	icon_effects_forced_march.png	true	false	true
 wh3_main_bundle_stance_army_forced_march_nurgle	Increases this army's campaign map marching range.	Stance: March	force	1	icon_effects_forced_march.png	true	false	true
 wh3_main_bundle_stance_army_raiding_ogres	Raids wealth from the local region.	Stance: Raiding	force	1	icon_effects_raiding.png	true	false	true
 wh3_main_bundle_stance_army_raiding_slaanesh	Raids wealth from the local region.	Stance: Raiding	force	1	icon_effects_raiding.png	true	false	true
@@ -4385,6 +5261,11 @@ wh3_main_bundle_stance_army_tunnelling_tzeentch	Teleport throughout the world, b
 wh3_main_bundle_stance_cathay_caravan	A caravan has made a temporary rest site here. The army cannot move or attack, but will defend itself if attacked.	Caravan	force	1	trade_agreement.png	true	false	true
 wh3_main_bundle_tomb_king_storm_dummy	This region currently has an active Sandstorm caused by one of the Books of Nagash.	Storm of Necromancy	region	1	attrition.png	true	true	false
 wh3_main_bundle_tze_quest_battle_army_abilities			force	0		true	false	true
+wh3_main_bundle_vmp_bloodline_effects		Empowered Bloodlines	faction	0	bloodline_blood_dragon.png	false	false	true
+wh3_main_bundle_vmp_disable_instant_construction	[HIDDEN]	[HIDDEN]	faction	0		true	false	true
+wh3_main_bundle_vmp_free_bloodline	[HIDDEN]	[HIDDEN]	faction	0		false	false	true
+wh3_main_bundle_vmp_tech_growth_capital_hidden			region	0		true	false	true
+wh3_main_bundle_vmp_tech_growth_non_capital_hidden			region	0		true	false	true
 wh3_main_bundle_vulnerable_colonize	Having recently colonised a ruin, this army is vulnerable!	Recently Colonised	force	1	siege_attack.png	false	true	true
 wh3_main_bundle_winds_of_magic_daemons_high		Winds of Magic Power Reserve (80+)	force	1	magic.png	true	false	true
 wh3_main_bundle_winds_of_magic_daemons_low		Winds of Magic Power Reserve (0-34)	force	1	magic.png	true	false	true
@@ -4929,6 +5810,7 @@ wh3_main_ritual_nur_gg_3	{{tr:wh3_main_ritual_nur_gg_3_description}}	Exponential
 wh3_main_ritual_nur_gg_3_upgraded	{{tr:wh3_main_ritual_nur_gg_3_description}}	Exponential Growth	region	1	nur_gg_3.png	true	false	true
 wh3_main_ritual_nur_gg_4_start	{{tr:wh3_main_ritual_nur_gg_4_description}}	Nurgle's Visitation	force	1	nur_gg_4.png	true	false	true
 wh3_main_ritual_nur_gg_4_upgraded	{{tr:wh3_main_ritual_nur_gg_4_description}}	Nurgle's Visitation	region	1	nur_gg_4.png	true	false	true
+wh3_main_ritual_skv_ascendancy_verminlord	{{tr:wh2_main_ritual_skv_ascendancy_description}}	{{tr:effect_bundles_localised_title_wh2_main_ritual_skv_ascendancy}}	faction	1	effect_rite.png	true	false	true
 wh3_main_ritual_sla_gg_1	{{tr:wh3_main_ritual_sla_gg_1_description}}	Pain for Pleasure	force	1	sla_gg_1.png	true	false	true
 wh3_main_ritual_sla_gg_1_upgraded	{{tr:wh3_main_ritual_sla_gg_1_description}}	Pain for Pleasure	force	1	sla_gg_1.png	true	false	true
 wh3_main_ritual_sla_gg_2	{{tr:wh3_main_ritual_sla_gg_2_description}}	Carnival of the Damned	region	1	sla_gg_2.png	true	false	true
@@ -4958,6 +5840,8 @@ wh3_main_ritual_tze_gg_3_upgraded	{{tr:wh3_main_ritual_tze_gg_3_description}}	Ma
 wh3_main_ritual_tze_gg_4	{{tr:wh3_main_ritual_tze_gg_4_description}}	Night of Madness	force	1	tze_gg_4.png	true	false	true
 wh3_main_ritual_tze_gg_4_start	{{tr:wh3_main_ritual_tze_gg_4_description}}	Night of Madness	force	1	tze_gg_4.png	true	false	true
 wh3_main_ritual_tze_gg_4_upgraded	{{tr:wh3_main_ritual_tze_gg_4_description}}	Night of Madness	force	1	tze_gg_4.png	true	false	true
+wh3_main_ritual_vmp_power_corruption	{{tr:rituals_description_wh3_main_ritual_vmp_power_corruption}}	{{tr:rituals_display_name_wh3_main_ritual_vmp_power_corruption}}	region	1	corruption_vampiric.png	true	false	true
+wh3_main_ritual_vmp_power_defend	{{tr:rituals_description_wh3_main_ritual_vmp_power_defend}}	{{tr:rituals_display_name_wh3_main_ritual_vmp_power_defend}}	region	1	siege_defence.png	true	false	true
 wh3_main_scripted_custom_effect_bundle_nur_component_unlocks			faction	0		true	false	true
 wh3_main_tech_effect_ogr_ally_trade_bonus			faction	0		true	false	true
 wh3_main_tech_effect_ogr_camp_growth_enemy_region			force	0		true	false	true
@@ -5479,6 +6363,8 @@ wh_dlc09_lord_trait_skv_tretch_craventail	Over many battles and countless acts o
 wh_dlc11_bundle_agent_action_dignitary_hinder_settlement_success_actor	This [[img:icon_hero]][[/img]]Hero must rest following the establishment of a Pirate Cove.	Exhaustion	character	1	pirate_cove.png	true	true	true
 wh_dlc17_bundle_horde_raze_full	Destroying its enemies has strengthened this horde.	Raze	force	1	bestial_rage.png	true	false	true
 wh_dlc27_pre_battle_challenge_defeated_target	The commander of this army has been challenged and defeated in single combat by an enemy commander,	Challenged and Defeated	faction	1	character.png	true	false	true
+wh_dlc29_glottkin_final_tech		Unstoppable Blight	faction	1	icon_effects_fortify.png	true	false	true
+wh_dlc29_woc_glottkin_effect_bundle_morale_against_empire	Leadership agaisnt the Empire	Leadership agaisnt the Empire	faction	1	0_placeholder_effect_bundle.png	false	false	true
 wh_main_bundle_agent_action_all_failure_army_actor	[HIDDEN]	[HIDDEN]	character	0		true	false	true
 wh_main_bundle_agent_action_all_failure_army_actor_compromised			character	0		true	false	true
 wh_main_bundle_agent_action_all_failure_army_target	In response to a hostile [[img:icon_hero]][[/img]]Hero's recent failed action, this army is on guard.	On Guard	force	1	agent.png	true	false	true
@@ -5568,6 +6454,7 @@ wh_main_bundle_confederation_vmp	The sudden expansion of territory has caused in
 wh_main_bundle_confederation_wef	The sudden expansion of territory has caused instability throughout the land.	Confederation	faction	1	confederation.png	true	false	true
 wh_main_bundle_dummy			faction	0		true	false	true
 wh_main_bundle_dummy_character			character	0		true	false	true
+wh_main_bundle_dummy_force			force	0		true	false	true
 wh_main_bundle_dummy_province			province	0		true	false	true
 wh_main_bundle_dummy_region			region	0		true	false	true
 wh_main_bundle_faction_chaos_everchosen	The final gambit of the Chaos God Tzeentch has come to naught - or was that his plan all along?	The Everchosen	faction	1	corruption_chaos.png	true	false	true

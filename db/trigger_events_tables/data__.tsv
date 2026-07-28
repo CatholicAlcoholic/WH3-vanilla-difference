@@ -46,7 +46,9 @@ BattleUnitUsingWall
 BuildingCancelled
 BuildingCardSelected
 BuildingCompleted
+BuildingConstructionIssued
 BuildingConstructionIssuedByPlayer
+BuildingDemolished
 BuildingInfoPanelOpenedCampaign
 BuildingLifecycleDevelops
 CameraMoverCancelled
@@ -66,6 +68,9 @@ CaravanMoved
 CaravanReturned
 CaravanSpawned
 CaravanWaylaid
+ChaoticPlanApplyAccumulatedPayloadsEvent
+ChaoticPlanTokenPurchasedFromShopEvent
+ChaoticPlanTokenScriptedPayloadEvent
 CharacterAncillaryGained
 CharacterArmoryItemEquipped
 CharacterArmoryItemUnequipped
@@ -98,6 +103,7 @@ CharacterFactionCompletesResearch
 CharacterFamilyRelationDied
 CharacterFinishedMovingEvent
 CharacterGarrisonTargetAction
+CharacterHordeBuildingDemolished
 CharacterInfoPanelOpened
 CharacterInitiativeActivationChangedEvent
 CharacterInitiativePresetActivatedEvent
@@ -120,6 +126,7 @@ CharacterRankUpNeedsAncillary
 CharacterRazedSettlement
 CharacterRecruited
 CharacterRelativeKilled
+CharacterRemovedFromPost
 CharacterReplacingGeneral
 CharacterSackedSettlement
 CharacterSelected
@@ -176,6 +183,7 @@ EventFeedEventRecordedEvent
 EventMessageOpenedBattle
 EventMessageOpenedCampaign
 FactionAboutToEndTurn
+FactionAwokenFromDeath
 FactionBecomesIdleHuman
 FactionBecomesLiberationProtectorate
 FactionBecomesLiberationVassal
@@ -301,7 +309,9 @@ RegionWindsOfMagicChanged
 ResearchCompleted
 ResearchStarted
 RitualCancelledEvent
+RitualCategoryCooldownOverEvent
 RitualCompletedEvent
+RitualCooldownOverEvent
 RitualEvent
 RitualStartedEvent
 SabotageAttemptFailure
@@ -318,7 +328,9 @@ SettlementClimateChanged
 SettlementDeselected
 SettlementMarkedForTypeConversionEvent
 SettlementOccupied
+SettlementSeenEvent
 SettlementSelected
+SettlementTypeConvertedEvent
 SettlementUnMarkedForTypeConversionEvent
 SharedStateChanged
 SharedStateRemoved
@@ -365,6 +377,7 @@ UnitDisbanded
 UnitDisembarkCompleted
 UnitEffectPurchased
 UnitEffectUnpurchased
+UnitExperienceLevelChanged
 UnitMergedAndDestroyed
 UnitSelectedCampaign
 UnitTrained

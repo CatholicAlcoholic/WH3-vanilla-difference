@@ -84,3 +84,4 @@ wh3_dlc27_target_force_hef_mage_archmage_light	Undefined	wh2_main_sc_hef_high_el
 wh3_dlc27_target_force_hef_mage_archmage_metal	Undefined	wh2_main_sc_hef_high_elves	True	force_mage_archmage_metal	false			Undefined		Undefined	Undefined	false	wh3_dlc27_hef_mage_archmage_metal		1	true	Undefined	Undefined	
 wh3_dlc27_target_force_hef_mage_archmage_shadows	Undefined	wh2_main_sc_hef_high_elves	True	force_mage_archmage_shadows	false			Undefined		Undefined	Undefined	false	wh3_dlc27_hef_mage_archmage_shadows		1	true	Undefined	Undefined	
 wh3_dlc27_target_force_hef_teclis	Undefined	wh2_main_sc_hef_high_elves	True	force_teclis	false			Undefined		Undefined	Undefined	false	wh3_dlc27_teclis		1	true	Undefined	Undefined	
+wh3_dlc29_target_force_woc_glottkin	Undefined	wh_main_sc_chs_chaos	True	force_glottkin	false			Undefined		Undefined	Undefined	false	wh3_dlc29_glottkin		1	true	Undefined	Undefined	
