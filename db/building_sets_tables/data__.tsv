@@ -179,7 +179,6 @@ wh3_dlc29_set_nag_settlement_cove	placeholder	0	true	Province_Capital	3E3D38
 wh3_dlc29_set_nag_settlement_mausoleum	placeholder	0	true	Province_Capital	3E3D38
 wh3_dlc29_set_nag_settlement_necropolis	placeholder	0	true	Province_Capital	3E3D38
 wh3_dlc29_set_nef_coven_concealment	UI/Buildings/Icons/wh3_dlc29_vmp_cat_concealment.png	1	true	Infrastructure	583262
-wh3_dlc29_set_nef_coven_extra	UI/Buildings/Icons/wh3_dlc29_vmp_cat_blood_thievery.png	4	true	Infrastructure	6A3530
 wh3_dlc29_set_nef_coven_handmaiden	UI/Buildings/Icons/wh3_dlc29_vmp_cat_handmaidens.png	3	true	Infrastructure	663E29
 wh3_dlc29_set_nef_coven_manipulation	UI/Buildings/Icons/wh3_dlc29_vmp_cat_manipulation.png	2	true	Infrastructure	6D3E5D
 wh3_dlc29_set_nef_coven_primary	placeholder	1	false	Infrastructure	64143C

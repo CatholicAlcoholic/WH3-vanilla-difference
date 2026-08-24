@@ -24,6 +24,7 @@ key	unit	unit_set
 1154712311		tmb_skeleton_warrior_spearmen
 1159840685		tze_iridescent_horrors
 1164792391		thorek_mounted
+1170457080		tmb_all
 1183974297	wh3_dlc29_vmp_cha_necromancer_undeath_barded_nightmare	
 1186360982	wh3_dlc25_chs_cha_chaos_sorcerer_nurgle_mnur_warshrine	
 1189176252		all_units
@@ -86,6 +87,7 @@ key	unit	unit_set
 1448149671	wh3_dlc23_chd_cha_gorduz_backstabber_giant_wolf	
 1455720454	wh2_dlc13_emp_cav_demigryph_knights_0_imperial_supply	
 1464384684	wh3_dlc29_vmp_cha_master_necromancer_undeath_barded_nightmare	
+1483020125	wh3_dlc29_skv_cha_thanquol_boneripper_warpfire_braziers	wh3_dlc29_skv_boneripper
 1485206843	wh2_dlc13_emp_veh_luminark_of_hysh_0_imperial_supply	
 1486764342	wh_dlc04_vmp_cha_master_necromancer_2	
 1506783352	wh3_dlc25_chs_cha_chaos_sorcerer_nurgle_mnur_rot_beast	
@@ -96,6 +98,7 @@ key	unit	unit_set
 152861627		wh3_dlc29_glottkin
 1539152050	wh3_dlc26_grn_cha_gorbad_ironclaw_gnarla	
 1540271019	wh2_twa01_grn_cha_goblin_great_shaman_3	
+1542716372		wh2_dlc11_cst_all
 154280325	wh2_dlc16_skv_mon_hell_pit_abomination_flesh_lab	
 1542956114		brt_all
 1544641935	wh3_dlc25_chs_cha_chaos_sorcerer_death_mnur_warshrine	
@@ -130,6 +133,7 @@ key	unit	unit_set
 1763575967		
 1765223702	wh_main_emp_cha_wizard_fire_1	
 1770010994	wh2_dlc16_wef_cha_glade_lord_4	
+1778663684		woc_non_daemonic_all
 1783982305	wh2_pro07_emp_cha_wizard_death_2	
 1789400629		wh3_dlc27_sla_daemonic_attraction_dechala_hidden
 1794535238	wh3_dlc25_chs_cha_chaos_lord_mnur_chaos_chariot	
@@ -260,6 +264,7 @@ key	unit	unit_set
 487526293		all_units_excluding_terror
 493065064	wh3_dlc25_chs_cha_chaos_sorcerer_nurgle_mnur_chaos_steed	
 509480502	wh3_dlc27_sla_inf_daemonette_1_dechala	
+513169822	wh3_dlc29_skv_cha_thanquol_boneripper_warpfire_projectors	wh3_dlc29_skv_boneripper
 517851765		wh3_dlc24_cth_cha_yuan_bo_human
 531688443		dlc16_all_units_rank5
 538480346		wh3_dlc27_hef_mounted_hidden_cards
@@ -314,6 +319,7 @@ key	unit	unit_set
 830145886	wh2_dlc12_lzd_mon_ancient_stegadon_1_nakai	
 83163894		dlc16_all_units_rank3
 841738940		dlc16_all_units_rank9
+858678556	wh3_dlc29_skv_cha_thanquol_boneripper_warpfire_projectors	wh3_dlc29_missile_stormfiends
 860093018	wh3_dlc27_sla_mon_keeper_of_secrets_dechala	
 881062796	wh3_dlc29_vmp_cha_master_necromancer_undeath_hellsteed	
 887664929	wh3_dlc25_emp_cha_wizard_metal_pegasus	

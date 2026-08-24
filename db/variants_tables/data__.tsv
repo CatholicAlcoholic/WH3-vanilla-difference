@@ -45,6 +45,8 @@ dwf_anvil_of_doom_campaign_01		dwf_anvil_of_doom_campaign_01		1.0000	1.0000	0.00
 dwf_anvil_of_doom_campaign_02		dwf_anvil_of_doom_campaign_02		1.0000	1.0000	0.0000	
 dwf_anvil_of_doom_campaign_03		dwf_anvil_of_doom_campaign_03		1.0000	1.0000	0.0000	
 dwf_anvil_of_doom_campaign_04		dwf_anvil_of_doom_campaign_04		1.0000	1.0000	0.0000	
+emp_hurricanum_acolyte		emp_hurricanum_acolyte		1.0000	0.8500	0.0000	
+emp_hurricanum_acolyte_wizard		emp_hurricanum_acolyte_wizard		1.0000	0.8500	0.0000	
 grn_arachnarok_flinger	VariantMeshes/wh_variantmodels/sp1b/grn/grn_arachnorok_flinger/tech/	grn_arachnarok_flinger		1.0000	4.0000	0.0000	
 grn_forest_goblin_artillery_crew_sword		grn_forest_goblin_sword	hu5\grn\grn_forest_goblin\low_poly\grn_forest_goblin_lowlod	1.0000	1.0000	0.0500	hu5/grn/grn_goblin/low_poly/goblin_super_imposter
 grn_goblin_artillery_crew_sword		grn_goblin_artillery_crew_sword	hu5\grn\grn_goblin\low_poly\grn_goblin_archer_lowlod	1.0000	1.0000	0.0500	hu5/grn/grn_goblin/low_poly/goblin_super_imposter
@@ -1634,10 +1636,10 @@ wh3_dlc29_skv_plague_monk_ror_crew		skv_plague_monk_base_ror	hu17\skv\skv_plague
 wh3_dlc29_skv_plague_priest_cauldron_of_a_thousand_poxes		skv_plague_priest	hu17\skv\skv_plague_monks\imposter\skv_plague_monk_imposter	1.0000	1.0000	0.0500	hu17/skv/skv_clan_rats/imposter/hu17_imposter
 wh3_dlc29_skv_pusbags		skv_pusbags	hu17\skv\skv_skaven_slaves\imposter\skv_skavenslaves_imposter	1.0000	1.0000	0.0500	hu17/skv/skv_clan_rats/imposter/hu17_imposter
 wh3_dlc29_skv_veh_cauldron_of_a_thousand_poxes	VariantMeshes/wh_variantmodels/throne03/skv/skv_cauldron_thousand_poxes/tech/	skv_cauldron_of_a_thousand_poxes		1.0000	1.0000	0.0000	
-wh3_dlc29_tmb_cha_tomb_herald		tmb_tomb_herald		1.0000	1.1000	0.0000	
-wh3_dlc29_tmb_cha_tomb_herald_campaign_01		tmb_tomb_herald_campaign_01		1.0000	1.1000	0.0000	
-wh3_dlc29_tmb_cha_tomb_herald_campaign_02		tmb_tomb_herald_campaign_02		1.0000	1.1000	0.0000	
-wh3_dlc29_tmb_cha_tomb_herald_campaign_03		tmb_tomb_herald_campaign_03		1.0000	1.1000	0.0000	
+wh3_dlc29_tmb_cha_tomb_herald		tmb_tomb_herald		1.0000	1.1500	0.0000	
+wh3_dlc29_tmb_cha_tomb_herald_campaign_01		tmb_tomb_herald_campaign_01		1.0000	1.1500	0.0000	
+wh3_dlc29_tmb_cha_tomb_herald_campaign_02		tmb_tomb_herald_campaign_02		1.0000	1.1500	0.0000	
+wh3_dlc29_tmb_cha_tomb_herald_campaign_03		tmb_tomb_herald_campaign_03		1.0000	1.1500	0.0000	
 wh3_dlc29_tmb_khemric_titan		tmb_khemric_titan		1.0000	1.0000	0.0000	
 wh3_dlc29_tmb_khemric_titan_ror		tmb_khemric_titan_ror		1.0000	1.0000	0.0000	
 wh3_dlc29_tmb_liche_high_priest		tmb_liche_high_priest		1.0000	1.1500	0.0000	
@@ -1653,7 +1655,7 @@ wh3_dlc29_vmp_cha_lahmian_vampire		vmp_lahmian_vampire_hero		1.0000	1.1500	0.050
 wh3_dlc29_vmp_cha_lahmian_vampire_campaign_01		vmp_lahmian_vampire_hero_campaign_01		1.0000	1.1500	0.0500	
 wh3_dlc29_vmp_cha_lahmian_vampire_campaign_02		vmp_lahmian_vampire_hero_campaign_02		1.0000	1.1500	0.0500	
 wh3_dlc29_vmp_cha_lahmian_vampire_campaign_03		vmp_lahmian_vampire_hero_campaign_03		1.0000	1.1500	0.0500	
-wh3_dlc29_vmp_cha_nagash	VariantMeshes\wh_variantmodels\hu1p\vmp\vmp_nagash\tech	vmp_nagash		1.0000	1.0000	0.0000	
+wh3_dlc29_vmp_cha_nagash	VariantMeshes\wh_variantmodels\hu1p\vmp\vmp_nagash\tech	vmp_nagash		1.0000	1.1000	0.0000	
 wh3_dlc29_vmp_cha_nagash_spirits				1.0000	1.0000	0.0000	
 wh3_dlc29_vmp_coven_throne	warmachines\chariot\vmp_coven_throne\tech\	vmp_coven_throne		1.0000	1.0000	0.0000	
 wh3_dlc29_vmp_coven_throne_campaign	art\campaign\chariots\cam_ct1\vmp\vmp_campaign_coventhrone\tech\	campaign_vmp_coven_throne		1.0000	1.0000	0.0000	
@@ -3095,7 +3097,7 @@ wh_dwf_warriors_ironbreakers		dwf_warriors_ironbreakers	hu3/dwf/dwf_ironbreakers
 wh_dwf_warriors_longbeard		dwf_warriors_longbeard	hu3\dwf\dwf_longbeards\low_poly\dwf_warriors_longbeard_lowlod	1.0000	0.9500	0.0500	hu3/dwf/dwf_warriors/low_poly/super_imposter
 wh_dwf_warriors_longbeard_great_axe		dwf_warriors_longbeard_great_axe	hu3\dwf\dwf_longbeards\low_poly\dwf_warriors_longbeard_great_lowlod	1.0000	0.9500	0.0500	hu3/dwf/dwf_warriors/low_poly/super_imposter
 wh_emp_acolyte		emp_acolyte		1.0000	1.0000	0.0500	
-wh_emp_acolyte_staff_ball		emp_acolyte_staff_ball		1.0000	1.0000	0.0500	
+wh_emp_acolyte_staff_ball		emp_acolyte_staff_ball		1.0000	1.0000	0.0000	
 wh_emp_artillery_crew		emp_artillery_crew	hu1/emp/low_poly/emp_artillery_crew	1.0000	1.0000	0.0500	hu1\imposter\humanoid_imposter
 wh_emp_ch_balthasar		emp_ch_balthasar		1.0000	1.2000	0.0500	
 wh_emp_ch_captains		emp_captains		1.0000	1.1500	0.0500	

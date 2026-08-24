@@ -107,7 +107,7 @@ FLASH_LAB_RITUAL_TIER2	false	false	true	true		0	UI\skins\default\0_placeholder.p
 FLASH_LAB_RITUAL_TIER3	false	false	true	true		0	UI\skins\default\0_placeholder.png
 FORCE_VASSAL	false	false	true	true		0	UI\skins\default\0_placeholder.png
 GLOTTKIN_JARS	false	false	true	true		0	UI\skins\default\0_placeholder.png
-GLOTTKIN_ROTBORNE_RITUALS	false	false	false	true		0	UI\skins\default\0_placeholder.png
+GLOTTKIN_ROTBORNE_RITUALS	false	true	false	true		0	UI\skins\default\0_placeholder.png
 GLOTTKIN_ROTBORNE_RITUALS_UPGRADES	false	false	false	true		0	UI\skins\default\0_placeholder.png
 GOLGFAG_TELEPORT	false	false	true	false		0	UI\skins\default\0_placeholder.png
 GREAT_GAME_1	false	false	true	true		0	UI\skins\default\0_placeholder.png
@@ -161,6 +161,7 @@ NAGASH_CAPS_INF	false	false	true	true	nagash_unit_caps	1	UI\skins\default\dlc29_
 NAGASH_CAPS_MONSTERS	false	false	true	true	nagash_unit_caps	6	UI\skins\default\dlc29_nag_black_pyramid\icon_nag_pyramid_unit_cat_monsters.png
 NAGASH_CAPS_WAR_MACHINES	false	false	true	true	nagash_unit_caps	5	UI\skins\default\dlc29_nag_black_pyramid\icon_nag_pyramid_unit_cat_war_machines.png
 NAGASH_LAND_OF_THE_DEAD	false	false	true	true		0	UI\skins\default\0_placeholder.png
+NAGASH_LEGION	false	false	true	true		0	UI\skins\default\0_placeholder.png
 NAGASH_MORTARCH_LORDS	true	false	true	true		0	UI\skins\default\0_placeholder.png
 NAGASH_POWERS	true	false	true	true		0	UI\skins\default\0_placeholder.png
 NAGASH_POWERS_UPGRADES	true	false	true	true		0	UI\skins\default\0_placeholder.png

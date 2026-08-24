@@ -1341,12 +1341,12 @@ campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	wh3_dlc27_skill_sla_exalted_hero_unique_1		x	6
 		1	wh3_dlc27_skill_sla_exalted_hero_unique_2		x	6
 		1	wh3_dlc27_skill_sla_exalted_hero_unique_3		x	6
-		1	wh3_dlc27_skill_sla_exalted_keeper_of_secrets_shared_army_1		x	5
-		1	wh3_dlc27_skill_sla_exalted_keeper_of_secrets_shared_army_2		x	5
-		1	wh3_dlc27_skill_sla_exalted_keeper_of_secrets_shared_army_3		x	5
-		1	wh3_dlc27_skill_sla_exalted_keeper_of_secrets_shared_self_1		x	5
-		1	wh3_dlc27_skill_sla_exalted_keeper_of_secrets_shared_self_2		x	5
-		1	wh3_dlc27_skill_sla_exalted_keeper_of_secrets_shared_self_3		x	5
+		1	wh3_dlc27_skill_sla_exalted_keeper_of_secrets_shared_army_1		x	11
+		1	wh3_dlc27_skill_sla_exalted_keeper_of_secrets_shared_army_2		x	11
+		1	wh3_dlc27_skill_sla_exalted_keeper_of_secrets_shared_army_3		x	11
+		1	wh3_dlc27_skill_sla_exalted_keeper_of_secrets_shared_self_1		x	11
+		1	wh3_dlc27_skill_sla_exalted_keeper_of_secrets_shared_self_2		x	11
+		1	wh3_dlc27_skill_sla_exalted_keeper_of_secrets_shared_self_3		x	11
 		1	wh3_dlc27_skill_sla_herald_of_slaanesh_personal_1		x	7
 		1	wh3_dlc27_skill_sla_herald_of_slaanesh_shadow_mount_daemonic_steed		x	11
 		1	wh3_dlc27_skill_sla_herald_of_slaanesh_shared_1		x	11
@@ -1363,30 +1363,22 @@ campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	wh3_dlc27_skill_sla_styrkaar_unique_5		x	11
 		1	wh3_dlc29_skill_bloodline_lahmian_vampire_final_caress		x	15
 		1	wh3_dlc29_skill_chs_bloab_mount_bilespurter		x	0
-		1	wh3_dlc29_skill_chs_bloab_special_1		x	15
-		1	wh3_dlc29_skill_chs_bloab_special_2		x	15
-		1	wh3_dlc29_skill_chs_bloab_special_3		x	15
+		1	wh3_dlc29_skill_chs_bloab_special_1		x	9
 		1	wh3_dlc29_skill_chs_bloab_unique_1		x	11
 		1	wh3_dlc29_skill_chs_glottkin_unique_1		x	11
-		1	wh3_dlc29_skill_chs_glottkin_unique_10		x	15
 		1	wh3_dlc29_skill_chs_gutrot_mount_warshrine		x	13
-		1	wh3_dlc29_skill_chs_gutrot_special_1		x	13
-		1	wh3_dlc29_skill_chs_gutrot_special_2		x	15
-		1	wh3_dlc29_skill_chs_gutrot_special_3		x	17
+		1	wh3_dlc29_skill_chs_gutrot_special_1		x	9
 		1	wh3_dlc29_skill_chs_gutrot_unique_1		x	11
-		1	wh3_dlc29_skill_chs_maggoth_lord_unique_1		x	13
-		1	wh3_dlc29_skill_chs_maggoth_lord_unique_2		x	13
-		1	wh3_dlc29_skill_chs_maggoth_lord_unique_3		x	13
+		1	wh3_dlc29_skill_chs_maggoth_lord_unique_1		x	19
 		1	wh3_dlc29_skill_chs_morbidex_mount_tripletongue		x	0
-		1	wh3_dlc29_skill_chs_morbidex_special_1		x	15
-		1	wh3_dlc29_skill_chs_morbidex_special_2		x	15
-		1	wh3_dlc29_skill_chs_morbidex_special_3		x	15
+		1	wh3_dlc29_skill_chs_morbidex_special_1		x	9
 		1	wh3_dlc29_skill_chs_morbidex_top_1		x	12
-		1	wh3_dlc29_skill_chs_orghotts_mount_whippermaw		x	1
-		1	wh3_dlc29_skill_chs_orghotts_special_1		x	15
-		1	wh3_dlc29_skill_chs_orghotts_special_2		x	15
-		1	wh3_dlc29_skill_chs_orghotts_special_3		x	15
+		1	wh3_dlc29_skill_chs_morbidex_unique_1		x	11
+		1	wh3_dlc29_skill_chs_orghotts_mount_whippermaw		x	0
+		1	wh3_dlc29_skill_chs_orghotts_special_1		x	9
 		1	wh3_dlc29_skill_chs_orghotts_unique_1		x	11
+		1	wh3_dlc29_skill_emp_arch_lector_unique_01		x	11
+		1	wh3_dlc29_skill_emp_battle_prayers_capstone		x	14
 		1	wh3_dlc29_skill_emp_boris_special_1		x	11
 		1	wh3_dlc29_skill_emp_boris_special_blessed_by_ulric		x	11
 		1	wh3_dlc29_skill_emp_boris_unique_ulrics_ward		x	7
@@ -1408,6 +1400,14 @@ campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	wh3_dlc29_skill_emp_seneschal_barded_warhorse		x	3
 		1	wh3_dlc29_skill_emp_seneschal_unique_1		x	11
 		1	wh3_dlc29_skill_emp_seneschal_unique_5		x	11
+		1	wh3_dlc29_skill_emp_warrior_priest_unique_01		x	9
+		1	wh3_dlc29_skill_emp_warrior_priest_unique_02		x	11
+		1	wh3_dlc29_skill_emp_warrior_priest_unique_03		x	13
+		1	wh3_dlc29_skill_emp_warrior_priest_unique_04		x	19
+		1	wh3_dlc29_skill_emp_warrior_priest_unique_05		x	19
+		1	wh3_dlc29_skill_emp_warrior_priest_unique_06		x	19
+		1	wh3_dlc29_skill_liche_high_priest_misc_0		x	4
+		1	wh3_dlc29_skill_liche_high_priest_misc_1		x	8
 		1	wh3_dlc29_skill_mourngul_haunter_unique_0		x	11
 		1	wh3_dlc29_skill_mourngul_haunter_unique_exclusive_0		x	13
 		1	wh3_dlc29_skill_mourngul_haunter_unique_exclusive_1		x	13
@@ -1421,15 +1421,34 @@ campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	wh3_dlc29_skill_nag_krell_special_2		x	15
 		1	wh3_dlc29_skill_nag_krell_undeath_resurgent		x	13
 		1	wh3_dlc29_skill_nag_krell_unique_1		x	11
+		1	wh3_dlc29_skill_nag_lord_unique_top_01		x	2
+		1	wh3_dlc29_skill_nag_lord_unique_top_02		x	4
+		1	wh3_dlc29_skill_nag_lord_unique_top_03		x	6
 		1	wh3_dlc29_skill_nag_master_necromancer_unique_1		x	11
 		1	wh3_dlc29_skill_nag_nagash_perfect_vigour		x	14
-		1	wh3_dlc29_skill_nag_nagash_unbreakable		x	14
-		1	wh3_dlc29_skill_nag_nagash_unique_wizard_01		x	11
+		1	wh3_dlc29_skill_nag_nagash_unique_wizard_02		x	11
+		1	wh3_dlc29_skill_nag_vmp_lord_unique_0		x	11
+		1	wh3_dlc29_skill_nag_vmp_lord_unique_exclusive_0		x	13
+		1	wh3_dlc29_skill_nag_vmp_lord_unique_exclusive_1		x	13
+		1	wh3_dlc29_skill_nag_vmp_lord_unique_exclusive_2		x	13
+		1	wh3_dlc29_skill_nag_vmp_lord_unique_exclusive_3		x	13
 		1	wh3_dlc29_skill_nag_walach_special_1		x	7
 		1	wh3_dlc29_skill_nag_walach_unique_1		x	11
 		1	wh3_dlc29_skill_node_nag_nagash_unique_necromancer_01		x	12
+		1	wh3_dlc29_skill_nur_exalted_great_unclean_one_shared_army_1		x	13
+		1	wh3_dlc29_skill_nur_exalted_great_unclean_one_shared_army_2		x	13
+		1	wh3_dlc29_skill_nur_exalted_great_unclean_one_shared_army_3		x	13
+		1	wh3_dlc29_skill_nur_exalted_great_unclean_one_shared_self_1		x	13
+		1	wh3_dlc29_skill_nur_exalted_great_unclean_one_shared_self_2		x	13
+		1	wh3_dlc29_skill_nur_exalted_great_unclean_one_shared_self_3		x	13
+		1	wh3_dlc29_skill_nur_herald_of_nurgle_personal_1		x	7
+		1	wh3_dlc29_skill_nur_herald_of_nurgle_shared_1		x	11
+		1	wh3_dlc29_skill_nur_herald_of_nurgle_shared_2		x	11
+		1	wh3_dlc29_skill_nur_herald_of_nurgle_shared_3		x	11
 		1	wh3_dlc29_skill_skv_lord_skrolk_mount_cauldron_of_a_thousand_poxes		x	9
 		1	wh3_dlc29_skill_skv_plague_priest_mount_cauldron_of_a_thousand_poxes		x	10
+		1	wh3_dlc29_skill_skv_schemer_assassin_expert_ambusher		x	5
+		1	wh3_dlc29_skill_skv_schemer_assassin_self_defence		x	7
 		1	wh3_dlc29_skill_skv_schemer_grey_seer_mount_screaming_bell		x	15
 		1	wh3_dlc29_skill_skv_schemer_grey_seer_unique_00		x	12
 		1	wh3_dlc29_skill_skv_schemer_grey_seer_unique_01		x	12
@@ -1454,6 +1473,10 @@ campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	wh3_dlc29_skill_skv_schemer_warlock_master_unique_04		x	12
 		1	wh3_dlc29_skill_skv_schemer_warlock_master_unique_05		x	15
 		1	wh3_dlc29_skill_skv_schemer_warlock_master_unique_06		x	15
+		1	wh3_dlc29_skill_skv_schemer_warlock_unique_1_specimen		x	9
+		1	wh3_dlc29_skill_skv_schemer_warlock_unique_2_vehicle		x	12
+		1	wh3_dlc29_skill_skv_schemer_warlock_unique_3_weapons		x	12
+		1	wh3_dlc29_skill_skv_schemer_warlock_unique_4_economy		x	12
 		1	wh3_dlc29_skill_skv_schemer_warlord_mount_bonebreaker		x	11
 		1	wh3_dlc29_skill_skv_schemer_warlord_mount_brood_horror		x	13
 		1	wh3_dlc29_skill_skv_schemer_warlord_unique_00		x	12
@@ -1467,26 +1490,36 @@ campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	wh3_dlc29_skill_skv_skreech_verminking_unit_buff_1		x	12
 		1	wh3_dlc29_skill_skv_skreech_verminking_unit_buff_2		x	12
 		1	wh3_dlc29_skill_skv_skreech_verminking_unit_buff_3		x	12
+	wh2_main_skv_clan_pestilens	1	wh3_dlc29_skill_skv_skreech_verminking_unit_buff_3_pestilens		x	12
 		1	wh3_dlc29_skill_skv_skreech_verminking_unit_buff_4		x	12
 		1	wh3_dlc29_skill_skv_skreech_verminking_unit_buff_5		x	12
 		1	wh3_dlc29_skill_skv_skreech_verminking_unit_buff_6		x	12
 		1	wh3_dlc29_skill_skv_thanquol_unique_0		x	11
-		1	wh3_dlc29_skill_skv_thanquol_unique_mount_boneripper_1		x	7
+		1	wh3_dlc29_skill_skv_thanquol_unique_boneripper_0		x	9
+		1	wh3_dlc29_skill_skv_thanquol_unique_boneripper_1		x	9
+		1	wh3_dlc29_skill_skv_thanquol_unique_boneripper_2		x	9
+		1	wh3_dlc29_skill_skv_thanquol_unique_boneripper_3		x	9
+		1	wh3_dlc29_skill_skv_thanquol_unique_mount_boneripper_1		x	9
 		1	wh3_dlc29_skill_skv_thanquol_unique_mount_boneripper_2		x	15
+		1	wh3_dlc29_skill_skv_unique_life_is_cheap_schemer		x	12
 		1	wh3_dlc29_skill_skv_verminlord_corruptor_unique_0		x	10
+		1	wh3_dlc29_skill_skv_verminlord_corruptor_unique_1		x	10
+	wh2_main_skv_clan_pestilens	1	wh3_dlc29_skill_skv_verminlord_corruptor_unique_1_pestilens		x	10
+		1	wh3_dlc29_skill_skv_verminlord_corruptor_unique_2		x	10
+		1	wh3_dlc29_skill_skv_verminlord_corruptor_unique_3		x	10
+		1	wh3_dlc29_skill_skv_verminlord_corruptor_unique_4		x	10
+		1	wh3_dlc29_skill_skv_verminlord_corruptor_unique_5		x	10
 		1	wh3_dlc29_skill_skv_verminlord_deceiver_unique_0		x	6
 		1	wh3_dlc29_skill_skv_verminlord_warbringer_unique_0		x	10
 		1	wh3_dlc29_skill_skv_verminlord_warpseer_unique_0		x	10
 		1	wh3_dlc29_skill_tmb_dignitary_unique_tomb_herald_skeleton_chariot		x	9
+		1	wh3_dlc29_skill_tmb_liche_high_priest_unique_1		x	11
 		1	wh3_dlc29_skill_tmb_lord_unique_arkhan_dread_abyssal		x	21
 		1	wh3_dlc29_skill_tmb_lord_unique_high_liche_priest_death_skeletal_steed		x	6
-		1	wh3_dlc29_skill_tmb_lord_unique_high_liche_priest_leader_00		wh3_dlc29_skill_tmb_lord_unique_high_liche_priest_leader_00	12
+		1	wh3_dlc29_skill_tmb_lord_unique_high_liche_priest_leader_02		x	11
 		1	wh3_dlc29_skill_tmb_lord_unique_high_liche_priest_light_skeletal_steed		x	6
-		1	wh3_dlc29_skill_tmb_lord_unique_high_liche_priest_master_of_the_dead_army		wh3_dlc29_skill_tmb_lord_unique_high_liche_priest_tomb_swarm	8
 		1	wh3_dlc29_skill_tmb_lord_unique_high_liche_priest_nehekhara_skeletal_steed		x	6
 		1	wh3_dlc29_skill_tmb_lord_unique_high_liche_priest_shadow_skeletal_steed		x	6
-		1	wh3_dlc29_skill_tmb_lord_unique_high_liche_priest_tomb_swarm		wh3_dlc29_skill_tmb_lord_unique_high_liche_priest_wizard_00	8
-		1	wh3_dlc29_skill_tmb_lord_unique_high_liche_priest_wizard_00		x	12
 		1	wh3_dlc29_skill_tmb_tomb_herald_unique_bodyguard_01		x	12
 		1	wh3_dlc29_skill_tmb_tomb_herald_unique_champion_01		x	12
 		1	wh3_dlc29_skill_tmb_tomb_herald_unique_leadership_01		x	12
@@ -1518,6 +1551,7 @@ campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	wh3_dlc29_skill_vmp_lord_unique_neferata_dread_abyssal		x	21
 		1	wh3_dlc29_skill_vmp_lord_unique_neferata_hellsteed		x	9
 		1	wh3_dlc29_skill_vmp_lord_unique_neferata_zombie_dragon		x	17
+		1	wh3_dlc29_skill_vmp_master_necromancer_undeath_unique_exclusive_1		x	15
 		1	wh3_dlc29_skill_vmp_master_necromancer_unique_1		x	11
 		1	wh3_dlc29_skill_vmp_master_necromancer_unique_exclusive_1		x	15
 		1	wh3_dlc29_skill_vmp_master_necromancer_unique_exclusive_2		x	15
@@ -1530,6 +1564,7 @@ campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	wh3_dlc29_skill_vmp_necrarch_lord_unique_student_of_the_grimoire_necronium		x	3
 		1	wh3_dlc29_skill_vmp_necromancer_assist_army_1		x	4
 		1	wh3_dlc29_skill_vmp_necromancer_assist_army_2		x	4
+		1	wh3_dlc29_skill_vmp_necromancer_undeath_unique_1		x	11
 		1	wh3_dlc29_skill_vmp_necromancer_unique_1		x	11
 		1	wh3_dlc29_skill_vmp_neferata_misc_0		x	0
 		1	wh3_dlc29_skill_vmp_neferata_unique_0		x	11
@@ -1982,11 +2017,7 @@ campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	wh_dlc08_skill_unique_ungrim_1		x	9
 		1	wh_dlc08_skill_vmp_heinrich_krell_4		x	11
 		1	wh_dlc11_skill_cst_lord_self_supernatural_horror		x	4
-		1	wh_dlc29_skill_nag_lord_unique_loremaster_lore_of_death		x	11
-		1	wh_dlc29_skill_nag_lord_unique_loremaster_lore_of_light		x	15
-		1	wh_dlc29_skill_nag_lord_unique_loremaster_lore_of_nehekhara		x	11
 		1	wh_dlc29_skill_nag_lord_unique_loremaster_lore_of_undeath		x	8
-		1	wh_dlc29_skill_nag_lord_unique_loremaster_lore_of_vampires		x	15
 		1	wh_dlc29_skill_nag_lord_unique_ryze_the_grave_call_morghast_archai		x	16
 		1	wh_dlc29_skill_nag_lord_unique_ryze_the_grave_call_morghast_harbringers		x	16
 		1	wh_main_qb_skill_scripted_all_rising_champion		x	0
@@ -2065,15 +2096,13 @@ campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		1	wh_main_skill_emp_champion_unique_captain_imperial_pegasus		x	11
 		1	wh_main_skill_emp_champion_unique_captain_warhorse		x	3
 		1	wh_main_skill_emp_champion_unique_hold_the_line		x	5
-		1	wh_main_skill_emp_dignitary_unique_volkmar_hammer_of_sigmar		x	4
-		1	wh_main_skill_emp_dignitary_unique_volkmar_priest_shield_of_faith		x	10
-		1	wh_main_skill_emp_dignitary_unique_volkmar_soulfire		x	14
+		1	wh_main_skill_emp_dignitary_unique_volkmar_priest_shield_of_faith		x	4
+		1	wh_main_skill_emp_dignitary_unique_volkmar_soulfire		x	9
 		1	wh_main_skill_emp_dignitary_unique_warrior_priest_barded_warhorse		x	3
-		1	wh_main_skill_emp_dignitary_unique_warrior_priest_hammer_of_sigmar		x	4
 		1	wh_main_skill_emp_dignitary_unique_warrior_priest_righteous_fury		x	17
 		1	wh_main_skill_emp_dignitary_unique_warrior_priest_righteous_fury_hero		x	17
-		1	wh_main_skill_emp_dignitary_unique_warrior_priest_shield_of_faith		x	10
-		1	wh_main_skill_emp_dignitary_unique_warrior_priest_soulfire		x	14
+		1	wh_main_skill_emp_dignitary_unique_warrior_priest_shield_of_faith		x	4
+		1	wh_main_skill_emp_dignitary_unique_warrior_priest_soulfire		x	9
 		1	wh_main_skill_emp_dignitary_unique_warrior_priest_warhorse		x	3
 		1	wh_main_skill_emp_lord_battle_hold_the_line		x	5
 		1	wh_main_skill_emp_lord_unique_balthasar_barded_warhorse		x	6
@@ -2213,8 +2242,12 @@ campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		2	wh3_dlc29_skill_mourngul_haunter_unique_top_0		x	12
 		2	wh3_dlc29_skill_skv_schemer_master_assassin_unique_03		x	13
 		2	wh3_dlc29_skill_skv_schemer_master_assassin_unique_04		x	13
+		2	wh3_dlc29_skill_skv_thanquol_unique_boneripper_1		x	9
+		2	wh3_dlc29_skill_skv_thanquol_unique_boneripper_2		x	9
+		2	wh3_dlc29_skill_skv_thanquol_unique_boneripper_3		x	9
 		2	wh3_dlc29_skill_vmp_banshee_unique_6		x	11
 		2	wh3_dlc29_skill_vmp_heinrich_unique_2		x	20
+		2	wh3_dlc29_skill_vmp_lord_unique_necromancer_raising_dead_nag		x	12
 		2	wh3_dlc29_skill_vmp_necromancer_assist_army_1		x	8
 		2	wh3_dlc29_skill_vmp_necromancer_assist_army_2		x	8
 		2	wh3_dlc29_skill_vmp_wight_king_assist_army_1		x	8
@@ -2239,6 +2272,7 @@ campaign_key	faction_key	level	skill_key	subculture_key	image_path	unlocked_at_r
 		2	wh_main_qb_skill_scripted_all_rising_champion		x	0
 		2	wh_main_skill_vmp_all_unique_master_of_the_dead		x	5
 		2	wh_main_skill_vmp_all_unique_master_of_the_dead_helman		x	5
+		2	wh_main_skill_vmp_all_unique_master_of_the_dead_lore_of_undeath		x	5
 		3	wh2_dlc11_skill_all_hero_hinder_settlement_establish_pirate_cove		x	9
 		3	wh2_dlc17_skill_lzd_skink_oracle_ferocious_acids		x	0
 		3	wh2_dlc17_skill_runesmith_assist_army_harden_armour		x	12

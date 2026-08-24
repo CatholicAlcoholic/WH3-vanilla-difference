@@ -187,10 +187,7 @@ wh3_ritual_skv_tretch_rites	pick_best
 wh3_ritual_skv_workshop	weighted_random_select		
 wh3_ritual_tmb_crafting	pick_best		
 wh3_ritual_tmb_rites	pick_best		
-wh3_ritual_vmp_bloodlines	pick_best		
-wh3_ritual_vmp_bloodlines_lahmia	pick_best		
-wh3_ritual_vmp_bloodlines_necrach	pick_best		
-wh3_ritual_vmp_bloodlines_voncarstein	pick_best		
+wh3_ritual_vmp_bloodlines	weighted_random_select		
 wh3_ritual_wef_forge_dragon	pick_best		
 wh3_ritual_wef_forge_dreaming	pick_best		
 wh3_ritual_wef_forge_eagle	pick_best		

@@ -1049,6 +1049,7 @@ wh3_dlc29_book_of_nagash_slot_9_wh3_dlc29_book_of_nagash_6					character_initiat
 wh3_dlc29_book_of_nagash_slot_9_wh3_dlc29_book_of_nagash_7					character_initiatives							true	0		wh3_dlc29_book_of_nagash_7	wh3_dlc29_book_of_nagash_slot_9
 wh3_dlc29_book_of_nagash_slot_9_wh3_dlc29_book_of_nagash_8					character_initiatives							true	0		wh3_dlc29_book_of_nagash_8	wh3_dlc29_book_of_nagash_slot_9
 wh3_dlc29_book_of_nagash_slot_9_wh3_dlc29_book_of_nagash_9					character_initiatives							true	0		wh3_dlc29_book_of_nagash_9	wh3_dlc29_book_of_nagash_slot_9
+wh3_dlc29_chd_ritual_unit_cap_chaos_siege_giant				wh3_dlc29_chd_ritual_unit_cap_chaos_siege_giant	rituals							true	0			
 wh3_dlc29_emp_middenland_the_great_temple_of_ulric_hall_of_flame_level_1					faction_initiatives							true	0		wh3_dlc29_emp_middenland_the_great_temple_of_ulric_hall_of_flame_level_1	wh3_dlc29_middenland_the_great_temple_of_ulric_hall_of_flame
 wh3_dlc29_emp_middenland_the_great_temple_of_ulric_hall_of_flame_level_2					faction_initiatives							true	0		wh3_dlc29_emp_middenland_the_great_temple_of_ulric_hall_of_flame_level_2	wh3_dlc29_middenland_the_great_temple_of_ulric_hall_of_flame
 wh3_dlc29_emp_middenland_the_great_temple_of_ulric_hall_of_flame_level_3					faction_initiatives							true	0		wh3_dlc29_emp_middenland_the_great_temple_of_ulric_hall_of_flame_level_3	wh3_dlc29_middenland_the_great_temple_of_ulric_hall_of_flame
@@ -1720,11 +1721,11 @@ wh3_main_ritual_tze_gg_3				wh3_main_ritual_tze_gg_3	rituals							true	0
 wh3_main_ritual_tze_gg_3_upgraded				wh3_main_ritual_tze_gg_3_upgraded	rituals							true	0			
 wh3_main_ritual_tze_gg_4				wh3_main_ritual_tze_gg_4	rituals							true	0			
 wh3_main_ritual_tze_gg_4_upgraded				wh3_main_ritual_tze_gg_4_upgraded	rituals							true	0			
-wh3_main_ritual_vmp_bloodline_awaken_blood_dragon_01				wh2_dlc11_ritual_bloodlines_blood_dragon	rituals							true	0			
-wh3_main_ritual_vmp_bloodline_awaken_lahmian_01				wh2_dlc11_ritual_bloodlines_lahmian	rituals							true	0			
-wh3_main_ritual_vmp_bloodline_awaken_necrarch_01				wh2_dlc11_ritual_bloodlines_necrarch	rituals							true	0			
-wh3_main_ritual_vmp_bloodline_awaken_strigoi_01				wh2_dlc11_ritual_bloodlines_strigoi	rituals							true	0			
-wh3_main_ritual_vmp_bloodline_awaken_von_carstein_01				wh2_dlc11_ritual_bloodlines_von_carstein	rituals							true	0			
+wh3_main_ritual_vmp_bloodline_blood_dragon				wh2_dlc11_ritual_bloodlines_blood_dragon	rituals							true	0			
+wh3_main_ritual_vmp_bloodline_lahmian				wh2_dlc11_ritual_bloodlines_lahmian	rituals							true	0			
+wh3_main_ritual_vmp_bloodline_necrarch				wh2_dlc11_ritual_bloodlines_necrarch	rituals							true	0			
+wh3_main_ritual_vmp_bloodline_strigoi				wh2_dlc11_ritual_bloodlines_strigoi	rituals							true	0			
+wh3_main_ritual_vmp_bloodline_von_carstein				wh2_dlc11_ritual_bloodlines_von_carstein	rituals							true	0			
 wh3_main_ritual_wef_forge_dragon_buff				wh2_dlc16_ritual_wef_forge_dragon_buff	rituals							true	0			
 wh3_main_ritual_wef_forge_dragon_cuirass_level_1				wh2_dlc16_ritual_wef_forge_dragon_cuirass_level_1	rituals							true	0			
 wh3_main_ritual_wef_forge_dragon_cuirass_level_2				wh2_dlc16_ritual_wef_forge_dragon_cuirass_level_2	rituals							true	0			

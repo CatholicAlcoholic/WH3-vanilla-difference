@@ -857,6 +857,7 @@ modifier_icon_tooltip_directional_shield
 modifier_icon_tooltip_flaming
 modifier_icon_tooltip_magical
 modifier_icon_tooltip_shield
+modify_unit_set_caps
 morale
 morale_0
 morale_1

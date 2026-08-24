@@ -218,16 +218,19 @@ wh3_dlc29_glott_mark_progression_4	36000	0	true	other		END_OF_ROUND	false	FACTIO
 wh3_dlc29_glott_mark_progression_5	36000	0	true	other		END_OF_ROUND	false	FACTION	false	0		false	true	false
 wh3_dlc29_glott_mark_progression_6	36000	0	true	other		END_OF_ROUND	false	FACTION	false	0		false	true	false
 wh3_dlc29_glott_mark_progression_7	36000	0	true	other		END_OF_ROUND	false	FACTION	false	0		false	true	false
-wh3_dlc29_glott_souls	50000	0	false	other	icon_souls.png	END_OF_ROUND	false	FACTION	false	0		false	true	false
+wh3_dlc29_glott_souls	61000	0	false	other	icon_souls.png	END_OF_ROUND	false	FACTION	false	0		false	true	false
 wh3_dlc29_nag_necromantic_energy	2147483647	0	false	other	wh3_dlc29_pooled_resource_necromantic_power.png	END_OF_ROUND	false	REGION_GROUP	false	0		false	true	false
 wh3_dlc29_nag_necropolises_available	5000	0	false	colonisation	wh3_dlc29_pooled_resource_necromantic_power.png	END_OF_ROUND	false	FACTION	false	0		false	true	false
 wh3_dlc29_nag_necropolises_soft_cap	5000	3	false	colonisation	wh3_dlc29_pooled_resource_necromantic_power.png	END_OF_ROUND	false	FACTION	false	0		false	true	false
 wh3_dlc29_nagash_pyramid_progression	50	0	false	other		END_OF_ROUND	false	FACTION	false	0		false	false	false
-wh3_dlc29_nef_concealment	100	0	false	other	icon_fervour.png	END_OF_ROUND	false	FACTION	false	0		false	true	false
+wh3_dlc29_nef_concealment	100	0	false	other	dlc29_vmp_web_of_power/icon_vmp_concealement.png	END_OF_ROUND	false	FACTION_PROVINCE_PERSISTENT	false	0		false	true	false
 wh3_dlc29_nef_manipulation	100	0	false	other	dlc29_vmp_web_of_power/icon_vmp_manipulation.png	END_OF_ROUND	false	FACTION	false	0		false	true	false
 wh3_dlc29_skv_warpstone	2147483647	0	false	other	icon_skv_warpstone.png	END_OF_ROUND	false	FACTION	false	0		false	true	false
-wh3_dlc29_vmp_corpses	2147483647	0	false	other	icon_vmp_corpses.png	END_OF_ROUND	false	FACTION_PROVINCE_PERSISTENT	false	0		false	true	false
+wh3_dlc29_vmp_concealment_innate	100	0	true	other	dlc29_vmp_web_of_power/icon_vmp_concealement.png	START_OF_TURN	false	FACTION	false	0		true	true	false
+wh3_dlc29_vmp_corpse_transport	100	0	true	other	icon_vmp_corpses.png	START_OF_TURN	false	FACTION	false	0		true	true	false
+wh3_dlc29_vmp_corpses	2147483647	0	true	other	icon_vmp_corpses.png	END_OF_ROUND	false	FACTION_PROVINCE_PERSISTENT	false	0		false	true	false
 wh3_dlc29_vmp_corpses_CAI	2147483647	0	false	other	icon_vmp_corpses.png	END_OF_ROUND	false	FACTION	false	0		false	true	false
+wh3_dlc29_vmp_corpses_dummy	2147483647	0	true	other	icon_vmp_corpses.png	END_OF_ROUND	false	MILITARY_FORCE	false	0		false	false	false
 wh3_dlc29_vmp_power	2147483647	0	false	rituals	icon_vmp_necrotic_power.png	END_OF_ROUND	false	FACTION	false	0		false	true	false
 wh3_dlc29_woc_nurgle_marks_available	7	0	false	faction	placeholder.png	START_OF_TURN	false	FACTION	false	0		false	true	false
 wh3_main_corruption_chaos	100	0	false	events	icon_corruption_chs.png	END_OF_ROUND	false	GEOGRAPHIC_PROVINCE	false	7		false	true	false

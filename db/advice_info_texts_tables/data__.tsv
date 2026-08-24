@@ -3444,6 +3444,10 @@ war.camp.hp.vampire_coast.005	true	false	true	false	4
 war.camp.hp.vampire_coast.006	true	false	true	false	5
 war.camp.hp.vampire_coast.007	true	false	true	false	6
 war.camp.hp.vampire_coast.008	true	false	true	false	7
+war.camp.hp.vampire_confederation.001	true	false	true	false	0
+war.camp.hp.vampire_confederation.002	true	false	true	false	1
+war.camp.hp.vampire_confederation.003	true	false	true	false	2
+war.camp.hp.vampire_confederation.004	true	false	true	false	3
 war.camp.hp.vampires.001	true	false	true	true	0
 war.camp.hp.vampires.002	true	false	true	false	1
 war.camp.hp.vampires.003	true	false	true	false	2
@@ -3516,6 +3520,12 @@ war.camp.hp.warriors_of_chaos.007	true	false	true	false	6
 war.camp.hp.warriors_of_chaos.008	true	false	true	false	7
 war.camp.hp.warriors_of_chaos.009	true	false	true	false	8
 war.camp.hp.warriors_of_chaos.010	true	false	true	false	9
+war.camp.hp.web_of_power.001	true	false	true	false	0
+war.camp.hp.web_of_power.002	true	false	true	false	1
+war.camp.hp.web_of_power.003	true	false	true	false	2
+war.camp.hp.web_of_power.004	true	false	true	false	3
+war.camp.hp.web_of_power.005	true	false	true	false	4
+war.camp.hp.web_of_power.006	true	false	true	false	5
 war.camp.hp.winds_of_magic.001	true	false	true	true	0
 war.camp.hp.winds_of_magic.002	true	false	true	false	1
 war.camp.hp.winds_of_magic.003	true	false	true	false	2
@@ -4023,8 +4033,8 @@ wh3_dlc29_cheatsheet_nag_magic_undeath_text	true	true	true	false	0
 wh3_dlc29_cheatsheet_nag_magic_undeath_title	true	true	true	false	0
 wh3_dlc29_cheatsheet_nur_glottkin_gifts_text	true	true	true	false	0
 wh3_dlc29_cheatsheet_nur_glottkin_gifts_title	true	true	true	false	0
-wh3_dlc29_cheatsheet_nur_glottkin_jars_gardens_text	true	true	true	false	0
-wh3_dlc29_cheatsheet_nur_glottkin_jars_gardens_title	true	true	true	false	0
+wh3_dlc29_cheatsheet_nur_glottkin_souls_text	true	true	true	false	0
+wh3_dlc29_cheatsheet_nur_glottkin_souls_title	true	true	true	false	0
 wh3_dlc29_cheatsheet_skv_masterplans_text	true	true	true	false	0
 wh3_dlc29_cheatsheet_skv_masterplans_title	true	true	true	false	0
 wh3_intro_camp_0001	true	false	true	true	0

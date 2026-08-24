@@ -2,6 +2,7 @@ currency_type	faction	faction_group	source_type	battle_type	excluded_battle_type
 #battle_secondary_currency_sources_links_tables;3;db/battle_secondary_currency_sources_links_tables/data__										
 army_ability_bar_fill		wh_main_fact_group_greenskins	army_entities_in_melee					1.0000	true	true
 army_ability_bar_fill		wh2_dlc09_fact_group_tomb_kings	army_losses_own_army					1.0000	true	true
+army_ability_bar_fill		wh3_dlc29_fact_group_undead_legions	army_losses_own_army					0.5000	true	true
 army_ability_bar_fill		wh2_main_fact_group_dark_elves	army_losses					1.0000	true	true
 army_ability_bar_fill	wh3_dlc20_chs_festus		enemy_units_under_negative_effects					0.1000	true	true
 army_ability_bar_fill	wh3_dlc29_chs_host_of_the_triplets		enemy_units_under_negative_effects					0.1000	true	true
@@ -10,7 +11,6 @@ army_ability_bar_fill			fate	trial				0.1000	false	true
 army_ability_bar_fill		wh3_main_fact_group_daemons	glory		trial			0.2500	true	true
 army_ability_bar_fill	wh3_dlc20_chs_valkia		kills					0.5000	true	true
 army_ability_bar_fill	wh3_dlc27_sla_masque_of_slaanesh		kills					1.0000	true	true
-army_ability_bar_fill		wh3_dlc29_fact_group_undead_legions	kills					1.0000	true	true
 army_ability_bar_fill		wh3_main_fact_group_khorne	kills					0.5000	true	true
 army_ability_bar_fill	wh3_dlc20_chs_azazel		prisoners					2.0000	true	true
 army_ability_bar_fill	wh3_dlc20_chs_kholek		prisoners					2.0000	true	true
@@ -22,6 +22,7 @@ army_ability_bar_fill		wh3_main_fact_group_ogre_kingdoms	units_charging					0.09
 army_ability_bar_fill	wh3_dlc20_chs_vilitch		wom_spent					8.0000	true	true
 army_ability_bar_fill		wh3_main_fact_group_tzeentch	wom_spent					8.0000	true	true
 prisoners			prisoners					1.0000	true	true
+ryze_ability_bar_fill		wh3_dlc29_fact_group_undead_legions	kills					1.0000	true	true
 storm_of_magic_magical_flux			wom_spent					1.0000	true	true
 supplies_currency			base_income_over_time	domination				7.5000	true	true
 supplies_currency			base_income_over_time	siege				1.0000	false	true

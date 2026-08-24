@@ -1556,6 +1556,7 @@ wh3_dlc27_anc_weapon_the_viperous_staff	wh_main_anc_weapon	.	false	false	false	1
 wh3_dlc29_anc_arcane_item_alakanash_the_staff_of_power	wh_main_anc_arcane_item	.	false	false	false	1	0	9999			false	false	false	arcane_item	16	30	30	50	true			200	0		false	false	false	anc_set_exclusive_nagash
 wh3_dlc29_anc_arcane_item_doombells	wh_main_anc_arcane_item	.	false	false	false	1	0	9999			false	false	false	arcane_item	16	30	30	50	true			200	0		false	false	false	all
 wh3_dlc29_anc_arcane_item_ethrac_brazier	wh_main_anc_arcane_item	.	false	false	false	1	0	9999			false	false	false	arcane_item	16	30	30	50	true			200	0		false	false	false	all
+wh3_dlc29_anc_arcane_item_morskittar_notes	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	false			200	0		false	false	false	anc_set_exclusive_skaven
 wh3_dlc29_anc_arcane_item_staff_of_flaming_death	wh_main_anc_arcane_item	.	false	false	false	1	0	9999			false	false	false	arcane_item	16	30	30	50	true			200	0		false	false	false	anc_set_exclusive_vampire_counts
 wh3_dlc29_anc_arcane_item_whispering_skull	wh_main_anc_arcane_item	.	true	false	false	1	0	9999			false	false	false	arcane_item	16	30	30	50	true			130	0		true	true	true	anc_set_exclusive_vampire_counts
 wh3_dlc29_anc_armour_armour_of_blood	wh_main_anc_armour	.	false	false	false	1	0	9999			false	false	false	armour	16	30	30	50	true			200	0		false	false	false	anc_set_exclusive_vampire_counts
@@ -1571,7 +1572,7 @@ wh3_dlc29_anc_enchanted_item_enhanced_skavenbrew	wh_main_anc_enchanted_item	.	tr
 wh3_dlc29_anc_enchanted_item_gem_of_blood	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			130	0		true	true	true	anc_set_exclusive_vampire_counts
 wh3_dlc29_anc_enchanted_item_nor_hooded_cloak	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	false	wh3_dlc27_sayl
 wh3_dlc29_anc_enchanted_item_nur_plaguefather_item	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	false	subcult_nurgle
-wh3_dlc29_anc_enchanted_item_plaguereaper	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			130	0		false	false	false	anc_set_exclusive_skaven
+wh3_dlc29_anc_enchanted_item_plaguereaper	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			130	0		false	false	false	anc_set_exclusive_skaven
 wh3_dlc29_anc_enchanted_item_ruby_of_lahmia	wh_main_anc_enchanted_item	.	false	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	false	anc_set_vampire_counts_nagash
 wh3_dlc29_anc_enchanted_item_scry_orb	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			130	0		false	false	false	anc_set_exclusive_skaven
 wh3_dlc29_anc_enchanted_item_skaven_war_plans	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			200	0		false	false	false	all
@@ -1696,15 +1697,18 @@ wh3_dlc29_anc_weapon_otto_scythe	wh_main_anc_weapon	.	false	false	false	1	0	9999
 wh3_dlc29_anc_weapon_punch_dagger	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			130	0		false	false	false	anc_set_exclusive_skaven
 wh3_dlc29_anc_weapon_rot_pocked_axe	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	false	all
 wh3_dlc29_anc_weapon_staff_of_the_horned_rat	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	false	anc_set_exclusive_skaven
+wh3_dlc29_anc_weapon_storm_hammer	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			100	0		true	true	true	anc_set_exclusive_sc_empire
 wh3_dlc29_anc_weapon_the_rot_axes	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	false	all
 wh3_dlc29_anc_weapon_warpstiletto	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			130	0		false	false	false	anc_set_exclusive_skaven
 wh3_dlc29_anc_weapon_zefet_nebtar_the_mortis_blade	wh_main_anc_weapon	.	false	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	0		false	false	false	anc_set_exclusive_nagash
+wh3_dlc29_chs_anc_armour_armour_of_rot_eternal	wh_main_anc_armour	.	true	false	false	1	0	9999			false	false	false	armour	16	30	30	50	true			200	1		false	false	true	wh3_dlc29_chs_glottkin
 wh3_dlc29_chs_anc_enchanted_item_deaths_head	wh_main_anc_enchanted_item	.	true	false	false	1	0	9999			false	false	false	enchanted_item	16	30	30	50	true			80	0		true	true	true	wh3_dlc29_chs_glottkin
 wh3_dlc29_chs_anc_item_necrotic_phylactery	wh_main_anc_enchanted_item	.	true	false	false	0	1700	1900			false	false	false	enchanted_item	16	30	30	50	true			100	0		true	true	true	wh3_dlc29_chs_glottkin
 wh3_dlc29_chs_anc_talisman_spore_censer	wh_main_anc_talisman	.	true	false	false	1	0	9999			false	false	false	talisman	16	30	30	50	true			80	0		true	true	true	wh3_dlc29_chs_glottkin
 wh3_dlc29_chs_anc_talisman_tarnished_torque	wh_main_anc_talisman	.	true	false	false	1	0	9999			false	false	false	talisman	16	30	30	50	true			100	0		true	true	true	wh3_dlc29_chs_glottkin
 wh3_dlc29_chs_anc_talisman_vile_seed	wh_main_anc_talisman	.	true	false	false	1	0	9999			false	false	false	talisman	16	30	30	50	true			130	0		true	true	true	wh3_dlc29_chs_glottkin
 wh3_dlc29_chs_anc_weapon_bale_sword	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			130	0		true	true	true	wh3_dlc29_chs_glottkin
+wh3_dlc29_chs_anc_weapon_flail_of_a_thousand_coughs	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			200	1		false	false	true	wh3_dlc29_chs_glottkin
 wh3_dlc29_chs_anc_weapon_plague_flail	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			100	0		true	true	true	wh3_dlc29_chs_glottkin
 wh3_dlc29_chs_anc_weapon_staff_of_nurgle	wh_main_anc_weapon	.	true	false	false	1	0	9999			false	false	false	weapon	16	30	30	50	true			80	0		true	true	true	wh3_dlc29_chs_glottkin
 wh3_dlc29_chs_anc_weapon_the_father_of_blades	wh_main_anc_weapon	.	true	false	false	0	1700	1900			false	false	false	weapon	16	30	30	50	true			150	0		true	true	true	wh3_dlc29_chs_glottkin
@@ -2641,6 +2645,7 @@ wh_main_anc_follower_greenskins_troll_herder	wh_main_anc_greenskins_troll	.	true
 wh_main_anc_follower_halfling_fieldwarden	wh_main_anc_human_man	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			35	0	follower	false	true	true	anc_set_exclusive_sc_empire
 wh_main_anc_follower_norsca_berserker	wh_main_anc_chaos_warrior	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			35	0	follower	false	true	true	anc_set_multi_norsca_chaos
 wh_main_anc_follower_undead_black_cat	wh_main_anc_vampire_counts_black_cat	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			150	1	follower	false	false	true	anc_set_exclusive_vampire_counts
+wh_main_anc_follower_undead_blood_mule	wh_main_anc_vampire_counts_male	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			150	1	follower	false	false	true	anc_set_exclusive_vampire_counts
 wh_main_anc_follower_undead_carrion	wh_main_anc_vampire_counts_carrion	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			80	1	follower	false	false	true	anc_set_exclusive_vampire_counts
 wh_main_anc_follower_undead_corpse_thief	wh_main_anc_vampire_counts_male	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			80	1	follower	false	false	true	anc_set_exclusive_vampire_counts
 wh_main_anc_follower_undead_crone	wh_main_anc_vampire_counts_male	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			150	1	follower	false	false	true	anc_set_exclusive_vampire_counts
@@ -2653,6 +2658,7 @@ wh_main_anc_follower_undead_manservant	wh_main_anc_vampire_counts_male	.	true	fa
 wh_main_anc_follower_undead_mortal_informer	wh_main_anc_vampire_counts_female	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			80	1	follower	false	false	true	anc_set_exclusive_vampire_counts
 wh_main_anc_follower_undead_poltergeist	wh_main_anc_vampire_counts_necromancer	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			80	1	follower	false	false	true	anc_set_exclusive_vampire_counts
 wh_main_anc_follower_undead_possessed_mirror	wh_main_anc_vampire_counts_mirror	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			200	1	follower	false	false	false	anc_set_exclusive_vampire_counts
+wh_main_anc_follower_undead_sailor	wh2_dlc11_anc_follower_sailor_man	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			150	0	follower	false	false	true	anc_set_exclusive_vampire_counts
 wh_main_anc_follower_undead_spy	wh_main_anc_vampire_counts_female	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			80	1	follower	false	false	true	anc_set_exclusive_vampire_counts
 wh_main_anc_follower_undead_treasurer	wh_main_anc_vampire_counts_male	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			80	1	follower	false	false	true	anc_set_exclusive_vampire_counts
 wh_main_anc_follower_undead_warlock	wh_main_anc_vampire_counts_necromancer	.	true	false	false	1	0	9999			false	false	false	general	1	1	50	75	true			150	1	follower	false	false	true	anc_set_exclusive_vampire_counts

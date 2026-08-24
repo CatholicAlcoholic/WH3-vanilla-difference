@@ -2196,7 +2196,23 @@ monstrous_cavalry				cavalry_units	false
 			wh2_dlc09_tmb_cha_arkhan_2	cha_arkhan	false
 			wh3_dlc29_vmp_cha_dieter_helsnicht	cha_dieter	false
 			wh3_dlc29_vmp_cha_dieter_helsnicht_undead_manticore	cha_dieter	false
+			wh3_dlc29_vmp_cha_krell	cha_krell	false
+			wh2_dlc11_cst_cha_luthor_harkon_0	cha_luthor	false
+			wh2_dlc11_cst_cha_luthor_harkon_1	cha_luthor	false
+			wh3_dlc29_vmp_cha_mannfred_von_carstein_dread_abyssal	cha_mannfred	false
+			wh_main_vmp_cha_mannfred_von_carstein_0	cha_mannfred	false
+			wh_main_vmp_cha_mannfred_von_carstein_2	cha_mannfred	false
+			wh_main_vmp_cha_mannfred_von_carstein_3	cha_mannfred	false
+			wh_main_vmp_cha_mannfred_von_carstein_4	cha_mannfred	false
+			wh3_dlc29_vmp_cha_neferata	cha_neferata	false
+			wh3_dlc29_vmp_cha_neferata_barded_nightmare	cha_neferata	false
+			wh3_dlc29_vmp_cha_neferata_coven_throne	cha_neferata	false
+			wh3_dlc29_vmp_cha_neferata_dread_abyssal	cha_neferata	false
+			wh3_dlc29_vmp_cha_neferata_hellsteed	cha_neferata	false
+			wh3_dlc29_vmp_cha_neferata_zombie_dragon	cha_neferata	false
 			wh_dlc04_vmp_cha_vlad_von_carstein_0	cha_vlad	false
+			wh3_dlc29_vmp_cha_walach_harkon	cha_walach	false
+			wh3_dlc29_vmp_cha_walach_harkon_barded_nightmare	cha_walach	false
 			wh_main_chs_mon_chaos_spawn	chaos_spawn_undivided	false
 hero				characters	false
 lord				characters	false
@@ -2739,6 +2755,7 @@ lord				characters	false
 			wh3_dlc27_throgg_mon_chs_trolls_1	chs_trolls	false
 			wh_dlc01_chs_mon_trolls_1	chs_trolls	false
 			wh_main_chs_mon_trolls	chs_trolls	false
+			wh3_dlc27_woc_mon_chimera_ror	chs_warhound_manticore_chimera_rank_4_ror	false
 			wh3_dlc27_chs_feral_manticore_monst_arcanum_reward	chs_warhound_manticore_chimera_rank_4	false
 			wh3_dlc27_nor_mon_chimera	chs_warhound_manticore_chimera_rank_4	false
 			wh3_dlc27_woc_mon_chimera_ror	chs_warhound_manticore_chimera_rank_4	false
@@ -2831,6 +2848,9 @@ lord				characters	false
 			wh_main_chs_inf_chaos_warriors_0	chs_warriors	false
 			wh_main_chs_inf_chaos_warriors_1	chs_warriors	false
 			wh_pro04_chs_inf_chaos_warriors_ror_0	chs_warriors	false
+			wh3_dlc29_vmp_cha_neferata_coven_throne	coven_throne_mortis	false
+			wh3_dlc29_vmp_veh_coven_throne	coven_throne_mortis	false
+			wh_dlc04_vmp_veh_mortis_engine_0	coven_throne_mortis	false
 			wh2_dlc11_cst_inf_deck_gunners_0	cst_zombies	false
 			wh2_dlc11_cst_inf_zombie_deckhands_mob_0	cst_zombies	false
 			wh2_dlc11_cst_inf_zombie_deckhands_mob_1	cst_zombies	false
@@ -3363,6 +3383,7 @@ lord				characters	false
 			wh3_dlc27_nor_inf_chaos_marauders_great_weapons_ror	dlc08_nor_marauders_all	false
 			wh3_dlc27_nor_inf_marauder_bearmen	dlc08_nor_marauders_all	false
 			wh3_dlc27_nor_inf_marauder_bearmen_greatweapons	dlc08_nor_marauders_all	false
+			wh3_dlc29_chs_inf_flayerkin	dlc08_nor_marauders_all	false
 			wh_dlc08_nor_cav_marauder_horsemasters_0	dlc08_nor_marauders_all	false
 			wh_dlc08_nor_inf_marauder_berserkers_0	dlc08_nor_marauders_all	false
 			wh_dlc08_nor_inf_marauder_champions_0	dlc08_nor_marauders_all	false
@@ -7647,6 +7668,8 @@ warmachine				missile_units	false
 			wh_pro04_bst_inf_minotaurs_ror_0	monsters	false
 			wh_pro04_chs_mon_chaos_spawn_ror_0	monsters	false
 			wh_pro04_chs_mon_dragon_ogre_ror_0	monsters	false
+			wh3_dlc29_bst_mon_giant_spined_chaos_beast	mp_cap_bst_mon_giant_spined_chaos_beast	false
+			wh3_dlc29_bst_mon_giant_spined_chaos_beast_ror	mp_cap_bst_mon_giant_spined_chaos_beast	false
 			wh2_dlc09_tmb_cav_skeleton_horsemen_archers_0	mp_cap_group_360_degree_fire	false
 			wh2_dlc09_tmb_veh_skeleton_archer_chariot_0	mp_cap_group_360_degree_fire	false
 			wh2_dlc10_hef_cav_the_heralds_of_the_wind_ror_0	mp_cap_group_360_degree_fire	false
@@ -8041,11 +8064,16 @@ warmachine				missile_units	false
 			wh2_dlc09_tmb_cav_nehekhara_horsemen_ror	mp_cap_group_extended_roster	false
 			wh2_dlc09_tmb_cha_liche_priest_shadow_0	mp_cap_group_extended_roster	false
 			wh2_dlc09_tmb_cha_liche_priest_shadow_1	mp_cap_group_extended_roster	false
+			wh2_dlc09_tmb_inf_cairn_wraiths	mp_cap_group_extended_roster	false
 			wh2_dlc09_tmb_inf_crypt_ghouls	mp_cap_group_extended_roster	false
 			wh2_dlc09_tmb_inf_nehekhara_warriors_ror	mp_cap_group_extended_roster	false
+			wh2_dlc09_tmb_inf_spirit_host	mp_cap_group_extended_roster	false
 			wh2_dlc09_tmb_mon_carrion_ror	mp_cap_group_extended_roster	false
+			wh2_dlc09_tmb_mon_crypt_horrors	mp_cap_group_extended_roster	false
 			wh2_dlc09_tmb_mon_dire_wolves	mp_cap_group_extended_roster	false
 			wh2_dlc09_tmb_mon_fell_bats	mp_cap_group_extended_roster	false
+			wh2_dlc09_tmb_mon_morghast_archai	mp_cap_group_extended_roster	false
+			wh2_dlc09_tmb_mon_morghast_harbingers	mp_cap_group_extended_roster	false
 			wh2_dlc10_def_mon_war_hydra_boss	mp_cap_group_extended_roster	false
 			wh2_dlc10_hef_cha_shadow_walker	mp_cap_group_extended_roster	false
 			wh2_dlc10_hef_inf_dryads_0	mp_cap_group_extended_roster	false
@@ -9572,6 +9600,8 @@ missile_infantry				mp_cap_group_ranged_units	false
 			wh3_dlc27_tze_mon_cockatrice_monst_arcanum_reward	mp_cap_group_rare_single_entities	false
 			wh3_dlc27_woc_mon_chimera_ror	mp_cap_group_rare_single_entities	false
 			wh3_dlc29_bst_mon_basilisk	mp_cap_group_rare_single_entities	false
+			wh3_dlc29_bst_mon_giant_spined_chaos_beast	mp_cap_group_rare_single_entities	false
+			wh3_dlc29_bst_mon_giant_spined_chaos_beast_ror	mp_cap_group_rare_single_entities	false
 			wh3_dlc29_chd_mon_chaos_siege_giant	mp_cap_group_rare_single_entities	false
 			wh3_dlc29_chs_cha_glottkin	mp_cap_group_rare_single_entities	false
 			wh3_dlc29_chs_mon_basilisk	mp_cap_group_rare_single_entities	false
@@ -9926,6 +9956,8 @@ lord				mp_cap_group_single_entities	false
 			wh3_dlc27_tze_mon_cockatrice_monst_arcanum_reward	mp_cap_group_single_entities	false
 			wh3_dlc27_woc_mon_chimera_ror	mp_cap_group_single_entities	false
 			wh3_dlc29_bst_mon_basilisk	mp_cap_group_single_entities	false
+			wh3_dlc29_bst_mon_giant_spined_chaos_beast	mp_cap_group_single_entities	false
+			wh3_dlc29_bst_mon_giant_spined_chaos_beast_ror	mp_cap_group_single_entities	false
 			wh3_dlc29_chd_mon_chaos_siege_giant	mp_cap_group_single_entities	false
 			wh3_dlc29_chs_mon_basilisk	mp_cap_group_single_entities	false
 			wh3_dlc29_chs_mon_chaos_siege_giant	mp_cap_group_single_entities	false
@@ -10112,6 +10144,9 @@ lord				mp_cap_group_single_entities	false
 			wh_dlc03_bst_inf_centigors_0	mp_cap_unit_bst_cav_centigors	false
 			wh2_dlc17_bst_cav_tuskgor_chariot_0	mp_cap_unit_bst_cav_tuskgor_chariot	false
 			wh2_dlc17_bst_inf_centigors_ror_1	mp_cap_unit_bst_centigors_throwing_axes_ror	false
+			wh3_dlc29_bst_mon_giant_spined_chaos_beast_ror	mp_cap_unit_bst_giant_spined_chaos_beast_ror	false
+			wh3_dlc29_bst_mon_giant_spined_chaos_beast	mp_cap_unit_bst_giant_spined_chaos_beast	false
+			wh3_dlc29_bst_mon_giant_spined_chaos_beast_ror	mp_cap_unit_bst_giant_spined_chaos_beast	false
 			wh_pro04_bst_inf_bestigor_herd_ror_0	mp_cap_unit_bst_inf_bestigor_herd_ror_0	false
 			wh_dlc03_bst_inf_bestigor_herd_0	mp_cap_unit_bst_inf_bestigors	false
 			wh_pro04_bst_inf_bestigor_herd_ror_0	mp_cap_unit_bst_inf_bestigors	false
@@ -11499,6 +11534,7 @@ lord				mp_cap_group_single_entities	false
 			wh_dlc04_vmp_mon_direpack_0	mp_cap_unit_vmp_mon_direpack_0	false
 			wh3_dlc29_vmp_mon_morghast_archai	mp_cap_unit_vmp_mon_morghast_archai	false
 			wh3_dlc29_vmp_mon_morghast_archai_ror	mp_cap_unit_vmp_mon_morghast_archai	false
+			wh2_dlc09_tmb_mon_morghast_harbingers	mp_cap_unit_vmp_mon_morghast_harbingers	false
 			wh3_dlc29_vmp_mon_morghast_harbingers	mp_cap_unit_vmp_mon_morghast_harbingers	false
 			wh2_dlc11_vmp_cha_bloodline_strigoi_lord_1	mp_cap_unit_vmp_mon_terrorgheist	false
 			wh_dlc04_vmp_cha_strigoi_ghoul_king_1	mp_cap_unit_vmp_mon_terrorgheist	false
@@ -11605,9 +11641,27 @@ lord				mp_cap_group_single_entities	false
 			wh2_dlc09_tmb_cha_tomb_prince_2	nag_chariots_units_mount_rank7	false
 			wh2_dlc09_tmb_veh_skeleton_chariot_0	nag_chariots_units_mount_rank7	false
 			wh3_dlc29_tmb_cha_tomb_herald_skeleton_chariot	nag_chariots_units_mount_rank7	false
+			wh2_dlc09_tmb_inf_nehekhara_warriors_0	nag_dual_weapons	false
+			wh2_dlc09_tmb_inf_nehekhara_warriors_ror	nag_dual_weapons	false
+			wh2_dlc09_tmb_inf_tomb_guard_ror	nag_dual_weapons	false
+			wh2_dlc09_tmb_mon_necrosphinx_0	nag_dual_weapons	false
+			wh2_dlc09_tmb_mon_necrosphinx_ror	nag_dual_weapons	false
+			wh2_dlc09_tmb_mon_ushabti_0	nag_dual_weapons	false
+			wh2_dlc11_cst_inf_depth_guard_0	nag_dual_weapons	false
+			wh2_dlc11_cst_inf_depth_guard_ror_0	nag_dual_weapons	false
+			wh3_dlc29_tmb_mon_ushabti_ror_sepulchrex	nag_dual_weapons	false
+			wh3_dlc29_vmp_inf_lahmian_handmaidens_death	nag_dual_weapons	false
+			wh3_dlc29_vmp_inf_lahmian_handmaidens_shadow	nag_dual_weapons	false
 			wh2_dlc09_tmb_mon_carrion_0	nag_fell_bats_carrion	false
 			wh2_dlc09_tmb_mon_carrion_ror	nag_fell_bats_carrion	false
 			wh_main_vmp_mon_fell_bats	nag_fell_bats_carrion	false
+			wh3_dlc29_vmp_mon_zombie_dragon	nag_flying_undead_monsters	false
+			wh_main_vmp_mon_terrorgheist	nag_flying_undead_monsters	false
+			wh_main_vmp_mon_varghulf	nag_flying_undead_monsters	false
+			wh_dlc04_vmp_cav_chillgheists_0	nag_great_weapons	false
+			wh_main_vmp_cav_hexwraiths	nag_great_weapons	false
+			wh_main_vmp_inf_cairn_wraiths	nag_great_weapons	false
+			wh_main_vmp_inf_grave_guard_1	nag_great_weapons	false
 			wh2_dlc09_tmb_inf_tomb_guard_0	nag_guards7	false
 			wh2_dlc09_tmb_inf_tomb_guard_1	nag_guards7	false
 			wh2_dlc09_tmb_inf_tomb_guard_ror	nag_guards7	false
@@ -11626,21 +11680,86 @@ lord				mp_cap_group_single_entities	false
 			wh3_main_vmp_inf_grave_guard_2	nag_guards	false
 			wh_main_vmp_inf_grave_guard_0	nag_guards	false
 			wh_main_vmp_inf_grave_guard_1	nag_guards	false
+			wh3_dlc29_vmp_veh_coven_throne	nag_magic_vehicles	false
+			wh_dlc04_vmp_veh_mortis_engine_0	nag_magic_vehicles	false
 			wh2_dlc09_tmb_mon_sepulchral_stalkers_0	nag_mounstrous_infantry_construct	false
 			wh2_dlc09_tmb_mon_sepulchral_stalkers_ror	nag_mounstrous_infantry_construct	false
 			wh2_dlc09_tmb_mon_ushabti_0	nag_mounstrous_infantry_construct	false
 			wh2_dlc09_tmb_mon_ushabti_1	nag_mounstrous_infantry_construct	false
 			wh2_dlc09_tmb_mon_ushabti_ror	nag_mounstrous_infantry_construct	false
 			wh3_dlc29_tmb_mon_ushabti_ror_sepulchrex	nag_mounstrous_infantry_construct	false
-			wh2_dlc09_tmb_inf_skeleton_spearmen_0	nag_skeleton_spearmen	false
-			wh2_dlc09_tmb_inf_skeleton_spearmen_ror	nag_skeleton_spearmen	false
-			wh_main_vmp_inf_skeleton_warriors_1	nag_skeleton_spearmen	false
+			wh2_dlc09_tmb_cav_skeleton_horsemen_0	nag_skeleton_spears	false
+			wh2_dlc09_tmb_inf_skeleton_spearmen_0	nag_skeleton_spears	false
+			wh2_dlc09_tmb_inf_skeleton_spearmen_ror	nag_skeleton_spears	false
+			wh_main_vmp_inf_skeleton_warriors_1	nag_skeleton_spears	false
+			wh2_dlc09_tmb_cav_necropolis_knights_0	nag_spear_polearm	false
+			wh2_dlc09_tmb_cav_necropolis_knights_1	nag_spear_polearm	false
+			wh2_dlc09_tmb_cav_skeleton_horsemen_0	nag_spear_polearm	false
+			wh2_dlc09_tmb_inf_skeleton_spearmen_0	nag_spear_polearm	false
+			wh2_dlc09_tmb_inf_skeleton_spearmen_ror	nag_spear_polearm	false
+			wh2_dlc09_tmb_inf_tomb_guard_1	nag_spear_polearm	false
+			wh2_dlc09_tmb_veh_skeleton_chariot_0	nag_spear_polearm	false
+			wh2_dlc11_cst_inf_depth_guard_1	nag_spear_polearm	false
+			wh2_dlc11_cst_inf_depth_guard_ror_0	nag_spear_polearm	false
+			wh2_dlc11_cst_inf_zombie_deckhands_mob_1	nag_spear_polearm	false
+			wh3_dlc29_vmp_cav_drakenhof_templars	nag_spear_polearm	false
+			wh3_dlc29_vmp_mon_morghast_archai	nag_spear_polearm	false
+			wh_dlc02_vmp_cav_blood_knights_0	nag_spear_polearm	false
+			wh_dlc04_vmp_cav_vereks_reavers_0	nag_spear_polearm	false
+			wh_main_vmp_cav_black_knights_3	nag_spear_polearm	false
+			wh_main_vmp_inf_grave_guard_1	nag_spear_polearm	false
+			wh_main_vmp_inf_skeleton_warriors_1	nag_spear_polearm	false
+			wh2_dlc09_tmb_cav_nehekhara_horsemen_0	nag_sword_shield	false
+			wh2_dlc09_tmb_inf_skeleton_warriors_0	nag_sword_shield	false
+			wh2_dlc09_tmb_inf_tomb_guard_0	nag_sword_shield	false
+			wh3_main_vmp_blood_knights_sword_shield	nag_sword_shield	false
+			wh_dlc04_vmp_inf_konigstein_stalkers_0	nag_sword_shield	false
+			wh_dlc04_vmp_inf_sternsmen_0	nag_sword_shield	false
+			wh_main_vmp_cav_black_knights_0	nag_sword_shield	false
+			wh_main_vmp_inf_grave_guard_0	nag_sword_shield	false
+			wh_main_vmp_inf_skeleton_warriors_0	nag_sword_shield	false
 			wh2_dlc09_tmb_mon_ushabti_0	nag_ushabti_crypt_horrors_vargheist	false
 			wh2_dlc09_tmb_mon_ushabti_1	nag_ushabti_crypt_horrors_vargheist	false
 			wh2_dlc09_tmb_mon_ushabti_ror	nag_ushabti_crypt_horrors_vargheist	false
 			wh3_dlc29_tmb_mon_ushabti_ror_sepulchrex	nag_ushabti_crypt_horrors_vargheist	false
 			wh_main_vmp_mon_crypt_horrors	nag_ushabti_crypt_horrors_vargheist	false
 			wh_main_vmp_mon_vargheists	nag_ushabti_crypt_horrors_vargheist	false
+			wh2_dlc11_cst_inf_depth_guard_0	nag_vampires	false
+			wh2_dlc11_cst_inf_depth_guard_1	nag_vampires	false
+			wh2_dlc11_cst_inf_depth_guard_ror_0	nag_vampires	false
+			wh3_dlc29_vmp_cav_drakenhof_templars	nag_vampires	false
+			wh3_dlc29_vmp_cha_lahmian_vampire	nag_vampires	false
+			wh3_dlc29_vmp_cha_lahmian_vampire_barded_nightmare	nag_vampires	false
+			wh3_dlc29_vmp_cha_lahmian_vampire_hellsteed	nag_vampires	false
+			wh3_dlc29_vmp_cha_mannfred_von_carstein_dread_abyssal	nag_vampires	false
+			wh3_dlc29_vmp_cha_nagash_vampire_lord	nag_vampires	false
+			wh3_dlc29_vmp_cha_nagash_vampire_lord_barded_nightmare	nag_vampires	false
+			wh3_dlc29_vmp_cha_nagash_vampire_lord_coven_throne	nag_vampires	false
+			wh3_dlc29_vmp_cha_nagash_vampire_lord_hellsteed	nag_vampires	false
+			wh3_dlc29_vmp_cha_nagash_vampire_lord_zombie_dragon	nag_vampires	false
+			wh3_dlc29_vmp_cha_neferata	nag_vampires	false
+			wh3_dlc29_vmp_cha_neferata_barded_nightmare	nag_vampires	false
+			wh3_dlc29_vmp_cha_neferata_coven_throne	nag_vampires	false
+			wh3_dlc29_vmp_cha_neferata_dread_abyssal	nag_vampires	false
+			wh3_dlc29_vmp_cha_neferata_hellsteed	nag_vampires	false
+			wh3_dlc29_vmp_cha_neferata_zombie_dragon	nag_vampires	false
+			wh3_dlc29_vmp_cha_vampire_lord_coven_throne	nag_vampires	false
+			wh3_dlc29_vmp_inf_lahmian_handmaidens_death	nag_vampires	false
+			wh3_dlc29_vmp_inf_lahmian_handmaidens_shadow	nag_vampires	false
+			wh3_main_vmp_blood_knights_sword_shield	nag_vampires	false
+			wh_dlc02_vmp_cav_blood_knights_0	nag_vampires	false
+			wh_dlc04_vmp_cha_vlad_von_carstein_0	nag_vampires	false
+			wh_main_vmp_cha_mannfred_von_carstein_0	nag_vampires	false
+			wh_main_vmp_cha_mannfred_von_carstein_2	nag_vampires	false
+			wh_main_vmp_cha_mannfred_von_carstein_3	nag_vampires	false
+			wh_main_vmp_cha_mannfred_von_carstein_4	nag_vampires	false
+			wh_main_vmp_cha_vampire_0	nag_vampires	false
+			wh_main_vmp_cha_vampire_1	nag_vampires	false
+			wh_main_vmp_cha_vampire_2	nag_vampires	false
+			wh_main_vmp_cha_vampire_lord_0	nag_vampires	false
+			wh_main_vmp_cha_vampire_lord_2	nag_vampires	false
+			wh_main_vmp_cha_vampire_lord_3	nag_vampires	false
+			wh_main_vmp_cha_vampire_lord_5	nag_vampires	false
 			wh2_dlc11_cst_art_carronade	nagash_cst_recruitment	false
 			wh2_dlc11_cst_art_mortar	nagash_cst_recruitment	false
 			wh2_dlc11_cst_cav_deck_droppers_0	nagash_cst_recruitment	false
@@ -11841,6 +11960,13 @@ lord				mp_cap_group_single_entities	false
 			wh3_main_nur_mon_beast_of_nurgle_0	nur_beast_soul_grinder_great_unclean_one_rank7	false
 			wh3_main_nur_mon_great_unclean_one_0	nur_beast_soul_grinder_great_unclean_one_rank7	false
 			wh3_main_nur_mon_soul_grinder_0	nur_beast_soul_grinder_great_unclean_one_rank7	false
+			wh3_dlc25_nur_cav_plague_drones_1_ror	nur_beasts_toads_flies	false
+			wh3_main_nur_cav_plague_drones_0	nur_beasts_toads_flies	false
+			wh3_main_nur_cav_plague_drones_1	nur_beasts_toads_flies	false
+			wh3_main_nur_cav_pox_riders_of_nurgle_0	nur_beasts_toads_flies	false
+			wh3_main_nur_mon_plague_toads_0	nur_beasts_toads_flies	false
+			wh3_main_nur_mon_rot_flies_0	nur_beasts_toads_flies	false
+			wh3_twa07_nur_cav_pox_riders_of_nurgle_ror_0	nur_beasts_toads_flies	false
 			wh3_dlc25_nur_cav_rot_knights_ror	nur_cavalry_rank7_ror	false
 			wh3_twa07_nur_cav_pox_riders_of_nurgle_ror_0	nur_cavalry_rank7_ror	false
 			wh3_dlc20_chs_cav_chaos_chariot_mnur	nur_cavalry_rank7	false
@@ -12114,17 +12240,11 @@ lord				mp_cap_group_single_entities	false
 			wh3_dlc25_nur_mon_toad_dragon	nur_non_daemonic_all	false
 			wh3_dlc27_nur_mon_toad_dragon_monst_arcanum	nur_non_daemonic_all	false
 			wh3_dlc27_nur_mon_toad_dragon_monst_arcanum_reward	nur_non_daemonic_all	false
-			wh3_dlc27_throgg_mon_bile_trolls	nur_non_daemonic_all	false
 			wh3_dlc29_chs_inf_chosen_mnur_ror	nur_non_daemonic_all	false
-			wh3_dlc29_chs_inf_flayerkin	nur_non_daemonic_all	false
 			wh3_dlc29_chs_inf_putrid_blightkings_axe_shield	nur_non_daemonic_all	false
 			wh3_dlc29_chs_inf_putrid_blightkings_dual_axe	nur_non_daemonic_all	false
 			wh3_dlc29_chs_inf_putrid_blightkings_dual_axe_ror	nur_non_daemonic_all	false
 			wh3_dlc29_chs_inf_putrid_blightkings_great_weapons	nur_non_daemonic_all	false
-			wh3_dlc29_chs_mon_basilisk	nur_non_daemonic_all	false
-			wh3_dlc29_chs_mon_chaos_siege_giant	nur_non_daemonic_all	false
-			wh3_dlc29_chs_mon_giant_spined_chaos_beast	nur_non_daemonic_all	false
-			wh3_dlc29_chs_mon_giant_spined_chaos_beast_ror	nur_non_daemonic_all	false
 			wh3_main_nur_cha_cultist_0	nur_non_daemonic_all	false
 			wh3_main_nur_cha_cultist_1	nur_non_daemonic_all	false
 			wh3_main_nur_inf_forsaken_0	nur_non_daemonic_all	false
@@ -12132,7 +12252,6 @@ lord				mp_cap_group_single_entities	false
 			wh3_main_nur_mon_spawn_of_nurgle_0	nur_non_daemonic_all	false
 			wh3_main_nur_mon_spawn_of_nurgle_0_summoned	nur_non_daemonic_all	false
 			wh3_main_nur_mon_spawn_of_nurgle_0_warriors	nur_non_daemonic_all	false
-			wh_main_chs_mon_chaos_warhounds_1	nur_non_daemonic_all	false
 			wh3_dlc20_chs_cav_chaos_chariot_mnur	nur_non_daemonic_cavalry_chariots	false
 			wh3_dlc20_chs_cav_chaos_knights_mnur	nur_non_daemonic_cavalry_chariots	false
 			wh3_dlc20_chs_cav_chaos_knights_mnur_lances	nur_non_daemonic_cavalry_chariots	false
@@ -12901,6 +13020,9 @@ lord				mp_cap_group_single_entities	false
 			wh3_dlc25_nur_cav_rot_knights	rot_knights_all	false
 			wh3_dlc25_nur_cav_rot_knights_ror	rot_knights_all	false
 			wh3_dlc25_nur_chieftain_cav_rot_knights	rot_knights_all	false
+			wh2_dlc11_cst_mon_necrofex_colossus_0	rotting_leviathan_necrofex_colossus	false
+			wh2_dlc11_cst_mon_necrofex_colossus_ror_0	rotting_leviathan_necrofex_colossus	false
+			wh2_dlc11_cst_mon_rotting_leviathan_0	rotting_leviathan_necrofex_colossus	false
 			wh2_dlc09_skv_cha_tretch_craventail	skv_all	false
 			wh2_dlc12_skv_art_warp_lightning_cannon_ror_0	skv_all	false
 			wh2_dlc12_skv_art_warplock_jezzails_ror_tech_lab_0	skv_all	false
@@ -12987,6 +13109,7 @@ lord				mp_cap_group_single_entities	false
 			wh2_dlc12_skv_veh_doom_flayer_ror_tech_lab_0	skv_artillery_warmachines_rank7_ror	false
 			wh2_dlc12_skv_veh_doomwheel_ror_0	skv_artillery_warmachines_rank7_ror	false
 			wh2_dlc12_skv_veh_doomwheel_ror_tech_lab_0	skv_artillery_warmachines_rank7_ror	false
+			wh3_dlc29_skv_art_plagueclaw_catapult_ror	skv_artillery_warmachines_rank7_ror	false
 			wh2_dlc12_skv_veh_doom_flayer_0	skv_artillery_warmachines_rank7	false
 			wh2_main_skv_art_plagueclaw_catapult	skv_artillery_warmachines_rank7	false
 			wh2_main_skv_art_warp_lightning_cannon	skv_artillery_warmachines_rank7	false
@@ -13898,6 +14021,7 @@ lord				mp_cap_group_single_entities	false
 			wh2_dlc09_tmb_cha_tomb_prince_0	undead_units	false
 			wh2_dlc09_tmb_cha_tomb_prince_1	undead_units	false
 			wh2_dlc09_tmb_cha_tomb_prince_2	undead_units	false
+			wh2_dlc09_tmb_inf_cairn_wraiths	undead_units	false
 			wh2_dlc09_tmb_inf_crypt_ghouls	undead_units	false
 			wh2_dlc09_tmb_inf_nehekhara_warriors_0	undead_units	false
 			wh2_dlc09_tmb_inf_nehekhara_warriors_ror	undead_units	false
@@ -13907,13 +14031,17 @@ lord				mp_cap_group_single_entities	false
 			wh2_dlc09_tmb_inf_skeleton_spearmen_ror	undead_units	false
 			wh2_dlc09_tmb_inf_skeleton_warriors_0	undead_units	false
 			wh2_dlc09_tmb_inf_skeleton_warriors_0_summoned	undead_units	false
+			wh2_dlc09_tmb_inf_spirit_host	undead_units	false
 			wh2_dlc09_tmb_inf_tomb_guard_0	undead_units	false
 			wh2_dlc09_tmb_inf_tomb_guard_1	undead_units	false
 			wh2_dlc09_tmb_inf_tomb_guard_ror	undead_units	false
 			wh2_dlc09_tmb_mon_carrion_0	undead_units	false
 			wh2_dlc09_tmb_mon_carrion_ror	undead_units	false
+			wh2_dlc09_tmb_mon_crypt_horrors	undead_units	false
 			wh2_dlc09_tmb_mon_dire_wolves	undead_units	false
 			wh2_dlc09_tmb_mon_fell_bats	undead_units	false
+			wh2_dlc09_tmb_mon_morghast_archai	undead_units	false
+			wh2_dlc09_tmb_mon_morghast_harbingers	undead_units	false
 			wh2_dlc09_tmb_veh_skeleton_archer_chariot_0	undead_units	false
 			wh2_dlc09_tmb_veh_skeleton_chariot_0	undead_units	false
 			wh2_dlc11_cst_art_carronade	undead_units	false
@@ -14538,6 +14666,8 @@ lord				mp_cap_group_single_entities	false
 			wh3_dlc29_vmp_veh_coven_throne	vmp_coven_throne	false
 			wh_main_vmp_mon_crypt_horrors	vmp_crypt_horrors_vargheist	false
 			wh_main_vmp_mon_vargheists	vmp_crypt_horrors_vargheist	false
+			wh2_dlc11_cst_mon_terrorgheist	vmp_cst_terrorgheist	false
+			wh_main_vmp_mon_terrorgheist	vmp_cst_terrorgheist	false
 			wh2_dlc11_cst_cha_mourngul_haunter	vmp_dlc04_all_characters	false
 			wh2_dlc11_vmp_cha_heinrich_kemmler_1	vmp_dlc04_all_characters	false
 			wh3_dlc29_vmp_cha_mannfred_von_carstein_dread_abyssal	vmp_dlc04_all_characters	false
@@ -14601,6 +14731,12 @@ lord				mp_cap_group_single_entities	false
 			wh_dlc04_vmp_veh_corpse_cart_0	vmp_dlc04_corpse_carts	false
 			wh_dlc04_vmp_veh_corpse_cart_1	vmp_dlc04_corpse_carts	false
 			wh_dlc04_vmp_veh_corpse_cart_2	vmp_dlc04_corpse_carts	false
+			wh_dlc04_vmp_mon_devils_swartzhafen_0	vmp_fell_bats_dire_wolves_vargheists_varghulf	false
+			wh_dlc04_vmp_mon_direpack_0	vmp_fell_bats_dire_wolves_vargheists_varghulf	false
+			wh_main_vmp_mon_dire_wolves	vmp_fell_bats_dire_wolves_vargheists_varghulf	false
+			wh_main_vmp_mon_fell_bats	vmp_fell_bats_dire_wolves_vargheists_varghulf	false
+			wh_main_vmp_mon_vargheists	vmp_fell_bats_dire_wolves_vargheists_varghulf	false
+			wh_main_vmp_mon_varghulf	vmp_fell_bats_dire_wolves_vargheists_varghulf	false
 			wh_main_vmp_mon_dire_wolves	vmp_forest_beasts	false
 			wh_main_vmp_mon_fell_bats	vmp_forest_beasts	false
 			wh_main_vmp_mon_vargheists	vmp_forest_beasts	false
@@ -15173,6 +15309,7 @@ warmachine				war_machines	false
 			wh2_dlc09_tmb_cav_nehekhara_horsemen_ror	wh2_dlc09_tmb_horsemen	false
 			wh2_dlc09_tmb_cav_skeleton_horsemen_0	wh2_dlc09_tmb_horsemen	false
 			wh2_dlc09_tmb_cav_skeleton_horsemen_archers_0	wh2_dlc09_tmb_horsemen	false
+			wh2_dlc09_tmb_inf_cairn_wraiths	wh2_dlc09_tmb_inf_cairn_wraiths	false
 			wh2_dlc09_tmb_inf_crypt_ghouls	wh2_dlc09_tmb_inf_crypt_ghouls	false
 			wh2_dlc09_tmb_inf_nehekhara_warriors_0	wh2_dlc09_tmb_inf_nehekhara_warriors_0	false
 			wh2_dlc09_tmb_inf_nehekhara_warriors_ror	wh2_dlc09_tmb_inf_nehekhara_warriors_ror	false
@@ -15185,15 +15322,20 @@ warmachine				war_machines	false
 			wh2_dlc09_tmb_inf_skeleton_spearmen_0	wh2_dlc09_tmb_inf_skeleton_spearmen_0	false
 			wh2_dlc09_tmb_inf_skeleton_spearmen_ror	wh2_dlc09_tmb_inf_skeleton_spearmen_ror	false
 			wh2_dlc09_tmb_inf_skeleton_warriors_0	wh2_dlc09_tmb_inf_skeleton_warriors_0	false
+			wh2_dlc09_tmb_inf_spirit_host	wh2_dlc09_tmb_inf_spirit_host	false
 			wh2_dlc09_tmb_inf_tomb_guard_0	wh2_dlc09_tmb_inf_tomb_guard_0	false
 			wh2_dlc09_tmb_inf_tomb_guard_1	wh2_dlc09_tmb_inf_tomb_guard_1	false
 			wh2_dlc09_tmb_inf_tomb_guard_ror	wh2_dlc09_tmb_inf_tomb_guard_ror	false
 			wh2_dlc09_tmb_mon_carrion_0	wh2_dlc09_tmb_mon_carrion_0	false
 			wh3_dlc27_tmb_mon_carrion_monst_arcanum	wh2_dlc09_tmb_mon_carrion_0	false
 			wh2_dlc09_tmb_mon_carrion_ror	wh2_dlc09_tmb_mon_carrion_ror	false
+			wh2_dlc09_tmb_mon_crypt_horrors	wh2_dlc09_tmb_mon_crypt_horrors	false
 			wh2_dlc09_tmb_mon_dire_wolves	wh2_dlc09_tmb_mon_dire_wolves	false
 			wh2_dlc09_tmb_mon_fell_bats	wh2_dlc09_tmb_mon_fell_bats	false
 			wh2_dlc09_tmb_mon_heirotitan_0	wh2_dlc09_tmb_mon_heirotitan_0	false
+			wh2_dlc09_tmb_mon_morghast_archai	wh2_dlc09_tmb_mon_morghast_archai	false
+			wh2_dlc09_tmb_mon_morghast_archai	wh2_dlc09_tmb_mon_morghast	false
+			wh2_dlc09_tmb_mon_morghast_harbingers	wh2_dlc09_tmb_mon_morghast	false
 			wh2_dlc09_tmb_mon_necrosphinx_0	wh2_dlc09_tmb_mon_necrosphinx_0	false
 			wh2_dlc09_tmb_mon_necrosphinx_ror	wh2_dlc09_tmb_mon_necrosphinx_ror	false
 			wh2_dlc09_tmb_mon_sepulchral_stalkers_0	wh2_dlc09_tmb_mon_sepulchral_stalkers_0	false
@@ -16772,6 +16914,7 @@ warmachine				war_machines	false
 			wh_dlc06_grn_cav_moon_howlers_0	wh2_dlc15_grn_regular_goblins	false
 			wh_dlc06_grn_cav_teef_robbers_0	wh2_dlc15_grn_regular_goblins	false
 			wh_dlc06_grn_inf_nasty_skulkers_0	wh2_dlc15_grn_regular_goblins	false
+			wh_main_grn_art_doom_diver_catapult	wh2_dlc15_grn_regular_goblins	false
 			wh_main_grn_art_goblin_rock_lobber	wh2_dlc15_grn_regular_goblins	false
 			wh_main_grn_cav_forest_goblin_spider_riders_0	wh2_dlc15_grn_regular_goblins	false
 			wh_main_grn_cav_forest_goblin_spider_riders_1	wh2_dlc15_grn_regular_goblins	false
@@ -17577,6 +17720,7 @@ hero			wh2_main_def_cha_death_hag_0	wh2_main_def_death_hag_0	false
 			wh3_dlc27_sla_mon_preyton_ror	wh2_main_ror_units_all	false
 			wh3_dlc27_sla_veh_seeker_chariot_ror	wh2_main_ror_units_all	false
 			wh3_dlc27_woc_mon_chimera_ror	wh2_main_ror_units_all	false
+			wh3_dlc29_bst_mon_giant_spined_chaos_beast_ror	wh2_main_ror_units_all	false
 			wh3_dlc29_chs_inf_chosen_mnur_ror	wh2_main_ror_units_all	false
 			wh3_dlc29_chs_inf_putrid_blightkings_dual_axe_ror	wh2_main_ror_units_all	false
 			wh3_dlc29_chs_mon_giant_spined_chaos_beast_ror	wh2_main_ror_units_all	false
@@ -18669,6 +18813,23 @@ hero			wh2_main_def_cha_death_hag_0	wh2_main_def_death_hag_0	false
 			wh_dlc06_chs_cav_marauder_horsemasters_0	wh3_dlc20_marauder_horsemen_all	false
 			wh_main_chs_cav_marauder_horsemen_0	wh3_dlc20_marauder_horsemen_all	false
 			wh_main_chs_cav_marauder_horsemen_1	wh3_dlc20_marauder_horsemen_all	false
+			wh2_dlc11_cst_cha_vampire_fleet_captain_0	wh3_dlc20_nag_vampire_lore_vampires	false
+			wh2_dlc11_cst_cha_vampire_fleet_captain_1	wh3_dlc20_nag_vampire_lore_vampires	false
+			wh_dlc04_vmp_cha_master_necromancer_1	wh3_dlc20_nag_vampire_lore_vampires	false
+			wh_dlc04_vmp_cha_master_necromancer_2	wh3_dlc20_nag_vampire_lore_vampires	false
+			wh_dlc04_vmp_cha_master_necromancer_3	wh3_dlc20_nag_vampire_lore_vampires	false
+			wh_dlc04_vmp_cha_necromancer_1	wh3_dlc20_nag_vampire_lore_vampires	false
+			wh_dlc04_vmp_cha_necromancer_2	wh3_dlc20_nag_vampire_lore_vampires	false
+			wh_dlc04_vmp_cha_necromancer_3	wh3_dlc20_nag_vampire_lore_vampires	false
+			wh_main_vmp_cha_master_necromancer_0	wh3_dlc20_nag_vampire_lore_vampires	false
+			wh_main_vmp_cha_master_necromancer_4	wh3_dlc20_nag_vampire_lore_vampires	false
+			wh_main_vmp_cha_master_necromancer_5	wh3_dlc20_nag_vampire_lore_vampires	false
+			wh_main_vmp_cha_necromancer_0	wh3_dlc20_nag_vampire_lore_vampires	false
+			wh_main_vmp_cha_necromancer_5	wh3_dlc20_nag_vampire_lore_vampires	false
+			wh_main_vmp_cha_vampire_lord_0	wh3_dlc20_nag_vampire_lore_vampires	false
+			wh_main_vmp_cha_vampire_lord_2	wh3_dlc20_nag_vampire_lore_vampires	false
+			wh_main_vmp_cha_vampire_lord_3	wh3_dlc20_nag_vampire_lore_vampires	false
+			wh_main_vmp_cha_vampire_lord_5	wh3_dlc20_nag_vampire_lore_vampires	false
 			wh3_dlc20_chs_cav_marauder_horsemen_mnur_throwing_axes	wh3_dlc20_nur_marauder_horsemen_mnur	false
 			wh3_dlc20_chs_inf_chaos_marauders_mnur	wh3_dlc20_nur_marauders_nurgle_rank_7	false
 			wh3_dlc20_chs_inf_chaos_marauders_mnur_greatweapons	wh3_dlc20_nur_marauders_nurgle_rank_7	false
@@ -18898,6 +19059,7 @@ war_beast				wh3_dlc20_unit_set_war_beasts_only	false
 			wh3_dlc23_chd_mon_lammasu	wh3_dlc23_chd_category_flying_beasts	false
 			wh3_dlc27_chd_mon_bale_taurus_monst_arcanum	wh3_dlc23_chd_category_flying_beasts	false
 			wh3_dlc27_chd_mon_lammasu_monst_arcanum	wh3_dlc23_chd_category_flying_beasts	false
+			wh3_dlc29_chd_mon_chaos_siege_giant	wh3_dlc23_chd_category_flying_beasts	false
 			wh3_dlc23_chd_mon_kdaai_destroyer	wh3_dlc23_chd_category_kdaai_rank7	false
 			wh3_dlc23_chd_mon_kdaai_fireborn	wh3_dlc23_chd_category_kdaai_rank7	false
 			wh3_dlc23_chd_mon_kdaai_destroyer	wh3_dlc23_chd_category_kdaai	false
@@ -18913,7 +19075,6 @@ war_beast				wh3_dlc20_unit_set_war_beasts_only	false
 			wh3_dlc23_chd_veh_magma_cannon	wh3_dlc23_chd_category_warmachines	false
 			wh3_dlc23_chd_veh_skullcracker	wh3_dlc23_chd_category_warmachines	false
 			wh3_dlc23_chd_veh_skullcracker_1dreadquake	wh3_dlc23_chd_category_warmachines	false
-			wh3_dlc29_chd_mon_chaos_siege_giant	wh3_dlc23_chd_category_warmachines	false
 			wh3_main_chd_art_hobgob_bolt_thrower	wh3_dlc23_chd_category_warmachines	true
 			wh_dlc08_nor_art_hellcannon_battery	wh3_dlc23_chd_category_warmachines	false
 			wh_main_chs_art_hellcannon	wh3_dlc23_chd_category_warmachines	false
@@ -19116,11 +19277,13 @@ war_beast				wh3_dlc20_unit_set_war_beasts_only	false
 			wh3_dlc23_chd_mon_lammasu	wh3_dlc23_chd_monsters_rank7	false
 			wh3_dlc27_chd_mon_bale_taurus_monst_arcanum	wh3_dlc23_chd_monsters_rank7	false
 			wh3_dlc27_chd_mon_lammasu_monst_arcanum	wh3_dlc23_chd_monsters_rank7	false
+			wh3_dlc29_chd_mon_chaos_siege_giant	wh3_dlc23_chd_monsters_rank7	false
 			wh3_dlc23_chd_mon_bale_taurus	wh3_dlc23_chd_monsters	false
 			wh3_dlc23_chd_mon_great_taurus	wh3_dlc23_chd_monsters	false
 			wh3_dlc23_chd_mon_lammasu	wh3_dlc23_chd_monsters	false
 			wh3_dlc27_chd_mon_bale_taurus_monst_arcanum	wh3_dlc23_chd_monsters	false
 			wh3_dlc27_chd_mon_lammasu_monst_arcanum	wh3_dlc23_chd_monsters	false
+			wh3_dlc29_chd_mon_chaos_siege_giant	wh3_dlc23_chd_monsters	false
 			wh3_dlc23_chd_veh_skullcracker	wh3_dlc23_chd_skullcracker	false
 			wh3_dlc23_chd_veh_skullcracker_1dreadquake	wh3_dlc23_chd_skullcracker	false
 			wh3_dlc23_chd_cav_hobgoblin_wolf_raiders_bows	wh3_dlc23_chd_warriors_and_hobgoblins	false
@@ -21703,6 +21866,7 @@ monstrous_infantry				wh3_dlc27_monsters_lords_heroes	false
 			wh3_dlc27_throgg_mon_river_trolls_0	wh3_dlc27_throgg_mon_river_trolls_0	false
 			wh3_dlc27_throgg_mon_stone_trolls_0	wh3_dlc27_throgg_mon_stone_trolls_0	false
 			wh3_dlc27_tze_mon_spawn_of_tzeentch_0	wh3_dlc27_tze_mon_spawn_of_tzeentch_0	false
+			wh3_dlc27_woc_mon_chimera_ror	wh3_dlc27_woc_mon_chimera_rank7_ror	false
 			wh3_dlc27_nor_mon_chimera	wh3_dlc27_woc_mon_chimera_rank7	false
 			wh3_dlc27_woc_mon_chimera_ror	wh3_dlc27_woc_mon_chimera_rank7	false
 			wh3_dlc27_woc_mon_chimera_ror	wh3_dlc27_woc_mon_chimera_ror	false
@@ -21720,6 +21884,10 @@ monstrous_infantry				wh3_dlc27_monsters_lords_heroes	false
 			wh3_dlc29_chs_inf_putrid_blightkings_dual_axe	wh3_dlc29_blightkings	false
 			wh3_dlc29_chs_inf_putrid_blightkings_dual_axe_ror	wh3_dlc29_blightkings	false
 			wh3_dlc29_chs_inf_putrid_blightkings_great_weapons	wh3_dlc29_blightkings	false
+			wh3_dlc29_bst_mon_giant_spined_chaos_beast	wh3_dlc29_bst_mon_giant_spined_chaos_beast_rank7	false
+			wh3_dlc29_bst_mon_giant_spined_chaos_beast_ror	wh3_dlc29_bst_mon_giant_spined_chaos_beast_rank7	false
+			wh3_dlc29_bst_mon_giant_spined_chaos_beast	wh3_dlc29_bst_mon_giant_spined_chaos_beast	false
+			wh3_dlc29_bst_mon_giant_spined_chaos_beast_ror	wh3_dlc29_bst_mon_giant_spined_chaos_beast	false
 lord				wh3_dlc29_characters_only_lords	false
 			wh3_dlc29_emp_cav_knights_of_the_white_wolf	wh3_dlc29_chosen_of_ulric_merc_pool_high_tier	false
 			wh3_dlc29_emp_inf_teutogen_guard	wh3_dlc29_chosen_of_ulric_merc_pool_high_tier	false
@@ -22034,6 +22202,7 @@ lord				wh3_dlc29_characters_only_lords	false
 			wh3_dlc29_vmp_inf_lahmian_handmaidens_shadow	wh3_dlc29_handmaidens_rank7	false
 			wh3_dlc29_vmp_inf_lahmian_handmaidens_death	wh3_dlc29_handmaidens	false
 			wh3_dlc29_vmp_inf_lahmian_handmaidens_shadow	wh3_dlc29_handmaidens	false
+			wh2_dlc09_tmb_mon_heirotitan_0	wh3_dlc29_hierotitan	false
 			wh3_dlc29_emp_cav_knights_of_the_white_wolf	wh3_dlc29_knights_of_the_white_wolf	false
 			wh3_dlc29_emp_cav_knights_of_the_white_wolf_ror	wh3_dlc29_knights_of_the_white_wolf	false
 			wh3_dlc29_emp_cav_knights_panther	wh3_dlc29_knights_panther	false
@@ -22044,6 +22213,500 @@ lord				wh3_dlc29_characters_only_lords	false
 			wh2_main_lzd_inf_skink_skirmishers_blessed_0	wh3_dlc29_lzd_blessed_skinks	false
 			wh2_dlc13_lzd_mon_sacred_kroxigors_0_blessed	wh3_dlc29_lzd_kroxigor	false
 			wh2_main_lzd_mon_kroxigors_blessed	wh3_dlc29_lzd_kroxigor	false
+			wh2_dlc09_tmb_mon_carrion_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc09_tmb_mon_carrion_ror	wh3_dlc29_marks_monsters	false
+			wh2_dlc09_tmb_mon_crypt_horrors	wh3_dlc29_marks_monsters	false
+			wh2_dlc09_tmb_mon_heirotitan_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc09_tmb_mon_morghast_archai	wh3_dlc29_marks_monsters	false
+			wh2_dlc09_tmb_mon_morghast_harbingers	wh3_dlc29_marks_monsters	false
+			wh2_dlc09_tmb_mon_necrosphinx_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc09_tmb_mon_necrosphinx_ror	wh3_dlc29_marks_monsters	false
+			wh2_dlc09_tmb_mon_sepulchral_stalkers_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc09_tmb_mon_sepulchral_stalkers_ror	wh3_dlc29_marks_monsters	false
+			wh2_dlc09_tmb_mon_tomb_scorpion_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc09_tmb_mon_ushabti_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc09_tmb_mon_ushabti_0_summoned	wh3_dlc29_marks_monsters	false
+			wh2_dlc09_tmb_mon_ushabti_1	wh3_dlc29_marks_monsters	false
+			wh2_dlc09_tmb_mon_ushabti_ror	wh3_dlc29_marks_monsters	false
+			wh2_dlc09_tmb_veh_khemrian_warsphinx_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc10_def_cha_supreme_sorceress_beasts_5	wh3_dlc29_marks_monsters	false
+			wh2_dlc10_def_cha_supreme_sorceress_dark_5	wh3_dlc29_marks_monsters	false
+			wh2_dlc10_def_cha_supreme_sorceress_death_5	wh3_dlc29_marks_monsters	false
+			wh2_dlc10_def_cha_supreme_sorceress_fire_5	wh3_dlc29_marks_monsters	false
+			wh2_dlc10_def_cha_supreme_sorceress_shadow_5	wh3_dlc29_marks_monsters	false
+			wh2_dlc10_def_mon_chill_of_sontar_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc10_def_mon_feral_manticore_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc10_def_mon_kharibdyss_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc10_def_mon_war_hydra_boss	wh3_dlc29_marks_monsters	false
+			wh2_dlc10_hef_mon_treekin_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc10_hef_mon_treeman_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc10_lzd_mon_carnosaur_boss	wh3_dlc29_marks_monsters	false
+			wh2_dlc10_nor_mon_phoenix_flamespyre_boss	wh3_dlc29_marks_monsters	false
+			wh2_dlc10_skv_mon_hell_pit_abomination_boss	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_cst_mon_animated_hulks_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_cst_mon_bloated_corpse_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_cst_mon_mournguls_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_cst_mon_mournguls_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_cst_mon_necrofex_colossus_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_cst_mon_necrofex_colossus_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_cst_mon_rotting_leviathan_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_cst_mon_rotting_prometheans_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_cst_mon_rotting_prometheans_gunnery_mob_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_cst_mon_rotting_prometheans_gunnery_mob_ror	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_cst_mon_rotting_prometheans_summoned_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_cst_mon_terrorgheist	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_def_cha_lokhir_fellheart_1	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_vmp_cha_bloodline_blood_dragon_lord_3	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_vmp_cha_bloodline_lahmian_lord_3	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_vmp_cha_bloodline_necrarch_lord_3	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_vmp_cha_bloodline_von_carstein_lord_3	wh3_dlc29_marks_monsters	false
+			wh2_dlc11_vmp_mon_varghulf_summoned	wh3_dlc29_marks_monsters	false
+			wh2_dlc12_lzd_cav_terradon_riders_0_tlaqua	wh3_dlc29_marks_monsters	false
+			wh2_dlc12_lzd_cav_terradon_riders_1_tlaqua	wh3_dlc29_marks_monsters	false
+			wh2_dlc12_lzd_cav_terradon_riders_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc12_lzd_mon_ancient_salamander_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc12_lzd_mon_ancient_salamander_0_blessed	wh3_dlc29_marks_monsters	false
+			wh2_dlc12_lzd_mon_ancient_stegadon_1	wh3_dlc29_marks_monsters	false
+			wh2_dlc12_lzd_mon_ancient_stegadon_1_nakai	wh3_dlc29_marks_monsters	false
+			wh2_dlc12_lzd_mon_ancient_stegadon_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc12_lzd_mon_bastiladon_3	wh3_dlc29_marks_monsters	false
+			wh2_dlc12_lzd_mon_bastiladon_3_nakai	wh3_dlc29_marks_monsters	false
+			wh2_dlc13_lzd_mon_dread_saurian_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc13_lzd_mon_dread_saurian_1	wh3_dlc29_marks_monsters	false
+			wh2_dlc13_lzd_mon_dread_saurian_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc13_lzd_mon_sacred_kroxigors_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc13_lzd_mon_sacred_kroxigors_0_blessed	wh3_dlc29_marks_monsters	false
+			wh2_dlc13_lzd_mon_sacred_kroxigors_0_nakai	wh3_dlc29_marks_monsters	false
+			wh2_dlc13_lzd_mon_sacred_kroxigors_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc14_def_mon_bloodwrack_medusa_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc14_def_mon_bloodwrack_medusa_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_grn_mon_feral_hydra_waaagh_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_grn_mon_river_trolls_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_grn_mon_river_trolls_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_grn_mon_rogue_idol_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_grn_mon_rogue_idol_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_grn_mon_rogue_idol_summoned_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_grn_mon_stone_trolls_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_grn_mon_wyvern_waaagh_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_cha_archmage_beasts_4	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_cha_archmage_death_4	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_cha_archmage_fire_4	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_cha_archmage_heavens_4	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_cha_archmage_high_4	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_cha_archmage_life_4	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_cha_archmage_light_4	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_cha_archmage_metal_4	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_cha_archmage_shadows_4	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_cha_imrik_2	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_cha_mage_fire_3	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_inf_mistwalkers_griffon_knights_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_mon_arcane_phoenix_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_mon_arcane_phoenix_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_mon_black_dragon_imrik	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_mon_black_dragon_imrik_boss	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_mon_forest_dragon_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_mon_forest_dragon_imrik	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_mon_forest_dragon_imrik_boss	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_mon_moon_dragon_imrik	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_mon_moon_dragon_imrik_boss	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_mon_star_dragon_imrik	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_mon_star_dragon_imrik_boss	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_mon_sun_dragon_imrik	wh3_dlc29_marks_monsters	false
+			wh2_dlc15_hef_mon_sun_dragon_imrik_boss	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_skv_mon_brood_horror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_skv_mon_brood_horror_0_flesh_lab	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_skv_mon_hell_pit_abomination_flesh_lab	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_skv_mon_hell_pit_abomination_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_skv_mon_rat_ogre_mutant	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_skv_mon_rat_ogre_mutant_flesh_lab	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_skv_mon_rat_ogre_mutant_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_skv_mon_rat_ogres_flesh_lab	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_skv_mon_rat_ogres_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_skv_mon_rat_ogres_summoned	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_wef_cha_sisters_of_twilight_1	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_wef_mon_ceithin_har_summoned	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_wef_mon_feral_manticore	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_wef_mon_gwindalor_summoned	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_wef_mon_hawks_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_wef_mon_malicious_treekin_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_wef_mon_malicious_treeman_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_wef_mon_zoats	wh3_dlc29_marks_monsters	false
+			wh2_dlc16_wef_mon_zoats_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc17_bst_mon_ghorgon_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc17_bst_mon_ghorgon_boss_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc17_bst_mon_ghorgon_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc17_bst_mon_jabberslythe_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc17_bst_mon_jabberslythe_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc17_dwf_mon_carnosaur_thorek_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc17_kho_mon_ghorgon_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc17_lzd_mon_carnosaur_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc17_lzd_mon_coatl_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc17_lzd_mon_coatl_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc17_lzd_mon_dread_saurian_qb_boss	wh3_dlc29_marks_monsters	false
+			wh2_dlc17_lzd_mon_troglodon_0	wh3_dlc29_marks_monsters	false
+			wh2_dlc17_lzd_mon_troglodon_ror_0	wh3_dlc29_marks_monsters	false
+			wh2_main_def_cha_dreadlord_4	wh3_dlc29_marks_monsters	false
+			wh2_main_def_cha_dreadlord_female_4	wh3_dlc29_marks_monsters	false
+			wh2_main_def_mon_black_dragon	wh3_dlc29_marks_monsters	false
+			wh2_main_def_mon_war_hydra	wh3_dlc29_marks_monsters	false
+			wh2_main_hef_cha_alastair_4	wh3_dlc29_marks_monsters	false
+			wh2_main_hef_cha_alastair_5	wh3_dlc29_marks_monsters	false
+			wh2_main_hef_cha_prince_4	wh3_dlc29_marks_monsters	false
+			wh2_main_hef_cha_prince_5	wh3_dlc29_marks_monsters	false
+			wh2_main_hef_cha_princess_4	wh3_dlc29_marks_monsters	false
+			wh2_main_hef_cha_princess_5	wh3_dlc29_marks_monsters	false
+			wh2_main_hef_mon_great_eagle	wh3_dlc29_marks_monsters	false
+			wh2_main_hef_mon_great_eagle_summoned	wh3_dlc29_marks_monsters	false
+			wh2_main_hef_mon_moon_dragon	wh3_dlc29_marks_monsters	false
+			wh2_main_hef_mon_phoenix_flamespyre	wh3_dlc29_marks_monsters	false
+			wh2_main_hef_mon_phoenix_frostheart	wh3_dlc29_marks_monsters	false
+			wh2_main_hef_mon_star_dragon	wh3_dlc29_marks_monsters	false
+			wh2_main_hef_mon_sun_dragon	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_cav_terradon_riders_0	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_cav_terradon_riders_0_blessed	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_cav_terradon_riders_1	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_cav_terradon_riders_blessed_1	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_mon_ancient_stegadon	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_mon_ancient_stegadon_blessed	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_mon_bastiladon_0	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_mon_bastiladon_1	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_mon_bastiladon_2	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_mon_bastiladon_blessed_2	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_mon_carnosaur_0	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_mon_carnosaur_blessed_0	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_mon_kroxigors	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_mon_kroxigors_blessed	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_mon_kroxigors_nakai	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_mon_stegadon_0	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_mon_stegadon_1	wh3_dlc29_marks_monsters	false
+			wh2_main_lzd_mon_stegadon_blessed_1	wh3_dlc29_marks_monsters	false
+			wh2_main_skv_mon_hell_pit_abomination	wh3_dlc29_marks_monsters	false
+			wh2_main_skv_mon_hell_pit_abomination_summoned	wh3_dlc29_marks_monsters	false
+			wh2_main_skv_mon_rat_ogres	wh3_dlc29_marks_monsters	false
+			wh2_pro06_tmb_mon_bone_giant_0	wh3_dlc29_marks_monsters	false
+			wh2_twa03_def_mon_war_mammoth_0	wh3_dlc29_marks_monsters	false
+			wh2_twa03_grn_mon_wyvern_0	wh3_dlc29_marks_monsters	false
+			wh3_cp1_cth_mon_celestial_lion_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc20_chs_mon_giant_mnur_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc20_chs_mon_warshrine	wh3_dlc29_marks_monsters	false
+			wh3_dlc20_chs_mon_warshrine_mkho	wh3_dlc29_marks_monsters	false
+			wh3_dlc20_chs_mon_warshrine_mnur	wh3_dlc29_marks_monsters	false
+			wh3_dlc20_chs_mon_warshrine_msla	wh3_dlc29_marks_monsters	false
+			wh3_dlc20_chs_mon_warshrine_mtze	wh3_dlc29_marks_monsters	false
+			wh3_dlc23_chd_mon_bale_taurus	wh3_dlc29_marks_monsters	false
+			wh3_dlc23_chd_mon_great_taurus	wh3_dlc29_marks_monsters	false
+			wh3_dlc23_chd_mon_kdaai_destroyer	wh3_dlc29_marks_monsters	false
+			wh3_dlc23_chd_mon_kdaai_fireborn	wh3_dlc29_marks_monsters	false
+			wh3_dlc23_chd_mon_kdaai_fireborn_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc23_chd_mon_lammasu	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_bst_mon_cockatrice	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_bst_mon_incarnate_elemental_of_beasts	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_cth_cha_yuan_bo_dragon	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_cth_mon_celestial_lion	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_cth_mon_great_moon_bird	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_cth_mon_jade_lion	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_cth_mon_jet_lion	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_ksl_mon_frost_wyrm	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_ksl_mon_incarnate_elemental_of_beasts	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_ksl_mon_incarnate_elemental_of_beasts_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_ksl_mon_the_things_in_the_woods	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_ksl_mon_the_things_in_the_woods_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_ksl_mon_the_things_in_the_woods_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_lzd_mon_carnosaur_0	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_tze_mon_cockatrice	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_tze_mon_flamers_changebringers	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_tze_mon_mutalith_vortex_beast	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_tze_mon_mutalith_vortex_beast_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc24_tze_mon_screamers_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_bst_mon_jabberslythe_qb_boss	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_emp_cha_elspeth_von_draken_carmine_dragon	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_emp_mon_incarnate_elemental_of_beasts_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_grn_mon_arachnarok_spider_boss	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_grn_mon_rogue_idol_qb_boss	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_hef_mon_sun_dragon_boss	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_cav_plague_drones_1_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_cha_exalted_hero_chieftain_chaos_dragon	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_chieftain_inf_cygor_0	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_chieftain_mon_dragon_ogre_shaggoth	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_chieftain_mon_fimir_0	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_chieftain_mon_fimir_1	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_chieftain_mon_frost_wyrm_0	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_chieftain_mon_ghorgon	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_chieftain_mon_skinwolves_0	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_chieftain_mon_toad_dragon	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_chieftain_mon_war_mammoth_0	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_chieftain_mon_war_mammoth_1	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_inf_plague_ogres	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_inf_plague_ogres_great_weapons	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_mon_bile_trolls	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_mon_soul_grinder_0_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc25_nur_mon_toad_dragon	wh3_dlc29_marks_monsters	false
+			wh3_dlc26_grn_cav_mangler_squig	wh3_dlc29_marks_monsters	false
+			wh3_dlc26_grn_cha_snagla_grobspit	wh3_dlc29_marks_monsters	false
+			wh3_dlc26_grn_mon_arachnarok_spider_flinger	wh3_dlc29_marks_monsters	false
+			wh3_dlc26_grn_mon_colossal_squig	wh3_dlc29_marks_monsters	false
+			wh3_dlc26_grn_mon_colossal_squig_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc26_grn_mon_wyvern_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc26_kho_mon_bloodbeast_of_khorne	wh3_dlc29_marks_monsters	false
+			wh3_dlc26_kho_mon_slaughterbrute	wh3_dlc29_marks_monsters	false
+			wh3_dlc26_kho_mon_spawn_of_khorne_0_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc26_ogr_inf_golgfags_maneaters	wh3_dlc29_marks_monsters	false
+			wh3_dlc26_ogr_mon_thundertusk	wh3_dlc29_marks_monsters	false
+			wh3_dlc26_ogr_mon_yhetees	wh3_dlc29_marks_monsters	false
+			wh3_dlc26_ogr_mon_yhetees_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_bst_inf_cygor_monst_arcanum_reward	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_bst_mon_chimera	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_bst_mon_chimera_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_bst_mon_cockatrice	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_bst_mon_ghorgon_monst_arcanum	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_bst_mon_ghorgon_monst_arcanum_reward	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_bst_mon_jabberslythe_monst_arcanum	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_bst_mon_jabberslythe_monst_arcanum_reward	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_bst_mon_preyton	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_bst_mon_preyton_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_chd_mon_bale_taurus_monst_arcanum	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_chd_mon_lammasu_monst_arcanum	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_chs_feral_manticore_monst_arcanum	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_chs_feral_manticore_monst_arcanum_reward	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_chs_mon_chaos_spawn	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_chs_mon_dragon_ogre_shaggoth_monst_arcanum_reward	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_cth_mon_celestial_lion_monst_arcanum	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_def_mon_black_dragon_monst_arcanum	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_hef_cha_sea_lord_aislinn_dragon	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_hef_inf_oceanids	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_hef_inf_oceanids_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_hef_mon_merwyrm	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_hef_mon_merwyrm_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_hef_mon_merwyrm_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_hef_mon_sea_elemental	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_kho_mon_spawn_of_khorne_0	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_lzd_mon_dread_saurian_monst_arcanum	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_nor_cha_great_shaman_sorcerer_death_mammoth	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_nor_cha_great_shaman_sorcerer_fire_mammoth	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_nor_cha_great_shaman_sorcerer_metal_mammoth	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_nor_cha_sayl_the_faithless_mammoth	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_nor_mon_chimera	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_nor_mon_chimera_monst_arcanum	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_nor_mon_chimera_monst_arcanum_reward	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_nor_mon_chimera_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_nor_mon_cursd_ettin	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_nor_mon_cursd_ettin_runecaller	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_nor_mon_dread_maw	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_nor_mon_dread_maw_underground	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_nur_mon_spawn_of_nurgle_0	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_nur_mon_toad_dragon_monst_arcanum	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_nur_mon_toad_dragon_monst_arcanum_reward	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_ogr_mon_thundertusk_monst_arcanum	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_sla_mon_champions_of_slaanesh	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_sla_mon_champions_of_slaanesh_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_sla_mon_fiends_of_slaanesh_dechala	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_sla_mon_giant_spawn_of_sla_summoned_i	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_sla_mon_keeper_of_secrets_dechala	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_sla_mon_preyton	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_sla_mon_preyton_monst_arcanum	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_sla_mon_preyton_monst_arcanum_reward	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_sla_mon_preyton_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_sla_mon_spawn_of_slaanesh_0	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_throgg_mon_bile_trolls	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_throgg_mon_chs_trolls_0	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_throgg_mon_chs_trolls_1	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_throgg_mon_river_trolls_0	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_throgg_mon_stone_trolls_0	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_tmb_mon_carrion_monst_arcanum	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_tze_mon_cockatrice_monst_arcanum	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_tze_mon_cockatrice_monst_arcanum_reward	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_tze_mon_spawn_of_tzeentch_0	wh3_dlc29_marks_monsters	false
+			wh3_dlc27_woc_mon_chimera_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_bst_mon_basilisk	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_bst_mon_giant_spined_chaos_beast	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_bst_mon_giant_spined_chaos_beast_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_chd_mon_chaos_siege_giant	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_chs_cav_nur_plague_drones_1_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_chs_cav_nur_plague_drones_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_chs_mon_basilisk	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_chs_mon_chaos_siege_giant	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_chs_mon_giant_spined_chaos_beast	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_chs_mon_giant_spined_chaos_beast_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_cst_mon_mournguls_0_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_cst_mon_necrofex_colossus_0_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_cst_mon_rotting_prometheans_gunnery_mob_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_skv_mon_brood_horror_0_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_skv_mon_stormfiend_doomflayer_gauntlets	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_skv_mon_stormfiend_grinderfists	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_skv_mon_stormfiend_ratling_cannons	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_skv_mon_stormfiend_shock_gauntlets	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_skv_mon_stormfiend_warpfire_projectors	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_skv_mon_stormfiend_windlaunchers	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_skv_mon_stormfiends_ratling_cannons_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_tmb_mon_khemrian_warsphinx_0_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_tmb_mon_khemric_titan	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_tmb_mon_khemric_titan_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_tmb_mon_khemric_titan_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_tmb_mon_ushabti_ror_sepulchrex	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_vmp_cha_nagash_vampire_lord_zombie_dragon	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_vmp_cha_neferata_zombie_dragon	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_vmp_mon_morghast_archai	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_vmp_mon_morghast_archai_ror	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_vmp_mon_morghast_archai_summon	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_vmp_mon_morghast_harbingers	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_vmp_mon_terrorgheist_summoned	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_vmp_mon_zombie_dragon	wh3_dlc29_marks_monsters	false
+			wh3_dlc29_vmp_mon_zombie_dragon_summoned	wh3_dlc29_marks_monsters	false
+			wh3_main_cth_cha_dragon_blooded_shugengan_lord_yang_0	wh3_dlc29_marks_monsters	false
+			wh3_main_cth_cha_dragon_blooded_shugengan_lord_yang_1	wh3_dlc29_marks_monsters	false
+			wh3_main_cth_cha_dragon_blooded_shugengan_lord_yang_2	wh3_dlc29_marks_monsters	false
+			wh3_main_cth_cha_dragon_blooded_shugengan_lord_yin_0	wh3_dlc29_marks_monsters	false
+			wh3_main_cth_cha_dragon_blooded_shugengan_lord_yin_1	wh3_dlc29_marks_monsters	false
+			wh3_main_cth_cha_dragon_blooded_shugengan_lord_yin_2	wh3_dlc29_marks_monsters	false
+			wh3_main_cth_cha_iron_dragon_0	wh3_dlc29_marks_monsters	false
+			wh3_main_cth_cha_iron_dragon_1	wh3_dlc29_marks_monsters	false
+			wh3_main_cth_cha_storm_dragon_0	wh3_dlc29_marks_monsters	false
+			wh3_main_cth_cha_storm_dragon_1	wh3_dlc29_marks_monsters	false
+			wh3_main_cth_mon_terracotta_sentinel_0	wh3_dlc29_marks_monsters	false
+			wh3_main_kho_mon_bloodthirster_0	wh3_dlc29_marks_monsters	false
+			wh3_main_kho_mon_bloodthirster_summoned_0	wh3_dlc29_marks_monsters	false
+			wh3_main_kho_mon_khornataurs_0	wh3_dlc29_marks_monsters	false
+			wh3_main_kho_mon_khornataurs_1	wh3_dlc29_marks_monsters	false
+			wh3_main_kho_mon_soul_grinder_0	wh3_dlc29_marks_monsters	false
+			wh3_main_kho_mon_spawn_of_khorne_0	wh3_dlc29_marks_monsters	false
+			wh3_main_ksl_mon_elemental_bear_0	wh3_dlc29_marks_monsters	false
+			wh3_main_ksl_mon_elemental_bear_summoned_0	wh3_dlc29_marks_monsters	false
+			wh3_main_ksl_mon_snow_leopard_0	wh3_dlc29_marks_monsters	false
+			wh3_main_ksl_mon_snow_leopard_summoned_0	wh3_dlc29_marks_monsters	false
+			wh3_main_ksl_mon_snow_leopard_summoned_1	wh3_dlc29_marks_monsters	false
+			wh3_main_ksl_mon_snow_leopard_summoned_2	wh3_dlc29_marks_monsters	false
+			wh3_main_monster_feral_bears	wh3_dlc29_marks_monsters	false
+			wh3_main_monster_feral_ice_bears	wh3_dlc29_marks_monsters	false
+			wh3_main_nur_cav_plague_drones_0	wh3_dlc29_marks_monsters	false
+			wh3_main_nur_cav_plague_drones_1	wh3_dlc29_marks_monsters	false
+			wh3_main_nur_cav_pox_riders_of_nurgle_0	wh3_dlc29_marks_monsters	false
+			wh3_main_nur_mon_beast_of_nurgle_0	wh3_dlc29_marks_monsters	false
+			wh3_main_nur_mon_great_unclean_one_0	wh3_dlc29_marks_monsters	false
+			wh3_main_nur_mon_great_unclean_one_summoned_0	wh3_dlc29_marks_monsters	false
+			wh3_main_nur_mon_plague_toads_0	wh3_dlc29_marks_monsters	false
+			wh3_main_nur_mon_rot_flies_0	wh3_dlc29_marks_monsters	false
+			wh3_main_nur_mon_soul_grinder_0	wh3_dlc29_marks_monsters	false
+			wh3_main_nur_mon_spawn_of_nurgle_0	wh3_dlc29_marks_monsters	false
+			wh3_main_nur_mon_spawn_of_nurgle_0_summoned	wh3_dlc29_marks_monsters	false
+			wh3_main_nur_mon_spawn_of_nurgle_0_warriors	wh3_dlc29_marks_monsters	false
+			wh3_main_ogr_feral_manticore_summoned	wh3_dlc29_marks_monsters	false
+			wh3_main_ogr_inf_ironguts_0	wh3_dlc29_marks_monsters	false
+			wh3_main_ogr_inf_leadbelchers_0	wh3_dlc29_marks_monsters	false
+			wh3_main_ogr_inf_maneaters_0	wh3_dlc29_marks_monsters	false
+			wh3_main_ogr_inf_maneaters_1	wh3_dlc29_marks_monsters	false
+			wh3_main_ogr_inf_maneaters_2	wh3_dlc29_marks_monsters	false
+			wh3_main_ogr_inf_maneaters_3	wh3_dlc29_marks_monsters	false
+			wh3_main_ogr_inf_maneaters_summoned_0	wh3_dlc29_marks_monsters	false
+			wh3_main_ogr_inf_ogres_0	wh3_dlc29_marks_monsters	false
+			wh3_main_ogr_inf_ogres_1	wh3_dlc29_marks_monsters	false
+			wh3_main_ogr_inf_ogres_2	wh3_dlc29_marks_monsters	false
+			wh3_main_ogr_mon_giant_0	wh3_dlc29_marks_monsters	false
+			wh3_main_ogr_mon_gorgers_0	wh3_dlc29_marks_monsters	false
+			wh3_main_ogr_mon_gorgers_summoned_0	wh3_dlc29_marks_monsters	false
+			wh3_main_ogr_mon_stonehorn_0	wh3_dlc29_marks_monsters	false
+			wh3_main_ogr_mon_stonehorn_1	wh3_dlc29_marks_monsters	false
+			wh3_main_pro_ksl_mon_elemental_bear_ror_0	wh3_dlc29_marks_monsters	false
+			wh3_main_pro_ksl_mon_snow_leopard_ror_0	wh3_dlc29_marks_monsters	false
+			wh3_main_pro_tze_mon_flamers_0	wh3_dlc29_marks_monsters	false
+			wh3_main_pro_tze_mon_screamers_0	wh3_dlc29_marks_monsters	false
+			wh3_main_sla_mon_fiends_of_slaanesh_0	wh3_dlc29_marks_monsters	false
+			wh3_main_sla_mon_keeper_of_secrets_0	wh3_dlc29_marks_monsters	false
+			wh3_main_sla_mon_keeper_of_secrets_summoned_0	wh3_dlc29_marks_monsters	false
+			wh3_main_sla_mon_soul_grinder_0	wh3_dlc29_marks_monsters	false
+			wh3_main_sla_mon_spawn_of_slaanesh_0	wh3_dlc29_marks_monsters	false
+			wh3_main_tze_mon_exalted_flamers_0	wh3_dlc29_marks_monsters	false
+			wh3_main_tze_mon_flamers_0	wh3_dlc29_marks_monsters	false
+			wh3_main_tze_mon_lord_of_change_0	wh3_dlc29_marks_monsters	false
+			wh3_main_tze_mon_lord_of_change_summoned_0	wh3_dlc29_marks_monsters	false
+			wh3_main_tze_mon_screamers_0	wh3_dlc29_marks_monsters	false
+			wh3_main_tze_mon_soul_grinder_0	wh3_dlc29_marks_monsters	false
+			wh3_main_tze_mon_spawn_of_tzeentch_0	wh3_dlc29_marks_monsters	false
+			wh3_twa06_ogr_inf_maneaters_ror_0	wh3_dlc29_marks_monsters	false
+			wh3_twa07_nur_cav_pox_riders_of_nurgle_ror_0	wh3_dlc29_marks_monsters	false
+			wh3_twa08_cth_mon_terracotta_sentinel_0_ror	wh3_dlc29_marks_monsters	false
+			wh3_twa08_kho_mon_bloodthirster_0_ror	wh3_dlc29_marks_monsters	false
+			wh3_twa08_ksl_mon_elemental_bear_0_ror	wh3_dlc29_marks_monsters	false
+			wh3_twa08_nur_mon_great_unclean_one_0_ror	wh3_dlc29_marks_monsters	false
+			wh3_twa08_ogr_mon_stonehorn_0_ror	wh3_dlc29_marks_monsters	false
+			wh3_twa08_sla_mon_keeper_of_secrets_0_ror	wh3_dlc29_marks_monsters	false
+			wh3_twa08_tze_mon_lord_of_change_0_ror	wh3_dlc29_marks_monsters	false
+			wh_dlc01_chs_cha_chaos_sorcerer_lord_death_10	wh3_dlc29_marks_monsters	false
+			wh_dlc01_chs_cha_chaos_sorcerer_lord_fire_10	wh3_dlc29_marks_monsters	false
+			wh_dlc01_chs_cha_chaos_sorcerer_lord_metal_10	wh3_dlc29_marks_monsters	false
+			wh_dlc01_chs_cha_chaos_sorcerer_lord_shadows_4	wh3_dlc29_marks_monsters	false
+			wh_dlc01_chs_mon_dragon_ogre	wh3_dlc29_marks_monsters	false
+			wh_dlc01_chs_mon_dragon_ogre_shaggoth	wh3_dlc29_marks_monsters	false
+			wh_dlc01_chs_mon_trolls_1	wh3_dlc29_marks_monsters	false
+			wh_dlc03_bst_feral_manticore	wh3_dlc29_marks_monsters	false
+			wh_dlc03_bst_inf_cygor_0	wh3_dlc29_marks_monsters	false
+			wh_dlc03_bst_inf_cygor_0_summoned	wh3_dlc29_marks_monsters	false
+			wh_dlc03_bst_inf_minotaurs_0	wh3_dlc29_marks_monsters	false
+			wh_dlc03_bst_inf_minotaurs_1	wh3_dlc29_marks_monsters	false
+			wh_dlc03_bst_inf_minotaurs_2	wh3_dlc29_marks_monsters	false
+			wh_dlc03_bst_mon_chaos_spawn_0	wh3_dlc29_marks_monsters	false
+			wh_dlc03_bst_mon_chaos_spawn_0_summoned	wh3_dlc29_marks_monsters	false
+			wh_dlc03_bst_mon_giant_0	wh3_dlc29_marks_monsters	false
+			wh_dlc04_vmp_mon_devils_swartzhafen_0	wh3_dlc29_marks_monsters	false
+			wh_dlc05_bst_mon_chaos_spawn_0_boss	wh3_dlc29_marks_monsters	false
+			wh_dlc05_vmp_cha_red_duke_3	wh3_dlc29_marks_monsters	false
+			wh_dlc05_wef_cha_female_glade_lord_3	wh3_dlc29_marks_monsters	false
+			wh_dlc05_wef_cha_glade_lord_3	wh3_dlc29_marks_monsters	false
+			wh_dlc05_wef_forest_dragon_0	wh3_dlc29_marks_monsters	false
+			wh_dlc05_wef_mon_great_eagle_0	wh3_dlc29_marks_monsters	false
+			wh_dlc05_wef_mon_treekin_0	wh3_dlc29_marks_monsters	false
+			wh_dlc05_wef_mon_treeman_0	wh3_dlc29_marks_monsters	false
+			wh_dlc06_chs_feral_manticore	wh3_dlc29_marks_monsters	false
+			wh_dlc06_grn_mon_venom_queen_0	wh3_dlc29_marks_monsters	false
+			wh_dlc08_chs_mon_dragon_ogre_shaggoth_boss	wh3_dlc29_marks_monsters	false
+			wh_dlc08_chs_mon_dragon_ogre_shaggoth_minor_boss	wh3_dlc29_marks_monsters	false
+			wh_dlc08_grn_mon_arachnarok_spider_boss	wh3_dlc29_marks_monsters	false
+			wh_dlc08_grn_mon_giant_boss	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_cha_kihar_0	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_cha_skin_wolf_werekin_0	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_feral_manticore	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_mon_fimir_0	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_mon_fimir_1	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_mon_frost_wyrm_0	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_mon_frost_wyrm_boss	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_mon_frost_wyrm_ror_0	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_mon_norscan_giant_0	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_mon_norscan_ice_trolls_0	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_mon_skinwolves_0	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_mon_skinwolves_1	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_mon_war_mammoth_0	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_mon_war_mammoth_1	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_mon_war_mammoth_2	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_mon_war_mammoth_boss	wh3_dlc29_marks_monsters	false
+			wh_dlc08_nor_mon_war_mammoth_ror_1	wh3_dlc29_marks_monsters	false
+			wh_dlc08_vmp_mon_terrorgheist_boss	wh3_dlc29_marks_monsters	false
+			wh_dlc08_wef_forest_dragon_boss	wh3_dlc29_marks_monsters	false
+			wh_dlc15_grn_mon_arachnarok_spider_waaagh_0	wh3_dlc29_marks_monsters	false
+			wh_main_bst_feral_manticore_summoned	wh3_dlc29_marks_monsters	false
+			wh_main_chs_mon_chaos_spawn	wh3_dlc29_marks_monsters	false
+			wh_main_chs_mon_chaos_spawn_summoned	wh3_dlc29_marks_monsters	false
+			wh_main_chs_mon_giant	wh3_dlc29_marks_monsters	false
+			wh_main_chs_mon_trolls	wh3_dlc29_marks_monsters	false
+			wh_main_grn_mon_arachnarok_spider_0	wh3_dlc29_marks_monsters	false
+			wh_main_grn_mon_giant	wh3_dlc29_marks_monsters	false
+			wh_main_grn_mon_giant_qb_tall_roff	wh3_dlc29_marks_monsters	false
+			wh_main_grn_mon_trolls	wh3_dlc29_marks_monsters	false
+			wh_main_nor_mon_chaos_trolls	wh3_dlc29_marks_monsters	false
+			wh_main_vmp_cha_mannfred_von_carstein_3	wh3_dlc29_marks_monsters	false
+			wh_main_vmp_cha_vampire_lord_3	wh3_dlc29_marks_monsters	false
+			wh_main_vmp_mon_crypt_horrors	wh3_dlc29_marks_monsters	false
+			wh_main_vmp_mon_crypt_horrors_summoned	wh3_dlc29_marks_monsters	false
+			wh_main_vmp_mon_terrorgheist	wh3_dlc29_marks_monsters	false
+			wh_main_vmp_mon_terrorgheist_qb	wh3_dlc29_marks_monsters	false
+			wh_main_vmp_mon_vargheists	wh3_dlc29_marks_monsters	false
+			wh_main_vmp_mon_varghulf	wh3_dlc29_marks_monsters	false
+			wh_pro04_bst_inf_cygor_ror_0	wh3_dlc29_marks_monsters	false
+			wh_pro04_bst_inf_minotaurs_ror_0	wh3_dlc29_marks_monsters	false
+			wh_pro04_chs_mon_chaos_spawn_ror_0	wh3_dlc29_marks_monsters	false
+			wh_pro04_chs_mon_dragon_ogre_ror_0	wh3_dlc29_marks_monsters	false
+			wh_pro04_nor_mon_fimir_ror_0	wh3_dlc29_marks_monsters	false
+			wh_pro04_nor_mon_skinwolves_ror_0	wh3_dlc29_marks_monsters	false
+			wh_pro04_nor_mon_war_mammoth_ror_0	wh3_dlc29_marks_monsters	false
+			wh_pro04_wef_mon_treekin_ror_0	wh3_dlc29_marks_monsters	false
 			wh3_dlc29_skv_mon_stormfiend_doomflayer_gauntlets	wh3_dlc29_melee_stormfiends_doomflayer_gauntlets	false
 			wh3_dlc29_skv_mon_stormfiend_grinderfists	wh3_dlc29_melee_stormfiends_grinderfists	false
 			wh3_dlc29_skv_mon_stormfiend_doomflayer_gauntlets	wh3_dlc29_melee_stormfiends_rank7	false
@@ -22070,6 +22733,7 @@ lord				wh3_dlc29_characters_only_lords	false
 			wh3_dlc29_skv_mon_stormfiend_warpfire_projectors	wh3_dlc29_missile_stormfiends_rank7	false
 			wh3_dlc29_skv_mon_stormfiend_windlaunchers	wh3_dlc29_missile_stormfiends_rank7	false
 			wh3_dlc29_skv_mon_stormfiends_ratling_cannons_ror	wh3_dlc29_missile_stormfiends_rank7	false
+			wh3_dlc29_skv_cha_thanquol_boneripper_warpfire_projectors	wh3_dlc29_missile_stormfiends	false
 			wh3_dlc29_skv_mon_stormfiend_ratling_cannons	wh3_dlc29_missile_stormfiends	false
 			wh3_dlc29_skv_mon_stormfiend_warpfire_projectors	wh3_dlc29_missile_stormfiends	false
 			wh3_dlc29_skv_mon_stormfiend_windlaunchers	wh3_dlc29_missile_stormfiends	false
@@ -22270,6 +22934,62 @@ lord				wh3_dlc29_characters_only_lords	false
 			wh2_dlc09_tmb_art_screaming_skull_catapult_0	wh3_dlc29_nag_artillery	false
 			wh2_dlc11_cst_art_carronade	wh3_dlc29_nag_artillery	false
 			wh2_dlc11_cst_art_mortar	wh3_dlc29_nag_artillery	false
+			wh2_dlc09_tmb_mon_carrion_0	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh2_dlc09_tmb_mon_carrion_ror	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh2_dlc09_tmb_mon_crypt_horrors	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh2_dlc09_tmb_mon_dire_wolves	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh2_dlc09_tmb_mon_fell_bats	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh2_dlc09_tmb_mon_morghast_archai	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh2_dlc09_tmb_mon_morghast_harbingers	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh2_dlc09_tmb_mon_ushabti_0	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh2_dlc11_cst_mon_animated_hulks_0	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh2_dlc11_cst_mon_bloated_corpse_0	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh2_dlc11_cst_mon_fell_bats	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh2_dlc11_cst_mon_mournguls_0	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh2_dlc11_cst_mon_mournguls_ror_0	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh2_dlc11_cst_mon_rotting_prometheans_0	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh2_dlc11_cst_mon_scurvy_dogs	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh3_dlc29_tmb_mon_ushabti_ror_sepulchrex	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh3_dlc29_vmp_mon_morghast_archai	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh3_dlc29_vmp_mon_morghast_archai_ror	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh3_dlc29_vmp_mon_morghast_harbingers	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh_dlc04_vmp_mon_devils_swartzhafen_0	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh_dlc04_vmp_mon_direpack_0	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh_main_vmp_mon_crypt_horrors	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh_main_vmp_mon_dire_wolves	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh_main_vmp_mon_fell_bats	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh_main_vmp_mon_vargheists	wh3_dlc29_nag_beasts_monstrous_infantry_rank7	false
+			wh2_dlc09_tmb_mon_carrion_ror	wh3_dlc29_nag_beasts_monstrous_infantry_ror	false
+			wh2_dlc11_cst_mon_mournguls_ror_0	wh3_dlc29_nag_beasts_monstrous_infantry_ror	false
+			wh3_dlc29_tmb_mon_ushabti_ror_sepulchrex	wh3_dlc29_nag_beasts_monstrous_infantry_ror	false
+			wh3_dlc29_vmp_mon_morghast_archai_ror	wh3_dlc29_nag_beasts_monstrous_infantry_ror	false
+			wh_dlc04_vmp_mon_devils_swartzhafen_0	wh3_dlc29_nag_beasts_monstrous_infantry_ror	false
+			wh_dlc04_vmp_mon_direpack_0	wh3_dlc29_nag_beasts_monstrous_infantry_ror	false
+			wh2_dlc09_tmb_mon_carrion_0	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh2_dlc09_tmb_mon_carrion_ror	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh2_dlc09_tmb_mon_crypt_horrors	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh2_dlc09_tmb_mon_dire_wolves	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh2_dlc09_tmb_mon_fell_bats	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh2_dlc09_tmb_mon_morghast_archai	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh2_dlc09_tmb_mon_morghast_harbingers	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh2_dlc09_tmb_mon_ushabti_0	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh2_dlc11_cst_mon_animated_hulks_0	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh2_dlc11_cst_mon_bloated_corpse_0	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh2_dlc11_cst_mon_fell_bats	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh2_dlc11_cst_mon_mournguls_0	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh2_dlc11_cst_mon_mournguls_ror_0	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh2_dlc11_cst_mon_rotting_prometheans_0	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh2_dlc11_cst_mon_scurvy_dogs	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh3_dlc29_tmb_mon_ushabti_ror_sepulchrex	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh3_dlc29_vmp_mon_morghast_archai	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh3_dlc29_vmp_mon_morghast_archai_ror	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh3_dlc29_vmp_mon_morghast_harbingers	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh_dlc04_vmp_mon_devils_swartzhafen_0	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh_dlc04_vmp_mon_direpack_0	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh_main_vmp_mon_crypt_horrors	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh_main_vmp_mon_dire_wolves	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh_main_vmp_mon_fell_bats	wh3_dlc29_nag_beasts_monstrous_infantry	false
+			wh_main_vmp_mon_vargheists	wh3_dlc29_nag_beasts_monstrous_infantry	false
 			wh2_dlc09_tmb_mon_carrion_0	wh3_dlc29_nag_beasts_monstrous	false
 			wh2_dlc09_tmb_mon_sepulchral_stalkers_0	wh3_dlc29_nag_beasts_monstrous	false
 			wh2_dlc09_tmb_mon_ushabti_0	wh3_dlc29_nag_beasts_monstrous	false
@@ -22324,6 +23044,9 @@ monstrous_cavalry				wh3_dlc29_nag_cav_buff_06_cavalry_chariots	false
 			wh_dlc04_vmp_veh_corpse_cart_0	wh3_dlc29_nag_corpse_carts	false
 			wh_dlc04_vmp_veh_corpse_cart_1	wh3_dlc29_nag_corpse_carts	false
 			wh_dlc04_vmp_veh_corpse_cart_2	wh3_dlc29_nag_corpse_carts	false
+			wh2_dlc09_tmb_mon_carrion_0	wh3_dlc29_nag_direwolves_bats_carrion	false
+			wh_main_vmp_mon_dire_wolves	wh3_dlc29_nag_direwolves_bats_carrion	false
+			wh_main_vmp_mon_fell_bats	wh3_dlc29_nag_direwolves_bats_carrion	false
 			wh2_dlc09_tmb_mon_carrion_0	wh3_dlc29_nag_flying_rank7	false
 			wh2_dlc09_tmb_mon_carrion_ror	wh3_dlc29_nag_flying_rank7	false
 			wh2_dlc11_cst_cav_deck_droppers_0	wh3_dlc29_nag_flying_rank7	false
@@ -22370,14 +23093,235 @@ monstrous_cavalry				wh3_dlc29_nag_cav_buff_06_cavalry_chariots	false
 			wh_main_vmp_inf_skeleton_warriors_0	wh3_dlc29_nag_infantry	false
 			wh_main_vmp_inf_skeleton_warriors_1	wh3_dlc29_nag_infantry	false
 			wh_main_vmp_inf_zombie	wh3_dlc29_nag_infantry	false
-			wh2_dlc09_tmb_cav_necropolis_knights_0	wh3_dlc29_nag_knight	false
-			wh2_dlc09_tmb_cav_necropolis_knights_1	wh3_dlc29_nag_knight	false
-			wh2_dlc09_tmb_cav_necropolis_knights_ror	wh3_dlc29_nag_knight	false
-			wh3_dlc29_vmp_cav_drakenhof_templars	wh3_dlc29_nag_knight	false
-			wh3_main_vmp_blood_knights_sword_shield	wh3_dlc29_nag_knight	false
-			wh_dlc02_vmp_cav_blood_knights_0	wh3_dlc29_nag_knight	false
-			wh_main_vmp_cav_black_knights_0	wh3_dlc29_nag_knight	false
-			wh_main_vmp_cav_black_knights_3	wh3_dlc29_nag_knight	false
+			wh2_dlc09_tmb_cav_necropolis_knights_0	wh3_dlc29_nag_knight_rank7	false
+			wh2_dlc09_tmb_cav_necropolis_knights_1	wh3_dlc29_nag_knight_rank7	false
+			wh2_dlc09_tmb_cav_necropolis_knights_ror	wh3_dlc29_nag_knight_rank7	false
+			wh3_dlc29_vmp_cav_drakenhof_templars	wh3_dlc29_nag_knight_rank7	false
+			wh3_main_vmp_blood_knights_sword_shield	wh3_dlc29_nag_knight_rank7	false
+			wh_dlc02_vmp_cav_blood_knights_0	wh3_dlc29_nag_knight_rank7	false
+			wh_main_vmp_cav_black_knights_0	wh3_dlc29_nag_knight_rank7	false
+			wh_main_vmp_cav_black_knights_3	wh3_dlc29_nag_knight_rank7	false
+			wh2_dlc09_tmb_cav_hexwraiths	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh2_dlc09_tmb_cav_necropolis_knights_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh2_dlc09_tmb_cav_necropolis_knights_1	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh2_dlc09_tmb_cav_necropolis_knights_ror	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh2_dlc09_tmb_cav_nehekhara_horsemen_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh2_dlc09_tmb_cav_nehekhara_horsemen_ror	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh2_dlc09_tmb_cav_skeleton_horsemen_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh2_dlc09_tmb_veh_skeleton_chariot_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh3_dlc29_vmp_cav_drakenhof_templars	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh3_dlc29_vmp_veh_coven_throne	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh3_main_vmp_blood_knights_sword_shield	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh_dlc02_vmp_cav_blood_knights_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh_dlc04_vmp_cav_chillgheists_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh_dlc04_vmp_cav_vereks_reavers_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh_dlc04_vmp_veh_claw_of_nagash_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh_dlc04_vmp_veh_corpse_cart_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh_dlc04_vmp_veh_corpse_cart_1	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh_dlc04_vmp_veh_corpse_cart_2	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh_dlc04_vmp_veh_mortis_engine_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh_main_vmp_cav_black_knights_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh_main_vmp_cav_black_knights_3	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh_main_vmp_cav_hexwraiths	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh_main_vmp_veh_black_coach	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_rank7	false
+			wh2_dlc09_tmb_cav_necropolis_knights_ror	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_ror	false
+			wh2_dlc09_tmb_cav_nehekhara_horsemen_ror	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_ror	false
+			wh_dlc04_vmp_cav_chillgheists_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_ror	false
+			wh_dlc04_vmp_cav_vereks_reavers_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_ror	false
+			wh_dlc04_vmp_veh_claw_of_nagash_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots_ror	false
+			wh2_dlc09_tmb_cav_hexwraiths	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh2_dlc09_tmb_cav_necropolis_knights_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh2_dlc09_tmb_cav_necropolis_knights_1	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh2_dlc09_tmb_cav_necropolis_knights_ror	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh2_dlc09_tmb_cav_nehekhara_horsemen_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh2_dlc09_tmb_cav_nehekhara_horsemen_ror	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh2_dlc09_tmb_cav_skeleton_horsemen_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh2_dlc09_tmb_veh_skeleton_chariot_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh3_dlc29_vmp_cav_drakenhof_templars	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh3_dlc29_vmp_veh_coven_throne	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh3_main_vmp_blood_knights_sword_shield	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh_dlc02_vmp_cav_blood_knights_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh_dlc04_vmp_cav_chillgheists_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh_dlc04_vmp_cav_vereks_reavers_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh_dlc04_vmp_veh_claw_of_nagash_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh_dlc04_vmp_veh_corpse_cart_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh_dlc04_vmp_veh_corpse_cart_1	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh_dlc04_vmp_veh_corpse_cart_2	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh_dlc04_vmp_veh_mortis_engine_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh_main_vmp_cav_black_knights_0	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh_main_vmp_cav_black_knights_3	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh_main_vmp_cav_hexwraiths	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh_main_vmp_veh_black_coach	wh3_dlc29_nag_melee_cavalry_chariots_magical_chariots	false
+			wh2_dlc09_tmb_inf_cairn_wraiths	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc09_tmb_inf_crypt_ghouls	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc09_tmb_inf_nehekhara_warriors_0	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc09_tmb_inf_nehekhara_warriors_ror	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc09_tmb_inf_skeleton_spearmen_0	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc09_tmb_inf_skeleton_spearmen_ror	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc09_tmb_inf_skeleton_warriors_0	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc09_tmb_inf_spirit_host	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc09_tmb_inf_tomb_guard_0	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc09_tmb_inf_tomb_guard_1	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc09_tmb_inf_tomb_guard_ror	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc11_cst_inf_depth_guard_0	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc11_cst_inf_depth_guard_1	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc11_cst_inf_depth_guard_ror_0	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc11_cst_inf_syreens	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc11_cst_inf_zombie_deckhands_mob_0	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc11_cst_inf_zombie_deckhands_mob_1	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc11_cst_inf_zombie_deckhands_mob_ror_0	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh3_dlc29_vmp_inf_lahmian_handmaidens_death	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh3_dlc29_vmp_inf_lahmian_handmaidens_shadow	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh3_dlc29_vmp_inf_skeleton_warriors_0_raise_legion	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh3_dlc29_vmp_inf_spirit_host	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh3_main_vmp_inf_grave_guard_2	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh_dlc04_vmp_inf_feasters_in_the_dusk_0	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh_dlc04_vmp_inf_konigstein_stalkers_0	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh_dlc04_vmp_inf_sternsmen_0	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh_dlc04_vmp_inf_tithe_0	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh_main_vmp_inf_cairn_wraiths	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh_main_vmp_inf_crypt_ghouls	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh_main_vmp_inf_grave_guard_0	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh_main_vmp_inf_grave_guard_1	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh_main_vmp_inf_skeleton_warriors_0	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh_main_vmp_inf_skeleton_warriors_1	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh_main_vmp_inf_zombie	wh3_dlc29_nag_melee_infantry_rank7	false
+			wh2_dlc09_tmb_inf_nehekhara_warriors_ror	wh3_dlc29_nag_melee_infantry_ror	false
+			wh2_dlc09_tmb_inf_skeleton_spearmen_ror	wh3_dlc29_nag_melee_infantry_ror	false
+			wh2_dlc09_tmb_inf_tomb_guard_ror	wh3_dlc29_nag_melee_infantry_ror	false
+			wh2_dlc11_cst_inf_depth_guard_ror_0	wh3_dlc29_nag_melee_infantry_ror	false
+			wh2_dlc11_cst_inf_zombie_deckhands_mob_ror_0	wh3_dlc29_nag_melee_infantry_ror	false
+			wh_dlc04_vmp_inf_feasters_in_the_dusk_0	wh3_dlc29_nag_melee_infantry_ror	false
+			wh_dlc04_vmp_inf_konigstein_stalkers_0	wh3_dlc29_nag_melee_infantry_ror	false
+			wh_dlc04_vmp_inf_sternsmen_0	wh3_dlc29_nag_melee_infantry_ror	false
+			wh_dlc04_vmp_inf_tithe_0	wh3_dlc29_nag_melee_infantry_ror	false
+			wh2_dlc09_tmb_inf_cairn_wraiths	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc09_tmb_inf_crypt_ghouls	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc09_tmb_inf_nehekhara_warriors_0	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc09_tmb_inf_nehekhara_warriors_ror	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc09_tmb_inf_skeleton_spearmen_0	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc09_tmb_inf_skeleton_spearmen_ror	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc09_tmb_inf_skeleton_warriors_0	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc09_tmb_inf_spirit_host	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc09_tmb_inf_tomb_guard_0	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc09_tmb_inf_tomb_guard_1	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc09_tmb_inf_tomb_guard_ror	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc11_cst_inf_depth_guard_0	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc11_cst_inf_depth_guard_1	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc11_cst_inf_depth_guard_ror_0	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc11_cst_inf_syreens	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc11_cst_inf_zombie_deckhands_mob_0	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc11_cst_inf_zombie_deckhands_mob_1	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc11_cst_inf_zombie_deckhands_mob_ror_0	wh3_dlc29_nag_melee_infantry	false
+			wh3_dlc29_vmp_inf_lahmian_handmaidens_death	wh3_dlc29_nag_melee_infantry	false
+			wh3_dlc29_vmp_inf_lahmian_handmaidens_shadow	wh3_dlc29_nag_melee_infantry	false
+			wh3_dlc29_vmp_inf_skeleton_warriors_0_raise_legion	wh3_dlc29_nag_melee_infantry	false
+			wh3_dlc29_vmp_inf_spirit_host	wh3_dlc29_nag_melee_infantry	false
+			wh3_main_vmp_inf_grave_guard_2	wh3_dlc29_nag_melee_infantry	false
+			wh_dlc04_vmp_inf_feasters_in_the_dusk_0	wh3_dlc29_nag_melee_infantry	false
+			wh_dlc04_vmp_inf_konigstein_stalkers_0	wh3_dlc29_nag_melee_infantry	false
+			wh_dlc04_vmp_inf_sternsmen_0	wh3_dlc29_nag_melee_infantry	false
+			wh_dlc04_vmp_inf_tithe_0	wh3_dlc29_nag_melee_infantry	false
+			wh_main_vmp_inf_cairn_wraiths	wh3_dlc29_nag_melee_infantry	false
+			wh_main_vmp_inf_crypt_ghouls	wh3_dlc29_nag_melee_infantry	false
+			wh_main_vmp_inf_grave_guard_0	wh3_dlc29_nag_melee_infantry	false
+			wh_main_vmp_inf_grave_guard_1	wh3_dlc29_nag_melee_infantry	false
+			wh_main_vmp_inf_skeleton_warriors_0	wh3_dlc29_nag_melee_infantry	false
+			wh_main_vmp_inf_skeleton_warriors_1	wh3_dlc29_nag_melee_infantry	false
+			wh_main_vmp_inf_zombie	wh3_dlc29_nag_melee_infantry	false
+			wh2_dlc09_tmb_mon_heirotitan_0	wh3_dlc29_nag_melee_monsters_rank7	false
+			wh2_dlc09_tmb_mon_necrosphinx_0	wh3_dlc29_nag_melee_monsters_rank7	false
+			wh2_dlc09_tmb_mon_necrosphinx_ror	wh3_dlc29_nag_melee_monsters_rank7	false
+			wh2_dlc09_tmb_mon_tomb_scorpion_0	wh3_dlc29_nag_melee_monsters_rank7	false
+			wh2_dlc09_tmb_veh_khemrian_warsphinx_0	wh3_dlc29_nag_melee_monsters_rank7	false
+			wh2_dlc11_cst_mon_rotting_leviathan_0	wh3_dlc29_nag_melee_monsters_rank7	false
+			wh2_dlc11_cst_mon_terrorgheist	wh3_dlc29_nag_melee_monsters_rank7	false
+			wh3_dlc29_tmb_mon_khemric_titan	wh3_dlc29_nag_melee_monsters_rank7	false
+			wh3_dlc29_tmb_mon_khemric_titan_ror	wh3_dlc29_nag_melee_monsters_rank7	false
+			wh3_dlc29_vmp_mon_zombie_dragon	wh3_dlc29_nag_melee_monsters_rank7	false
+			wh_main_vmp_mon_terrorgheist	wh3_dlc29_nag_melee_monsters_rank7	false
+			wh_main_vmp_mon_varghulf	wh3_dlc29_nag_melee_monsters_rank7	false
+			wh2_dlc09_tmb_mon_necrosphinx_ror	wh3_dlc29_nag_melee_monsters_ror	false
+			wh3_dlc29_tmb_mon_khemric_titan_ror	wh3_dlc29_nag_melee_monsters_ror	false
+			wh2_dlc09_tmb_mon_heirotitan_0	wh3_dlc29_nag_melee_monsters	false
+			wh2_dlc09_tmb_mon_necrosphinx_0	wh3_dlc29_nag_melee_monsters	false
+			wh2_dlc09_tmb_mon_necrosphinx_ror	wh3_dlc29_nag_melee_monsters	false
+			wh2_dlc09_tmb_mon_tomb_scorpion_0	wh3_dlc29_nag_melee_monsters	false
+			wh2_dlc09_tmb_veh_khemrian_warsphinx_0	wh3_dlc29_nag_melee_monsters	false
+			wh2_dlc11_cst_mon_rotting_leviathan_0	wh3_dlc29_nag_melee_monsters	false
+			wh2_dlc11_cst_mon_terrorgheist	wh3_dlc29_nag_melee_monsters	false
+			wh3_dlc29_tmb_mon_khemric_titan	wh3_dlc29_nag_melee_monsters	false
+			wh3_dlc29_tmb_mon_khemric_titan_ror	wh3_dlc29_nag_melee_monsters	false
+			wh3_dlc29_vmp_mon_zombie_dragon	wh3_dlc29_nag_melee_monsters	false
+			wh_main_vmp_mon_terrorgheist	wh3_dlc29_nag_melee_monsters	false
+			wh_main_vmp_mon_varghulf	wh3_dlc29_nag_melee_monsters	false
+			wh2_dlc09_tmb_art_casket_of_souls_0	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc09_tmb_art_screaming_skull_catapult_0	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc09_tmb_cav_skeleton_horsemen_archers_0	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc09_tmb_inf_skeleton_archers_0	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc09_tmb_inf_skeleton_archers_ror	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc09_tmb_mon_sepulchral_stalkers_0	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc09_tmb_mon_sepulchral_stalkers_ror	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc09_tmb_mon_ushabti_1	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc09_tmb_mon_ushabti_ror	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc09_tmb_veh_skeleton_archer_chariot_0	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_art_carronade	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_art_mortar	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_art_queen_bess	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_cav_deck_droppers_0	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_cav_deck_droppers_1	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_cav_deck_droppers_2	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_cav_deck_droppers_ror_0	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_inf_deck_gunners_0	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_inf_deck_gunners_ror_0	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_inf_zombie_gunnery_mob_0	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_inf_zombie_gunnery_mob_1	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_inf_zombie_gunnery_mob_2	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_inf_zombie_gunnery_mob_3	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_inf_zombie_gunnery_mob_ror_0	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_mon_necrofex_colossus_0	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_mon_necrofex_colossus_ror_0	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_mon_rotting_prometheans_gunnery_mob_0	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc11_cst_mon_rotting_prometheans_gunnery_mob_ror	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_pro06_tmb_mon_bone_giant_0	wh3_dlc29_nag_missile_artillery_rank7	false
+			wh2_dlc09_tmb_inf_skeleton_archers_ror	wh3_dlc29_nag_missile_artillery_ror	false
+			wh2_dlc09_tmb_mon_sepulchral_stalkers_ror	wh3_dlc29_nag_missile_artillery_ror	false
+			wh2_dlc09_tmb_mon_ushabti_ror	wh3_dlc29_nag_missile_artillery_ror	false
+			wh2_dlc11_cst_art_queen_bess	wh3_dlc29_nag_missile_artillery_ror	false
+			wh2_dlc11_cst_cav_deck_droppers_ror_0	wh3_dlc29_nag_missile_artillery_ror	false
+			wh2_dlc11_cst_inf_deck_gunners_ror_0	wh3_dlc29_nag_missile_artillery_ror	false
+			wh2_dlc11_cst_inf_zombie_gunnery_mob_ror_0	wh3_dlc29_nag_missile_artillery_ror	false
+			wh2_dlc11_cst_mon_necrofex_colossus_ror_0	wh3_dlc29_nag_missile_artillery_ror	false
+			wh2_dlc11_cst_mon_rotting_prometheans_gunnery_mob_ror	wh3_dlc29_nag_missile_artillery_ror	false
+			wh2_dlc09_tmb_art_casket_of_souls_0	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc09_tmb_art_screaming_skull_catapult_0	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc09_tmb_cav_skeleton_horsemen_archers_0	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc09_tmb_inf_skeleton_archers_0	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc09_tmb_inf_skeleton_archers_ror	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc09_tmb_mon_sepulchral_stalkers_0	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc09_tmb_mon_sepulchral_stalkers_ror	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc09_tmb_mon_ushabti_1	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc09_tmb_mon_ushabti_ror	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc09_tmb_veh_skeleton_archer_chariot_0	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_art_carronade	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_art_mortar	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_art_queen_bess	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_cav_deck_droppers_0	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_cav_deck_droppers_1	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_cav_deck_droppers_2	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_cav_deck_droppers_ror_0	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_inf_deck_gunners_0	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_inf_deck_gunners_ror_0	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_inf_zombie_gunnery_mob_0	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_inf_zombie_gunnery_mob_1	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_inf_zombie_gunnery_mob_2	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_inf_zombie_gunnery_mob_3	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_inf_zombie_gunnery_mob_ror_0	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_mon_necrofex_colossus_0	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_mon_necrofex_colossus_ror_0	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_mon_rotting_prometheans_gunnery_mob_0	wh3_dlc29_nag_missile_artillery	false
+			wh2_dlc11_cst_mon_rotting_prometheans_gunnery_mob_ror	wh3_dlc29_nag_missile_artillery	false
+			wh2_pro06_tmb_mon_bone_giant_0	wh3_dlc29_nag_missile_artillery	false
 			wh2_dlc11_cst_mon_necrofex_colossus_0	wh3_dlc29_nag_mon_buff_04	false
 			wh2_dlc11_cst_mon_necrofex_colossus_ror_0	wh3_dlc29_nag_mon_buff_04	false
 			wh2_dlc11_cst_mon_rotting_leviathan_0	wh3_dlc29_nag_mon_buff_04	false
@@ -22405,6 +23349,8 @@ monstrous_cavalry				wh3_dlc29_nag_cav_buff_06_cavalry_chariots	false
 			wh_main_vmp_mon_terrorgheist	wh3_dlc29_nag_monster_rank7	false
 			wh_main_vmp_mon_terrorgheist_qb	wh3_dlc29_nag_monster_rank7	false
 			wh_main_vmp_mon_varghulf	wh3_dlc29_nag_monster_rank7	false
+			wh2_dlc09_tmb_mon_morghast_archai	wh3_dlc29_nag_morghast	false
+			wh2_dlc09_tmb_mon_morghast_harbingers	wh3_dlc29_nag_morghast	false
 			wh3_dlc29_vmp_mon_morghast_archai	wh3_dlc29_nag_morghast	false
 			wh3_dlc29_vmp_mon_morghast_archai_ror	wh3_dlc29_nag_morghast	false
 			wh3_dlc29_vmp_mon_morghast_harbingers	wh3_dlc29_nag_morghast	false
@@ -22422,6 +23368,13 @@ monstrous_cavalry				wh3_dlc29_nag_cav_buff_06_cavalry_chariots	false
 			wh2_dlc11_cst_inf_zombie_gunnery_mob_1	wh3_dlc29_nag_ranged_infantry	false
 			wh2_dlc11_cst_inf_zombie_gunnery_mob_2	wh3_dlc29_nag_ranged_infantry	false
 			wh2_dlc11_cst_inf_zombie_gunnery_mob_3	wh3_dlc29_nag_ranged_infantry	false
+			wh2_dlc09_tmb_cha_liche_priest_shadow_0	wh3_dlc29_nag_shadows_casters	false
+			wh2_dlc09_tmb_cha_liche_priest_shadow_1	wh3_dlc29_nag_shadows_casters	false
+			wh3_dlc29_tmb_cha_liche_high_priest_shadow	wh3_dlc29_nag_shadows_casters	false
+			wh3_dlc29_tmb_cha_liche_high_priest_shadow_skeletal_steed	wh3_dlc29_nag_shadows_casters	false
+			wh_dlc05_vmp_cha_vampire_shadows_0	wh3_dlc29_nag_shadows_casters	false
+			wh_dlc05_vmp_cha_vampire_shadows_1	wh3_dlc29_nag_shadows_casters	false
+			wh_dlc05_vmp_cha_vampire_shadows_2	wh3_dlc29_nag_shadows_casters	false
 			wh2_dlc09_tmb_inf_crypt_ghouls	wh3_dlc29_nag_skeleton_zombie_vampire_infantry	false
 			wh2_dlc09_tmb_inf_nehekhara_warriors_0	wh3_dlc29_nag_skeleton_zombie_vampire_infantry	false
 			wh2_dlc09_tmb_inf_nehekhara_warriors_ror	wh3_dlc29_nag_skeleton_zombie_vampire_infantry	false
@@ -22720,6 +23673,25 @@ monstrous_cavalry				wh3_dlc29_nag_cav_buff_06_cavalry_chariots	false
 			wh3_dlc29_chs_inf_putrid_blightkings_dual_axe	wh3_dlc29_nur_putrid_blightkings	false
 			wh3_dlc29_chs_inf_putrid_blightkings_dual_axe_ror	wh3_dlc29_nur_putrid_blightkings	false
 			wh3_dlc29_chs_inf_putrid_blightkings_great_weapons	wh3_dlc29_nur_putrid_blightkings	false
+			wh3_dlc20_chs_cav_chaos_knights_mnur	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh3_dlc20_chs_cav_chaos_knights_mnur_lances	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh3_dlc20_chs_inf_chosen_mnur	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh3_dlc20_chs_inf_chosen_mnur_greatweapons	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh3_dlc25_nur_cav_rot_knights	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh3_dlc25_nur_cav_rot_knights_ror	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh3_dlc29_chs_inf_chosen_mnur_ror	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh3_dlc29_chs_inf_putrid_blightkings_axe_shield	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh3_dlc29_chs_inf_putrid_blightkings_dual_axe	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh3_dlc29_chs_inf_putrid_blightkings_dual_axe_ror	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh3_dlc29_chs_inf_putrid_blightkings_great_weapons	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh3_main_nur_inf_forsaken_0	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh_dlc01_chs_inf_chosen_2	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh_dlc01_chs_inf_forsaken_0	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh_main_chs_cav_chaos_knights_0	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh_main_chs_cav_chaos_knights_1	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh_main_chs_inf_chosen_0	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh_main_chs_inf_chosen_1	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
+			wh_pro04_chs_inf_forsaken_ror_0	wh3_dlc29_nur_und_warriors_knights_forsaken_blightkings_chosen	false
 			wh3_dlc29_skv_mon_stormfiend_ratling_cannons	wh3_dlc29_ranged_stormfiends_rattling_cannons	false
 			wh3_dlc29_skv_mon_stormfiends_ratling_cannons_ror	wh3_dlc29_ranged_stormfiends_rattling_cannons	false
 			wh3_dlc29_skv_mon_stormfiend_warpfire_projectors	wh3_dlc29_ranged_stormfiends_warpfire_projectors	false
@@ -22758,6 +23730,16 @@ monstrous_cavalry				wh3_dlc29_nag_cav_buff_06_cavalry_chariots	false
 			wh2_dlc14_skv_inf_eshin_triads_0	wh3_dlc29_skv_eshin_triads	false
 			wh2_dlc14_skv_inf_eshin_triads_ror_0	wh3_dlc29_skv_eshin_triads	false
 			wh2_dlc14_skv_inf_eshin_triads_ror_summoned_0	wh3_dlc29_skv_eshin_triads	false
+			wh2_dlc14_skv_inf_death_runners_ror_0	wh3_dlc29_skv_eshin	false
+			wh2_dlc14_skv_inf_eshin_triads_0	wh3_dlc29_skv_eshin	false
+			wh2_dlc14_skv_inf_eshin_triads_ror_0	wh3_dlc29_skv_eshin	false
+			wh2_main_skv_inf_death_runners_0	wh3_dlc29_skv_eshin	false
+			wh2_main_skv_inf_gutter_runner_slingers_0	wh3_dlc29_skv_eshin	false
+			wh2_main_skv_inf_gutter_runner_slingers_1	wh3_dlc29_skv_eshin	false
+			wh2_main_skv_inf_gutter_runners_0	wh3_dlc29_skv_eshin	false
+			wh2_main_skv_inf_gutter_runners_1	wh3_dlc29_skv_eshin	false
+			wh2_main_skv_inf_night_runners_0	wh3_dlc29_skv_eshin	false
+			wh2_main_skv_inf_night_runners_1	wh3_dlc29_skv_eshin	false
 			wh2_dlc14_skv_inf_death_runners_ror_0	wh3_dlc29_skv_gutter_runners_deathrunners_eshin_triads_warpgrinders	false
 			wh2_dlc14_skv_inf_eshin_triads_0	wh3_dlc29_skv_gutter_runners_deathrunners_eshin_triads_warpgrinders	false
 			wh2_dlc14_skv_inf_eshin_triads_ror_0	wh3_dlc29_skv_gutter_runners_deathrunners_eshin_triads_warpgrinders	false
@@ -22776,9 +23758,11 @@ monstrous_cavalry				wh3_dlc29_nag_cav_buff_06_cavalry_chariots	false
 			wh2_main_skv_inf_gutter_runners_0	wh3_dlc29_skv_gutter_runners_deathrunners_eshin_triads	false
 			wh2_main_skv_inf_gutter_runners_1	wh3_dlc29_skv_gutter_runners_deathrunners_eshin_triads	false
 			wh2_dlc12_skv_inf_plague_monk_censer_bearer_ror_0	wh3_dlc29_skv_plague_knowledge_units	false
+			wh2_main_skv_art_plagueclaw_catapult	wh3_dlc29_skv_plague_knowledge_units	false
 			wh2_main_skv_inf_plague_monk_censer_bearer	wh3_dlc29_skv_plague_knowledge_units	false
 			wh2_main_skv_inf_plague_monks	wh3_dlc29_skv_plague_knowledge_units	false
 			wh2_main_skv_inf_plague_monks_summoned	wh3_dlc29_skv_plague_knowledge_units	false
+			wh3_dlc29_skv_art_plagueclaw_catapult_ror	wh3_dlc29_skv_plague_knowledge_units	false
 			wh3_dlc29_skv_inf_pusbags	wh3_dlc29_skv_plague_knowledge_units	false
 			wh3_dlc29_skv_veh_cauldron_of_a_thousand_poxes	wh3_dlc29_skv_plague_knowledge_units	false
 			wh2_main_skv_cha_plague_priest_0	wh3_dlc29_skv_plague_priests	false
@@ -22861,6 +23845,7 @@ monstrous_cavalry				wh3_dlc29_nag_cav_buff_06_cavalry_chariots	false
 			wh3_dlc29_skv_art_warp_doom_magma_cannon	wh3_dlc29_skv_warp_cannons_and_doomwheel	false
 			wh3_dlc29_skv_art_warp_doom_magma_cannon	wh3_dlc29_skv_warp_doom_magma_cannon_unit_rank7	false
 			wh3_dlc29_skv_art_warp_doom_magma_cannon	wh3_dlc29_skv_warp_doom_magma_cannon_unit	false
+			wh2_dlc12_skv_art_warp_lightning_cannon_ror_0	wh3_dlc29_skv_warp_tech_knowledge_units	false
 			wh2_dlc12_skv_art_warplock_jezzails_ror_tech_lab_0	wh3_dlc29_skv_warp_tech_knowledge_units	false
 			wh2_dlc12_skv_inf_ratling_gun_0	wh3_dlc29_skv_warp_tech_knowledge_units	false
 			wh2_dlc12_skv_inf_ratling_gun_ror_0	wh3_dlc29_skv_warp_tech_knowledge_units	false
@@ -22868,13 +23853,23 @@ monstrous_cavalry				wh3_dlc29_nag_cav_buff_06_cavalry_chariots	false
 			wh2_dlc12_skv_inf_warpfire_thrower_ror_tech_lab_0	wh3_dlc29_skv_warp_tech_knowledge_units	false
 			wh2_dlc12_skv_inf_warplock_jezzails_0	wh3_dlc29_skv_warp_tech_knowledge_units	false
 			wh2_dlc12_skv_inf_warplock_jezzails_ror_0	wh3_dlc29_skv_warp_tech_knowledge_units	false
+			wh2_dlc12_skv_veh_doom_flayer_0	wh3_dlc29_skv_warp_tech_knowledge_units	false
+			wh2_dlc12_skv_veh_doom_flayer_ror_0	wh3_dlc29_skv_warp_tech_knowledge_units	false
+			wh2_dlc12_skv_veh_doom_flayer_ror_tech_lab_0	wh3_dlc29_skv_warp_tech_knowledge_units	false
+			wh2_dlc12_skv_veh_doomwheel_ror_0	wh3_dlc29_skv_warp_tech_knowledge_units	false
+			wh2_dlc12_skv_veh_doomwheel_ror_tech_lab_0	wh3_dlc29_skv_warp_tech_knowledge_units	false
 			wh2_dlc14_skv_inf_poison_wind_mortar_0	wh3_dlc29_skv_warp_tech_knowledge_units	false
 			wh2_dlc14_skv_inf_poison_wind_mortar_ror_0	wh3_dlc29_skv_warp_tech_knowledge_units	false
+			wh2_main_skv_art_warp_lightning_cannon	wh3_dlc29_skv_warp_tech_knowledge_units	false
 			wh2_main_skv_inf_death_globe_bombardiers	wh3_dlc29_skv_warp_tech_knowledge_units	false
 			wh2_main_skv_inf_poison_wind_globadiers	wh3_dlc29_skv_warp_tech_knowledge_units	false
 			wh2_main_skv_inf_warpfire_thrower	wh3_dlc29_skv_warp_tech_knowledge_units	false
+			wh2_main_skv_veh_doomwheel	wh3_dlc29_skv_warp_tech_knowledge_units	false
 			wh3_dlc29_skv_inf_poison_wind_mortar_0_summoned	wh3_dlc29_skv_warp_tech_knowledge_units	false
+			wh3_dlc29_skv_mon_stormfiend_doomflayer_gauntlets	wh3_dlc29_skv_warp_tech_knowledge_units	false
+			wh3_dlc29_skv_mon_stormfiend_grinderfists	wh3_dlc29_skv_warp_tech_knowledge_units	false
 			wh3_dlc29_skv_mon_stormfiend_ratling_cannons	wh3_dlc29_skv_warp_tech_knowledge_units	false
+			wh3_dlc29_skv_mon_stormfiend_shock_gauntlets	wh3_dlc29_skv_warp_tech_knowledge_units	false
 			wh3_dlc29_skv_mon_stormfiend_warpfire_projectors	wh3_dlc29_skv_warp_tech_knowledge_units	false
 			wh3_dlc29_skv_mon_stormfiend_windlaunchers	wh3_dlc29_skv_warp_tech_knowledge_units	false
 			wh3_dlc29_skv_mon_stormfiends_ratling_cannons_ror	wh3_dlc29_skv_warp_tech_knowledge_units	false

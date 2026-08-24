@@ -40,7 +40,7 @@ minor_key_building_missile	capture_point_missile_minor	0.0000	3
 minor_key_building_movement	capture_point_movement_minor	0.0000	3
 minor_key_building_replenishment	capture_point_replenishment_minor	0.0000	3
 minor_point_supplies	capture_point_supplies_minor	0.0000	3
-nag_final_battle_01	capture_point_major	0.0000	5
+nag_final_battle_01	capture_point_magic_major	0.0000	5
 nur_surv_01	capture_point_movement_major	0.0000	1
 nur_surv_02	capture_point_melee_major	0.0000	2
 nur_surv_03	capture_point_magic_major	0.0000	3

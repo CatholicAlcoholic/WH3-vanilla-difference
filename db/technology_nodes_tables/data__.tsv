@@ -710,17 +710,17 @@ wh2_main_tech_hef_5_08			3	wh2_main_tech_hef_5_07	hef_mil	18	100	6000	0	hef_5		0
 wh2_main_tech_lzd_0_1			4	wh2_main_tech_lzd_0_1	lzd_mil	6	1000	0	0	lzd_creation		0	-100	0
 wh2_main_tech_lzd_0_2			5	wh2_main_tech_lzd_0_2	lzd_mil	6	1000	0	0	lzd_creation		0	-100	0
 wh2_main_tech_lzd_2_1			1	wh2_main_tech_lzd_2_1	lzd_mil	1	400	0	0	lzd_war		0	-100	0
-wh2_main_tech_lzd_2_2			7	wh2_main_tech_lzd_2_2	lzd_mil	5	400	2000	0	lzd_agents		0	-100	0
+wh2_main_tech_lzd_2_2			7	wh2_main_tech_lzd_2_2	lzd_mil	5	400	0	0	lzd_agents	wh3_lzd_technology_agents	0	-100	0
 wh2_main_tech_lzd_2_3			1	wh2_main_tech_lzd_2_3	lzd_mil	2	400	0	0	lzd_war		0	-100	0
 wh2_main_tech_lzd_2_4			-2	wh2_main_tech_lzd_2_4	lzd_mil	6	400	0	0	lzd_order		0	-250	70
 wh2_main_tech_lzd_2_5			2	wh2_main_tech_lzd_2_5	lzd_mil	1	400	0	0	lzd_war		0	-100	0
 wh2_main_tech_lzd_2_6			-2	wh2_main_tech_lzd_2_6	lzd_mil	5	400	0	0	lzd_order		0	-250	70
 wh2_main_tech_lzd_2_7			2	wh2_main_tech_lzd_2_7	lzd_mil	2	400	0	0	lzd_war		0	-100	0
 wh2_main_tech_lzd_3_1			-2	wh2_main_tech_lzd_3_1	lzd_mil	4	400	0	0	lzd_order		0	-250	70
-wh2_main_tech_lzd_3_2			7	wh2_main_tech_lzd_3_2	lzd_mil	3	400	2000	0	lzd_agents		0	-100	0
+wh2_main_tech_lzd_3_2			7	wh2_main_tech_lzd_3_2	lzd_mil	3	400	0	0	lzd_agents	wh3_lzd_technology_agents	0	-100	0
 wh2_main_tech_lzd_3_3			0	wh2_main_tech_lzd_3_3	lzd_mil	5	400	0	0	lzd_order		0	-250	70
 wh2_main_tech_lzd_3_4			-1	wh2_main_tech_lzd_3_4	lzd_mil	5	400	0	0	lzd_order		0	-250	70
-wh2_main_tech_lzd_3_5			7	wh2_main_tech_lzd_3_5	lzd_mil	2	400	2000	0	lzd_agents		0	-100	0
+wh2_main_tech_lzd_3_5			7	wh2_main_tech_lzd_3_5	lzd_mil	2	400	0	0	lzd_agents	wh3_lzd_technology_agents	0	-100	0
 wh2_main_tech_lzd_3_6			-1	wh2_main_tech_lzd_3_6	lzd_mil	4	400	0	0	lzd_order		0	-250	70
 wh2_main_tech_lzd_4_1			4	wh2_main_tech_lzd_4_1	lzd_mil	1	400	0	0	lzd_creation		0	-100	0
 wh2_main_tech_lzd_4_2			4	wh2_main_tech_lzd_4_2	lzd_mil	5	400	0	0	lzd_creation		0	-100	0
@@ -735,7 +735,7 @@ wh2_main_tech_lzd_5_4			0	wh2_main_tech_lzd_5_4	lzd_mil	4	400	0	0	lzd_order		0	-
 wh2_main_tech_lzd_5_5			0	wh2_main_tech_lzd_5_5	lzd_mil	6	400	0	0	lzd_order		0	-250	70
 wh2_main_tech_lzd_5_6			4	wh2_main_tech_lzd_5_6	lzd_mil	4	400	0	0			0	0	0
 wh2_main_tech_lzd_5_7			5	wh2_main_tech_lzd_5_7	lzd_mil	5	400	0	0	lzd_creation		0	-100	0
-wh2_main_tech_lzd_agent_3			7	wh2_main_tech_lzd_agent_3	lzd_mil	4	400	2000	0	lzd_agents		0	-100	0
+wh2_main_tech_lzd_agent_3			7	wh2_main_tech_lzd_agent_3	lzd_mil	4	400	0	0	lzd_agents	wh3_lzd_technology_agents	0	-100	0
 wh2_main_tech_lzd_beasts_1			2	wh2_main_tech_lzd_8_1	lzd_mil	21	600	0	0	lzd_beasts		0	0	0
 wh2_main_tech_lzd_beasts_2			3	wh2_main_tech_lzd_8_6	lzd_mil	21	600	0	0	lzd_beasts		0	0	0
 wh2_main_tech_lzd_beasts_3			2	wh2_main_tech_lzd_8_5	lzd_mil	22	600	0	0	lzd_beasts		0	0	0
@@ -1300,25 +1300,26 @@ wh3_dlc29_tech_emp_state_troops_5_boris		wh_main_emp_middenland	7	wh3_dlc25_tech
 wh3_dlc29_tech_emp_state_troops_5_volkmar		wh3_main_emp_cult_of_sigmar	7	wh3_dlc25_tech_emp_state_troops_5	emp_civ_reworkd	7	100	7500	0	emp_state_troops_elspeth		0	63	42
 wh3_dlc29_tech_emp_state_troops_6_boris		wh_main_emp_middenland	7	wh3_dlc25_tech_emp_state_troops_6	emp_civ_reworkd	9	100	7500	0	emp_state_troops_elspeth		0	63	42
 wh3_dlc29_tech_emp_state_troops_6_volkmar		wh3_main_emp_cult_of_sigmar	7	wh3_dlc25_tech_emp_state_troops_6	emp_civ_reworkd	8	100	7500	0	emp_state_troops_elspeth		0	63	42
-wh3_dlc29_tech_nef_covens_1		wh3_dlc29_vmp_neferata	6	wh3_dlc29_tech_nef_covens_1	vmp_mil	63	100	0	0	wh3_dlc29_nef_covens		0	40	0
+wh3_dlc29_tech_nef_covens_1		wh3_dlc29_vmp_neferata	6	wh3_dlc29_tech_nef_covens_1	vmp_mil	63	100	0	0	wh3_dlc29_nef_covens	wh3_dlc29_neferata_tech_manipulation_100	0	40	0
 wh3_dlc29_tech_nef_covens_2a		wh3_dlc29_vmp_neferata	7	wh3_dlc29_tech_nef_covens_2a	vmp_mil	61	200	0	0	wh3_dlc29_nef_covens		0	180	10
 wh3_dlc29_tech_nef_covens_2b		wh3_dlc29_vmp_neferata	7	wh3_dlc29_tech_nef_covens_2b	vmp_mil	62	200	0	0	wh3_dlc29_nef_covens		0	160	10
 wh3_dlc29_tech_nef_covens_2c		wh3_dlc29_vmp_neferata	7	wh3_dlc29_tech_nef_covens_2c	vmp_mil	64	200	0	0	wh3_dlc29_nef_covens		0	-80	10
 wh3_dlc29_tech_nef_covens_2d		wh3_dlc29_vmp_neferata	7	wh3_dlc29_tech_nef_covens_2d	vmp_mil	65	200	0	0	wh3_dlc29_nef_covens		0	-100	10
-wh3_dlc29_tech_nef_covens_3		wh3_dlc29_vmp_neferata	8	wh3_dlc29_tech_nef_covens_3	vmp_mil	63	100	0	0	wh3_dlc29_nef_covens	wh3_main_vmp_unit_tech_cost_500	0	40	20
-wh3_dlc29_tech_nef_handmaidens_1		wh3_dlc29_vmp_neferata	2	wh3_dlc29_tech_nef_handmaidens_1	vmp_mil	63	100	0	0	wh3_dlc29_nef_handmaidens		0	40	20
-wh3_dlc29_tech_nef_handmaidens_2a		wh3_dlc29_vmp_neferata	1	wh3_dlc29_tech_nef_handmaidens_2a	vmp_mil	61	100	0	0	wh3_dlc29_nef_handmaidens	wh3_main_vmp_unit_tech_cost_300	0	80	3
-wh3_dlc29_tech_nef_handmaidens_2b		wh3_dlc29_vmp_neferata	1	wh3_dlc29_tech_nef_handmaidens_2b	vmp_mil	62	100	0	0	wh3_dlc29_nef_handmaidens	wh3_main_vmp_unit_tech_cost_300	0	60	3
-wh3_dlc29_tech_nef_handmaidens_2c		wh3_dlc29_vmp_neferata	1	wh3_dlc29_tech_nef_handmaidens_2c	vmp_mil	63	100	0	0	wh3_dlc29_nef_handmaidens	wh3_main_vmp_unit_tech_cost_300	0	40	3
-wh3_dlc29_tech_nef_handmaidens_2d		wh3_dlc29_vmp_neferata	1	wh3_dlc29_tech_nef_handmaidens_2d	vmp_mil	64	100	0	0	wh3_dlc29_nef_handmaidens	wh3_main_vmp_unit_tech_cost_300	0	20	3
-wh3_dlc29_tech_nef_handmaidens_2e		wh3_dlc29_vmp_neferata	1	wh3_dlc29_tech_nef_handmaidens_2e	vmp_mil	65	100	0	0	wh3_dlc29_nef_handmaidens	wh3_main_vmp_unit_tech_cost_300	0	0	3
-wh3_dlc29_tech_nef_handmaidens_3a		wh3_dlc29_vmp_neferata	0	wh3_dlc29_tech_nef_handmaidens_3a	vmp_mil	61	200	0	0	wh3_dlc29_nef_handmaidens		0	80	6
-wh3_dlc29_tech_nef_handmaidens_3b		wh3_dlc29_vmp_neferata	0	wh3_dlc29_tech_nef_handmaidens_3b	vmp_mil	62	200	0	0	wh3_dlc29_nef_handmaidens		0	60	6
-wh3_dlc29_tech_nef_handmaidens_3c		wh3_dlc29_vmp_neferata	0	wh3_dlc29_tech_nef_handmaidens_3c	vmp_mil	63	200	0	0	wh3_dlc29_nef_handmaidens		0	40	6
-wh3_dlc29_tech_nef_handmaidens_3d		wh3_dlc29_vmp_neferata	0	wh3_dlc29_tech_nef_handmaidens_3d	vmp_mil	64	200	0	0	wh3_dlc29_nef_handmaidens		0	20	6
-wh3_dlc29_tech_nef_handmaidens_3e		wh3_dlc29_vmp_neferata	0	wh3_dlc29_tech_nef_handmaidens_3e	vmp_mil	65	200	0	0	wh3_dlc29_nef_handmaidens		0	0	6
+wh3_dlc29_tech_nef_covens_3		wh3_dlc29_vmp_neferata	8	wh3_dlc29_tech_nef_covens_3	vmp_mil	63	100	0	0	wh3_dlc29_nef_covens	wh3_dlc29_neferata_tech_manipulation_200	0	40	20
+wh3_dlc29_tech_nef_handmaidens_1		wh3_dlc29_vmp_neferata	2	wh3_dlc29_tech_nef_handmaidens_1	vmp_mil	63	200	0	0	wh3_dlc29_nef_handmaidens		0	40	20
+wh3_dlc29_tech_nef_handmaidens_2a		wh3_dlc29_vmp_neferata	1	wh3_dlc29_tech_nef_handmaidens_2a	vmp_mil	61	100	0	0	wh3_dlc29_nef_handmaidens	wh3_dlc29_neferata_tech_manipulation_100	0	80	3
+wh3_dlc29_tech_nef_handmaidens_2b		wh3_dlc29_vmp_neferata	1	wh3_dlc29_tech_nef_handmaidens_2e	vmp_mil	62	100	0	0	wh3_dlc29_nef_handmaidens	wh3_dlc29_neferata_tech_manipulation_150	0	60	3
+wh3_dlc29_tech_nef_handmaidens_2c		wh3_dlc29_vmp_neferata	1	wh3_dlc29_tech_nef_handmaidens_2c	vmp_mil	63	100	0	0	wh3_dlc29_nef_handmaidens	wh3_dlc29_neferata_tech_manipulation_200	0	40	3
+wh3_dlc29_tech_nef_handmaidens_2d		wh3_dlc29_vmp_neferata	1	wh3_dlc29_tech_nef_handmaidens_2d	vmp_mil	64	100	0	0	wh3_dlc29_nef_handmaidens	wh3_dlc29_neferata_tech_manipulation_150	0	20	3
+wh3_dlc29_tech_nef_handmaidens_2e		wh3_dlc29_vmp_neferata	1	wh3_dlc29_tech_nef_handmaidens_2b	vmp_mil	65	100	0	0	wh3_dlc29_nef_handmaidens	wh3_dlc29_neferata_tech_manipulation_100	0	0	3
+wh3_dlc29_tech_nef_handmaidens_3a		wh3_dlc29_vmp_neferata	0	wh3_dlc29_tech_nef_handmaidens_3a	vmp_mil	61	200	0	0	wh3_dlc29_nef_handmaidens		0	80	-3
+wh3_dlc29_tech_nef_handmaidens_3b		wh3_dlc29_vmp_neferata	0	wh3_dlc29_tech_nef_handmaidens_3e	vmp_mil	62	200	0	0	wh3_dlc29_nef_handmaidens		0	60	-3
+wh3_dlc29_tech_nef_handmaidens_3c		wh3_dlc29_vmp_neferata	0	wh3_dlc29_tech_nef_handmaidens_3c	vmp_mil	63	200	0	0	wh3_dlc29_nef_handmaidens		0	40	-3
+wh3_dlc29_tech_nef_handmaidens_3d		wh3_dlc29_vmp_neferata	0	wh3_dlc29_tech_nef_handmaidens_3d	vmp_mil	64	200	0	0	wh3_dlc29_nef_handmaidens		0	20	-3
+wh3_dlc29_tech_nef_handmaidens_3e		wh3_dlc29_vmp_neferata	0	wh3_dlc29_tech_nef_handmaidens_3b	vmp_mil	65	200	0	0	wh3_dlc29_nef_handmaidens		0	0	-3
 wh3_dlc29_tech_nef_imentet_1		wh3_dlc29_vmp_neferata	4	wh3_dlc29_tech_nef_imentet_1	vmp_mil	61	100	0	0			0	80	0
 wh3_dlc29_tech_nef_imentet_2		wh3_dlc29_vmp_neferata	4	wh3_dlc29_tech_nef_imentet_2	vmp_mil	62	200	0	0			0	100	0
+wh3_dlc29_tech_nef_imentet_3		wh3_dlc29_vmp_neferata	4	wh3_dlc29_tech_nef_imentet_3	vmp_mil	64	100	0	0		wh3_dlc29_neferata_tech_manipulation_500	0	20	0
 wh3_main_chs_belakor_kho_0			0	wh3_dlc20_chs_kho_shared_gift_upgrade_authority	chs_mil_belakor	1	400	0	0	chs_kho		0	0	0
 wh3_main_chs_belakor_kho_1			0	wh3_dlc20_chs_kho_shared_gift_upgrade_corruption	chs_mil_belakor	2	400	0	0	chs_kho		0	0	0
 wh3_main_chs_belakor_kho_2			1	wh3_dlc20_chs_kho_shared_gift_upgrade_diplomacy	chs_mil_belakor	1	400	0	0	chs_kho		0	0	0
@@ -1727,46 +1728,46 @@ wh3_main_tech_tze_4_7			2	wh3_main_tech_tze_4_1	tze_mil	9	400	0	0		wh3_dlc24_tze
 wh3_main_tech_tze_4_8			4	wh3_main_tech_tze_4_8	tze_mil	9	400	0	0			0	400	0
 wh3_main_tech_tze_4_9			4	wh3_main_tech_tze_4_4	tze_mil	10	400	0	0		wh3_dlc24_tze_tech_grimoires_30	1	400	0
 wh3_main_tech_vmp_necromancers_0			9	wh3_main_tech_vmp_necromancers_0	vmp_mil	22	100	0	0			0	250	50
-wh3_main_tech_vmp_necromancers_1			8	wh3_main_tech_vmp_necromancers_1	vmp_mil	22	100	0	0		wh3_main_vmp_unit_tech_cost_100	0	250	20
-wh3_main_tech_vmp_necromancers_2			6	wh3_main_tech_vmp_necromancers_2	vmp_mil	22	100	0	0		wh3_main_vmp_unit_tech_cost_200	0	250	0
-wh3_main_tech_vmp_necromancers_3			4	wh3_main_tech_vmp_necromancers_3	vmp_mil	22	100	0	0		wh3_main_vmp_unit_tech_cost_300	0	250	-50
-wh3_main_tech_vmp_necromancers_4			2	wh3_main_tech_vmp_necromancers_4	vmp_mil	22	100	0	0		wh3_main_vmp_unit_tech_cost_400	0	250	-70
-wh3_main_tech_vmp_necromancers_corpses_1			3	wh3_main_tech_vmp_necromancers_corpses_1	vmp_mil	23	200	0	0	wh3_main_vmp_corpses		0	300	-45
-wh3_main_tech_vmp_necromancers_corpses_2			3	wh3_main_tech_vmp_necromancers_corpses_2	vmp_mil	24	200	0	0	wh3_main_vmp_corpses		0	300	-45
-wh3_main_tech_vmp_necromancers_deadrise_1a			8	wh3_main_tech_vmp_necromancers_deadrise_1a	vmp_mil	23	200	0	0	wh3_main_vmp_dead_rise		0	300	20
-wh3_main_tech_vmp_necromancers_deadrise_1b			8	wh3_main_tech_vmp_necromancers_deadrise_1b	vmp_mil	24	200	0	0	wh3_main_vmp_dead_rise		0	300	20
-wh3_main_tech_vmp_necromancers_deadrise_2a			7	wh3_main_tech_vmp_necromancers_deadrise_2a	vmp_mil	23	200	0	0	wh3_main_vmp_dead_rise		0	300	20
-wh3_main_tech_vmp_necromancers_deadrise_2b			7	wh3_main_tech_vmp_necromancers_deadrise_2b	vmp_mil	24	200	0	0	wh3_main_vmp_dead_rise		0	300	20
-wh3_main_tech_vmp_necromancers_deadrise_3a			6	wh3_main_tech_vmp_necromancers_deadrise_3a	vmp_mil	23	200	0	0	wh3_main_vmp_dead_rise		0	300	20
-wh3_main_tech_vmp_necromancers_deadrise_3b			6	wh3_main_tech_vmp_necromancers_deadrise_3b	vmp_mil	24	200	0	0	wh3_main_vmp_dead_rise		0	300	20
+wh3_main_tech_vmp_necromancers_1			8	wh3_main_tech_vmp_necromancers_1	vmp_mil	22	100	0	0		wh3_main_vmp_unit_tech_cost_200	0	250	20
+wh3_main_tech_vmp_necromancers_2			6	wh3_main_tech_vmp_necromancers_2	vmp_mil	22	100	0	0		wh3_main_vmp_unit_tech_cost_300	0	250	0
+wh3_main_tech_vmp_necromancers_3			4	wh3_main_tech_vmp_necromancers_3	vmp_mil	22	100	0	0		wh3_main_vmp_unit_tech_cost_400	0	250	-50
+wh3_main_tech_vmp_necromancers_4			2	wh3_main_tech_vmp_necromancers_4	vmp_mil	22	100	0	0		wh3_main_vmp_unit_tech_cost_500	0	250	-70
+wh3_main_tech_vmp_necromancers_corpses_1			3	wh3_main_tech_vmp_necromancers_corpses_1	vmp_mil	23	300	0	0	wh3_main_vmp_corpses		0	300	-45
+wh3_main_tech_vmp_necromancers_corpses_2			3	wh3_main_tech_vmp_necromancers_corpses_2	vmp_mil	24	400	0	0	wh3_main_vmp_corpses		0	300	-45
+wh3_main_tech_vmp_necromancers_deadrise_1a			8	wh3_main_tech_vmp_necromancers_deadrise_1a	vmp_mil	23	300	0	0	wh3_main_vmp_dead_rise		0	300	20
+wh3_main_tech_vmp_necromancers_deadrise_1b			8	wh3_main_tech_vmp_necromancers_deadrise_1b	vmp_mil	24	300	0	0	wh3_main_vmp_dead_rise		0	300	20
+wh3_main_tech_vmp_necromancers_deadrise_2a			7	wh3_main_tech_vmp_necromancers_deadrise_2a	vmp_mil	23	300	0	0	wh3_main_vmp_dead_rise		0	300	20
+wh3_main_tech_vmp_necromancers_deadrise_2b			7	wh3_main_tech_vmp_necromancers_deadrise_2b	vmp_mil	24	300	0	0	wh3_main_vmp_dead_rise		0	300	20
+wh3_main_tech_vmp_necromancers_deadrise_3a			6	wh3_main_tech_vmp_necromancers_deadrise_3a	vmp_mil	23	300	0	0	wh3_main_vmp_dead_rise		0	300	20
+wh3_main_tech_vmp_necromancers_deadrise_3b			6	wh3_main_tech_vmp_necromancers_deadrise_3b	vmp_mil	24	300	0	0	wh3_main_vmp_dead_rise		0	300	20
 wh3_main_tech_vmp_necromancers_dieter_helnisnicht_1			4	wh3_main_tech_vmp_necromancers_dieter_helnisnicht_1	vmp_mil	24	100	0	0		wh3_main_vmp_unit_tech_cost_500	0	300	15
-wh3_main_tech_vmp_necromancers_final_1			1	wh3_main_tech_vmp_necromancers_final_1	vmp_mil	20	300	0	0			0	250	-70
-wh3_main_tech_vmp_necromancers_final_2			1	wh3_main_tech_vmp_necromancers_final_2	vmp_mil	21	300	0	0			0	250	-70
-wh3_main_tech_vmp_necromancers_final_3			1	wh3_main_tech_vmp_necromancers_final_3	vmp_mil	22	300	0	0			0	250	-110
-wh3_main_tech_vmp_necromancers_final_4			1	wh3_main_tech_vmp_necromancers_final_4	vmp_mil	23	300	0	0			0	250	-70
-wh3_main_tech_vmp_necromancers_final_5			1	wh3_main_tech_vmp_necromancers_final_5	vmp_mil	24	300	0	0			0	250	-70
-wh3_main_tech_vmp_necromancers_misc_1			8	wh3_main_tech_vmp_necromancers_misc_1	vmp_mil	20	200	0	0			0	250	20
-wh3_main_tech_vmp_necromancers_misc_10			3	wh3_main_tech_vmp_necromancers_misc_10	vmp_mil	21	200	0	0			0	250	-60
+wh3_main_tech_vmp_necromancers_final_1			1	wh3_main_tech_vmp_necromancers_final_1	vmp_mil	20	400	0	0			0	250	-70
+wh3_main_tech_vmp_necromancers_final_2			1	wh3_main_tech_vmp_necromancers_final_2	vmp_mil	21	400	0	0			0	250	-90
+wh3_main_tech_vmp_necromancers_final_3			1	wh3_main_tech_vmp_necromancers_final_3	vmp_mil	22	400	0	0			0	250	-110
+wh3_main_tech_vmp_necromancers_final_4			1	wh3_main_tech_vmp_necromancers_final_4	vmp_mil	23	400	0	0			0	250	-90
+wh3_main_tech_vmp_necromancers_final_5			1	wh3_main_tech_vmp_necromancers_final_5	vmp_mil	24	400	0	0			0	250	-70
+wh3_main_tech_vmp_necromancers_misc_1			8	wh3_main_tech_vmp_necromancers_misc_1	vmp_mil	20	300	0	0			0	250	20
+wh3_main_tech_vmp_necromancers_misc_10			3	wh3_main_tech_vmp_necromancers_misc_10	vmp_mil	21	300	0	0			0	250	-60
 wh3_main_tech_vmp_necromancers_misc_11			4	wh3_main_tech_vmp_necromancers_misc_11	vmp_mil	23	300	0	0			0	300	15
 wh3_main_tech_vmp_necromancers_misc_2			8	wh3_main_tech_vmp_necromancers_misc_2	vmp_mil	21	200	0	0			0	250	20
 wh3_main_tech_vmp_necromancers_misc_3			7	wh3_main_tech_vmp_necromancers_misc_3	vmp_mil	20	200	0	0			0	380	0
 wh3_main_tech_vmp_necromancers_misc_4			6	wh3_main_tech_vmp_necromancers_misc_4	vmp_mil	20	200	0	0			0	250	-10
 wh3_main_tech_vmp_necromancers_misc_5			6	wh3_main_tech_vmp_necromancers_misc_5	vmp_mil	21	200	0	0			0	250	-10
-wh3_main_tech_vmp_necromancers_misc_6			5	wh3_main_tech_vmp_necromancers_misc_6	vmp_mil	20	200	0	0			0	250	-30
-wh3_main_tech_vmp_necromancers_misc_7			5	wh3_main_tech_vmp_necromancers_misc_7	vmp_mil	21	200	0	0			0	250	-30
-wh3_main_tech_vmp_necromancers_misc_8			4	wh3_main_tech_vmp_necromancers_misc_8	vmp_mil	20	200	0	0			0	380	-50
-wh3_main_tech_vmp_necromancers_misc_9			3	wh3_main_tech_vmp_necromancers_misc_9	vmp_mil	20	200	0	0			0	250	-60
+wh3_main_tech_vmp_necromancers_misc_6			5	wh3_main_tech_vmp_necromancers_misc_6	vmp_mil	20	300	0	0			0	250	-30
+wh3_main_tech_vmp_necromancers_misc_7			5	wh3_main_tech_vmp_necromancers_misc_7	vmp_mil	21	300	0	0			0	250	-30
+wh3_main_tech_vmp_necromancers_misc_8			4	wh3_main_tech_vmp_necromancers_misc_8	vmp_mil	20	300	0	0			0	380	-50
+wh3_main_tech_vmp_necromancers_misc_9			3	wh3_main_tech_vmp_necromancers_misc_9	vmp_mil	20	300	0	0			0	250	-60
 wh3_main_tech_vmp_units_coach_engine_1			7	wh3_main_tech_vmp_units_coach_engine_1	vmp_mil	44	100	0	0	wh3_main_vmp_units_2	wh3_main_vmp_unit_tech_cost_500	0	140	30
 wh3_main_tech_vmp_units_coach_engine_2			6	wh3_main_tech_vmp_units_coach_engine_2	vmp_mil	44	300	0	0	wh3_main_vmp_units_2		0	140	15
 wh3_main_tech_vmp_units_coach_engine_3			5	wh3_main_tech_vmp_units_coach_engine_3	vmp_mil	44	300	0	0	wh3_main_vmp_units_2		0	140	0
 wh3_main_tech_vmp_units_crypt_ghouls_1			2	wh3_main_tech_vmp_units_crypt_ghouls_1	vmp_mil	43	100	0	0	wh3_main_vmp_units_1	wh3_main_vmp_unit_tech_cost_200	0	150	0
-wh3_main_tech_vmp_units_crypt_ghouls_2			1	wh3_main_tech_vmp_units_crypt_ghouls_2	vmp_mil	43	200	0	0	wh3_main_vmp_units_1		0	150	-15
+wh3_main_tech_vmp_units_crypt_ghouls_2			1	wh3_main_tech_vmp_units_crypt_ghouls_2	vmp_mil	43	300	0	0	wh3_main_vmp_units_1		0	150	-15
 wh3_main_tech_vmp_units_crypt_ghouls_3			0	wh3_main_tech_vmp_units_crypt_ghouls_3	vmp_mil	43	300	0	0	wh3_main_vmp_units_1		0	150	-30
 wh3_main_tech_vmp_units_dogs_bats_1			2	wh3_main_tech_vmp_units_dogs_bats_1	vmp_mil	45	100	0	0	wh3_main_vmp_units_1	wh3_main_vmp_unit_tech_cost_100	0	130	0
-wh3_main_tech_vmp_units_dogs_bats_2			1	wh3_main_tech_vmp_units_dogs_bats_2	vmp_mil	45	200	0	0	wh3_main_vmp_units_1		0	130	-15
-wh3_main_tech_vmp_units_dogs_bats_3			0	wh3_main_tech_vmp_units_dogs_bats_3	vmp_mil	45	200	0	0	wh3_main_vmp_units_1		0	130	-30
+wh3_main_tech_vmp_units_dogs_bats_2			1	wh3_main_tech_vmp_units_dogs_bats_2	vmp_mil	45	300	0	0	wh3_main_vmp_units_1		0	130	-15
+wh3_main_tech_vmp_units_dogs_bats_3			0	wh3_main_tech_vmp_units_dogs_bats_3	vmp_mil	45	300	0	0	wh3_main_vmp_units_1		0	130	-30
 wh3_main_tech_vmp_units_ghosts_1			7	wh3_main_tech_vmp_units_ghosts_1	vmp_mil	40	100	0	0	wh3_main_vmp_units_2	wh3_main_vmp_unit_tech_cost_400	0	180	30
-wh3_main_tech_vmp_units_ghosts_2			6	wh3_main_tech_vmp_units_ghosts_2	vmp_mil	40	200	0	0	wh3_main_vmp_units_2		0	180	15
+wh3_main_tech_vmp_units_ghosts_2			6	wh3_main_tech_vmp_units_ghosts_2	vmp_mil	40	300	0	0	wh3_main_vmp_units_2		0	180	15
 wh3_main_tech_vmp_units_ghosts_3			5	wh3_main_tech_vmp_units_ghosts_3	vmp_mil	40	300	0	0	wh3_main_vmp_units_2		0	180	0
 wh3_main_tech_vmp_units_grave_guard_1			2	wh3_main_tech_vmp_units_grave_guard_1	vmp_mil	44	100	0	0	wh3_main_vmp_units_1	wh3_main_vmp_unit_tech_cost_300	0	140	0
 wh3_main_tech_vmp_units_grave_guard_2			1	wh3_main_tech_vmp_units_grave_guard_2	vmp_mil	44	300	0	0	wh3_main_vmp_units_1		0	140	-15
@@ -1775,26 +1776,26 @@ wh3_main_tech_vmp_units_handmaidens_1			7	wh3_main_tech_vmp_units_handmaidens_1	
 wh3_main_tech_vmp_units_handmaidens_2			6	wh3_main_tech_vmp_units_handmaidens_2	vmp_mil	45	300	0	0	wh3_main_vmp_units_2		0	130	15
 wh3_main_tech_vmp_units_handmaidens_3			5	wh3_main_tech_vmp_units_handmaidens_3	vmp_mil	45	300	0	0	wh3_main_vmp_units_2		0	130	0
 wh3_main_tech_vmp_units_knights_1			7	wh3_main_tech_vmp_units_knights_1	vmp_mil	41	100	0	0	wh3_main_vmp_units_2	wh3_main_vmp_unit_tech_cost_400	0	170	30
-wh3_main_tech_vmp_units_knights_2			6	wh3_main_tech_vmp_units_knights_2	vmp_mil	41	200	0	0	wh3_main_vmp_units_2		0	170	15
+wh3_main_tech_vmp_units_knights_2			6	wh3_main_tech_vmp_units_knights_2	vmp_mil	41	300	0	0	wh3_main_vmp_units_2		0	170	15
 wh3_main_tech_vmp_units_knights_3			5	wh3_main_tech_vmp_units_knights_3	vmp_mil	41	300	0	0	wh3_main_vmp_units_2		0	170	0
-wh3_main_tech_vmp_units_skeletons_1			2	wh3_main_tech_vmp_units_skeletons_1	vmp_mil	40	200	0	0	wh3_main_vmp_units_1		0	180	0
-wh3_main_tech_vmp_units_skeletons_2			2	wh3_main_tech_vmp_units_skeletons_2	vmp_mil	42	200	0	0	wh3_main_vmp_units_1		0	160	0
-wh3_main_tech_vmp_units_terrorgheist_1			7	wh3_main_tech_vmp_units_terrorgheist_1	vmp_mil	43	100	0	0	wh3_main_vmp_units_2	wh3_main_vmp_unit_tech_cost_500	0	150	30
-wh3_main_tech_vmp_units_terrorgheist_2			6	wh3_main_tech_vmp_units_terrorgheist_2	vmp_mil	43	300	0	0	wh3_main_vmp_units_2		0	150	15
-wh3_main_tech_vmp_units_terrorgheist_3			5	wh3_main_tech_vmp_units_terrorgheist_3	vmp_mil	43	300	0	0	wh3_main_vmp_units_2		0	150	0
+wh3_main_tech_vmp_units_skeletons_1			2	wh3_main_tech_vmp_units_skeletons_1	vmp_mil	40	300	0	0	wh3_main_vmp_units_1		0	180	0
+wh3_main_tech_vmp_units_skeletons_2			2	wh3_main_tech_vmp_units_skeletons_2	vmp_mil	42	300	0	0	wh3_main_vmp_units_1		0	160	0
+wh3_main_tech_vmp_units_terrorgheist_1			7	wh3_main_tech_vmp_units_terrorgheist_1	vmp_mil	43	100	0	0	wh3_main_vmp_units_2	wh3_main_vmp_unit_tech_cost_600	0	150	30
+wh3_main_tech_vmp_units_terrorgheist_2			6	wh3_main_tech_vmp_units_terrorgheist_2	vmp_mil	43	400	0	0	wh3_main_vmp_units_2		0	150	15
+wh3_main_tech_vmp_units_terrorgheist_3			5	wh3_main_tech_vmp_units_terrorgheist_3	vmp_mil	43	500	0	0	wh3_main_vmp_units_2		0	150	0
 wh3_main_tech_vmp_units_varghulfs_1			7	wh3_main_tech_vmp_units_varghulfs_1	vmp_mil	42	100	0	0	wh3_main_vmp_units_2	wh3_main_vmp_unit_tech_cost_500	0	160	30
 wh3_main_tech_vmp_units_varghulfs_2			6	wh3_main_tech_vmp_units_varghulfs_2	vmp_mil	42	300	0	0	wh3_main_vmp_units_2		0	160	15
 wh3_main_tech_vmp_units_varghulfs_3			5	wh3_main_tech_vmp_units_varghulfs_3	vmp_mil	42	300	0	0	wh3_main_vmp_units_2		0	160	0
 wh3_main_tech_vmp_units_zombies_1			2	wh3_main_tech_vmp_units_zombies_1	vmp_mil	41	200	0	0	wh3_main_vmp_units_1		0	170	0
-wh3_main_tech_vmp_units_zombies_2			1	wh3_main_tech_vmp_units_zombies_2	vmp_mil	41	200	0	0	wh3_main_vmp_units_1		0	170	-15
+wh3_main_tech_vmp_units_zombies_2			1	wh3_main_tech_vmp_units_zombies_2	vmp_mil	41	300	0	0	wh3_main_vmp_units_1		0	170	-15
 wh3_main_tech_vmp_units_zombies_3a			0	wh3_main_tech_vmp_units_zombies_3a	vmp_mil	40	100	0	0	wh3_main_vmp_units_1	wh3_main_vmp_unit_tech_cost_100	0	170	-30
 wh3_main_tech_vmp_units_zombies_3b			0	wh3_main_tech_vmp_units_zombies_3b	vmp_mil	41	100	0	0	wh3_main_vmp_units_1	wh3_main_vmp_unit_tech_cost_100	0	170	-30
 wh3_main_tech_vmp_units_zombies_3c			0	wh3_main_tech_vmp_units_zombies_3c	vmp_mil	42	100	0	0	wh3_main_vmp_units_1	wh3_main_vmp_unit_tech_cost_100	0	160	-30
-wh3_main_tech_vmp_vampires_final_1			0	wh3_main_tech_vmp_vampires_final_1	vmp_mil	1	0	0	0	wh3_main_vmp_vampire		0	0	-5
-wh3_main_tech_vmp_vampires_final_2			0	wh3_main_tech_vmp_vampires_final_2	vmp_mil	2	0	0	0	wh3_main_vmp_vampire		0	0	-5
-wh3_main_tech_vmp_vampires_final_3			0	wh3_main_tech_vmp_vampires_final_3	vmp_mil	3	0	0	0	wh3_main_vmp_vampire		0	0	-5
-wh3_main_tech_vmp_vampires_final_4			0	wh3_main_tech_vmp_vampires_final_4	vmp_mil	4	0	0	0	wh3_main_vmp_vampire		0	0	-5
-wh3_main_tech_vmp_vampires_final_5			0	wh3_main_tech_vmp_vampires_final_5	vmp_mil	5	0	0	0	wh3_main_vmp_vampire		0	0	-5
+wh3_main_tech_vmp_vampires_final_1			0	wh3_main_tech_vmp_vampires_final_1	vmp_mil	1	100	0	0	wh3_main_vmp_vampire		0	0	-5
+wh3_main_tech_vmp_vampires_final_2			0	wh3_main_tech_vmp_vampires_final_2	vmp_mil	2	100	0	0	wh3_main_vmp_vampire		0	0	-5
+wh3_main_tech_vmp_vampires_final_3			0	wh3_main_tech_vmp_vampires_final_3	vmp_mil	3	100	0	0	wh3_main_vmp_vampire		0	0	-5
+wh3_main_tech_vmp_vampires_final_4			0	wh3_main_tech_vmp_vampires_final_4	vmp_mil	4	100	0	0	wh3_main_vmp_vampire		0	0	-5
+wh3_main_tech_vmp_vampires_final_5			0	wh3_main_tech_vmp_vampires_final_5	vmp_mil	5	100	0	0	wh3_main_vmp_vampire		0	0	-5
 wh3_main_tech_vmp_vampires_lair_1			2	wh3_main_tech_vmp_vampires_lair_1	vmp_mil	2	200	0	0			0	50	60
 wh3_main_tech_vmp_vampires_lair_2			2	wh3_main_tech_vmp_vampires_lair_2	vmp_mil	3	200	0	0			0	50	60
 wh3_main_tech_vmp_vampires_lair_3			2	wh3_main_tech_vmp_vampires_lair_3	vmp_mil	4	200	0	0			0	50	60
@@ -1802,22 +1803,22 @@ wh3_main_tech_vmp_vampires_lair_4			1	wh3_main_tech_vmp_vampires_lair_4	vmp_mil	
 wh3_main_tech_vmp_vampires_lair_5			1	wh3_main_tech_vmp_vampires_lair_5	vmp_mil	4	200	0	0			0	50	50
 wh3_main_tech_vmp_vampires_magic_1			8	wh3_main_tech_vmp_vampires_magic_1	vmp_mil	2	300	0	0			0	50	40
 wh3_main_tech_vmp_vampires_magic_2			8	wh3_main_tech_vmp_vampires_magic_2	vmp_mil	3	300	0	0			0	50	40
-wh3_main_tech_vmp_vampires_magic_3			8	wh3_main_tech_vmp_vampires_magic_3	vmp_mil	4	300	0	0			0	50	40
+wh3_main_tech_vmp_vampires_magic_3			8	wh3_main_tech_vmp_vampires_magic_3	vmp_mil	4	400	0	0			0	50	40
 wh3_main_tech_vmp_vampires_magic_4			9	wh3_main_tech_vmp_vampires_magic_4	vmp_mil	3	300	0	0			0	50	50
-wh3_main_tech_vmp_vampires_magic_5			9	wh3_main_tech_vmp_vampires_magic_5	vmp_mil	4	300	0	0			0	50	50
+wh3_main_tech_vmp_vampires_magic_5			9	wh3_main_tech_vmp_vampires_magic_5	vmp_mil	4	400	0	0			0	50	50
 wh3_main_tech_vmp_vampires_main_1			5	wh3_main_tech_vmp_vampires_main_1	vmp_mil	0	100	0	0			0	130	50
 wh3_main_tech_vmp_vampires_main_2			5	wh3_main_tech_vmp_vampires_main_2	vmp_mil	1	200	0	0			0	130	50
 wh3_main_tech_vmp_vampires_main_2_a			4	wh3_main_tech_vmp_vampires_main_2_a	vmp_mil	1	200	0	0			0	130	20
 wh3_main_tech_vmp_vampires_main_2_b			6	wh3_main_tech_vmp_vampires_main_2_b	vmp_mil	1	200	0	0			0	130	80
-wh3_main_tech_vmp_vampires_main_3			5	wh3_main_tech_vmp_vampires_main_3	vmp_mil	2	200	0	0			0	130	50
+wh3_main_tech_vmp_vampires_main_3			5	wh3_main_tech_vmp_vampires_main_3	vmp_mil	2	300	0	0			0	130	50
 wh3_main_tech_vmp_vampires_main_4			5	wh3_main_tech_vmp_vampires_main_4	vmp_mil	3	300	0	0			0	130	50
 wh3_main_tech_vmp_vampires_main_4_a			4	wh3_main_tech_vmp_vampires_main_4_a	vmp_mil	3	300	0	0			0	130	20
 wh3_main_tech_vmp_vampires_main_4_b			6	wh3_main_tech_vmp_vampires_main_4_b	vmp_mil	3	300	0	0			0	130	80
-wh3_main_tech_vmp_vampires_main_5			5	wh3_main_tech_vmp_vampires_main_5	vmp_mil	4	300	0	0			0	130	50
+wh3_main_tech_vmp_vampires_main_5			5	wh3_main_tech_vmp_vampires_main_5	vmp_mil	4	400	0	0			0	130	50
 wh3_main_tech_vmp_vampires_main_5_a			4	wh3_main_tech_vmp_vampires_main_5_a	vmp_mil	4	300	0	0			0	130	20
 wh3_main_tech_vmp_vampires_main_5_b			6	wh3_main_tech_vmp_vampires_main_5_b	vmp_mil	4	300	0	0			0	130	80
-wh3_main_tech_vmp_vampires_main_6_a			4	wh3_main_tech_vmp_vampires_walach_harkon_1	vmp_mil	5	300	0	0			0	130	20
-wh3_main_tech_vmp_vampires_main_6_b			6	wh3_main_tech_vmp_vampires_red_duke_1	vmp_mil	5	300	0	0			0	130	80
+wh3_main_tech_vmp_vampires_main_6_a			4	wh3_main_tech_vmp_vampires_walach_harkon_1	vmp_mil	5	400	0	0			0	130	20
+wh3_main_tech_vmp_vampires_main_6_b			6	wh3_main_tech_vmp_vampires_red_duke_1	vmp_mil	5	400	0	0			0	130	80
 wh3_main_tech_vmp_vampires_unlock_1			4	wh3_main_tech_vmp_vampires_unlock_1	vmp_mil	2	100	0	0		wh3_main_vmp_unit_tech_cost_300	0	130	20
 wh3_main_tech_vmp_vampires_unlock_2			6	wh3_main_tech_vmp_vampires_unlock_2	vmp_mil	2	100	0	0		wh3_main_vmp_unit_tech_cost_300	0	130	80
 wh3_main_tech_vmp_vampires_unlock_3			2	wh3_main_tech_vmp_vampires_unlock_3	vmp_mil	5	100	0	0		wh3_main_vmp_unit_tech_cost_300	0	50	60

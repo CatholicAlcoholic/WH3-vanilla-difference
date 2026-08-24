@@ -871,10 +871,10 @@ wh3_dlc29_art_set_chs_glottkin	general				false	true	wh3_dlc29_chs_glottkin	1.00
 wh3_dlc29_art_set_chs_gutrot_spume	runesmith				false	true	wh3_dlc29_chs_gutrot_spume	1.0000	0.0000
 wh3_dlc29_art_set_chs_morbidex	dignitary				false	true	wh3_dlc29_chs_morbidex	1.0000	0.0000
 wh3_dlc29_art_set_chs_orghotts	champion				false	true	wh3_dlc29_chs_orghotts	1.0000	0.0000
-wh3_dlc29_art_set_cst_admiral_female_undeath_01	general				false	true	wh3_dlc29_cst_vampire_fleet_admiral_undeath	1.0000	0.0000
-wh3_dlc29_art_set_cst_admiral_female_undeath_02	general				false	true	wh3_dlc29_cst_vampire_fleet_admiral_undeath	1.0000	0.0000
-wh3_dlc29_art_set_cst_admiral_female_undeath_03	general				false	true	wh3_dlc29_cst_vampire_fleet_admiral_undeath	1.0000	0.0000
-wh3_dlc29_art_set_cst_admiral_female_undeath_04	general				false	true	wh3_dlc29_cst_vampire_fleet_admiral_undeath	1.0000	0.0000
+wh3_dlc29_art_set_cst_admiral_female_undeath_01	general				false	true	wh3_dlc29_cst_vampire_fleet_admiral_female_undeath	1.0000	0.0000
+wh3_dlc29_art_set_cst_admiral_female_undeath_02	general				false	true	wh3_dlc29_cst_vampire_fleet_admiral_female_undeath	1.0000	0.0000
+wh3_dlc29_art_set_cst_admiral_female_undeath_03	general				false	true	wh3_dlc29_cst_vampire_fleet_admiral_female_undeath	1.0000	0.0000
+wh3_dlc29_art_set_cst_admiral_female_undeath_04	general				false	true	wh3_dlc29_cst_vampire_fleet_admiral_female_undeath	1.0000	0.0000
 wh3_dlc29_art_set_cst_admiral_undeath_01	general				false	true	wh3_dlc29_cst_vampire_fleet_admiral_undeath	1.0000	0.0000
 wh3_dlc29_art_set_cst_admiral_undeath_02	general				false	true	wh3_dlc29_cst_vampire_fleet_admiral_undeath	1.0000	0.0000
 wh3_dlc29_art_set_cst_admiral_undeath_03	general				false	true	wh3_dlc29_cst_vampire_fleet_admiral_undeath	1.0000	0.0000
@@ -904,9 +904,10 @@ wh3_dlc29_art_set_nag_tmb_necrotect	engineer	wh3_dlc29_nag_undead_legions			fals
 wh3_dlc29_art_set_nag_tmb_tomb_herald_01	engineer	wh3_dlc29_nag_undead_legions			false	true	wh3_dlc29_tmb_tomb_herald	1.0000	0.0000
 wh3_dlc29_art_set_nag_tmb_tomb_herald_02	engineer	wh3_dlc29_nag_undead_legions			false	true	wh3_dlc29_tmb_tomb_herald	1.0000	0.0000
 wh3_dlc29_art_set_nag_tmb_tomb_herald_03	engineer	wh3_dlc29_nag_undead_legions			false	true	wh3_dlc29_tmb_tomb_herald	1.0000	0.0000
-wh3_dlc29_art_set_nag_vmp_banshee	spy	wh3_dlc29_nag_undead_legions			false	false	wh_main_vmp_banshee	1.0000	0.0000
+wh3_dlc29_art_set_nag_vmp_banshee_01	spy	wh3_dlc29_nag_undead_legions			false	true	wh_main_vmp_banshee	1.0000	0.0000
+wh3_dlc29_art_set_nag_vmp_banshee_02	spy	wh3_dlc29_nag_undead_legions			false	true	wh_main_vmp_banshee	1.0000	0.0000
+wh3_dlc29_art_set_nag_vmp_banshee_03	spy	wh3_dlc29_nag_undead_legions			false	true	wh_main_vmp_banshee	1.0000	0.0000
 wh3_dlc29_art_set_nag_vmp_lahmian_vampire	dignitary	wh3_dlc29_nag_undead_legions			false	false	wh3_dlc29_vmp_lahmian_vampire	1.0000	0.0000
-wh3_dlc29_art_set_nag_vmp_necromancer	wizard	wh3_dlc29_nag_undead_legions			false	true	wh_main_vmp_necromancer	1.0000	0.0000
 wh3_dlc29_art_set_nag_vmp_vampire_death	dignitary	wh3_dlc29_nag_undead_legions			false	false	wh_main_vmp_vampire_death	1.0000	0.0000
 wh3_dlc29_art_set_nag_vmp_wight_king	champion	wh3_dlc29_nag_undead_legions			false	true	wh_main_vmp_wight_king	1.0000	0.0000
 wh3_dlc29_art_set_skv_schemer	general				false	true	wh3_dlc29_skv_schemer_grey_seer	1.0000	0.0000
@@ -979,7 +980,12 @@ wh3_dlc29_chs_bloab_lord	general				false	true	wh3_dlc29_chs_bloab_lord	1.0000	0
 wh3_dlc29_chs_morbidex_lord	general				false	true	wh3_dlc29_chs_morbidex_lord	1.0000	0.0000
 wh3_dlc29_chs_orghotts_lord	general				false	true	wh3_dlc29_chs_orghotts_lord	1.0000	0.0000
 wh3_dlc29_emp_cha_emil_valgeir	dignitary				false	true	wh3_dlc29_emp_cha_emil_valgeir	1.0000	0.0000
+wh3_dlc29_emp_gold_wizard_general	general				false	true	wh3_dlc29_emp_gold_wizard_general	1.0000	0.0000
 wh3_dlc29_nur_herald_of_nurgle_nurgle_rotborne_host_army	general				false	true	wh3_dlc29_nur_herald_of_nurgle_nurgle_rotborne_host_army	1.0000	0.0000
+wh3_dlc29_vmp_master_necromancer_undeath_spawned_army_01	general				false	true	wh3_dlc29_vmp_master_necromancer_undeath_spawned_army	1.0000	0.0000
+wh3_dlc29_vmp_master_necromancer_undeath_spawned_army_02	general				false	true	wh3_dlc29_vmp_master_necromancer_undeath_spawned_army	1.0000	0.0000
+wh3_dlc29_vmp_master_necromancer_undeath_spawned_army_03	general				false	true	wh3_dlc29_vmp_master_necromancer_undeath_spawned_army	1.0000	0.0000
+wh3_dlc29_vmp_master_necromancer_undeath_spawned_army_04	general				false	true	wh3_dlc29_vmp_master_necromancer_undeath_spawned_army	1.0000	0.0000
 wh3_main_art_set_cth_alchemist_01	engineer				false	false	wh3_main_cth_alchemist	1.0000	0.0000
 wh3_main_art_set_cth_alchemist_02	engineer				false	false	wh3_main_cth_alchemist	1.0000	0.0000
 wh3_main_art_set_cth_alchemist_03	engineer				false	false	wh3_main_cth_alchemist	1.0000	0.0000
@@ -1340,6 +1346,9 @@ wh_dlc04_art_set_vmp_strigoi_ghoul_king_02	general				false	true	wh_dlc04_vmp_st
 wh_dlc04_art_set_vmp_strigoi_ghoul_king_03	general				false	true	wh_dlc04_vmp_strigoi_ghoul_king	1.0000	0.0000
 wh_dlc04_art_set_vmp_vlad_von_carstein	general				false	true	wh_dlc04_vmp_vlad_con_carstein	1.0000	0.0000
 wh_dlc04_art_set_vmp_vlad_von_carstein_hero	runesmith				false	true	wh_dlc04_vmp_vlad_von_carstein_hero	1.0000	0.0000
+wh_dlc04_vmp_strigoi_ghoul_king_spawned_army_01	general				false	true	wh_dlc04_vmp_strigoi_ghoul_king_spawned_army	1.0000	0.0000
+wh_dlc04_vmp_strigoi_ghoul_king_spawned_army_02	general				false	true	wh_dlc04_vmp_strigoi_ghoul_king_spawned_army	1.0000	0.0000
+wh_dlc04_vmp_strigoi_ghoul_king_spawned_army_03	general				false	true	wh_dlc04_vmp_strigoi_ghoul_king_spawned_army	1.0000	0.0000
 wh_dlc05_art_set_bst_morghur	general				false	true	wh_dlc05_bst_morghur	1.0000	0.0000
 wh_dlc05_art_set_emp_grey_wizard_01	wizard				false	true	wh_dlc05_emp_grey_wizard	1.0000	0.0000
 wh_dlc05_art_set_emp_grey_wizard_02	wizard				false	true	wh_dlc05_emp_grey_wizard	1.0000	0.0000

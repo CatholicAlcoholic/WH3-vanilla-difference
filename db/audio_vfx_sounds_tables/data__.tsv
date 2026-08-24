@@ -1,8 +1,8 @@
 key	battle_sound_event_start	battle_sound_event_stop	campaign_sound_event_start	campaign_sound_event_stop	average_position	tracked	scale	reverb	max_distance	group_sound	battle_limitation	campaign_limitation	battle_limitation_scale	campaign_limitation_scale
 #audio_vfx_sounds_tables;1;db/audio_vfx_sounds_tables/data__														
 DLC29_VFX_Env_Dvst_Quake_Fire_GRP					false	false	false	true	350.0000	wh3_dlc29_ENV_Dvst_Fire_Group	medium	fire_big	0.7500	1.0000
-DLC29_VFX_Env_Morskittar_Engine_Sparks	Bat_Env_Morskittar_Engine_Sparks_Oneshot				false	false	true	true	500.0000		medium	fire_big	1.0000	1.0000
-DLC29_VFX_Env_Morskittar_Engine_Steam	Bat_Env_Morskittar_Engine_Steam_Oneshot				false	false	true	true	500.0000		medium	fire_big	1.0000	1.0000
+DLC29_VFX_Env_Morskittar_Engine_Sparks	Bat_Env_Morskittar_Engine_Sparks_Oneshot				false	false	true	true	500.0000		bat500m	fire_big	1.0000	1.0000
+DLC29_VFX_Env_Morskittar_Engine_Steam	Bat_Env_Morskittar_Engine_Steam_Oneshot				false	false	true	true	500.0000		bat500m	fire_big	1.0000	1.0000
 DLC29_VFX_Env_Nag_Spiral_GRP					false	false	false	true	155.0000	wh3_dlc29_ENV_Nag_Spiral	fire	medium	0.7500	1.0000
 DLC29_VFX_Env_Nag_Spirits_GRP					false	false	false	true	155.0000	wh3_dlc29_ENV_Nag_Spirits	fire	medium	0.7500	1.0000
 DLC29_VFX_Env_Nag_Torch_Small	Bat_Env_Dvst_Nag_VFX_Torch_small_Play	Bat_Env_Dvst_Nag_VFX_Torch_small_Stop			false	false	true	true	55.0000		medium	fire	1.0000	1.0000
@@ -197,6 +197,7 @@ VFX_Magic_Tze_Special_Ability_Tempest_Of_Blue_Flame_Base_Loop	Battle_IND_Magic_T
 VFX_Magic_Tze_Special_Ability_Tempest_Of_Blue_Flame_Lightning	Battle_IND_Magic_Tempest_Of_Blue_Flame_Lightning_Oneshot				false	true	false	false	500.0000		bat500m	default	1.0000	1.0000
 VFX_Magic_Tze_Villitch_Special_Ability_Pulse_Start	IND_Magic_Vilitch_Special_Ability_Pulse_Start	IND_Magic_Vilitch_Special_Ability_Pulse_Stop			false	false	false	false	200.0000		default	default	1.0000	1.0000
 VFX_Magic_Tzeentch_Barrier_Hit	Battle_Individual_Melee_Tzeentch_Barrier_VFX				false	false	false	false	45.0000		small	default	1.0000	1.0000
+VFX_Magic_UND_Special_Ability_Kandorak_the_Harbinger_Portal	Battle_IND_Magic_Harbringer_Portal				false	true	false	true	750.0000		bat500m	default	1.0000	1.0000
 VFX_Magic_Ulrika_Special_Ability_Targeting	Battle_IND_Magic_Ability_Skjalandirs_Fall_Targeting				false	true	false	false	200.0000		medium	default	1.0000	1.0000
 VFX_Persistent_Foley_Nagash_Book_Ccw	Battle_Individual_Foley_Nagash_Persistent_Book_Oneshot_Ccw				false	true	false	true	60.0000		magic_tiny	default	1.0000	1.0000
 VFX_Persistent_Foley_Nagash_Book_Cw	Battle_Individual_Foley_Nagash_Persistent_Book_Oneshot_Cw				false	true	false	true	60.0000		magic_tiny	default	1.0000	1.0000

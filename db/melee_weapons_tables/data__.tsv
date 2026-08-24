@@ -6,6 +6,7 @@ wh2_cld09_tmb_carrion	0	0	35	12	1.0000	knife	creatures_claws		1	1.0000	0.2500	0.
 wh2_cld09_tmb_carrion_ror	0	0	17	52	2.0000	knife	creatures_claws	medium	3	1.0000	0.2500	1.0000	true		0	10	4.0000		false
 wh2_dlc09_dual_swords_ushabti	0	12	22	57	2.0000	sword	sword_medium	medium	4	1.0000	0.7500	0.0000	false		0	10	3.8000		false
 wh2_dlc09_skv_cha_tretch_craventail	25	0	280	120	3.0000	spear	spear	medium	4	1.0000	0.5000	0.0000	false		0	10	4.0000		false
+wh2_dlc09_spirit_host_claws	0	0	0	18	1.0000	axe	creatures_claws		1	1.0000	1.0000	10.0000	true	wh_dlc08_unit_contact_frostbite	0	10	4.3000		false
 wh2_dlc09_sword_ushabti	0	0	18	47	2.0000	sword	sword_medium	medium	3	1.0000	0.7500	0.0000	false		0	10	3.8000		false
 wh2_dlc09_swords_necrosphinx	35	0	180	460	9.0000	sword	sword_huge	large	6	1.8000	0.7500	0.0000	false		5	5	3.6000		false
 wh2_dlc09_swords_necrosphinx_RoR	35	0	180	460	9.0000	sword	sword_huge	large	6	1.8000	0.7500	1.0000	true		5	5	3.6000		false

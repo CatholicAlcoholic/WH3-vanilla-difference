@@ -137,7 +137,7 @@ wh3_main_chaos_region_laurelorn_forest	wh3_main_chaos	2023317400	1360928918	true
 wh3_main_chaos_region_leblya	wh3_main_chaos	485217318	659172782	false	10000	50000	10000	0	0	wh3_main_ksl_ungol_kindred	wh3_main_sc_ksl_kislev		false	0		0	0	4
 wh3_main_chaos_region_longship_graveyard	wh3_main_chaos	1607428929	266621855	false	10000	50000	10000	0	0	wh_main_nor_skaeling	wh_dlc08_sc_nor_norsca		false	0		0	0	4
 wh3_main_chaos_region_marienburg	wh3_main_chaos	1655549961	1732203237	true	10000	50000	10000	0	0	wh_main_emp_marienburg	wh_main_sc_emp_empire		false	0		0	0	8
-wh3_main_chaos_region_middenheim	wh3_main_chaos	1127580540	512305940	true	10000	50000	10000	0	0	wh_main_emp_middenland	wh_main_sc_emp_empire		false	0		0	0	8
+wh3_main_chaos_region_middenheim	wh3_main_chaos	1127580540	512305940	true	10000	50000	10000	0	0	wh_main_emp_middenland	wh_main_sc_emp_empire		false	0		0	0	10
 wh3_main_chaos_region_mines_of_gorgoth	wh3_main_chaos	749423544	1390786946	false	10000	50000	10000	0	0	wh3_dlc23_chd_minor_faction	wh3_dlc23_sc_chd_chaos_dwarfs		false	0		0	0	4
 wh3_main_chaos_region_mines_of_nan_yang	wh3_main_chaos	1191477421	1673374258	false	10000	50000	10000	0	0	wh3_main_cth_rebel_lords_of_nan_yang	wh3_main_sc_cth_cathay		false	0		0	0	4
 wh3_main_chaos_region_ming_zhu	wh3_main_chaos	1690993479	1637619212	false	10000	50000	10000	0	0	wh3_main_cth_imperial_wardens	wh3_main_sc_cth_cathay		false	0		0	0	4
@@ -626,7 +626,7 @@ wh3_main_combi_region_shrine_of_loec	wh3_main_combi	477878326	1810179394	true	10
 wh3_main_combi_region_shrine_of_sotek	wh3_main_combi	1928713159	204672036	false	10000	50000	10000	0	0	wh2_main_grn_blue_vipers	wh2_main_sc_lzd_lizardmen		false	0		0	0	4
 wh3_main_combi_region_shrine_of_the_alchemist	wh3_main_combi	522856991	85284281	false	10000	50000	10000	0	0	wh3_main_cth_dissenter_lords_of_jinshen	wh3_main_sc_cth_cathay		false	0		0	0	4
 wh3_main_combi_region_shroktak_mount	wh3_main_combi	1886954624		false	10000	50000	10000	0	0	wh2_main_def_hag_graef	wh2_main_sc_def_dark_elves		false	0		0	0	4
-wh3_main_combi_region_silver_pinnacle	wh3_main_combi	187987373	1718715769	true	10000	50000	10000	0	0	wh3_main_vmp_lahmian_sisterhood	wh_main_sc_vmp_vampire_counts		false	0		0	0	8
+wh3_main_combi_region_silver_pinnacle	wh3_main_combi	187987373	1718715769	true	10000	50000	10000	0	0	wh3_main_vmp_lahmian_sisterhood	wh_main_sc_vmp_vampire_counts		false	0		0	0	10
 wh3_main_combi_region_sjoktraken	wh3_main_combi	51676786	1661140290	false	10000	50000	10000	0	0	wh_main_dwf_kraka_drak	wh_dlc08_sc_nor_norsca		false	0		0	0	4
 wh3_main_combi_region_skavenblight	wh3_main_combi	865817581	837838157	true	10000	50000	10000	0	0	wh2_main_skv_clan_skryre	wh2_main_sc_skv_skaven		false	0		1	0	12
 wh3_main_combi_region_skeggi	wh3_main_combi	1510863611	708758271	true	10000	50000	10000	0	0	wh2_main_nor_skeggi	wh_main_sc_emp_empire		false	0		0	0	8

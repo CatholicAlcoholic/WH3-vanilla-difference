@@ -27,6 +27,7 @@ order	type	name_group	optional_language
 0	clan_name	names_nur_nurgle	
 0	clan_name	names_ogr_ogre_kingdom	
 0	clan_name	names_skv_skaven	
+0	clan_name	names_skv_skaven_verminlords	
 0	clan_name	names_sla_slaanesh	
 0	clan_name	names_teb_tilea	
 0	clan_name	names_tmb_tomb_kings	
@@ -60,6 +61,7 @@ order	type	name_group	optional_language
 2	family_name	names_nur_nurgle	
 2	family_name	names_ogr_ogre_kingdom	
 2	family_name	names_skv_skaven	
+2	family_name	names_skv_skaven_verminlords	
 2	family_name	names_sla_slaanesh	
 2	family_name	names_teb_tilea	
 2	family_name	names_tmb_tomb_kings	
@@ -90,6 +92,7 @@ order	type	name_group	optional_language
 1	forename	names_nur_nurgle	
 1	forename	names_ogr_ogre_kingdom	
 1	forename	names_skv_skaven	
+1	forename	names_skv_skaven_verminlords	
 1	forename	names_sla_slaanesh	
 1	forename	names_teb_tilea	
 1	forename	names_tmb_tomb_kings	
@@ -126,6 +129,7 @@ order	type	name_group	optional_language
 3	other	names_nur_nurgle	
 3	other	names_ogr_ogre_kingdom	
 3	other	names_skv_skaven	
+3	other	names_skv_skaven_verminlords	
 3	other	names_sla_slaanesh	
 3	other	names_teb_tilea	
 3	other	names_tmb_tomb_kings	

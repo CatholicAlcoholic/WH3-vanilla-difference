@@ -377,6 +377,7 @@ campaign_units	1640	1	false	true
 campaign_ursun	151	1	false	true
 campaign_valiant_imperatives	511	2	false	true
 campaign_vampire_coast	600	1	false	true
+campaign_vampire_confederation	763	2	false	true
 campaign_vampires	760	1	false	true
 campaign_vampiric_corruption	1381	2	false	true
 campaign_vampiric_loyalty	1506	2	false	true
@@ -388,6 +389,7 @@ campaign_war_coordination	1222	2	false	true
 campaign_warbands	787	2	false	true
 campaign_warmblood_invaders	558	2	false	false
 campaign_warriors_of_chaos	780	1	false	true
+campaign_web_of_power	764	2	false	true
 campaign_winds_of_magic	45	1	false	true
 campaign_winds_of_magic_manipulation	304	2	false	true
 campaign_witchs_hut	325	2	false	true

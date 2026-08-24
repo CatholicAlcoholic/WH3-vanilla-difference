@@ -40,6 +40,7 @@ butcher_counter	true
 camp_buildings	false
 camps	false
 captives	false
+captives_killed	false
 captured_during_missions	false
 captured_in_battle	false
 caravan_escort	false
@@ -172,15 +173,13 @@ missions	false
 moc_actions	false
 mortuary_cult	false
 neferata	false
-neferata_agent_actions	false
-neferata_battles	false
-neferata_battles_foreign	false
 neferata_covens_negative	false
 neferata_covens_positive	false
-neferata_handmaiden_actions	false
 neferata_innate	false
-neferata_occupation	false
-neferata_razing	false
+neferata_owner_agents_killed	false
+neferata_owner_agents_present	false
+neferata_owner_armies_killed	false
+neferata_owner_armies_present	false
 neferata_web_of_power	false
 negative_diplomacy	false
 negative_imperial_authority	false
@@ -444,7 +443,6 @@ wh3_dlc29_chs_glottkin_marks_cost	false
 wh3_dlc29_chs_glottkin_marks_progression	false
 wh3_dlc29_chs_glottkin_progression	false
 wh3_dlc29_emp_chosen_of_ulric	false
-wh3_dlc29_emp_fervour_gain_temple	false
 wh3_dlc29_emp_fervour_settled	false
 wh3_dlc29_emp_sanctuary_income	false
 wh3_dlc29_emp_sanctuary_upgrades	false

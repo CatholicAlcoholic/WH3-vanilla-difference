@@ -41,10 +41,10 @@ wh2_dlc09_tmb_resource_salt			money	false	wh_main_sch_human_resource_salt		10		t
 wh2_dlc09_tmb_resource_spices			money	false	wh2_main_sch_resource_spices		10		true	false
 wh2_dlc09_tmb_resource_wine			money	false	wh_main_sch_human_resource_wine		10		true	false
 wh2_dlc09_tmb_resource_wood			money	false	wh_main_sch_human_resource_timber		10		true	false
-wh2_dlc09_tmb_scorpions			military	false	wh2_main_sch_support5_extra		3		true	false
+wh2_dlc09_tmb_scorpions			military	false	wh2_main_sch_support5_extra		4		true	false
 wh2_dlc09_tmb_settlement_major			money	true	wh_main_sch_main_settlement	UI\Buildings\tier_icons\tier_tmb_city.png	0		true	false
 wh2_dlc09_tmb_settlement_minor			money	true	wh_main_sch_main_settlement	UI\Buildings\tier_icons\tier_tmb_city.png	0		true	false
-wh2_dlc09_tmb_ushabti			military	false	wh2_main_sch_support2_worship		4		true	false
+wh2_dlc09_tmb_ushabti			military	false	wh2_main_sch_support2_worship		3		true	false
 wh2_dlc09_tmb_warsphinx			military	false	wh2_main_sch_military5		6		true	false
 wh2_dlc10_hef_aesanar_camp			military	false	wh2_dlc10_sch_hef_aesanar_camp		10		true	false
 wh2_dlc10_hef_handmaidens			military	false	wh2_dlc10_sch_hef_handmaidens		9		true	false
@@ -1104,7 +1104,7 @@ wh3_dlc29_nag_resource_animals			money	false	wh2_main_sch_resource_animals		10		
 wh3_dlc29_nag_resource_dyes			money	true	wh_main_sch_human_resource_dyes		10		true	false
 wh3_dlc29_nag_resource_furs			money	true	wh_main_sch_human_resource_furs		10		true	false
 wh3_dlc29_nag_resource_gemstones			money	false	wh2_main_sch_human_resource_gems		10		true	false
-wh3_dlc29_nag_resource_gold			money	true	wh_main_sch_human_resource_gold		10		true	false
+wh3_dlc29_nag_resource_gold			money	false	wh_main_sch_human_resource_gold		10		true	false
 wh3_dlc29_nag_resource_iron			money	true	wh_main_sch_human_resource_iron		10		true	false
 wh3_dlc29_nag_resource_ivory			money	false	wh3_main_sch_human_resource_ivory		10		true	false
 wh3_dlc29_nag_resource_marble			money	true	wh_main_sch_human_resource_marble		10		true	false
@@ -1120,17 +1120,22 @@ wh3_dlc29_nag_settlement_chambers			money	false	wh_main_sch_main_settlement		0		
 wh3_dlc29_nag_settlement_cove			money	false	wh_main_sch_main_settlement		0		true	false
 wh3_dlc29_nag_settlement_mausoleum			money	false	wh_main_sch_main_settlement		0		true	false
 wh3_dlc29_nag_settlement_necropolis			money	false	wh_main_sch_main_settlement		0		true	false
-wh3_dlc29_nef_coven_concealment_bonus			military	false	wh3_dlc29_sch_nef_coven_concealment_bonus		1		true	true
-wh3_dlc29_nef_coven_concealment_penalty			military	false	wh3_dlc29_sch_nef_coven_concealment_penalty		2		true	true
-wh3_dlc29_nef_coven_extra_blood_kiss			military	false	wh3_dlc29_sch_nef_coven_extra_blood_kiss		1		true	true
-wh3_dlc29_nef_coven_extra_income			military	false	wh3_dlc29_sch_nef_coven_extra_income		2		true	true
+wh3_dlc29_nef_coven_concealment_bonus_1			military	false	wh3_dlc29_sch_nef_coven_concealment_bonus_1		2		true	true
+wh3_dlc29_nef_coven_concealment_bonus_2			military	false	wh3_dlc29_sch_nef_coven_concealment_bonus_2		3		true	true
+wh3_dlc29_nef_coven_concealment_bonus_3			military	false	wh3_dlc29_sch_nef_coven_concealment_bonus_3		4		true	true
+wh3_dlc29_nef_coven_concealment_bonus_4			military	false	wh3_dlc29_sch_nef_coven_concealment_bonus_4		5		true	true
+wh3_dlc29_nef_coven_concealment_bonus_5			military	false	wh3_dlc29_sch_nef_coven_concealment_bonus_5		6		true	true
+wh3_dlc29_nef_coven_concealment_bonus_6			military	false	wh3_dlc29_sch_nef_coven_concealment_bonus_6		7		true	true
+wh3_dlc29_nef_coven_concealment_capacity			military	false	wh3_dlc29_sch_nef_coven_concealment_capacity		1		true	true
+wh3_dlc29_nef_coven_extra_diplomacy			military	false	wh3_dlc29_sch_nef_coven_extra_diplomacy		4		true	true
+wh3_dlc29_nef_coven_extra_income			military	false	wh3_dlc29_sch_nef_coven_extra_income		3		true	true
 wh3_dlc29_nef_coven_handmaiden_bonus			military	false	wh3_dlc29_sch_nef_coven_handmaiden_bonus		2		true	true
 wh3_dlc29_nef_coven_handmaiden_escape			military	false	wh3_dlc29_sch_nef_coven_handmaiden_escape		3		true	true
 wh3_dlc29_nef_coven_handmaiden_training			military	false	wh3_dlc29_sch_nef_coven_handmaiden_training		1		false	true
 wh3_dlc29_nef_coven_main			military	false	wh3_dlc29_sch_nef_coven_main		1		false	true
-wh3_dlc29_nef_coven_manipulation_capacity			military	false	wh3_dlc29_sch_nef_coven_manipulation_capacity		1		true	true
-wh3_dlc29_nef_coven_manipulation_construction			military	false	wh3_dlc29_sch_nef_coven_manipulation_construction		3		true	true
-wh3_dlc29_nef_coven_manipulation_region			military	false	wh3_dlc29_sch_nef_coven_manipulation_region		2		true	true
+wh3_dlc29_nef_coven_main_extra			military	false	wh3_dlc29_sch_nef_coven_main_extra		2		false	true
+wh3_dlc29_nef_coven_manipulation_bonus			military	false	wh3_dlc29_sch_nef_coven_manipulation_bonus		1		true	true
+wh3_dlc29_nef_coven_manipulation_capacity			military	false	wh3_dlc29_sch_nef_coven_manipulation_capacity		2		true	true
 wh3_dlc29_skv_special_morskittar_engine			military	false	wh3_dlc29_sch_skv_special_morskittar_engine		0		true	false
 wh3_dlc29_skv_stormfiends			military	false	wh3_dlc29_skv_stormfiends		0		true	false
 wh3_dlc29_special_altar_of_ultimate_darkness_nag			military	false	wh2_main_sch_special_altar_of_ultimate_darkness		0		true	false
@@ -1138,6 +1143,11 @@ wh3_dlc29_special_altdorf_imperial_palace_chs			military	false	wh2_main_sch_spec
 wh3_dlc29_special_altdorf_imperial_palace_nag			money	false	wh2_main_sch_special_altdorf_imperial_palace		0		true	false
 wh3_dlc29_special_blood_keep_nag			military	false	wh2_main_sch_special_blood_keep		1		true	false
 wh3_dlc29_special_clar_karond_lairs_nag			military	false	wh2_main_sch_special_clar_karond_lairs		0		true	false
+wh3_dlc29_special_empire_fort_nag			military	false	wh_main_sch_main_settlement		0		true	false
+wh3_dlc29_special_fortress_gate_eagle_nag			military	false	wh_main_sch_main_settlement		0		true	false
+wh3_dlc29_special_fortress_gate_griffon_nag			military	false	wh_main_sch_main_settlement		0		true	false
+wh3_dlc29_special_fortress_gate_phoenix_nag			military	false	wh_main_sch_main_settlement		0		true	false
+wh3_dlc29_special_fortress_gate_unicorn_nag			military	false	wh_main_sch_main_settlement		0		true	false
 wh3_dlc29_special_galbaraz_mourkain_nag			military	false	wh2_main_sch_special_galbaraz_mourkain		0		true	false
 wh3_dlc29_special_ghrond_convent_of_sorcery_nag			military	false	wh2_main_sch_special_ghrond_convent_of_sorcery		0		true	false
 wh3_dlc29_special_graves_of_the_dragons_nag			money	false	wh2_dlc15_special_graves_of_the_dragons		0		true	false
@@ -1153,9 +1163,11 @@ wh3_dlc29_special_pyramid_of_nagash_nag			money	false	wh2_main_sch_special_pyram
 wh3_dlc29_special_rampaging_oak_nag			military	false	wh3_dlc24_sch_special_rampaging_oak		0		true	false
 wh3_dlc29_special_sacred_pools_nur			military	false	wh2_dlc16_sch_special_wef_pools_of_isha		8		true	false
 wh3_dlc29_special_sacred_pools_woc			military	false	wh2_dlc16_sch_special_wef_pools_of_isha		0		true	false
+wh3_dlc29_special_settlement_bastion_nag			military	false	wh_main_sch_main_settlement		0		true	false
 wh3_dlc29_special_settlement_middenheim			money	false	wh_main_sch_main_settlement	UI\Buildings\tier_icons\tier_empire_city.png	0		true	false
 wh3_dlc29_special_settlement_nagashizzar_nag			money	false	wh_main_sch_main_settlement		0		true	false
 wh3_dlc29_special_settlement_pyramid_of_nagash_nag			money	false	wh_main_sch_main_settlement		0		true	false
+wh3_dlc29_special_settlement_pyramid_of_nagash_nag_floating				false	wh_main_sch_main_settlement		0		true	false
 wh3_dlc29_special_shrine_of_asuryan_woc			military	false	wh2_main_sch_special_shrine_of_asuryan		0		true	false
 wh3_dlc29_special_thanquol_scruten_hq			money	false	wh3_dlc29_sch_special_thanquol_scruten_hq		0		true	false
 wh3_dlc29_special_white_wolf_knight_chapterhouse			military	true	wh3_dlc29_sch_special_white_wolf_knight_chapterhouse		0		true	false
@@ -1308,6 +1320,7 @@ wh3_main_foreign_slot_discovery_nur			money	false	wh2_main_sch_foreign_slot_disc
 wh3_main_foreign_slot_discovery_ogr			money	false	wh2_main_sch_foreign_slot_discovery		9		true	false
 wh3_main_foreign_slot_discovery_sla			money	false	wh2_main_sch_foreign_slot_discovery		9		true	false
 wh3_main_foreign_slot_discovery_tze			money	false	wh2_main_sch_foreign_slot_discovery		9		true	false
+wh3_main_foreign_slot_endgame			money	false	wh3_main_sch_foreign_slot_endgame		8		true	false
 wh3_main_grn_allied_outpost			military	false	wh3_main_sch_allied_outpost		0		false	false
 wh3_main_hef_allied_outpost			military	false	wh3_main_sch_allied_outpost		0		false	false
 wh3_main_hef_resource_ivory			money	false	wh3_main_sch_human_resource_ivory		10		true	false
@@ -1610,6 +1623,24 @@ wh3_main_special_court_of_the_covenant_sla			money	false	wh3_main_sch_special_co
 wh3_main_special_court_of_the_covenant_tze			money	false	wh3_main_sch_special_court_of_the_covenant_tze		1		true	false
 wh3_main_special_cth_li_temple			money	false	wh3_main_special_cth_li_temple		0		true	false
 wh3_main_special_desecrated_grove			military	false	wh3_main_sch_special_desecrated_grove		1		true	false
+wh3_main_special_dragon_grave_1			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_10			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_11			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_12			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_13			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_14			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_15			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_16			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_17			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_18			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_2			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_3			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_4			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_5			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_6			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_7			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_8			military	false	wh3_main_sch_special_dragon_grave		0		true	false
+wh3_main_special_dragon_grave_9			military	false	wh3_main_sch_special_dragon_grave		0		true	false
 wh3_main_special_drakenhof_malevolent_museum			money	false	wh3_main_sch_special_drakenhok_malevolent_museum		0		true	false
 wh3_main_special_galbaraz_mourkain_kho			military	false	wh2_main_sch_special_galbaraz_mourkain		0		true	false
 wh3_main_special_goldtooths_toll_gate			money	false	wh3_main_sch_special_goldtooths_toll_gate		1		true	false
@@ -1638,6 +1669,7 @@ wh3_main_special_reformed_holds			military	false	wh3_main_sch_special_reformed_h
 wh3_main_special_settlement_bastion_other			military	false	wh_main_sch_main_settlement		0		true	false
 wh3_main_special_settlement_fort_other			military	false	wh_main_sch_main_settlement		0		true	false
 wh3_main_special_settlement_gate_dae			military	false	wh_main_sch_main_settlement		0		true	false
+wh3_main_special_settlement_silver_pinnacle			money	false	wh_main_sch_main_settlement	UI\Buildings\tier_icons\tier_vampire_city_castle_drakenhof.png	0		true	false
 wh3_main_special_settlement_wei_jin			money	true	wh_main_sch_main_settlement	UI\Buildings\tier_icons\tier_cth_city.png	0		true	false
 wh3_main_special_silver_pinnacle_tomb			money	false	wh3_main_special_silver_pinnacle_tomb		0		true	false
 wh3_main_special_standing_stones			money	false	wh3_main_special_standing_stones		0		true	false

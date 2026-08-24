@@ -872,7 +872,7 @@ id	names_group	type	gender	frequency
 1330800734	names_nag_vampire_coast	forename	b	1
 1331060786	names_nag_tomb_kings	forename	m	1
 1331308008	names_cst_vampire_coast	family_name	b	1
-1331680621	names_skv_skaven_verminlords	forename	b	1
+1331680621	names_skv_skaven_verminlords	forename	m	1
 1332078941	names_tze_tzeentch	forename	b	0
 1332221737	names_cth_cathay	forename	m	1
 1332301595	names_cth_cathay	family_name	b	1
@@ -943,7 +943,7 @@ id	names_group	type	gender	frequency
 1360539459	names_nag_vampire_counts	forename	f	1
 136081968	names_nag_tomb_kings	forename	m	1
 136149811	names_vmp_vampire_counts	forename	f	1
-1361676261	names_skv_skaven_verminlords	forename	b	1
+1361676261	names_skv_skaven_verminlords	forename	m	1
 1361777263	names_tze_tzeentch	family_name	b	1
 1362078085	names_lzd_lizardmen	forename	b	1
 1362694374	names_kho_khorne	forename	b	1
@@ -1909,7 +1909,7 @@ id	names_group	type	gender	frequency
 1725723511	names_sla_slaanesh	forename	b	1
 1725733057	names_dwf_dwarfs	family_name	b	1
 1726261173	names_chs_chaos	forename	b	0
-1726557368	names_skv_skaven_verminlords	forename	b	1
+1726557368	names_skv_skaven_verminlords	forename	m	1
 1726815296	names_nur_nurgle	forename	b	1
 1726870476	names_lzd_lizardmen	forename	b	1
 1726926403	names_cst_vampire_coast	forename	m	1
@@ -2146,7 +2146,7 @@ id	names_group	type	gender	frequency
 1819815097	names_hef_high_elves	forename	m	0
 182001399	names_chd_hobgoblins	family_name	m	1
 1820242443	names_cst_vampire_coast	family_name	b	1
-1820342110	names_skv_skaven_verminlords	forename	b	1
+1820342110	names_skv_skaven_verminlords	forename	m	1
 1820353472	names_nag_tomb_kings	forename	m	1
 182136027	names_nur_nurgle	family_name	b	1
 182153459	names_nur_nurgle	family_name	b	1
@@ -5480,7 +5480,7 @@ id	names_group	type	gender	frequency
 237018376	names_kho_khorne	family_name	b	1
 238215718	names_brt_bretonnia	forename	m	1
 238587281	names_ogr_ogre_kingdom	forename	m	1
-239326550	names_skv_skaven_verminlords	forename	b	1
+239326550	names_skv_skaven_verminlords	forename	m	1
 240016883	names_ksl_kislev_pro	family_name	m	1
 240319108	names_def_dark_elves	forename	f	1
 240347032	names_nur_nurgle	forename	b	1
@@ -6087,7 +6087,7 @@ id	names_group	type	gender	frequency
 466322608	names_cst_vampire_coast	forename	m	1
 466747112	names_kho_khorne	forename	b	1
 467363747	names_ksl_kislev_pro	family_name	b	1
-467538040	names_skv_skaven_verminlords	forename	b	1
+467538040	names_skv_skaven_verminlords	forename	m	1
 467591070	names_chd_chaos_dwarfs	forename	m	0
 467653639	names_cst_vampire_coast	forename	m	1
 46811824	names_kho_khorne	forename	b	1
@@ -6158,7 +6158,7 @@ id	names_group	type	gender	frequency
 493336589	names_chd_hobgoblins	forename	m	1
 494061521	names_hef_high_elves	forename	m	1
 494857438	names_nag_vampire_coast	forename	m	1
-495268925	names_skv_skaven_verminlords	forename	b	1
+495268925	names_skv_skaven_verminlords	forename	m	1
 495277719	names_tze_tzeentch	forename	b	1
 49574266	names_ksl_kislev_pro	forename	m	1
 496128852	names_nor_norsca	forename	f	1
@@ -6184,7 +6184,7 @@ id	names_group	type	gender	frequency
 501119504	names_kho_khorne	forename	b	1
 501147797	names_nag_vampire_coast	forename	f	1
 501217998	names_ogr_ogre_kingdom	family_name	m	1
-501304911	names_skv_skaven_verminlords	forename	b	1
+501304911	names_skv_skaven_verminlords	forename	m	1
 502106991	names_def_dark_elves	family_name	f	0
 502149108	names_chd_chaos_dwarfs	family_name	b	1
 502249522	names_ogr_ogre_kingdom	family_name	m	1
@@ -6395,7 +6395,7 @@ id	names_group	type	gender	frequency
 574408041	names_cth_tigermen	forename	m	1
 574645723	names_def_dark_elves	family_name	m	0
 575082759	names_ksl_kislev	family_name	b	1
-575323163	names_skv_skaven_verminlords	forename	b	1
+575323163	names_skv_skaven_verminlords	forename	m	1
 575379581	names_nur_nurgle	family_name	b	1
 575481233	names_lzd_lizardmen	forename	b	1
 575647836	names_skv_skaven	forename	b	1
@@ -6448,7 +6448,7 @@ id	names_group	type	gender	frequency
 592719042	names_sla_slaanesh	family_name	b	1
 592760047	names_lzd_lizardmen	forename	b	1
 592824265	names_chs_chaos	family_name	b	1
-592894079	names_skv_skaven_verminlords	forename	b	1
+592894079	names_skv_skaven_verminlords	forename	m	1
 595624304	names_nag_vampire_counts	forename	m	1
 595663162	names_cth_tigermen	forename	m	1
 595663916	names_nag_tomb_kings	forename	m	1
@@ -6753,7 +6753,7 @@ id	names_group	type	gender	frequency
 70734290	names_grn_greenskins	forename	f	1
 708252305	names_tze_tzeentch	family_name	b	1
 709085925	names_ksl_kislev_pro	forename	f	1
-709803241	names_skv_skaven_verminlords	forename	m	0
+709803241	names_skv_skaven	forename	m	0
 709930337	names_hef_high_elves	forename	f	1
 710127888	names_tmb_tomb_kings	forename	m	1
 710534590	names_sla_slaanesh	family_name	b	1

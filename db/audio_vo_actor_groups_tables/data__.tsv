@@ -269,12 +269,15 @@ wh3_dlc29_vo_actor_Host_of_Nagash_Liche_High_Priest	wh3_dlc29_vo_actor_Host_of_N
 wh3_dlc29_vo_actor_Host_of_Nagash_Nagash	wh3_dlc29_vo_actor_Host_of_Nagash_Nagash															0.0000	random
 wh3_dlc29_vo_actor_Host_of_Nagash_Tomb_Herald	wh3_dlc29_vo_actor_Host_of_Nagash_Tomb_Herald															0.0000	random
 wh3_dlc29_vo_actor_Host_of_Nagash_Walach_Harkon	wh3_dlc29_vo_actor_Host_of_Nagash_Walach_Harkon															0.0000	random
+wh3_dlc29_vo_actor_Skaven_Deathvermin_Unit	wh3_dlc29_vo_actor_Skaven_Deathvermin_Unit1	wh3_dlc29_vo_actor_Skaven_Deathvermin_Unit2														0.0000	random
+wh3_dlc29_vo_actor_Skaven_Pusbags_Unit	wh3_dlc29_vo_actor_Skaven_Pusbags_Unit1	wh3_dlc29_vo_actor_Skaven_Pusbags_Unit2														0.0000	random
 wh3_dlc29_vo_actor_Skaven_Skreech_Verminking	wh3_dlc29_vo_actor_Skaven_Skreech_Verminking															0.0000	random
 wh3_dlc29_vo_actor_Skaven_Thanquol	wh3_dlc29_vo_actor_Skaven_Thanquol															0.0000	random
 wh3_dlc29_vo_actor_Skaven_Verminlord_Corruptor	wh3_dlc29_vo_actor_Skaven_Verminlord_Corruptor															0.0000	random
 wh3_dlc29_vo_actor_Skaven_Verminlord_Deceiver	wh3_dlc29_vo_actor_Skaven_Verminlord_Deceiver															0.0000	random
 wh3_dlc29_vo_actor_Skaven_Verminlord_Warbringer	wh3_dlc29_vo_actor_Skaven_Verminlord_Warbringer															0.0000	random
 wh3_dlc29_vo_actor_Skaven_Verminlord_Warpseer	wh3_dlc29_vo_actor_Skaven_Verminlord_Warpseer															0.0000	random
+wh3_dlc29_vo_actor_Skaven_Warp_Doom_Magma_Cannon_Unit	wh3_dlc29_vo_actor_Skaven_Warp_Doom_magma_Cannon_Unit1	wh3_dlc29_vo_actor_Skaven_Warp_Doom_magma_Cannon_Unit2														0.0000	random
 wh3_dlc29_vo_actor_Vampire_Drakenhof_Templar_Unit	wh3_dlc29_vo_actor_Vampire_Drakenhof_Templar_Unit1	wh3_dlc29_vo_actor_Vampire_Drakenhof_Templar_Unit2														0.0000	random
 wh3_dlc29_vo_actor_Vampire_Lahmain_Handmaiden_Unit	wh3_dlc29_vo_actor_Vampire_Lahmain_Handmaiden_Unit1	wh3_dlc29_vo_actor_Vampire_Lahmain_Handmaiden_Unit2	wh3_dlc29_vo_actor_Vampire_Lahmain_Handmaiden_Unit3	wh3_dlc29_vo_actor_Vampire_Lahmain_Handmaiden_Unit4	wh3_dlc29_vo_actor_Vampire_Lahmain_Handmaiden_Unit1_Emp	wh3_dlc29_vo_actor_Vampire_Lahmain_Handmaiden_Unit2_Emp	wh3_dlc29_vo_actor_Vampire_Lahmain_Handmaiden_Unit3_Emp	wh3_dlc29_vo_actor_Vampire_Lahmain_Handmaiden_Unit4_Emp	wh3_dlc29_vo_actor_Vampire_Lahmain_Handmaiden_Unit1_Ksl	wh3_dlc29_vo_actor_Vampire_Lahmain_Handmaiden_Unit2_Ksl	wh3_dlc29_vo_actor_Vampire_Lahmain_Handmaiden_Unit3_Ksl	wh3_dlc29_vo_actor_Vampire_Lahmain_Handmaiden_Unit4_Ksl	wh3_dlc29_vo_actor_Vampire_Lahmain_Handmaiden_Unit1_Bret	wh3_dlc29_vo_actor_Vampire_Lahmain_Handmaiden_Unit2_Bret	wh3_dlc29_vo_actor_Vampire_Lahmain_Handmaiden_Unit3_Bret	0.0000	random
 wh3_dlc29_vo_actor_Vampire_Lahmian_Vampire	wh3_dlc29_vo_actor_Vampire_Lahmian_Vampire1	wh3_dlc29_vo_actor_Vampire_Lahmian_Vampire2														0.0000	random

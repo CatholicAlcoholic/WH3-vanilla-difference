@@ -23,7 +23,7 @@ id	sort_priority	captive_outcome	campaign_group	effect_bundle	effect_bundle_turn
 1371750908	2	release	wh2_dlc16_captive_option_ransom_sisters_of_twilight	wh2_dlc16_effect_post_battle_release_sisters	3	icon_ransom.png			0	0	0	0	
 1402417137	0	kill	wh_dlc03_captive_option_kill_beastmen	wh2_dlc17_bundle_captives_kill_beastmen	1	icon_kill.png			0	0	0	0	
 1403722180	0	kill	wh2_main_captive_option_kill_lizardmen	wh2_main_bundle_captives_kill_lizardmen	1	icon_liz_sacrifice_to_sotek.png			0	0	0	0	
-1429025062	0	kill	wh3_dlc29_middenland_captive_option_execute_captives	wh_main_bundle_captives_kill_humans	1	icon_kill.png	wh3_dlc29_resource_cost_emp_captives_middenland		0	8	200	0	
+1429025062	0	kill	wh3_dlc29_middenland_captive_option_execute_captives	wh_main_bundle_captives_kill_humans	1	icon_kill.png	wh3_dlc29_resource_cost_emp_captives_middenland		0	8	800	0	
 1461807891	1	enslave	wh3_main_captive_option_kill_tzeentch		1	wh3_main_dae_devour.png			0	0	0	0	
 1463634537	2	release	wh_main_captive_option_release_greenskins		1	icon_ransom.png			0	0	0	0	
 1505287696	2	release	wh2_dlc09_captive_option_tomb_kings	wh2_dlc09_bundle_captives_release_tomb_kings	2	icon_tmb_endless_march.png			0	0	0	0	
@@ -47,7 +47,7 @@ id	sort_priority	captive_outcome	campaign_group	effect_bundle	effect_bundle_turn
 1958052296	2	release	wh_dlc05_captive_option_release_wood_elves		1	icon_ransom.png			0	0	0	0	
 1970123519	2	release	wh_main_captive_option_release_chaos		1	wh3_main_dae_offer_as_tribute.png			0	0	0	0	
 1983935149	1	enslave	wh_main_captive_option_enslave_chaos		1	icon_enslave.png			0	0	0	0	
-2015631255	0	kill	wh_main_captive_option_kill_vampire_counts	wh_main_bundle_captives_kill_vampire_counts	1	icon_kill.png			0	0	0	0	
+2015631255	0	kill	wh_main_captive_option_kill_vampire_counts	wh_main_bundle_captives_kill_vampire_counts	1	icon_kill.png		wh3_dlc29_resource_cost_vmp_corpses_dummy_captives	1	0	0	0	
 2017353944	4	kill	wh3_main_captive_option_kill_daemons		1	wh3_main_dae_kill_tze.png	wh3_main_resource_cost_dae_captives_tze	wh3_main_resource_cost_tze_winds_of_magic_captive_option	0	2	500	0	
 2031856484	0	kill	wh2_main_captive_option_kill_high_elves	wh2_main_bundle_captives_kill_high_elves	1	icon_kill.png			0	0	0	0	
 2057380485	2	release	wh2_main_captive_option_release_lizardmen		5	icon_release_captives.png			0	0	0	0	

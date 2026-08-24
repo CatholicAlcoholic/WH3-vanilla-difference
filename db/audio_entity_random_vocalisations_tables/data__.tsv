@@ -644,6 +644,10 @@ wh3_dlc27_sla_preyton_idle	Battle_Individual_Vocalisation_Preyton_Breathing	10.0
 wh3_dlc27_sla_preyton_running	Battle_Individual_Vocalisation_Preyton_Breathing	10.0000	5.0000	true	false	0.1000	80.0000	20.0000	slaanesh
 wh3_dlc27_sla_preyton_walking	Battle_Individual_Vocalisation_Preyton_Breathing	10.0000	5.0000	true	false	0.1000	80.0000	20.0000	slaanesh
 wh3_dlc29_Ghurk_moving	Battle_Ind_Vocalisation_Ghurk_Breath_Long	10.0000	6.0000	true	false	0.1000	100.0000	100.0000	nurgle
+wh3_dlc29_chs_morbidex_twiceborn_fatigue_stop	Battle_Individual_Vocalisation_morbidex_twiceborn_breathing_to_stop	20.0000	10.0000	false	false	0.2000	100.0000	100.0000	chaos
+wh3_dlc29_chs_morbidex_twiceborn_idle	Battle_Individual_Vocalisation_morbidex_twiceborn_idle	20.0000	10.0000	false	false	0.0500	100.0000	100.0000	chaos
+wh3_dlc29_chs_morbidex_twiceborn_running	Battle_Individual_Vocalisation_morbidex_twiceborn_breathing	20.0000	10.0000	false	false	0.1000	100.0000	100.0000	chaos
+wh3_dlc29_chs_morbidex_twiceborn_walking	Battle_Individual_Vocalisation_morbidex_twiceborn_idle	20.0000	10.0000	false	false	0.1000	100.0000	100.0000	chaos
 wh3_dlc29_emp_boris_todbringer_fatigue_stop	Battle_Individual_Vocalisation_boris_todbringer_breathing_to_stop	20.0000	10.0000	false	false	0.2000	100.0000	100.0000	empire
 wh3_dlc29_emp_boris_todbringer_idle	Battle_Individual_Vocalisation_boris_todbringer_idle	20.0000	10.0000	false	false	0.0500	100.0000	100.0000	empire
 wh3_dlc29_emp_boris_todbringer_running	Battle_Individual_Vocalisation_boris_todbringer_breathing	20.0000	10.0000	false	false	0.1000	100.0000	100.0000	empire
@@ -669,6 +673,14 @@ wh3_dlc29_morghast_vox_running	Battle_Individual_Vocalisation_Morghast_Melee_Hit
 wh3_dlc29_morghast_vox_walking	Battle_Individual_Vocalisation_Morghast_Melee_Hit	20.0000	10.0000	true	false	0.1000	100.0000	100.0000	vampire_counts
 wh3_dlc29_nag_nagash_idle	Battle_Individual_Vocalisation_nagash_idle	20.0000	10.0000	false	false	0.0500	100.0000	100.0000	vampire_counts
 wh3_dlc29_nag_nagash_walking	Battle_Individual_Vocalisation_nagash_idle	20.0000	10.0000	false	false	0.1000	100.0000	100.0000	vampire_counts
+wh3_dlc29_nag_tomb_herald_fatigue_stop	Battle_Individual_Vocalisation_tomb_herald_breathing_to_stop	20.0000	10.0000	false	false	0.2000	100.0000	100.0000	vampire_counts
+wh3_dlc29_nag_tomb_herald_idle	Battle_Individual_Vocalisation_tomb_herald_idle	20.0000	10.0000	false	false	0.0500	100.0000	100.0000	vampire_counts
+wh3_dlc29_nag_tomb_herald_running	Battle_Individual_Vocalisation_tomb_herald_breathing	20.0000	10.0000	false	false	0.1000	100.0000	100.0000	vampire_counts
+wh3_dlc29_nag_tomb_herald_walking	Battle_Individual_Vocalisation_tomb_herald_idle	20.0000	10.0000	false	false	0.1000	100.0000	100.0000	vampire_counts
+wh3_dlc29_skv_skreech_verminking_fatigue_stop	Battle_Individual_Vocalisation_skreech_verminking_breathing_to_stop	20.0000	10.0000	false	false	0.2000	100.0000	100.0000	skaven
+wh3_dlc29_skv_skreech_verminking_idle	Battle_Individual_Vocalisation_skreech_verminking_idle	20.0000	10.0000	false	false	0.0500	100.0000	100.0000	skaven
+wh3_dlc29_skv_skreech_verminking_running	Battle_Individual_Vocalisation_skreech_verminking_breathing	20.0000	10.0000	false	false	0.1000	100.0000	100.0000	skaven
+wh3_dlc29_skv_skreech_verminking_walking	Battle_Individual_Vocalisation_skreech_verminking_idle	20.0000	10.0000	false	false	0.1000	100.0000	100.0000	skaven
 wh3_dlc29_skv_thanquol_fatigue_stop	Battle_Individual_Vocalisation_thanquol_breathing_to_stop	20.0000	10.0000	false	false	0.2000	100.0000	100.0000	skaven
 wh3_dlc29_skv_thanquol_idle	Battle_Individual_Vocalisation_thanquol_idle	20.0000	10.0000	false	false	0.0500	100.0000	100.0000	skaven
 wh3_dlc29_skv_thanquol_running	Battle_Individual_Vocalisation_thanquol_breathing	20.0000	10.0000	false	false	0.1000	100.0000	100.0000	skaven
@@ -688,6 +700,10 @@ wh3_dlc29_skv_verminlord_warpseer_walking	Battle_Individual_Vocalisation_verminl
 wh3_dlc29_spirit_host_idle	Battle_Individual_Vocalisation_Spirit_Host_Idle	20.0000	10.0000	true	false	0.0500	100.0000	100.0000	vampire_counts
 wh3_dlc29_spirit_host_running	Battle_Individual_Vocalisation_Spirit_Host_Running	20.0000	10.0000	true	false	0.1000	100.0000	100.0000	vampire_counts
 wh3_dlc29_spirit_host_walking	Battle_Individual_Vocalisation_Spirit_Host_Walking	20.0000	10.0000	true	false	0.1000	100.0000	100.0000	vampire_counts
+wh3_dlc29_tmb_liche_high_priest_fatigue_stop	Battle_Individual_Vocalisation_liche_high_priest_breathing_to_stop	20.0000	10.0000	false	false	0.2000	100.0000	100.0000	tomb_kings
+wh3_dlc29_tmb_liche_high_priest_idle	Battle_Individual_Vocalisation_liche_high_priest_idle	20.0000	10.0000	false	false	0.0500	100.0000	100.0000	tomb_kings
+wh3_dlc29_tmb_liche_high_priest_running	Battle_Individual_Vocalisation_liche_high_priest_breathing	20.0000	10.0000	false	false	0.1000	100.0000	100.0000	tomb_kings
+wh3_dlc29_tmb_liche_high_priest_walking	Battle_Individual_Vocalisation_liche_high_priest_idle	20.0000	10.0000	false	false	0.1000	100.0000	100.0000	tomb_kings
 wh3_dlc29_vmp_dieter_idle	Battle_Individual_Vocalisation_dieter_helsnicht_idle	20.0000	10.0000	false	false	0.0500	100.0000	100.0000	vampire_counts
 wh3_dlc29_vmp_dieter_walking	Battle_Individual_Vocalisation_dieter_helsnicht_idle	20.0000	10.0000	false	false	0.1000	100.0000	100.0000	vampire_counts
 wh3_dlc29_vmp_drakenhof_templars_idle	Battle_Individual_Vocalisation_Drakenhof_Templar_Unit_Idle	20.0000	10.0000	false	false	0.0500	100.0000	100.0000	vampire_counts

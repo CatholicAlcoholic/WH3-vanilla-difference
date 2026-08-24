@@ -43,7 +43,7 @@ key	agent	culture	associated_unit	season	level	agent_recruited_movie	gender	icon
 1462630925	engineer	wh2_main_hef_high_elves	wh3_dlc27_hef_cha_mist_mage		0		m		ui/campaign ui/agents/wh3_dlc27_hef_mist_mage.png	true
 1466396171	dignitary	wh3_main_ogr_ogre_kingdoms	wh3_main_ogr_cha_firebelly_0		0		m		ui/campaign ui/agents/wh_main_lore_fire.png	true
 147089535	spy	wh3_dlc23_chd_chaos_dwarfs	wh3_dlc23_chd_cha_gorduz_backstabber		0		m		ui/campaign ui/agents/wh_main_grn_spy.png	false
-149090785	engineer	wh_main_vmp_vampire_counts	wh3_dlc29_vmp_cha_lahmian_vampire		0		f		ui/campaign ui/agents/paladin.png	true
+149090785	engineer	wh_main_vmp_vampire_counts	wh3_dlc29_vmp_cha_lahmian_vampire		0		f		ui/campaign ui/agents/wh_main_wizard.png	true
 1492261338	wizard	wh3_main_ogr_ogre_kingdoms	wh3_main_ogr_cha_butcher_beasts_0		0		m		ui/campaign ui/agents/wh_main_wizard.png	true
 1495726890	minister	wh3_main_kho_khorne			0				ui/campaign ui/agents/paladin.png	true
 1503326917	dignitary	wh_main_grn_greenskins	wh3_dlc26_grn_cha_night_goblin_big_boss		0		m		ui/campaign ui/agents/wh3_dlc26_grn_night_goblin_big_boss.png	true
@@ -56,7 +56,7 @@ key	agent	culture	associated_unit	season	level	agent_recruited_movie	gender	icon
 1598102204	dignitary	wh_dlc05_wef_wood_elves	wh2_twa02_wef_cha_glade_captain_0		0		f		ui/campaign ui/agents/wh2_dlc16_wef_dignitary.png	true
 1606745948	engineer	wh3_main_tze_tzeentch	wh3_main_tze_cha_cultist_0		0		m		ui/campaign ui/agents/wh3_dlc24_tze_cultist_special.png	false
 1615625587	colonel	wh3_main_nur_nurgle			0				ui/campaign ui/agents/paladin.png	true
-1617153732	engineer	wh3_dlc29_nag_undead_legions	wh3_dlc29_tmb_cha_tomb_herald		0		m		ui/campaign ui/agents/paladin.png	true
+1617153732	engineer	wh3_dlc29_nag_undead_legions	wh3_dlc29_tmb_cha_tomb_herald		0		m		ui/campaign ui/agents/wh3_dlc29_tmb_tomb_herald.png	true
 1641575400	minister	wh3_main_dae_daemons			0				ui/campaign ui/agents/paladin.png	true
 1656565959	dignitary	wh_main_chs_chaos	wh3_main_sla_cha_cultist_0		0		m		ui/campaign ui/agents/wh3_main_sla_cultist.png	true
 1670402761	dignitary	wh3_dlc29_nag_undead_legions	wh_main_vmp_cha_vampire_0		0		f	UI/units/icons/wh_main_vmp_vampire.png	ui/campaign ui/agents/wh_main_lore_death.png	true
@@ -77,7 +77,7 @@ key	agent	culture	associated_unit	season	level	agent_recruited_movie	gender	icon
 1863471942	general	wh2_main_rogue	wh_main_emp_cha_general_0		0				ui/campaign ui/agents/wh_main_emp_champion.png	true
 1889697554	dignitary	wh_main_chs_chaos	wh3_main_nur_cha_cultist_0		0		m		ui/campaign ui/agents/wh3_main_nur_cultist.png	true
 1928090079	engineer	wh2_dlc11_cst_vampire_coast	wh2_dlc11_cst_cha_gunnery_wight_0		0		m		ui/campaign ui/agents/wh2_dlc11_cst_engineer.png	true
-1975091537	dignitary	wh2_dlc09_tmb_tomb_kings	wh3_dlc29_tmb_cha_tomb_herald		0		m		ui/campaign ui/agents/paladin.png	true
+1975091537	dignitary	wh2_dlc09_tmb_tomb_kings	wh3_dlc29_tmb_cha_tomb_herald		0		m		ui/campaign ui/agents/wh3_dlc29_tmb_tomb_herald.png	true
 1997759947	colonel	wh3_main_ogr_ogre_kingdoms			0				ui/campaign ui/agents/paladin.png	true
 2001275565	dignitary	wh2_main_hef_high_elves	wh2_dlc10_hef_cha_handmaiden_0		0		f		ui/campaign ui/agents/wh2_dlc10_hef_handmaiden.png	true
 2002953792	runesmith	wh3_main_kho_khorne	wh3_main_kho_cha_cultist_0		0		m		ui/campaign ui/agents/wh3_main_kho_cultist.png	true

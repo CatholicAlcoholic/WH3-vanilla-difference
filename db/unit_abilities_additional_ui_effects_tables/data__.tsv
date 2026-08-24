@@ -275,6 +275,8 @@ wh3_dlc29_all_summon_plague_drones_1	10	positive
 wh3_dlc29_all_summon_skeleton_chariot	105	positive
 wh3_dlc29_all_summon_skeleton_horsemen	105	positive
 wh3_dlc29_all_three_affected_units	102	positive
+wh3_dlc29_cst_necrofex_colossus_abandon_ship_upgraded_degrade	204	magic
+wh3_dlc29_cst_necrofex_colossus_abandon_ship_upgraded_summon	105	positive
 wh3_dlc29_damage_to_health_conversion	107	positive
 wh3_dlc29_direct_damage_elite_unit	105	positive
 wh3_dlc29_does_not_affect_terror_immune_units	902	negative
@@ -285,6 +287,7 @@ wh3_dlc29_staff_of_the_great_horned_rat	0	positive
 wh3_dlc29_summon_hell_pit_abominations	103	positive
 wh3_dlc29_teleport_character	0	positive
 wh3_dlc29_terrifies_unit	901	positive
+wh3_dlc29_vmp_mon_morghast_archai_summon	105	positive
 wh3_dlc29_vortex_pulses	402	positive
 wh3_dlc29_warp_junction	0	positive
 wh3_dlc29_warp_step	0	positive

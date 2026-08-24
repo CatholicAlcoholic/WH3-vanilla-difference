@@ -27,10 +27,28 @@ CHDRawMaterialsGreaterThan75	Owner.ModelPooledResourceContext("wh3_dlc23_chd_raw
 ChaosUndCorruption100	Region.Province.PooledResourceContextForKey("wh3_main_corruption_chaos").Total >= 100	false	false
 ChaosUndCorruption50	Region.Province.PooledResourceContextForKey("wh3_main_corruption_chaos").Total >= 50	false	false
 ChaosUndCorruption75	Region.Province.PooledResourceContextForKey("wh3_main_corruption_chaos").Total >= 75	false	false
-CorpseTransportLoss1	Owner.IsTechnologyResearched("wh3_main_tech_vmp_necromancers_corpses_1") == false	true	true
-CorpseTransportLoss2	Owner.IsTechnologyResearched("wh3_main_tech_vmp_necromancers_corpses_1") == true && Owner.IsTechnologyResearched("wh3_main_tech_vmp_necromancers_corpses_2") == false	true	true
-CorpseTransportLoss3	Owner.IsTechnologyResearched("wh3_main_tech_vmp_necromancers_corpses_2") == true && Owner.IsTechnologyResearched("wh3_main_tech_vmp_necromancers_corpses_3") == false	true	true
-CorpseTransportLoss4	Owner.IsTechnologyResearched("wh3_main_tech_vmp_necromancers_corpses_3") == true	true	true
+ConcealmentInnate0	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_concealment_innate").Total == 0	true	false
+ConcealmentInnate1	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_concealment_innate").Total == 1	true	false
+ConcealmentInnate2	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_concealment_innate").Total == 2	true	false
+ConcealmentInnate3	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_concealment_innate").Total == 3	true	false
+ConcealmentInnate4	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_concealment_innate").Total == 4	true	false
+ConcealmentInnate5	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_concealment_innate").Total == 5	true	false
+ConcealmentInnate6	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_concealment_innate").Total == 6	true	false
+ConcealmentInnate7	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_concealment_innate").Total == 7	true	false
+ConcealmentInnate8	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_concealment_innate").Total == 8	true	false
+ConcealmentInnate9	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_concealment_innate").Total >= 9	true	false
+CorpseTransportLoss1	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_corpse_transport").Total == 0	true	true
+CorpseTransportLoss2	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_corpse_transport").Total == 5	true	true
+CorpseTransportLoss3	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_corpse_transport").Total == 10	true	true
+CorpseTransportLoss4	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_corpse_transport").Total == 15	true	true
+CorpseTransportLoss5	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_corpse_transport").Total == 20	true	true
+CorpseTransportLoss6	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_corpse_transport").Total == 25	true	true
+CorpseTransportLoss7	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_corpse_transport").Total == 30	true	true
+CorpseTransportLoss8	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_corpse_transport").Total == 35	true	true
+CorpseTransportLoss9	Owner.ModelPooledResourceContext("wh3_dlc29_vmp_corpse_transport").Total >= 40	true	true
+CovenRegionOwnerAllied	Region.Owner.IsAlliedWith(Owner) || Region.Owner.IsVassalOf(Owner)	false	true
+CovenRegionOwnerTrade	( owner = Owner ) => { Region.Owner.RecordKey != owner.RecordKey && Region.Owner.HasTradeAgreementWith(owner) }	false	true
+CovenRegionOwnerVassal	Region.Owner.IsVassalOf(Owner)	false	true
 DEFSlavesGreaterThan100	Owner.ModelPooledResourceContext("def_slaves").Total >= 100	false	false
 DEFSlavesGreaterThan1000	Owner.ModelPooledResourceContext("def_slaves").Total >= 1000	false	false
 DEFSlavesGreaterThan150	Owner.ModelPooledResourceContext("def_slaves").Total >= 150	false	false
@@ -40,6 +58,7 @@ DwarfEscalationEffect	SharedStateReadBool("episode_grudge_too_far_active") == tr
 DwarfHidden	Owner.CultureKey == "wh_main_dwf_dwarfs"	true	false
 DwfLowRegionCount	Owner.IsEffectBundleActive("wh3_main_bundle_dwarf_low_settlement_count_dummy")	false	false
 EveryProvinceRegionRazed	Province.Regions.Size == (Province.Regions.Count(IsAbandoned) + 1)	false	false
+FactionHasBookOfNagash2	GetBookContextFromKey("wh2_dlc09_books_of_nagash_2").IsOwnedByPlayer	false	false
 FactionHasTrade	Owner.IsInFactionSet("factions_without_trade") == false	true	false
 FactionIsNagash	Owner.RecordKeyIsOneOf("wh3_dlc29_nag_host_of_nagash")	true	false
 FactionIsNotNagash	Owner.RecordKeyIsOneOf("wh3_dlc29_nag_host_of_nagash") == false	true	false
@@ -122,6 +141,7 @@ HostGDPGreaterThan1500	Region.GDP >= 1500	false	false
 HostGDPGreaterThan2000	Region.GDP >= 2000	false	false
 HostGDPGreaterThan500	Region.GDP >= 500	false	false
 HostGDPGreaterThan5000	Region.GDP >= 5000	false	false
+HostGDPLessThan1000	Region.GDP < 1000	false	true
 ImperialAuthority70	Owner.ModelPooledResourceContext("emp_imperial_authority_new").Total >= 70	false	false
 IsAgentPresentOwn	Region.IsAnyOwnAgentPresent(Owner) == true	false	false
 IsAncientElvenColony	Region.HasResource("res_location_colony") == true	false	false
@@ -247,8 +267,8 @@ MinorCultCabalPower4	false	false	false
 MinorCultCabalPower4_On	true	false	false
 MinorCultCabalPower5	false	false	false
 MinorCultCabalPower5_On	true	false	false
-MountainClimate	Region.IsEffectBundleActive("wh3_dlc20_climate_suitable_mountain") == true	false	false
-MountainClimatePresent	Region.IsEffectBundleActive("wh3_dlc20_climate_suitable_mountain") == true	false	false
+MountainClimate	Region.IsEffectBundleActive("wh3_dlc20_climate_suitable_mountain") || Region.IsEffectBundleActive("wh3_dlc20_climate_uninhabitable_mountain") || Region.IsEffectBundleActive("wh3_dlc20_climate_unsuitable_mountain")	false	false
+MountainClimatePresent	Region.IsEffectBundleActive("wh3_dlc20_climate_suitable_mountain") || Region.IsEffectBundleActive("wh3_dlc20_climate_uninhabitable_mountain") || Region.IsEffectBundleActive("wh3_dlc20_climate_unsuitable_mountain")	false	false
 NORCrowTier1	Owner.ModelPooledResourceContext("nor_progress_crow").Total < 5	true	false
 NORCrowTier2	Owner.ModelPooledResourceContext("nor_progress_crow").Total >= 5 && Owner.ModelPooledResourceContext("nor_progress_crow").Total < 10	true	false
 NORCrowTier3	Owner.ModelPooledResourceContext("nor_progress_crow").Total >= 10 && Owner.ModelPooledResourceContext("nor_progress_crow").Total < 15	true	false
@@ -275,6 +295,7 @@ NbOfGardensGreaterThan5	Owner.SettlementList.Filter(SettlementType == "wh3_dlc29
 NeglectedIceCourt	Owner.IsEffectBundleActive("wh3_main_ksl_ice_court_neglect") == true	false	false
 NeglectedOrthodoxy	Owner.IsEffectBundleActive("wh3_main_ksl_orthodoxy_neglect") == true	false	false
 NeitherNagashOrChaosDwarves	!(Region.Owner.CultureKey == "wh3_dlc23_chd_chaos_dwarfs" || Owner.RecordKeyIsOneOf("wh3_dlc29_nag_host_of_nagash") == true)	true	false
+NoRegionOwnerForceInProvince	Province.IsFactionMilitaryForcePresent(Region.Owner) == false	false	true
 NotDwarf	Owner.CultureKey != "wh_main_dwf_dwarfs"	false	false
 NotDwarfHidden	Owner.CultureKey != "wh_main_dwf_dwarfs"	true	false
 NotNeglectedIceCourt	Owner.IsEffectBundleActive("wh3_main_ksl_ice_court_neglect") == false	false	false
@@ -295,6 +316,7 @@ OwnerIsDechala	Owner.RecordKeyIsOneOf("wh3_dlc27_sla_the_tormentors") == true	tr
 OwnerIsNotBhashiva	Owner.RecordKeyIsOneOf("wh3_cp1_cth_tiger_warriors") == false	true	false
 OwnerIsNotDechala	Owner.RecordKeyIsOneOf("wh3_dlc27_sla_the_tormentors") == false	true	false
 PawnbrokerSoldOut	Region.IsEffectBundleActive("wh3_main_pawnbroker_sold_out_dummy")	false	false
+ProvinceHas10000Corpses	Province.FactionPersistendPooledResourceManager(Owner).PooledResourceContextForKey("wh3_dlc29_vmp_corpses").Total >= 10000	false	true
 ProvinceHasAnyCorpses	Province.FactionPersistendPooledResourceManager(Owner).PooledResourceContextForKey("wh3_dlc29_vmp_corpses").Total > 0	false	true
 ProvinceHasNoCorpses	Province.FactionPersistendPooledResourceManager(Owner).PooledResourceContextForKey("wh3_dlc29_vmp_corpses").Total == 0	false	true
 ProvinceIsFullyOwned	Province.IsFactionOwnerOfEntireProvince(Owner) == true	false	false
@@ -388,6 +410,7 @@ TzeentchCorruption100	Region.Province.PooledResourceContextForKey("wh3_main_corr
 TzeentchCorruption50	Region.Province.PooledResourceContextForKey("wh3_main_corruption_tzeentch").Total >= 50	false	false
 TzeentchCorruption75	Region.Province.PooledResourceContextForKey("wh3_main_corruption_tzeentch").Total >= 75	false	false
 TzeentchCorruptionLessThan50	Region.Province.PooledResourceContextForKey("wh3_main_corruption_tzeentch").Total < 50	false	false
+UndeadWastelandClimate	Region.IsEffectBundleActive("wh3_dlc20_climate_suitable_vampiric") || Region.IsEffectBundleActive("wh3_dlc29_climate_suitable_vampiric") || Region.IsEffectBundleActive("wh3_dlc20_climate_uninhabitable_vampiric")	false	true
 UnitRecruitedProvinceDummy	true	false	false
 VampireLair0	true	false	true
 VampireLair1	true	false	true
@@ -417,6 +440,7 @@ VermintideIncomeSteal8	Region.EntitySharedStateReadFloat("endgame_skv_steal") ==
 VermintideIncomeSteal9	Region.EntitySharedStateReadFloat("endgame_skv_steal") == 9 && Region.Owner.RecordKey != "wh3_dlc29_vermintide_confederation_owner"	true	true
 VermintideOwned	Region.Owner.RecordKey == "wh3_dlc29_vermintide_confederation_owner"	true	false
 VmpEdictNagash	Province.FactionProvinceManager(Owner).IsEffectBundleActive("wh_main_edict_vmp_evocation_of_nagash") == false	false	true
+VmpGarrisonTech	Owner.IsTechnologyResearched("wh3_main_tech_vmp_vampires_main_3")	false	false
 WallEffect	Region.IsOriginatingSubcultureOneOf("wh_dlc05_sc_wef_wood_elves","wh3_main_sc_ogr_ogre_kingdoms","wh_dlc08_sc_nor_norsca") == false	false	false
 WoMGreaterThan3	Region.WindsOfMagicStrengthLevel >= 3	false	false
 WoMGreaterThan4	Region.WindsOfMagicStrengthLevel >= 4	false	false
@@ -424,10 +448,8 @@ armies_sy_initiative_alchemists	Owner.InitiativeManagerContext.InitiativeSetCont
 armies_sy_initiative_celestial_forge	Owner.InitiativeManagerContext.InitiativeSetContext("wh3_cp1_cth_initiative_set_aosy_military_buildings").InitiativeContext("wh3_cp1_feature_initiatives_cth_buildings_celestial").IsActive	false	true
 armies_sy_initiative_gunpowder	Owner.InitiativeManagerContext.InitiativeSetContext("wh3_cp1_cth_initiative_set_aosy_military_buildings").InitiativeContext("wh3_cp1_feature_initiatives_cth_buildings_gun").IsActive	false	true
 armies_sy_initiative_jade_armoury	Owner.InitiativeManagerContext.InitiativeSetContext("wh3_cp1_cth_initiative_set_aosy_military_buildings").InitiativeContext("wh3_cp1_feature_initiatives_cth_buildings_jade").IsActive	false	true
-books_of_nagash_2_nag	Owner.IsEffectBundleActive("wh3_dlc29_books_of_nagash_nagash_reward_2") == true	false	false
-books_of_nagash_2_tmb	Owner.IsEffectBundleActive("wh2_dlc09_books_of_nagash_reward_2") == true	false	false
-books_of_nagash_2_vmp	Owner.IsEffectBundleActive("wh3_main_books_of_nagash_mannfred_reward_2") == true	false	false
 isGardenOfNurgle	Region.Settlement.SettlementType == "wh3_dlc29_glottkin_garden_of_nurgle"	true	false
+karak_eight_peaks_occupied_by_belegar_short_victory	Owner.RecordKeyIsOneOf("wh_main_dwf_karak_izor") && Owner.IsEffectBundleActive("wh3_dlc29_bundle_ie_victory_objective_dwf_rightful_home") == true	true	true
 karak_eight_peaks_occupied_by_queek_short_victory	Owner.RecordKeyIsOneOf("wh2_main_skv_clan_mors") && Owner.IsEffectBundleActive("wh3_dlc29_bundle_ie_victory_objective_skv_queek_new_empire_dummy") == true	true	true
 tiger_court_bhashiva_passive_1	Owner.ModelPooledResourceContext("wh3_cp1_cth_court_bhashiva").Total >= 1 && Owner.ModelPooledResourceContext("wh3_cp1_cth_court_bhashiva").Total <= 8	false	false
 tiger_court_bhashiva_passive_3	Owner.ModelPooledResourceContext("wh3_cp1_cth_court_bhashiva").Total >= 17 && Owner.ModelPooledResourceContext("wh3_cp1_cth_court_bhashiva").Total <= 24	false	false
@@ -445,19 +467,26 @@ tiger_court_spiritual_passive_4	Owner.ModelPooledResourceContext("wh3_cp1_cth_co
 tiger_court_spiritual_passive_5	Owner.ModelPooledResourceContext("wh3_cp1_cth_court_spiritual").Total >= 33 && Owner.ModelPooledResourceContext("wh3_cp1_cth_court_spiritual").Total <= 40	false	true
 tiger_court_spiritual_passive_from_t3	Owner.ModelPooledResourceContext("wh3_cp1_cth_court_spiritual").Total >= 17	false	true
 tiger_court_spiritual_passive_from_t3_hidden	Owner.ModelPooledResourceContext("wh3_cp1_cth_court_spiritual").Total >= 17 && Region.IsAnyEnemyMilitaryForcePresent() == false && Region.IsAnyEnemyAgentPresent() == false	false	false
-vampire_coven_discovered_no	ForeignSlotDiscoveredByFaction(Region.Owner) == false	false	true
-vampire_coven_discovered_no_hidden	ForeignSlotDiscoveredByFaction(Region.Owner) == false	true	false
-vampire_coven_discovered_yes	ForeignSlotDiscoveredByFaction(Region.Owner) == true	false	true
-vampire_coven_discovered_yes_hidden	ForeignSlotDiscoveredByFaction(Region.Owner) == true	true	false
-vampire_coven_faction_concealment_1	Owner.ModelPooledResourceContext("wh3_dlc29_nef_concealment").Total >= 85 && ForeignSlotDiscoveredByFaction(Region.Owner) == false	true	true
-vampire_coven_faction_concealment_2	Owner.ModelPooledResourceContext("wh3_dlc29_nef_concealment").Total >= 60 && Owner.ModelPooledResourceContext("wh3_dlc29_nef_concealment").Total <= 84 && ForeignSlotDiscoveredByFaction(Region.Owner) == false	true	true
-vampire_coven_faction_concealment_3	Owner.ModelPooledResourceContext("wh3_dlc29_nef_concealment").Total >= 30 && Owner.ModelPooledResourceContext("wh3_dlc29_nef_concealment").Total <= 59 && ForeignSlotDiscoveredByFaction(Region.Owner) == false	true	true
-vampire_coven_faction_concealment_4	Owner.ModelPooledResourceContext("wh3_dlc29_nef_concealment").Total >= 5 && Owner.ModelPooledResourceContext("wh3_dlc29_nef_concealment").Total <= 29 && ForeignSlotDiscoveredByFaction(Region.Owner) == false	true	true
-vampire_coven_faction_concealment_5	Owner.ModelPooledResourceContext("wh3_dlc29_nef_concealment").Total <= 4 && ForeignSlotDiscoveredByFaction(Region.Owner) == false	true	true
-vampire_coven_occupied	true	true	true
-vampire_coven_razed	Owner.IsTechnologyResearched("wh3_dlc29_tech_nef_covens_2b") == false	true	true
-vampire_coven_razed_tech	Owner.IsTechnologyResearched("wh3_dlc29_tech_nef_covens_2b") == true	true	true
-vampire_coven_settlement_tier_1	Region.Settlement.PrimaryBuilding.Level == 5	false	true
-vampire_coven_settlement_tier_2	Region.Settlement.PrimaryBuilding.Level == 4	false	true
+vampire_coven_concealment_actions_1	true	true	false
+vampire_coven_concealment_actions_2	Province.IsFactionMilitaryForcePresent(Region.Owner) && Region.EntitySharedStateReadBool("coven_concealment_loss") == true	false	true
+vampire_coven_concealment_actions_3	Region.EntitySharedStateReadBool("coven_concealment_loss") == true && (Province.IsFactionAgentPresent("champion", Region.Owner) || Province.IsFactionAgentPresent("dignitary", Region.Owner) || Province.IsFactionAgentPresent("engineer", Region.Owner) || Province.IsFactionAgentPresent("runesmith", Region.Owner) || Province.IsFactionAgentPresent("spy", Region.Owner) || Province.IsFactionAgentPresent("wizard", Region.Owner))	false	true
+vampire_coven_concealment_actions_4	Province.Regions.Any((r) => r.IsAbandoned == true) || Province.Regions.Any((r) => r.Owner.RecordKey == "wh3_dlc29_vmp_neferata")	false	true
+vampire_coven_concealment_blank	true	true	false
+vampire_coven_concealment_level_0	Province.FactionPersistendPooledResourceManager(Owner).PooledResourceContextForKey("wh3_dlc29_nef_concealment").Total > 10	false	false
+vampire_coven_concealment_level_1	Province.FactionPersistendPooledResourceManager(Owner).PooledResourceContextForKey("wh3_dlc29_nef_concealment").Total > 50	false	true
+vampire_coven_concealment_level_10	Province.FactionPersistendPooledResourceManager(Owner).PooledResourceContextForKey("wh3_dlc29_nef_concealment").Total < 100	false	true
+vampire_coven_concealment_level_2	Province.FactionPersistendPooledResourceManager(Owner).PooledResourceContextForKey("wh3_dlc29_nef_concealment").Total > 100	false	true
+vampire_coven_concealment_level_3	Province.FactionPersistendPooledResourceManager(Owner).PooledResourceContextForKey("wh3_dlc29_nef_concealment").Total > 120	false	true
+vampire_coven_concealment_level_4	Province.FactionPersistendPooledResourceManager(Owner).PooledResourceContextForKey("wh3_dlc29_nef_concealment").Total > 140	false	true
+vampire_coven_concealment_level_5	Province.FactionPersistendPooledResourceManager(Owner).PooledResourceContextForKey("wh3_dlc29_nef_concealment").Total < 80	false	true
+vampire_coven_concealment_level_6	Province.FactionPersistendPooledResourceManager(Owner).PooledResourceContextForKey("wh3_dlc29_nef_concealment").Total < 60	false	true
+vampire_coven_concealment_level_7	Province.FactionPersistendPooledResourceManager(Owner).PooledResourceContextForKey("wh3_dlc29_nef_concealment").Total < 40	false	true
+vampire_coven_concealment_level_8	Province.FactionPersistendPooledResourceManager(Owner).PooledResourceContextForKey("wh3_dlc29_nef_concealment").Total < 20	false	true
+vampire_coven_concealment_level_9	Province.FactionPersistendPooledResourceManager(Owner).PooledResourceContextForKey("wh3_dlc29_nef_concealment").Total < 10	false	true
 vampire_coven_settlement_tier_3	Region.Settlement.PrimaryBuilding.Level <= 3	false	true
+vampire_coven_settlement_tier_3a	Region.Settlement.PrimaryBuilding.Level >= 3	false	true
+vampire_coven_settlement_tier_4	Region.Settlement.PrimaryBuilding.Level == 4	false	true
+vampire_coven_settlement_tier_4a	Region.Settlement.PrimaryBuilding.Level >= 4	false	true
+vampire_coven_settlement_tier_5	Region.Settlement.PrimaryBuilding.Level == 5	false	true
+vampire_coven_settlement_tier_5a	Region.Settlement.PrimaryBuilding.Level == 5	false	true
 wh3_cp1_IsRelics	Owner.RecordKeyIsOneOf("wh3_cp1_cth_tiger_warriors") && Region.HasResource("res_relics") == true	true	true

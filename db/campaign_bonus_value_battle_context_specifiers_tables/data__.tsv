@@ -50,6 +50,7 @@ fighting_culture_empire_bretonnia_wood_elves	false			false
 fighting_culture_empire_chaos	false			false
 fighting_culture_forces_of_destruction	false			false
 fighting_culture_forces_of_order	false			false
+fighting_culture_greenskin_skaven	false			false
 fighting_culture_greenskin_skaven_lizardman_ogre	false			false
 fighting_culture_greenskins	false			false
 fighting_culture_greenskins_daemons_chaos_norsca	false			false
@@ -79,6 +80,7 @@ fighting_culture_vampcounts_vampcoast_tombkings	false			false
 fighting_culture_vampire_coast	false			false
 fighting_culture_vampire_counts	false			false
 fighting_culture_wood_elves	false			false
+fighting_cultures_living	false			false
 fighting_faction_Kurgan_Warband	false			false
 fighting_faction_bretonnia	false			false
 fighting_faction_empire	false			false
@@ -93,6 +95,7 @@ fighting_force_status_yours_attacking_at_sea	false			false
 fighting_force_status_yours_attacking_lightning_strike	true			false
 fighting_force_status_yours_besieging	false			false
 fighting_force_status_yours_defending	false			false
+fighting_force_status_yours_reinforcing_being_reinforced	false			false
 fighting_ground_type_desert	false			false
 fighting_ground_type_forest	false			false
 fighting_ground_type_sea	false			false

@@ -13,8 +13,8 @@ crisis_will_of_hashut	true	0.0000	0.0000	CHECKBOX	0.0000	0.0000	505	1
 endgame_chaos_invasion_enabled	true	0.0000	0.0000	CHECKBOX	0.0000	0.0000	3	1
 endgame_legendary_difficulty	false	0.0000	0.0000	CHECKBOX	0.0000	0.0000	6	1
 endgame_max_scenarios_allowed	true	3.0000	0.0000	SLIDER_VALUE	1.0000	0.0000	1	1
-endgame_nagash_rises_enabled	false	0.0000	0.0000	CHECKBOX	0.0000	0.0000	5	1
-endgame_skaven_vermintide_enabled	false	0.0000	0.0000	CHECKBOX	0.0000	0.0000	4	1
+endgame_nagash_rises_enabled	true	0.0000	0.0000	CHECKBOX	0.0000	0.0000	5	1
+endgame_skaven_vermintide_enabled	true	0.0000	0.0000	CHECKBOX	0.0000	0.0000	4	1
 endgame_turn_trigger_range	true	200.0000	20.0000	SLIDER_RANGE	80.0000	120.0000	2	5
 minor_cult_cabal	true	0.0000	0.0000	CHECKBOX	0.0000	0.0000	1006	1
 minor_cult_chaos_portal	true	0.0000	0.0000	CHECKBOX	0.0000	0.0000	1001	1

@@ -1745,6 +1745,7 @@ wh3_main_special_phoenix_temple						cai_support_group					-1	-1	0	0	0	0	0	0	-1	
 wh3_main_special_pigbarter_nur						cai_military_group					-1	-1	0	0	0	0	0	0	-1	-1	0	0	0	0	0	0	400	2500
 wh3_main_special_pigbarter_ogr						cai_military_group					-1	-1	0	0	0	0	0	0	-1	-1	0	0	0	0	0	0	400	2500
 wh3_main_special_reformed_holds						cai_support_group					-1	-1	0	0	0	0	0	0	-1	-1	0	0	0	0	0	0	400	2500
+wh3_main_special_settlement_silver_pinnacle		wh3_main_special_settlement_silver_pinnacle_1	wh3_main_special_settlement_silver_pinnacle_5	wh_main_sch_main_settlement		cai_support_group					-1	-1	0	0	0	0	0	0	-1	-1	0	0	0	0	0	0	1000	1000
 wh3_main_special_silver_pinnacle_tomb						cai_military_group					-1	-1	0	0	0	0	0	0	-1	-1	0	0	0	0	0	0	2500	2500
 wh3_main_special_standing_stones_others						cai_military_group					-1	-1	0	0	0	0	0	0	-1	-1	0	0	0	0	0	0	400	2500
 wh3_main_special_standing_stones						cai_military_group					-1	-1	0	0	0	0	0	0	-1	-1	0	0	0	0	0	0	400	2500

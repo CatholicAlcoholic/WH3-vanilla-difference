@@ -20,4 +20,3 @@ wh3_main_feature_tzeentch	wh3_main_tze_grimoires_factor_battles	0.0000	1.0000	0.
 wh_dlc03_feature_beastmen	wh2_dlc17_bst_dread_gained_battles	0.0040	1.6000	0.0001	125	75	50	FACTION
 wh_main_feature_empire_politics	wh2_dlc13_resource_factor_battles	0.4000	1.0000	0.0000	1000	0	0	FACTION
 wh_main_feature_greenskins	grn_salvage_loot	0.0120	1.0000	0.0000	75	5	0	FACTION
-wh_main_feature_vampire_counts	wh3_dlc29_vmp_corpses_battles	0.1200	1.0000	0.0001	500	0	0	FACTION_PROVINCE_PERSISTENT

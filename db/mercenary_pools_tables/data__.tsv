@@ -63,7 +63,7 @@ wh3_main_tze_units_of_renown_pool		renown
 wh_dlc01_chs_units_of_renown_pool		renown
 wh_dlc03_bst_units_of_renown_pool		renown
 wh_dlc04_emp_units_of_renown_pool		renown
-wh_dlc04_vmp_units_of_renown_pool		renown
+wh_dlc04_vmp_units_of_renown_pool	wh_dlc04_vmp_units_of_renown_pool	renown
 wh_dlc05_wef_units_of_renown_pool		renown
 wh_dlc06_dwf_units_of_renown_pool		renown
 wh_dlc06_grn_units_of_renown_pool		renown
